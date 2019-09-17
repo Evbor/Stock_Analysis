@@ -125,3 +125,5 @@ dmypy.json
 
 # Custom
 requirements_jupyter.txt
+api_keys.json
+data/

@@ -1,0 +1,478 @@
+<SEC-DOCUMENT>0001193125-17-109298.txt : 20170404
+<SEC-HEADER>0001193125-17-109298.hdr.sgml : 20170404
+<ACCEPTANCE-DATETIME>20170404060903
+ACCESSION NUMBER:		0001193125-17-109298
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170404
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170404
+DATE AS OF CHANGE:		20170404
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		17736160
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d358076d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM 8-K </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) of </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>the
+Securities Exchange Act of 1934 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Date of Report (Date of earliest event reported): April&nbsp;4, 2017 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>INTEL CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(Exact name of registrant
+as specified in its charter) </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Delaware</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>000-06217</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>94-1672743</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Commission File Number)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>2200 Mission College Blvd., Santa Clara, California</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>95054-1549</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (408)&nbsp;765-8080 </B></P>
+<P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Not Applicable</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Former name or former address, if changed since last report.)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Regulation FD Disclosure </B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">As previously disclosed, on September&nbsp;7, 2016, Intel Corporation
+(&#147;Intel&#148;) and TPG announced that they had entered into a definitive agreement to establish a jointly-owned, standalone cybersecurity company to be called McAfee following the transaction close. On April&nbsp;4, 2017, McAfee issued a press
+release announcing the closing of the transaction, a copy of which is furnished hereto as Exhibit 99.1. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The information is this report shall not be treated as
+filed for purposes of the Securities Exchange Act of 1934, as amended. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Item&nbsp;9.01 Financial Statements and Exhibits </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top">Exhibits </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The following exhibit is furnished as part of this Report. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="86%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:59.10pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Exhibit&nbsp;Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Press Release of McAfee, dated April 4, 2017</TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Forward-Looking Statements </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">This document
+contains forward-looking statements related to the proposed transaction between Intel and TPG, including statements regarding the benefits and the timing of the transaction. Forward-looking statements are predictions, projections and other
+statements about future events that are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Many factors could cause actual future events to differ materially from the forward-looking statements in
+this document, including the following, among others: changes in consumer demand; Intel&#146;s ability to successfully separate the Intel Security business and factors affecting McAfee&#146;s ability to operate as a standalone business; the
+realization of the projected benefits of the proposed transaction; the retention of suppliers, customers and key employees; McAfee&#146;s ability to service and satisfy debt obligations assumed in the transaction; general economic conditions in the
+regions and industries in which Intel and McAfee operate; the intensely competitive industries in which Intel and McAfee operate; and litigation or regulatory matters and other issues that could affect the closing of the transaction. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In addition, please refer to the documents that Intel files with the U.S. Securities and Exchange Commission on Forms 10-K, 10-Q and 8-K. These filings identify and
+address other important risks and uncertainties that could cause events and results to differ materially from those contained in the forward-looking statements set forth in this document. Readers are cautioned not to put undue reliance on
+forward-looking statements, and Intel and TPG assume no obligation and do not intend to update these forward-looking statements, whether as a result of new information, future events or otherwise. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>INTEL CORPORATION</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">Date: April&nbsp;4, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL">/s/ Suzan A. Miller</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Suzan A. Miller</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Vice President, Deputy General Counsel and Corporate&nbsp;Secretary</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d358076dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="86%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em">
+
+
+<IMG SRC="g358076g23a98.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>McAfee</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">2821 Mission College Blvd.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Santa Clara, CA 95054-1549</P></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" ALIGN="center"><B>A Brand New McAfee Commits to Building a Safer Future </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>NEWS HIGHLIGHTS </B></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">McAfee announces new status as a standalone cybersecurity company dedicated to enabling technology, people and organizations to work together </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Closing of previously announced investment from TPG Capital and Intel that valued the company at $4.2 billion </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">In connection with the close of this transaction, Thoma Bravo joins as a minority investor through an agreement with TPG </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Partnership provides McAfee with capital to accelerate growth and enhance focus as a standalone business </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Previous Intel Security general manager Christopher Young named McAfee CEO </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Santa Clara, Calif.,
+April&nbsp;4, 2017</B> &#150; McAfee (the &#147;Company&#148;), the globally trusted security provider, announced today that it has begun operating as a new standalone company. As a standalone business, McAfee is one of the world&#146;s largest
+pure-play cybersecurity firms. Built on the belief that &#147;Together is Power,&#148; the new McAfee will expand upon its leading security solutions platform to better enable customers to effectively identify and orchestrate responses to
+cyber-threats. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">The launch of McAfee marks the closing of the previously announced investment by TPG and Intel Corporation (INTC) to
+establish a pure-play cybersecurity company with access to significant capital, operational and technology resources. Additionally, McAfee announced that leading private equity investment firm Thoma Bravo has joined, as a minority investor in the
+Company, through an agreement with TPG. As previously announced, Intel is retaining a 49 percent equity stake in the new entity. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">With the
+help of its new investment partners, McAfee will apply greater market focus, build its platform and target new financial, operational and technology investments to better address the cybersecurity market&#146;s significant global growth opportunity.
+Intel Senior Vice President and General Manager Chris Young will lead the new McAfee as Chief Executive Officer. TPG Partner Bryan Taylor has been named Chairman of the Board. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">&#147;Cybersecurity is the greatest challenge of the connected age, weighing heavily on the minds of parents, executives and world leaders
+alike,&#148; said Christopher Young, CEO of McAfee. &#147;As a standalone company with a clear purpose, McAfee gains the agility to unite people, technology and organizations against our common adversaries and ensure our technology-driven future is
+safe.&#148; </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">&#147;We offer Chris Young and the McAfee team our full support as they establish themselves as
+one of the largest pure-play cybersecurity companies in the industry,&#148; said Brian Krzanich, Intel CEO. &#147;Security remains important to Intel, and in addition to our equity position and ongoing collaboration with McAfee, Intel will continue
+to integrate industry-leading security and privacy capabilities in our products from the cloud to billions of smart, connected computing devices.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">&#147;Since its founding, McAfee has been dedicated to offering its customers industry-leading cybersecurity solutions,&#148; said Bryan
+Taylor, Partner at TPG Capital and Chairman of the Board at McAfee. &#147;Its ongoing commitment to product innovation, a rich partner ecosystem, and superior customer service has created a trusted brand that will thrive as a standalone entity. We
+look forward to working with the company and our partners to accelerate growth and continue building a leading cybersecurity platform that serves to protect customers in today&#146;s changing environment.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">&#147;McAfee is a global organization with a 30-year history and a brand known the world over for innovation, trust and collaboration. Given
+our years of focus on the security software sector, we see great opportunity for McAfee to continue to advance and innovate,&#148; said Seth Boro, a Managing Partner at Thoma Bravo. &#147;Our deep sector knowledge and history of helping build
+successful businesses will be an asset to the company, and we look forward to working with the management team and our colleagues at TPG and Intel to guide McAfee through its next chapter of growth.&#148; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>The New McAfee </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">The company also outlined a new strategic
+vision, focused on innovation, trust, and collaboration. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Innovation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">McAfee represents more than 7,500 of the industry&#146;s most talented cybersecurity professionals, while holding more than 1,200 security
+technology patents and ongoing industry recognition for its products. McAfee is also home to McAfee Labs, one of the world&#146;s leading sources for cyber-threat intelligence. McAfee&#146;s people, technology and insights enable McAfee solutions to
+correlate real-world data collected from millions of sensors across key threat vectors and inform the next generations of McAfee product innovation. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Trust </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">From the moment the first worm was
+unleashed on the internet in 1988, to the massive 2016 Mirai distributed denial of service (DDoS) attack, the cybersecurity industry has witnessed exponential growth in the volume and variety of cyber-threats. For the last three decades, McAfee has
+earned the trust of consumers, businesses and governments by delivering practical solutions to address these threats. Today, McAfee&#146;s award winning products and solutions today protect more than 74.9&nbsp;million endpoints daily, including 87%
+of the world&#146;s largest banks and Fortune 100 firms and more than 263&nbsp;million consumer endpoints. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Collaboration </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">McAfee believes in the power of working together&#151;only when people, technology and organizations work together can we become safer. The
+McAfee Security Innovation Alliance, the industry&#146;s premier technology partnering program, boasts more than 135 partners globally. Over the past year, more than 30 partners have integrated or planned integrations with the McAfee Data Exchange
+Layer (DXL), the industry-endorsed communication fabric providing real-time interaction between applications. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">Goldman Sachs,&nbsp;&amp;
+Co., Morgan Stanley&nbsp;&amp; Co. LLC, RBC Capital Markets, and UBS Investment Bank served as financial advisors to TPG and Thoma Bravo, and Allen&nbsp;&amp; Company LLC served as financial advisor to Intel. Ropes&nbsp;&amp; Gray served as legal
+advisors to TPG, Skadden, Arps, Slate, Meagher&nbsp;&amp; Flom LLP served as legal advisors to Intel, and Kirkland&nbsp;&amp; Ellis served as legal advisors to Thoma Bravo. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>About McAfee </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">McAfee is one of the
+world&#146;s leading independent cybersecurity companies. Inspired by the power of working together, McAfee creates business and consumer solutions that make the world a safer place. <U>www.mcafee.com</U> </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>About Intel </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">Intel (NASDAQ: INTC) expands
+the boundaries of technology to make the most amazing experiences possible. Information about Intel can be found at <U>newsroom.intel.com</U> and <U>intel.com</U>. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>About TPG</B> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman"><B></B>TPG is a leading global
+alternative asset firm founded in 1992 with more than $74 billion of assets under management and offices in Austin, Beijing, Boston, Dallas, Fort Worth, Hong Kong, Houston, Istanbul, London, Luxembourg, Melbourne, Moscow, Mumbai, New York, San
+Francisco, S&atilde;o Paulo, and Singapore. TPG&#146;s investment platforms are across a wide range of asset classes, including private equity, growth venture, real estate, credit, and public equity. TPG aims to build dynamic products and options
+for its investors while also instituting discipline and operational excellence across the investment strategy and performance of its portfolio. For more information, visit <U>http://www.tpg.com/</U>. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>About Thoma Bravo </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">Thoma Bravo is a
+leading private equity firm focused on the software and technology-enabled services sectors. With a series of funds representing more than $17 billion in capital commitments, Thoma Bravo partners with a company&#146;s management team to implement
+operating best practices, invest in growth initiatives and make accretive acquisitions intended to accelerate revenue and earnings, with the goal of increasing the value of the business. Representative past and present portfolio companies include
+industry leaders such as Blue Coat Systems, Deltek, Digital Insight, Global Healthcare Exchange, Hyland Software, PowerPlan, Riverbed, SolarWinds, SonicWall, Sparta Systems and TravelClick. The firm has offices in San Francisco and Chicago. For more
+information, visit <U>www.thomabravo.com</U>. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">McAfee and the McAfee logo are trademarks of McAfee LLC in the United States and other countries. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">*Other names and brands may be claimed as the property of others. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="38%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="38%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:12pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:12pt; font-family:Times New Roman">CONTACTS:</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Jaime Le</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">McAfee</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">Jaime_Le@McAfee.com</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Melinda Jenkins</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">Zeno Group</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:12pt; font-family:Times New Roman">Melinda.Jenkins@zenogroup.com</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g358076g23a98.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g358076g23a98.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  (! 0(! 0(" @(" @(" P4# P,#
+M P8$! ,%!P8'!P<&!P<("0L)" @*" <'"@T*"@L,# P,!PD.#PT,#@L,# S_
+MVP!# 0(" @,# P8# P8," <(# P,# P,# P,# P,# P,# P,# P,# P,# P,
+M# P,# P,# P,# P,# P,# P,# P,# S_P  1" !* %@# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#]_**** &7
+M$ABMW8=54D9K\=OV'?\ @\&^$WQ1\3MX4^.GA^Y^%>N0W+VG]N6.^_T.X97*
+M[G !GMP<=Q(H[N*_8>\_X\Y?]P_RK^"?QAIMQK/Q0U2TM(9+BZNM4EAABC4L
+M\KM*0JJ!U))  H _N\^%OQ;\+?'#P39>)/!OB+1?%7A_44$EMJ.E7L=W;3 @
+M'Y70E>_3.170U_#O^SM^V%\>O^"8_P 7;J3P1XG\8_#+Q'8SA=1TF9'ACE92
+M/DNK.8;'Z=)$)],5]??M/?\ !V!^U?\ M&?"BQ\+:?J_A[X<M]F\C5-5\+V;
+M6^H:HW.6$LCN;?(QQ#M.<_-@X !_1]^W3_P5A^ G_!.;07N/BE\0-)TO53'Y
+MEOH-HWVS6;SIC9:QY< Y'SOM3U85\T_\$@_^#@&#_@KW^V)X^\&^&O 3^$_
+M_@_PZ-5M+W4;OSM4U&4W4<0+HG[J)-KD[07.<?-VK^4[7?#GC/QYH&I>/M4L
+M_$NL::]\MO?^(KN.:XADNY Q5)+EL@RL$8X+;B%/I7[!_P#!DA_R>Q\8?^Q(
+MB_\ 2^&@#^E"BBB@ HHHH **** (KS_CSE_W#_*OX3_ !_XRYT7_ +&^#_TM
+M6O[L+S_CSE_W#_*OX3_ )Q^UQHO;_BKX.3_U^K0!_9S^VW_P3$^!O_!0_P ,
+M-I_Q6^'^C>(+E8S';:LB?9M5L>.#%=1XD&/[I)4XY4U\0?LP_P#!H'^S+\"?
+MBQ>^(_%%WXL^*-@MSYNE:)KDZ0V-DG4+,( C7)!_O%4(&"AZU^K=% 'Y ?\
+M!W7\.M ^$O\ P1N\,^'_  MHFD^'-"T_Q[ID=MI^F6B6MK;J+6]X6- %'X"O
+MB[_@R0_Y/8^,/_8D1?\ I?#7W5_P>6?\HG-%_P"R@:;_ .DM]7PK_P &2'_)
+M['QA_P"Q(B_]+X: /Z4**** "BBB@ HHHH 9/'YL#J/XE(K^-'_@I3_P1+_:
+M+_X)\>+M9UKQGX&O-1\'R7DLT7BC0=U_I>QG9E,CJ-\!QVF5/8FO[,:CNK6.
+M^M9(9HTFAF4I)&ZAE=2,$$'@@CM0!_'_ /\ !/+_ (./?VEO^"?GV'28?$Y^
+M(W@>UVI_PCOBJ1[M(8QGY;>XSYT'7@!B@_N&OO+]I[_@]FU/7OA19VGPA^$2
+M^'_&%Y;8O]0\27RWMIIDIXQ;Q1!3/ZAI"@]8S7WC_P %#O\ @U[_ &;?VXS?
+M:SH.D/\ "#QO<[I/[4\,0HEE<2'G,]B<1-SU,?EL?[U?!G[,'_!DUK@^*]Y)
+M\8OBUI?_  A=A<XM8/"EL_\ :&L1#!R[SKLM<\@@+*>.#T- 'Y$_M#?M>?'G
+M_@IO\7[63QMXF\9?$[Q+?3%--TJ%9)TB9B?W=K9PC8G7I&@)[YK]V/\ @U,_
+MX(__ !Q_8.^(WCCXF?%CP[;^#M/\8^'8]*T[2;JY#:J'%RDIDEA7(B7:F-KL
+M'R1E17Z<?L2_\$R?@=_P3R\++IOPH\ :-X>N&C$=SJK1_:=5OO7S;J3,C9_N
+MY"^@%>]4 %%%% !1110!\N_M _\ !7OX,_LI?MT^'_@)\1];?PAXB\7:!9Z[
+MHVJWX":3=?:+J]MA;O-G$,@>SX,F$;SE ;(->S_M$_M,^ _V3O@]J?C[XA^)
+M]*\+>$])C$D^H7DN$8G[J1@9:21NBH@+,>@-?SZ_\'7?P@3]H/\ X+N? /P'
+M)?-I<?C7P9X?T)KQ8O--H+K7]5A\S;D;MN_.,C..M><?M_?\$-?VKO@S^QQ\
+M0?$?QU^+1USX8_L\VD4'@:S_ +4DU!-92>ZAA#0PL<VR*LW)ERXVB-04 :@#
+M^C3]B#]KWP]^WE^S%X;^*_A.TU*R\.>*S=/I\>H(J7+10W4MN'=5)"[_ "BP
+M&3@, >:]8K^:SPS^V/\ &&\_X)R_L(?LE_!?Q9-\.]8^.%M>MJ_B6"5H)X8)
+M-;O+>.%)4PZ+\LKOY9#MM100"0?O;]D3_@A=^TA^P#^V-X'\3^ ?VJ]=\6?#
+MF7+>.-)\6I<7']H*",QP6YE="9 S;92Z/$5!S("5(!]9?\%=?^"HVG_\$EOV
+M=](^(^K^#;[QII>HZY%HDMO9:G#9SV[212R+(!(#Y@_=$$+R,@],U]!_!'XP
+M:)^T%\'?"_CGPU<K>:!XNTNWU?3Y@<[X9XUD7/N V".Q!%?@9_P<6_'?P]_P
+M4@_X*P^#?V9=0^)GAKX;?#SX6Z==W6N^(-9OH[:PAUB6U,VUF<@,RJMO"HSD
+M---[UZ]_P;._MQ_$#XP_\$JOB[\$/ ^H:1<_&OX-6]Y_PA/VZ9)+2>&Y$C6N
+M6/RM%'=B52<[=DD7:@#Z0\0_\',GPZUC]ORW^ GPX^&OCWXG:A_PD47AB\UW
+M2S#%I]O=M-Y3E=YRT4;!]SML!$;%<@9/Z6U_,M_P;H?&_P"/O[,>N_M'?$NR
+MLO#6H_"?P.FIZW\2X'$/V^ZU"VL+^:TCMC]_8;A?FV<;2:^=O^'ANK?MAZ7X
+MM^)?Q=_:2_:,\._%J>[FG\+:7X.TMV\.:;M&Z*,E+J+RTWG9B),J!N8R$D4
+M?UY45_.//_P<D_'/2O\ @A(US<WUW#\:AXS7P(OBV6V"W'V V9NOMF"-OVO:
+MIAWX_P"FGWN:^2+C]OW7?V4V\(?$CX*?M'?M)>*_BU#<13>*-,\8:1)_8.H@
+MC?*J[KJ7S8]XV;94RRMN#(1B@#^MB'X@:#<^(GT>/6](?5HI!"]DMY&;A'*-
+M(%,>=P.Q6;&,[5)Z"BO%/V5?#7P__:Z\$?"W]HY_!\%CXT\1Z%:Z_;W+O*)K
+M"6ZT\02)MW!3B)WC&Y>A)X)-% 'QK_P5>_X(A_%?]NO_ (*]? [X_>$O$'P]
+MT[P=\,[/0K?5+/5[Z\AU.=K'6;N^E,,<5K)$P,4Z!=TJY8,#M&&/UY_P5S_8
+M^\2_M\?\$[OB3\)/!]]H6F^(_&-K;065SK,TL-C$T=Y!.WF/%'(X&V)@-J-R
+M1VYKZ0HH _(GQE_P;2Z[\4O^"9GP#\"W7C[2O!/[07P!%V^B^+-!>XN-.?SK
+M^6[$)=DAG"AFC99 @:-PV%8'F_\ LT?\$@_VX=1_:7\,_$_X_?M4VOB2Y^&E
+MO.?#>A>&+^YM+/692HVP7\BVL"K!*R1B8^1.[H, Y -?K/10!^-/[$/_  :D
+M:+XBUKXD>,OVR;G0_B=\0O&VOOJMM-X7U_48K2V60M),[LT=N[222R'Y2I55
+MC7!Y(':_LH?\&^OC#_@F_P#\%@+#XN_ 36/!VE_ ;4-+_LK7?#.L:S?OJXBD
+MBQ,L/^CR)*%GCAF3S)E.0RG P3^L-% 'YO\ _!%;_@C%XP_8'\&?M$^'?BY?
+M>!?%&B?&O5O/CM=#N[JX4V3I<QRQ7'G6\.UF6<#Y-PZ\],_._AO_ (-^?VQ?
+MV*KGQ-X&_9A_:;\*^'/@SXJOI+IK3Q#9-_:^CB3"MY#+:SCS=@"F2.2 MM!P
+MIYK]J** /A?]I?\ X(M)^VK_ ,$P])^!/Q;^)>I^,O&^BM'J-GX_ETJ""ZBU
+M&,.J2F!,"2/RY&B(9R[H<E]_S5\Z?L\_\$D/^"@WA[QSX)T3QK^U[X7LOAEX
+M!N(C9OH&E"YUC4[>,;%AN5FLXTD!C^7]]-.!G.UB!7ZYT4 1VMNMG;1Q( %C
+..4* %"CCV' HJ2B@#_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

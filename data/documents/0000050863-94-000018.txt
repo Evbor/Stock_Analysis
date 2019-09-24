@@ -1,0 +1,265 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ mnMfBld1t7sVEC3YS2vjKwCAfll7Zf6KMUtj+rbffiNGTKI7IdvGqwFuE2foMoco
+ hHKcPioTSA+jdQhHAfXpeA==
+
+<IMS-DOCUMENT>0000050863-94-000018.txt : 19941222
+<IMS-HEADER>0000050863-94-000018.hdr.sgml : 19941222
+ACCESSION NUMBER:		0000050863-94-000018
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19941220
+ITEM INFORMATION:		Other events
+FILED AS OF DATE:		19941221
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		94565586
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+                           SECURITIES AND EXCHANGE COMMISSION
+                                 Washington, D.C. 20549
+
+
+
+
+
+
+                                       FORM 8-K
+                                    CURRENT REPORT
+
+
+
+
+
+        Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934
+
+
+
+
+                         Date of Report:  December 20, 1994
+
+
+
+
+                                INTEL CORPORATION
+              (Exact name of registrant as specified in its charter)
+
+
+
+
+          Delaware                      0-6217                  94-1672743
+   (State of Incorporation)    (Commission File Number)       (IRS Employer
+                                                            Identification No.)
+
+
+
+                  2200 Mission College Blvd., Santa Clara, CA 95052
+                      (Address of principal executive offices)
+
+
+
+                                   408/765-8080
+                         (Registrant's telephone number)
+
+
+<PAGE> 2
+
+ITEM 5.           OTHER EVENTS.
+- -------           -------------
+   5.1            Attached hereto as Exhibit 99.1 and incorporated by reference 
+                  herein is a press release issued by Intel Corporation on 
+                  December 20, 1994 relating to the adoption of an upon-request
+                  replacement policy on Pentium(TM) processors and a material 
+                  (as yet unspecified) charge against earnings which Intel
+                  Corporation will take in the fourth quarter of its fiscal year
+                  ended December 31, 1994.
+
+
+ITEM 7.           Financial Statements, Pro Forma Financial Information 
+- -------           and Exhibits.
+                  -----------------------------------------------------
+Exhibit 99.1      Press Release of Intel Corporation dated December 20, 1994
+
+
+<PAGE> 3
+
+                                   SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the 
+undersigned hereunto duly authorized.
+
+
+
+
+INTEL CORPORATION
+
+
+
+
+BY:  /s/ F. Thomas Dunlap, Jr.
+     -------------------------
+     F. Thomas Dunlap, Jr.
+     Vice President,
+     General Counsel and Secretary
+
+
+     December 20, 1994
+     -----------------
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<TEXT>
+
+                                                                   Exhibit 99.1
+CONTACTS:  Howard High
+           Press Relations
+           (408) 765-1488
+
+           Gordon Casey
+           Investor Relations
+           (408) 765-8418
+
+
+Note to Analysts and Editors:  Intel will hold a conference call this morning at
+6:00 a.m., Pacific Standard Time.  To join, call 212-346-0100.
+
+INTEL ADOPTS UPON-REQUEST REPLACEMENT POLICY ON  PENTIUM(TM) PROCESSORS WITH 
+FLOATING POINT FLAW; WILL TAKE Q4 CHARGE AGAINST EARNINGS
+
+SANTA CLARA, Calif., December 20, 1994 -- Intel today said it will exchange the
+processor for any owner of a  Pentium(TM) processor-based system who is 
+concerned about the subtle flaw in the floating point unit of the processor.  
+The company has been criticized in recent weeks for replacing processors on the
+basis of need rather than on request.  Intel will take a reserve against fourth 
+quarter earnings to cover costs associated with the replacement program.
+
+The flaw can produce reduced precision in floating point divide operations once 
+every nine billion random number pairs.  Intel said that while almost no one 
+will ever encounter the flaw, the company will nevertheless replace the 
+processor upon request with an updated version that does not have the flaw.  
+This offer  will be in effect for the lifetime of a user's PC, which means that 
+users can conclude they do not currently want a replacement, but still have the 
+option of replacing the chip in the future if they wish.  Intel is making a 
+rapid manufacturing transition to the updated version, and expects to be able to
+ship sufficient replacement parts to meet demand during the next few months.
+
+"The past few weeks have been deeply troubling.  What we view as an extremely 
+minor technical problem has taken on a life of its own," said Dr. Andrew S. 
+Grove, president and chief executive officer.  "Our OEM customers and the retail
+channel have been very supportive during this difficult period, and we are very 
+grateful," Dr. Grove said.  "To support them and their customers, we are today 
+announcing a no-questions-asked return policy on the current version of the 
+Pentium processor.  
+
+"Our previous policy was to talk with users to determine whether their needs 
+required replacement of the processor.  To some people, this policy seemed 
+arrogant and uncaring.  We apologize.  We were motivated  by a belief that 
+replacement is simply unnecessary for most people.  We still feel that way, but 
+we are changing our policy because we want there to be no doubt that we stand 
+behind this product." 
+
+Intel will send a replacement processor to PC users who choose to do the 
+replacement themselves, and will offer telephone technical assistance.  Call 
+1-800-628-8686 for details. Intel  also said it planned to contract with service
+providers to do replacements at no charge for PC owners who prefer to bring 
+their PC's to a service location.  Details will be provided in the next few 
+weeks.  Finally, Intel said it would work with its OEM customers to provide 
+replacement for PC users who prefer to work with the manufacturer of their 
+system.
+
+The company said it would take an unspecified but material charge against fourth
+quarter earnings to cover costs associated with the replacement program
+announced today.  Intel said it was unable to determine the amount of the 
+reserve, but said an estimated total will be provided on or before January 17, 
+the date of Intel's 1994 financial results announcement.  Following this release
+is a copy of an advertisement that will appear starting on December 21 in major 
+newspapers in North America.
+
+Intel, the world's largest chip maker, is also a leading manufacturer of 
+personal computer, networking and communications products.
+
+
+<PAGE> 2 - Exhibit 99.1 (con't)
+
+December 21, 1994
+
+To owners of Pentium(TM) processor-based computers and the PC community:
+
+We at Intel wish to sincerely apologize for our handling of the recently 
+publicized Pentium processor flaw. 
+
+The Intel Inside(R) symbol means that your computer has a microprocessor second 
+to none in quality and performance.  Thousands of Intel employees work very hard
+to assure that this is true.  But no microprocessor is ever perfect.
+
+What Intel continues to believe is an extremely minor technical problem has 
+taken on a life of its own.  Although Intel firmly stands behind the quality of
+the current version of the Pentium processor, we recognize that many users have
+concerns.
+
+We want to resolve these concerns.
+
+Intel will exchange the current version of the Pentium processor for an updated 
+version in which this floating-point divide flaw is corrected for any owner who
+requests it, free of charge anytime during the life of their computer.  Just
+call 1-800-628-8686.
+
+Sincerely,
+
+
+Andrew S. Grove
+President & CEO
+
+Craig R. Barrett
+Exec. Vice President & COO
+
+Gordon E. Moore
+Chairman of the Board
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

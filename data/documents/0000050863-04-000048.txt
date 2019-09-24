@@ -1,0 +1,189 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HXd1pdT21LTFsoZoSwcWidnQZEWbc1fpO36S9scrWhipAKjEJXCMJv22OniorBuH
+ fCStBFyL3SKLo0oB3vK/qg==
+
+<SEC-DOCUMENT>0000050863-04-000048.txt : 20040330
+<SEC-HEADER>0000050863-04-000048.hdr.sgml : 20040330
+<ACCEPTANCE-DATETIME>20040330150401
+ACCESSION NUMBER:		0000050863-04-000048
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040330
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20040330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		04700382
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>settlement.txt
+<DESCRIPTION>INTERGRAPH SETTLEMENT
+<TEXT>
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+
+
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+                 PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+                 Date of report:  March 30, 2004
+                (Date of earliest event reported)
+
+
+
+                        INTEL CORPORATION
+       (Exact Name of Registrant as Specified in Charter)
+
+
+
+      Delaware              0-06217              94-1672743
+     (State of          (Commission File        (IRS Employer
+   Incorporation)           Number)          Identification No.)
+
+
+
+     2200 Mission College Blvd., Santa Clara, CA 95052-8119
+      (Address of Principal Executive Offices and Zip Code)
+
+
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+<PAGE>
+
+
+Item 9.     REGULATION FD DISCLOSURE
+
+            Attached hereto as Exhibit 99.1 and incorporated  by
+            reference  herein  is  information  relating  to   a
+            settlement  of the patent infringement suit  between
+            Intel Corporation and Intergraph Corporation pending
+            in  U.S. District Court for the Eastern District  of
+            Texas  as presented in a press release of March  30,
+            2004. The information in this report shall be deemed
+            incorporated  by  reference  into  any  registration
+            statement  heretofore and hereafter filed under  the
+            Securities  Act of 1933, as amended, except  to  the
+            extent  that  such  information  is  superceded   by
+            information as of a subsequent date that is included
+            in   or   incorporated   by  reference   into   such
+            registration  statement.  The  information  in  this
+            report shall not be treated as filed for purposes of
+            the Securities Exchange Act of 1934, as amended.
+
+<PAGE>
+                            SIGNATURE
+Pursuant  to the requirements of the Securities Exchange  Act  of
+1934, the registrant has duly caused this report to be signed  on
+its behalf by the undersigned hereunto duly authorized.
+
+Date: March 30, 2004               INTEL CORPORATION
+                                   (Registrant)
+
+                                   By:  /s/F. Thomas Dunlap, Jr.
+                                        ------------------------
+                                        F. Thomas Dunlap, Jr.
+                                        Senior Vice President,
+                                        General Counsel
+
+
+
+<PAGE>
+
+                           EXHIBIT 99.1
+
+                          PRESS RELEASE
+
+
+           INTEL SETTLES INTERGRAPH PATENT LITIGATION
+
+SANTA  CLARA,  Calif., March 30, 2004 - Intel  Corporation  today
+announced  it  has  settled  the remaining  issues  in  a  patent
+infringement  suit  pending in U.S. District Court  in  Marshall,
+Texas relating to Intel's Itanium(R) microprocessors. Under terms
+of the settlement Intel and Intergraph will move for dismissal of
+the  case  with prejudice. As a result, neither company  has  any
+further  financial  obligations  under  an  earlier  April   2002
+settlement agreement.
+
+In addition, under terms of the current settlement Intergraph has
+granted  Dell  Inc.  certain licenses to Intergraph  patents  and
+agreed   to  dismiss  Intergraph's  separate  pending  litigation
+against  Dell.  Intergraph sued Dell for patent  infringement  in
+December  2002.  This  agreement gives  Dell  a  license  to  all
+Intergraph-owned  patents, and covers past,  present  and  future
+Dell  products. Dell has a unique indemnity agreement with  Intel
+that  Dell  claims obligates Intel to indemnify the company  from
+patent  infringement  claims in the litigation  which  relate  to
+combining  Intel  microprocessors and other  components  in  Dell
+systems.  Intel  disagrees  with  Dell's  interpretation  of  the
+agreement, but has decided to remove the current dispute from the
+courts and resolve the disagreement privately.
+
+The  new  settlement with Intergraph also includes a covenant  by
+Intergraph  not  to  sue any Intel customers  for  products  that
+include   Intel   microprocessors,  Intel  chipsets   and   Intel
+motherboards in combination.
+
+As  part of the current agreement, Intel will pay Intergraph $225
+million. Intel will pay $125 million to Intergraph by April 5 and
+$25  million  in  each of the next four quarters. The  accounting
+treatment  for  the  settlement  has  not  yet  been  determined.
+However,  Intel expects some portion or all of the  $225  million
+will reduce earnings in the first quarter of 2004.
+
+Intel,  the  world's  largest  chip  maker,  is  also  a  leading
+manufacturer of computer, networking and communications products.
+Additional    information   about   Intel   is    available    at
+www.intel.com/pressroom.
+
+*  Other  names  and  brands may be claimed as  the  property  of
+others.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

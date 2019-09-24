@@ -1,0 +1,697 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CHSkGjLSSGs9l+UUS4p8ps1YuNiD15o4alEImeOJilEWLE67G/QYJ9NeXeL2SKnH
+ 34RrSF8YOGDVyN8Pl0pZXA==
+
+<SEC-DOCUMENT>0000050863-09-000141.txt : 20090727
+<SEC-HEADER>0000050863-09-000141.hdr.sgml : 20090727
+<ACCEPTANCE-DATETIME>20090727135508
+ACCESSION NUMBER:		0000050863-09-000141
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20090721
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20090727
+DATE AS OF CHANGE:		20090727
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		09964186
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=2>FORM 8-K</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Pursuant to Section 13 OR 15(d) of the</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported): July 21, 2009</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td  colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td  colspan="3" valign=top >
+            <p style='margin-left:0pt;text-indent:15.0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td  colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:21.75pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="119" valign=top >
+            <p style='margin-left:14.35pt;text-indent:21.75pt;text-align:left;margin-top:0in;margin-bottom: 0in'><u><b><font size=2>94-1672743</font></b></u></p> </td>
+        <td  width="71">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr >
+        <td width="18" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td  colspan="3" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+        <td  colspan="2" valign=top >
+            <p style='margin-left:0pt;text-indent:17.25pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+        <td  colspan="3" valign=top >
+            <p style='margin-left:0pt;text-indent:24.75pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.)</font></p> </td> </tr>
+    <tr >
+        <td  colspan="3" valign=top >
+            <p style='margin-left:0pt;text-indent:29.25pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>of incorporation)</font></p> </td>
+        <td   colspan="6">
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></td> </tr>
+    <tr>
+        <td width="18" ></td>
+
+        <td width="33" ></td>
+
+        <td width="92" ></td>
+
+        <td width="130" ></td>
+
+        <td width="35" ></td>
+
+        <td width="176" ></td>
+
+        <td width="45" ></td>
+
+        <td width="119" ></td>
+
+        <td width="71" ></td> </tr> </table>
+            </div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:11.25pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td width="98" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 2.03</font></b></p> </td>
+        <td width="622" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td width="98" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 3.02</font></b></p> </td>
+        <td width="622" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Unregistered Sales of Equity Securities.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td width="98" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 8.01</font></b></p> </td>
+        <td width="622" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Other Events.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; text-indent:0.44in;text-align:left;'><font size=2>Although the company is filing the below information regarding the creation of a direct financial obligation under Item 2.03 on Form 8-K, the company does not believe and this filing is not an admission that the direct financial obligation reported hereby is material to the company.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; text-indent:0.44in;text-align:left;'><font size=2>On July 21, 2009, the company agreed to sell to the initial purchasers an offering of $1.75 billion principal amount of 3.25% junior subordinated convertible debentures due August 1, 2039. The company granted the initial purchaser an option to purchase up to an additional $250 million principal amount of debentures, which option has been exercised in full . The initial purchasers will sell the debentures solely to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended. The sale of $2 billion principal amount of debentures closed on July 27, 2009. The aggregate offering price of the debentures was $2 billion and the estimated net proceeds from the offering were approximately $1.98 billion, after deducting selling discounts and commissions and estimated offering expenses. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; text-indent:0.43in;text-align:left;'><font size=2>The debentures will be initially convertible, subject to certain conditions, into shares of the company&#146;s common stock at a conversion rate of 44.0917 shares of common stock per $1,000 principal amount of debentures, representing an initial effective conversion price of approximately $22.68 per share. The initial conversion price represents a premium of 20% to the closing price of the company&#146;s common stock on July 21, 2009, which was $18.90 per share. The conversion rate will be subject to adjustment in some events but will not be adjusted for accrued interest. In addition, the conversion rate will increase for a holder who elects to convert its debentures in connection with certain fundamental changes.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; text-indent:0.43in;text-align:left;'><font size=2>The debentures will pay interest semiannually through maturity and will be convertible upon the occurrence of specified events into shares of the company&#146;s common stock. In addition to regular interest, beginning on August 1, 2019, contingent interest will accrue during any interest period in which the average trading price of a debenture for specified periods is greater than or equal to $1,500 per $1,000 principal amount of the debentures or is less than or equal to a threshold initially set at $650 per $1,000 principal amount of the debentures and that will increase over time.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; text-indent:0.43in;text-align:left;'><font size=2>The debentures will be redeemable at the company&#146;s option at any time on or after August 5, 2019 for cash at a redemption price of 100% of the principal amount of the debentures, plus accrued but unpaid interest, if the price of a share of the company&#146;s common stock has been at least 150% of the conversion price then in effect for specified periods. Holders may require the company to repurchase all or a portion of the debentures for cash at a purchase price of 100% of the principal amount of the debentures, plus accrued and unpaid interest, upon certain events constituting a fundamental change. In addition, on or prior to July 27, 2010, the company may redeem all or part of the debentures for cash at a premium if certain U.S. federal tax legislation, regulations or rules are enacted or are issued.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; text-indent:0.43in;text-align:left;'><font size=2>The debentures are the company&#146;s unsecured junior obligations subordinated in right of payment to the company&#146;s existing and future senior debt and effectively subordinated in right of payment to all indebtedness and other liabilities of the company&#146;s subsidiaries.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td width="216" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 7.01</font></b></p> </td>
+        <td width="504" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Regulation FD Disclosure.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.44in;text-align:left;'><font size=2>Attached hereto as Exhibit 99.1 and incorporated by reference herein is a press release describing the pricing of an offering of $1.75 billion principal amount of 3.25% junior subordinated convertible debentures offered pursuant to Rule 144A under the Securities Act of 1933, as amended. The information provided under this Item 7.01 and in the press release shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td width="177" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 9.01</font></b></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Financial Statements and Exhibits.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="164" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="25" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)  </font></p> </td>
+        <td width="67" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Exhibits.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="311" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:12.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="132" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>Exhibit Number</font></u></p> </td>
+        <td width="83" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>Description</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="425" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="132" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>99.1</font></p> </td>
+        <td width="197" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Press release dated July 21, 2009</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="720" style='border-collapse:collapse'>
+    <tr >
+        <td width="372" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="348" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="372" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="348" valign=top style='border-bottom: solid black 1.0pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="372" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date:  July 27, 2009</font></p> </td>
+        <td width="348" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><b><font size=2>Exhibit 99.1</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>Intel Corporation</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>2200 Mission College Blvd.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Santa Clara, CA 95054-1549</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="336" nowrap valign=top style='padding:12.0pt 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><img src="img1.jpg"><br> </p> </td>
+        <td width="308" nowrap valign=top style='padding:12.0pt 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><img src="img2.gif"><br> </p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="515" style='border-collapse:collapse'>
+    <tr >
+        <td width="101" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CONTACT:</font></p> </td>
+        <td width="235" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Tom Beermann (media)</font></p> </td>
+        <td width="179" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Kevin Sellers (investors)</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="445" style='border-collapse:collapse; '>
+    <tr >
+        <td width="101" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="235" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>408-765-6855</font></p> </td>
+        <td width="109" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>480-363-2642</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="523" style='border-collapse:collapse'>
+    <tr >
+        <td width="107" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0in'><font size=1>&nbsp;</font></p> </td>
+        <td width="229" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#0000FF"><font size=2>tom.beermann@intel.com</font></font></p> </td>
+        <td width="187" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#0000FF"><font size=2>kevin.k.sellers@intel.com</font></font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=3>Intel Prices Offering of $1.75 Billion of 3.25 Percent </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=3>Junior Subordinated Convertible Debentures</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>SANTA CLARA, Calif., July 21, 2009 &#150; Intel Corporation today announced the pricing of its offering of $1.75 billion principal amount of 3.25 percent junior subordinated convertible debentures due 2039. The debentures were offered and sold to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended. The sale is expected to close July 27, 2009. Intel has also granted to the initial purchasers of the debentures the right to purchase up to an additional $250 million principal amount of debentures to cover overallotments. Intel intends to seek a rating for the debentures promptly following the offering.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>Interest will be payable on the debentures semiannually at a rate of 3.25 percent per annum. In addition to regular interest, beginning on Aug. 1, 2019, contingent interest will accrue in certain circumstances relating to the trading price of the debentures. In certain circumstances, the debentures will be convertible into cash up to their principal amount and any conversion value above the principal amount will, at Intel&#146;s option, be settled with shares of Intel common stock or cash. The initial conversion rate for the debentures is 44.0917 shares of common stock per $1,000 principal amount of the debentures, which is equal to a conversion price of approximately $22.68 per share, representing a 20 percent conversion premium based on the closing price of Intel&#146;s common stock of $18.90 per share on July 21, 2009. The debentures mature Aug. 1, 2039. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><A NAME="PAGENUM"><b><font size=2>&#150; more &#150;</font></b>
+</A></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<div TITLE="EE+ Page Header">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>Intel/Page 2</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>Intel may not redeem the debentures prior to Aug. 5, 2019, except in connection with certain tax-related events. On or after Aug. 5, 2019, Intel may redeem for cash all or a part of the debentures if the last reported sale price of its common stock has been at least 150 percent of the conversion price then in effect for at least 20 trading days during any 30 consecutive trading day period prior to the date on which Intel provides notice of redemption. The redemption price will equal 100 percent of the principal amount of the debentures to be redeemed, plus accrued and unpaid interest, including any contingent interest or additional interest, if any, to but excluding the purchase date. Intel may also redeem all or a part of the debentures for cash on or prior to July 27, 2010 at a premium if certain U.S. federal tax legislation, regulations or rules are enacted or are issued. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>Intel intends to use up to $1.5 billion of the net proceeds to purchase shares of its common stock concurrently with, or shortly after, pricing of the debentures from institutional investors in negotiated transactions through one or more of the initial purchasers, as Intel&#146;s agent and under an accelerated stock repurchase program with one of the initial purchasers. The other party to the accelerated stock repurchase program may purchase or sell Intel common stock in the secondary market during the term of the accelerated stock repurchase agreement to hedge its position. Transactions effected as part of such repurchases could affect or maintain the market price of Intel&#146;s common stock. Intel intends to use the remainder of the proceeds for general corporate purposes. If the initial purchasers exercise their overallotment option, Intel may use a portion of the net
+proceeds from the sale of additional debentures to repurchase additional shares of its common stock. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>This announcement is neither an offer to sell nor a solicitation of an offer to buy any of these securities and shall not constitute an offer, solicitation or sale in any jurisdiction in which such offer, solicitation or sale is unlawful.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>The debentures have not been and will not be registered under the Securities Act of 1933, as amended, or any state securities laws and may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>This press release contains certain forward-looking statements that are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. Such risks and uncertainties include, but are not limited to, the anticipated use of the proceeds of the offering. Intel does not undertake any </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><A NAME="PAGENUM"><b><font size=2>&#150;more&#150;</font></b>
+</A></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2> </font></p>
+</DIV>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<div TITLE="EE+ Page Header">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>Intel/Page 3</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>obligation to update any forward-looking statements to reflect events or circumstances occurring after the date of this press release.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>Intel [NASDAQ: INTC], the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Additional information about Intel is available at </font><font color="#0000FF"><font size=2>www.intel.com/pressroom</font></font><font size=2> and </font><font color="#0000FF"><font size=2>blogs.intel.com</font></font><font size=2>.
+</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;line-height: 150%;'><b><font size=2>&#150; 30 &#150;</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>Intel is a registered trademark of Intel Corporation in the United States and other countries.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><A NAME="PAGENUM"><b><font size=2></font></b>
+</A></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>img1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img1.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_VP!#``H'!P@'!@H("`@+"@H+#A@0#@T-
+M#AT5%A$8(Q\E)"(?(B$F*S<O)BDT*2$B,$$Q-#D[/CX^)2Y$24,\2#<]/CO_
+MVP!#`0H+"PX-#AP0$!P[*"(H.SL[.SL[.SL[.SL[.SL[.SL[.SL[.SL[.SL[
+M.SL[.SL[.SL[.SL[.SL[.SL[.SL[.SO_P``1"`!V`)P#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#V:BBB@`HH
+MHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB
+M@`HJ.>>&UA:>XE2&)!EGD8*JCW)K@]8^,&B6UP;/0[:YUV\Z!+5#LS_O8R?P
+M!H`]`I&944LS!0.I)P!7E3W7Q=\3Y^S6MMX?MFZ%\!\>^=S?H*C_`.%-:OJK
+M&3Q%XQN;ECU1`SC\V;^E`'HMUXI\/6.?M6N:?"1V:Y0'\LUG-\1O!J'!\0V7
+MX.3_`"%<Y;?`KPK"H\^XU"X;OF55'Z+5P?!?P6!@V=R?<W+4`;47Q"\'S,`G
+MB*P!/]Z4+_.MBSU73M0&;*_MKD?],9E?^1KAY_@AX/E4B,7T)]4N,_S!K!O_
+M`("+&?-T77Y(Y%Y47$?_`+,N,?E0![#17@LVH?$_X;L'O7DOM/0XW2DW$./]
+M[[R_CBO0O!/Q3T?Q<R6<H^P:D1Q!(V5D/^PW?Z'GZT`=Q1110`4444`%%%%`
+M!114<\\5M!)//(L442EG=S@*!U)-`$E0W;7"6<S6B))<"-C$CG"L^.`3Z9KF
+MK#7V\;^&=:DTNVD2$K+;6<KG;]H.S&X>@W''X5RGPM\%^*_#GB2XN]<0K;/:
+M-&N;D2?,64C@$]@>:`-A?AW?>(9EO/&^LR7Y!W+I]J3%;1^WJWUX-=AI>BZ9
+MHMN(-,L(+2/TB0+GZGJ?QJ]10`445X[H_P`4?$5]\1T\/S+9_8VOG@.V(A]H
+M+`<YZ\4`>Q4444`%07%]:6A47-U#"6Y`DD"Y_.IZ\._:`_Y"VC_]<)/_`$(4
+M`>UM+;36ID=XGMW7EB048'WZ8KQ#XJ?#F+0E'B;P\IBM-X,\41X@8GY70CHN
+M<?0XQQT[[PUHXUSX5Z-9&4Q`VR-D#/K70G0H7\,RZ).PECE@:)SMP/F!Z#MU
+MXH`YOX5>-G\6Z`T-\^[4K'"3-WE4_=?Z\$'W'O7=5\Z_!FZET_XC+9[B!<0R
+MPN.Q*C=_-:^BJ`"BBB@`HHHH`*\L\?ZI<^+?%]G\/]+F:.!F$FI2IV4?-M_`
+M<^Y(':O3;RY2SLI[J3[D$;2-]`,G^5>1_!&)]5UOQ!XDN_FN)7";CZN2[?R6
+M@#TC5;6+1_!=];:>OV:.UL)%A$9P4PAQ@^OO7D_P3UK5M2\7W4-]J=W=1K8L
+MP2:=G`.].<$]>:]>\3_\BKJ__7E-_P"@&O$_@-_R.MW_`->#_P#H:4`0_$_7
+M-<M_B1J%E8ZO>P1YB5(X[ET4$QKV!P.33]5\)?$[1-,GU.YU:[,-LN^0QZDS
+M,%'4XSVJA\3_`/DK=Y_UUM__`$!*]R\=_P#(AZW_`->,O_H)H`Y+X.>-M1\2
+M6MYINK3&XN+,*\<[?>=#D8;U((Z^]>1S66H:C\1;JTTJ4Q7TNHS+"XDV%6WM
+M_%VKM?@!_P`AW5O^O9/_`$*L#PW_`,ELB_["TO\`Z$U`'I%KJNL?#3X;SW'B
+M.4WFIM<LMLKSF7>6`V@L><##$CV]ZX'3=,^(OQ'$NJ1ZC*(`Y56DN##'GT15
+M]/I^-=7^T`9/[,T8#/E^=+GZX7']:P/""?%0^&;0^''0:7\WDC,']X[OO<_>
+MSUH`=X1\<>(_!GBU?#OB>>:6V,HAE6=][0$_==6_N\@^F*M?M`?\A;1O^N$G
+M_H0K*UKX>?$GQ#J)U'5+%)[DJ%,GG0KP.G`(%:'QV$BW>@K-_K!:,'Y[Y7-`
+M'J7P[_Y)]HG_`%Z+6OK.I0Z/HUYJ4[!8[6%I#GO@<#\3Q6/\/6"_#S168@*+
+M-223P*\K^+GQ%BUQO^$>T:;S+*-\W$ZGB9AT4>J@\Y[GZ<@&=\&+26_^(JWA
+M!(MH99G;W8;?YM7T57`?"+P=)X9\.->7L>R_U'#NI',<8^ZI]^23]<=J[^@`
+MHHHH`****`,KQ2CR>$M72/[S6,P'UV&O-?V?[J,V&LV>1YBRQR8]001_2O7)
+M(TFB>*0;D=2K#U!KYPT+4KCX6_$JX@NU<VJ2-!.`.7A)RKCUXVM^E`'T1J=G
+M_:.E7=CNV?:8'BW>FY2,_K7CGPB\.:OX=^(%];:I8S6[+9.H<H=C_.G*MT->
+MSVEW;W]I%=VDR303*'CD0Y#`]Q4U`'SQ\2=)U*X^*EW/!I]U+"9(,2)"S*<(
+MF>0*]J\;Q23>!]9BBC:21[*0*B#))VG@"MVB@#Q3X%:=?66MZHUW97%NK6RA
+M3+$R`G=[BL3Q=X2\3>$_'4NN:393W$+71N;:XAB,H4L2=K`9QC)'/45]#44`
+M>71:9K/Q0^&DR:W&+758KIFM2\)B`*@8!!YP<L,_X5P>D:]X]^&_FZ6-.D$)
+M<L(KBW9XP>Y1AZ^QQ7T;10!XMX/U_P")GB/Q9!J#0LE@/DF2:(Q6X3/.!U+>
+MA&3^%;?QE\%ZIXCMK'4=)A:YELPZ20+]YE;!!4=\$=/>O3JR-=\4Z)X:MS-J
+MVH16_&5C)R[_`$4<F@#S_7]+UR;X*Z-I5A:7GVUS%%+;HK*^W#9##L.F<\4O
+MP]^#Z://%J_B+RYKQ#NAM5.Y(CV+'^)OT'O79^#/&-MXTL[N]L[:2"""X,*&
+M4C<XV@[B!TZ].:Z.@`HHHH`****`"BBB@`K@?B=\.E\86:WVGA(]6MEPF>!.
+MG783V/H?\COJ*`/F+PYXV\3?#V^DL"C^4CGSK"Z!`![D=U/N.OO7K&B?&SPO
+MJ2*NH>=IDQZB52Z9]F7^H%=1XD\&Z%XK@V:K9+)(HPDZ?+*GT8?R.17E>M_`
+M2_A9I-#U2*X3M%=#8_\`WT,@_I0!ZY9>*-`U%0UGK5C-GLMPN?RSFM))8Y!E
+M)%8>H.:^7[[X9>,M/8B30;B4#^*#$H/_`'R362^A:_:DA]*U&(CUMW7^E`'U
+MN711DLH'N:J3ZQI=J";C4K2$#KYDZK_,U\G_`-F:U(<?8;YO;R7/]*L6_A'Q
+M+=G$&@:B^>XM7Q^>*`/HR_\`B7X-TX-YNO6TA'\,&92?^^0:Y/5?CUHUN&72
+MM,NKQ^S3$1+_`%/Z"O.;'X3>-;XC&CFW7^]/*B?IG/Z5U.E_`+4I2K:KK%O;
+MKW2W0R'\S@?SH`P-<^,7BS5PT<%S'IL)_AM5PV/]\Y/Y8KFM,T/7O%5\PL;2
+MZU"=C\\IR0/=G/`_$U[WHOP=\(Z25>:UDU&4?Q73Y7/^Z,#\\UVUO;06D*P6
+MT$<$2_=2-0JCZ`4`<E\,?"%]X.\.RV>HRQ//<3F8K$20GR@8SW/%=E110`44
+M44`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!111
+L0`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`?_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>img2.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img2.gif
+M1TE&.#EA(`%@`'<`,2'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E`"'Y
+M!`$`````+`$`&@`?`28`@`````````+_A(^IR^T/HYRTVHNSWC``[U$@1Y;F
+M$:3JJGZGL[[RW+#I%-/ZCMA^S@/RAB5?A$5,GGY,X0NIC%Y^$J?T*FHV=5:L
+M=V'L=+_D!!3\L<W.Y78Z_!B[RW(4>]F:NYGQNOYZQQ!8E/?WA>3W%F*X5]CG
+M:)+(N,,'(SD9=/FVIHF)US+8`XD6:O;TV`DV*N@'9WF#NBI6JF"T."N74TJK
+MZ&H&R]&E!9PEJWIKJE73N@73JX9<.QRK)EJX:SQ,;&=<'*V]7=5M'?Y<>1S-
+MK<P*GFY.Q;ZN;KTLVYZ^Z^+>^XOX;,&+GK1VZ-S=JZ<M'JAJ_<"INY5K%<.'
+MW[)-;$BNW":`_^,>#AQUT8"P0:$T_FNXKUQ(?B*!D!QI$5+)E2RY<>I8,R/"
+MBBHCXOR(+&!!A"UEV@-9)U#,,4Z$<C1)$>@K?$C'I9JGLP(MEU6'9MV)LB#,
+M;3^UYCKY56%8C*@P-$W%"Y&5L1]QU:U+-VVD>Q(3S:VZS^-3LG`[ZGIK-#'4
+MHCRI+NH;SBD.OI`7*UHK^%$&P)8SO\KI^;)>KUAU_N7<>3)!HG;9DL,5&&S&
+MU!O;BK[+.*A+%/IJ"^QG<^!.VE,3%N_]&/0=?R)[%XVC[\9+YF"3CW@^DW!D
+MRMJ[EV9<O"QKS`KYNJ:X&N4TH$FYAY@.;+E[=%^%Q(4W96QL]XW5I_^?+4\M
+MYKC`'D'87*,89;@]]]UMPXEWWF@`.A3A.\:A1V"#8E5VD(-WR7<-;\V-B-D9
+M)FKBBSA+I11#<B0ZUMUU&;I(WC%'#&B:B#.&YMII)#B"&$3$X6B620?&UMIK
+MFW4CV462\>@1B$-*Q2!PN>4'X9$:/5DCEQ+^IF*,12XFUW93XL89>%A.V5Y,
+M&YR&Y'AJ>:,;FX;A=^6;"#H6W)IQ?@FEESQ>!268JL57V)TI"JHD78QZ>(2B
+M/9VI(:/,0.@AE_>E")H@]70J&J:%RA8+?=#U1R5T@%;I3:K."(7GJ)!>Z69$
+MI+8*FUB?+AA5/*Y6N!^<1B*:&J>V1*?E49QRTHHLIK#J)UVS"6Z(7$C0\";E
+M"-I"J^V`3BUKWH,LTM3A8&'">*&2!0:('KO_^=<,J`6*NRR&X8V[WIA_@OIN
+MGAO&.N$Y`5^:;Y.2Q$M-PJ\"7.28]Y(IJ<'L#KROP(=,@;$(&7JB(PTR`N2<
+(5F]NG$`!`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

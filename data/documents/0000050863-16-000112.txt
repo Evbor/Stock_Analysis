@@ -1,0 +1,382 @@
+<SEC-DOCUMENT>0000050863-16-000112.txt : 20160218
+<SEC-HEADER>0000050863-16-000112.hdr.sgml : 20160218
+<ACCEPTANCE-DATETIME>20160218160843
+ACCESSION NUMBER:		0000050863-16-000112
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160212
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20160218
+DATE AS OF CHANGE:		20160218
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		161437644
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8_k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Intel Corporation
+    Document created using EDGARfilings PROfile 3.6.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: Arial" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 3pt">UNITED STATES</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">Washington, D.C. 20549</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM 8-K</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">CURRENT REPORT</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">Pursuant to Section 13 or 15(d) of</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">the Securities Exchange Act of 1934</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">Date of Report (Date of earliest event reported): February <font style="FONT-SIZE: 10pt">12</font>, 2016</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-SIZE: 24pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">INTEL CORPORATION</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Exact name of registrant as specified in its charter)</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<table id="68f9de885aae4cf980e59713614ab13f" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 33.62%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">Delaware</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1.48%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 31.71%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">000-06217</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1.48%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 31.71%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">94-1672743</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.62%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">(State or Other Jurisdiction</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">of Incorporation)</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1.48%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 31.71%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Commission File Number)</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1.48%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="WIDTH: 31.71%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">(IRS Employer</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<table id="40bf97bd15904c03af7fc66222fd0570" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 50%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">2200 Mission College Blvd., Santa Clara, California</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1.92%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 48.08%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">95054-1549</div>
+</td>
+</tr>
+
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 50%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Address of principal executive offices)</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1.92%; VERTICAL-ALIGN: bottom">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 48.08%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Zip Code)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">Registrant's telephone number, including area code: (408)&#160;765-8080</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<table id="6642edbb7222478d92e7b31ca3b38255" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 100%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">Not Applicable</div>
+</td>
+</tr>
+
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 100%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Former name or former address, if changed since last report.)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: left">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: left">&#160;</div>
+
+<table id="cbd81fc06d02428a9b85d83ff53f4985" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 3.16%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">&#9744;</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 96.84%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<table id="3fe34a9a0e504cdf90df1bbacc40e053" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 3.52%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">&#9744;</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 96.48%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<table id="b8c9330ff4ab4b79817259ae53676dd2" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 3.52%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">&#9744;</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 96.48%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<div style="FONT-FAMILY: Arial"><br>
+</div>
+
+<table id="5f7b1e1d73404f80a23ca3750aec066d" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr style="HEIGHT: 15px">
+<td style="FONT-FAMILY: Arial; WIDTH: 3.52%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">&#9744;</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 96.48%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; TEXT-ALIGN: left">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-FAMILY: Arial; TEXT-ALIGN: left">&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; FONT-FAMILY: Arial; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<table id="6cfd5efbc11a4b3282aad0a5d6b2b17d" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 11.4%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: left">Item 5.02</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 88.6%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; COLOR: #000000; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-WEIGHT: bold">Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font>&#160;</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-FAMILY: Arial">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: left">On February 12, 2016, William Holt, Executive Vice President and General Manager of the Technology and Manufacturing Group ("TMG") of Intel Corporation ("Intel"), notified Intel of his intention to retire effective June 2016, after 42 years of service to Intel.&#160; Throughout the course of his service to Intel, Mr. Holt has been the driving force in technological advancements essential to continuing Moore's Law, and he has received various honors in recognition of his many accomplishments to the semiconductor and electronics industries. Mr. Holt will transition his responsibilities to Sohail Ahmed, Senior Vice President and General Manager of TMG, and Ann Kelleher, Corporate Vice President and General Manager of TMG.</div>
+
+<br>
+</div>
+
+<div style="FONT-FAMILY: Arial; MARGIN-TOP: 13pt"><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; FONT-FAMILY: Arial; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; TEXT-ALIGN: center">SIGNATURES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-ALIGN: left; MARGIN-TOP: 12pt; TEXT-INDENT: 36pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="FONT-FAMILY: Arial; MARGIN-TOP: 12pt">
+<table id="c4e4fa38f9754fa9890fbb55203f0490" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: separate" cellspacing="0" cellpadding="0" border="0">
+<tr style="HEIGHT: 29px">
+<td style="WIDTH: 50.49%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 37.54%; FONT-WEIGHT: bold" valign="top" colspan="2">
+<div>&#160; INTEL CORPORATION</div>
+
+<div style="FONT-WEIGHT: normal">&#160; (Registrant)</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50.49%" valign="top">&#160;</td>
+<td style="WIDTH: 1%" valign="top">&#160;</td>
+<td style="WIDTH: 37.43%" valign="top">&#160;</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 50.49%; PADDING-BOTTOM: 2px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">Date:&#160; February 18, 2016<font style="FONT-SIZE: 5.02pt">&#160;&#160;</font></div>
+</td>
+<td style="WIDTH: 1%; PADDING-BOTTOM: 2px" valign="top">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">&#160;</div>
+</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 37.43%; BORDER-BOTTOM: #000000 2px solid" valign="top" nowrap="nowrap" align="left">/s/&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; FONT-VARIANT: normal; FONT-WEIGHT: normal; FONT-STYLE: normal">Suzan A. Miller</font></td>
+<td style="FONT-FAMILY: Arial; WIDTH: 12%; PADDING-BOTTOM: 2px" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 50.49%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 37.43%" valign="bottom" nowrap="nowrap" align="left">Suzan A. Miller</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 50.49%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 37.43%" valign="top">Vice President, Deputy General Counsel and</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="FONT-FAMILY: Arial; WIDTH: 50.49%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 1%" valign="top">&#160;</td>
+<td style="FONT-FAMILY: Arial; WIDTH: 37.43%" valign="top">Corporate Secretary</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-FAMILY: Arial; MARGIN-TOP: 12pt">&#160;</div>
+
+<div><br>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

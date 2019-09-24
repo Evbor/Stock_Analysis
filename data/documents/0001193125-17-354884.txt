@@ -1,0 +1,984 @@
+<SEC-DOCUMENT>0001193125-17-354884.txt : 20171129
+<SEC-HEADER>0001193125-17-354884.hdr.sgml : 20171129
+<ACCEPTANCE-DATETIME>20171129093456
+ACCESSION NUMBER:		0001193125-17-354884
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20171129
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20171129
+DATE AS OF CHANGE:		20171129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		171226983
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d501098d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<div style="width:790px"></div>
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM <FONT STYLE="white-space:nowrap">8-K</FONT> </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Pursuant to Section&nbsp;13
+or 15(d) of </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Date of Report (Date of earliest event reported): November&nbsp;29, 2017 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>INTEL CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(Exact name of registrant
+as specified in its charter) </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Delaware</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">000-06217</FONT></B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-1672743</FONT></B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Commission File Number)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>2200 Mission College Blvd., Santa Clara, California</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>95054-1549</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: <FONT STYLE="white-space:nowrap">(408)&nbsp;765-8080</FONT>
+</B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Not Applicable</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Former name or former address, if changed since last report.)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule
+405 of the Securities Act of 1933 (17&nbsp;CFR 230.405) or Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Securities Exchange Act of 1934 (17&nbsp;CFR <FONT STYLE="white-space:nowrap">240.12b-2).</FONT> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right">Emerging Growth
+Company&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange
+Act.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Events. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">On November&nbsp;29, 2017, Intel Corporation announced the commencement of two related transactions
+to repurchase three series of its outstanding notes. A copy of the press release is attached as Exhibit 99.1 to this Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> and is incorporated by reference herein. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top">Exhibits. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:ARIAL">The following exhibits are filed as part of this Report. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="74%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="11%"></TD>
+<TD WIDTH="86%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:59.10pt; font-size:8pt; font-family:ARIAL"><B>Exhibit&nbsp;Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d501098dex991.htm">Press release dated November&nbsp;29, 2017 </A></TD></TR>
+</TABLE> <P STYLE="font-size:18pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>INTEL CORPORATION</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">Date: November&nbsp;29, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL">/s/ Robert H. Swan</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Robert H. Swan</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Executive Vice President and Chief Financial Officer</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d501098dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em">
+
+
+<IMG SRC="g501098g97k73.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL"><B>Intel&nbsp;Corporation</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL">2200&nbsp;Mission&nbsp;College&nbsp;Blvd.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL"><FONT STYLE="white-space:nowrap">Santa&nbsp;Clara,&nbsp;CA&nbsp;95054-1549</FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">
+
+
+<IMG SRC="g501098g78f93.jpg" ALT="LOGO">
+</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Intel Announces Private Exchange Offers for Three Series of Notes Open to Certain Investors </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>And Related Tender Offers Open to All Investors </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Expiration Date: 5:00 p.m. (New York City time) on December&nbsp;5, 2017 (unless extended) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">SANTA CLARA, Calif., Nov. 29, 2017 - Intel announced today the commencement of two related transactions to repurchase three series of its outstanding notes. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Exchange Offers </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The first transaction consists of three
+separate private offers to exchange (the &#147;Exchange Offers&#148;) any and all of the outstanding series of notes listed below under the heading Exchange Offers (collectively, the &#147;Old Notes&#148;) in exchange for a combination of newly
+issued debt securities of Intel (the &#147;New Notes&#148;) and cash, on the terms and subject to the conditions set forth in the Offering Memorandum dated November&nbsp;29, 2017 (the &#147;Offering Memorandum&#148; and, together with the
+accompanying exchange offer notice of guaranteed delivery, the &#147;Exchange Offer Documents&#148;). Only holders who have duly completed and returned an Eligibility Letter certifying that they are either (1) &#147;qualified institutional
+buyers&#148; (&#147;QIBs&#148;) as defined in Rule 144A under the Securities Act of 1933, as amended (the &#147;Securities Act&#148;) or <FONT STYLE="white-space:nowrap">(2)&nbsp;non-&#147;U.S.</FONT> persons&#148; (as defined in Rule 902 under the
+Securities Act) located outside of the United States and <FONT STYLE="white-space:nowrap">non-U.S.</FONT> qualified offerees (as defined in the Eligibility Letter) are authorized to receive the Offering Memorandum and to participate in the Exchange
+Offers (each an &#147;Exchange Offer Eligible Holder&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The Exchange Offers will expire at 5:00 p.m. (New York City time) on December&nbsp;5, 2017 (such date
+and time with respect to an Exchange Offer, as the same may be extended with respect to such Exchange Offer, the &#147;Expiration Date&#148;). Old Notes tendered may be validly withdrawn at any time at or prior to 5:00 p.m. (New York City time) on
+December&nbsp;5, 2017, (such date and time with respect to an Exchange Offer, as the same may be extended with respect to such Offer, the &#147;Withdrawal Date&#148;), but not thereafter, unless extended by Intel. The &#147;Settlement Date&#148;
+with respect to an Exchange Offer will be promptly following the Expiration Date and is expected to be December&nbsp;8, 2017. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">On the terms and subject to the conditions set forth in the Offering Memorandum, Intel is offering to any and all
+Exchange Offer Eligible Holders of its outstanding Old Notes listed below to exchange such Old Notes for New Notes and cash: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" ROWSPAN="2" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>CUSIP</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Title of<BR>Security</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Principal</B><br><B>Amount</B><br><B>Outstanding</B></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Reference U.S.</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Treasury<BR>Security</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Bloomberg</B><br><B>Reference</B><br><B>Page</B></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ROWSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Fixed<BR>Spread</B><br><B>(basis<BR>points)</B></TD>
+<TD VALIGN="bottom" ROWSPAN="2">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD COLSPAN="2" VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Composition of<BR>Hypothetical</B><br><B>Total Exchange Price</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Hypothetical<BR>Total<BR>Exchange<BR>Price<SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Cash<BR>Amount<SUP STYLE="font-size:85%; vertical-align:top">(2)</SUP></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Hypothetical<BR>New Notes<BR>Amount<SUP STYLE="font-size:85%; vertical-align:top">(3)</SUP></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle">458140 AK6 / US458140AK64</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">4.80% Senior&nbsp;Notes due&nbsp;2041</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,500,000,000</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center">2.750%&nbsp;due&nbsp;15 August&nbsp;2047</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">FIT1</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">+70</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,214.48</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">180.00</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,034.48</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle">458140 AP5 / US458140AP51</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">4.25% Senior Notes due 2042</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">925,000,000</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center">2.750%&nbsp;due&nbsp;15 August&nbsp;2047</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">FIT1</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">+70</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,129.91</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">129.00</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,000.91</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle">458140 AT7 / US458140AT73</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">4.90% Senior Notes due 2045</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">2,000,000,000</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center">2.750%&nbsp;due&nbsp;15 August&nbsp;2047</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">FIT1</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">+75</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,240.14</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">152.00</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,088.14</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:ARIAL">(1) The hypothetical Total Exchange Price (as defined below) is based on the fixed spread for the applicable series of
+Old Notes (as defined below) plus the yield of the Reference U.S. Treasury Security for that series as of 11:00 a.m. (New York City time) on November&nbsp;28, 2017. The information provided in the above table is for illustrative purposes only. Intel
+makes no representation with respect to the actual consideration that may be paid, and such amounts may be greater or less than those shown in the above table depending on the yield of the applicable Reference U.S. Treasury Security as of the
+applicable Price Determination Date (as defined below). The actual Total Exchange Price for each series of Old Notes will be based on the fixed spread for the applicable series of Old Notes plus the yield of the Reference U.S. Treasury Security for
+that series as of 11:00 a.m. (New York City time) on the applicable Price Determination Date. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:ARIAL">(2) The cash payment payable as a portion of the Total
+Exchange Price for each series of Old Notes is equal to the amount shown in this column (subject to adjustment as provided in the Offering Memorandum) per each $1,000 principal amount of such series of Old Notes validly tendered and not validly
+withdrawn at or prior to the Expiration Date (as defined below) or the Guaranteed Delivery Date (as defined below) pursuant to the Guaranteed Delivery Procedures (as defined below) and accepted for exchange (the &#147;Cash Amount&#148;). See
+&#147;Description of the Exchange Offers&#151;Determination of the Total Exchange Price.&#148; The Cash Amount does not include accrued and unpaid interest on the Old Notes accepted for exchange, which will be payable in addition to the applicable
+Total Exchange Price. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:ARIAL">(3) Payable in principal amount of New Notes (subject to adjustment as provided in the Offering Memorandum) per each $1,000
+principal amount of the specified series of Old Notes validly tendered and not validly withdrawn at or prior to the Expiration Date and accepted for exchange. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Upon
+the terms and subject to the conditions set forth in the Exchange Offer Documents, Exchange Offer Eligible Holders who (i)&nbsp;validly tender and who do not validly withdraw Old Notes at or prior to the Expiration Date or (ii)&nbsp;deliver a
+properly completed and duly executed notice of guaranteed delivery and all other required documents at or prior to the Expiration Date and tender their Old Notes pursuant to the Exchange Offers at or prior to 5:00 p.m. (New York City time) on the
+second business day after the Expiration Date (the &#147;Guaranteed Delivery Date&#148;), and whose Old Notes are accepted for exchange by Intel, will receive the applicable Total Exchange Price for each $1,000 principal amount of Old Notes, which
+will be payable in the forms of consideration described below. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The price for each $1,000 principal amount of each series of Old Notes validly tendered at or prior
+to the Expiration Date or the Guaranteed Delivery Date pursuant to the guaranteed delivery procedures, and not validly withdrawn (each, a &#147;Total Exchange Price&#148;), will be calculated at 11:00 a.m. (New York City time) on December&nbsp;5,
+2017 unless extended (such date and time with respect to an Exchange Offer, as it may be extended with respect to such Exchange Offer, the &#147;Price Determination Date&#148;). The Total Exchange Price for each series of Old Notes will be
+determined in accordance with standard market practice, as described in the Offering Memorandum, using the applicable yield to maturity equal to the applicable fixed spread specified in the table above for each such series of Old Notes over the
+applicable reference yield, which shall be based on the <FONT STYLE="white-space:nowrap">bid-side</FONT> price of the applicable Reference U.S. Treasury Security specified in the table above at 11:00 a.m. (New York City time) on the Price
+Determination Date. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The applicable Total Exchange Price payable by us for each $1,000 principal amount of Old Notes, tendered for
+exchange, and accepted by us, will consist of (subject to adjustment as provided below): </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the applicable Cash Amount, as may be adjusted as described in the Offering Memorandum, <I>plus </I> </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">the principal amount of New Notes equal to (a)&nbsp;the applicable Total Exchange Price, <I>minus </I>(b)&nbsp;the applicable Cash Amount. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">With respect to each of the Exchange Offers, Intel may elect to increase or decrease the principal amount of New Notes exchangeable for each $1,000 principal amount of
+the applicable Old Notes by up to $50 per $1,000 principal amount and adjust the Cash Amount accordingly. Such adjustments would affect the composition, but not the amount, of the Total Exchange Price for the applicable Old Notes. Any such election
+will be announced at or around the Price Determination Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel will announce the Total Exchange Prices for all series of Old Notes as soon as practicable after
+they are determined for the Exchange Offers on the Price Determination Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In addition to the applicable Total Exchange Price, Exchange Offer Eligible Holders
+whose Old Notes are accepted for exchange will be paid accrued and unpaid interest on such Old Notes to, but not including, the Settlement Date. Interest will cease to accrue on the Settlement Date for all Old Notes accepted, including those
+tendered through the guaranteed delivery procedures. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The New Notes will mature on December&nbsp;8, 2047 and will bear interest at a rate per annum that will be
+equal to the sum of (a)&nbsp;the yield of the 2.750% U.S. Treasury Security due August&nbsp;15, 2047, as calculated by the dealer managers in accordance with standard market practice and as described in the Offering Memorandum, plus (b) 97 basis
+points, such sum rounded to the third decimal place when expressed as a percentage. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel will not issue New Notes in the Exchange Offers if the aggregate
+principal amount of New Notes to be issued in the Exchange Offers would be less than $500&nbsp;million (the &#147;Minimum Issue Requirement&#148;), but instead will deliver cash to holders that elect to receive cash in such circumstances (the
+&#147;Cash Reversion Option&#148;). Holders that do not make an election will be deemed to have elected to receive cash in the event the Minimum Issue Requirement is not met. Intel is not permitted to waive the Minimum Issue Requirement. When
+submitting a tender of Old Notes, an Exchange Offer Eligible Holder must elect, in the event the Minimum Issue Requirement with respect to the New Notes is not satisfied (and the applicable Total Exchange Price is not payable to such Exchange Offer
+Eligible Holder), to: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">receive the cash consideration equal to the Total Consideration (as defined below) for the Cash Offers with respect to such Old Notes pursuant to the Cash Reversion Option described in the Offering Memorandum, or
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">have its Old Notes returned. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel&#146;s obligation to accept any series of Old Notes tendered in the Exchange Offers
+is subject to the satisfaction of certain conditions applicable to the Exchange Offer for such series as described in the Offering Memorandum, including (x)&nbsp;the timely satisfaction or waiver of all of the conditions precedent to the completion
+of the Cash Offer (as defined below) for such series of Old Notes (the &#147;Cash Offer Completion Condition&#148;) and (y)&nbsp;the pricing of the Exchange Offers resulting in specified tax treatment as set forth in the Offering Memorandum (the
+&#147;Tax Condition&#148;). Intel reserves the right, subject to applicable law, to waive any and all conditions to any Exchange Offer, except for the Cash Offer Completion Condition. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel will terminate an Exchange Offer for a given series of Old Notes if it terminates the Cash Offer for such series
+of Old Notes. The termination of a Cash Offer for a series of Old Notes will not impact the Exchange Offers for any other series of Old Notes. Intel may terminate the Cash Offer for a given series of Old Notes if it terminates the Exchange Offer for
+such series of Old Notes, but it may also elect to waive the condition on the Cash Offer for a given series of Old Notes that the corresponding Exchange Offer be completed. If Intel does waive the condition for the Cash Offer for a given series of
+Old Notes that the corresponding Exchange Offer be completed and terminates the Exchange Offer for that series of Old Notes without terminating the corresponding Cash Offer, it will offer holders that tendered Old Notes into such terminated Exchange
+Offer the opportunity to tender into the Cash Offer instead, including by extending the applicable Cash Offer if required by law. If Intel extends any Cash Offer for a series of Old Notes for any reason, it will extend the corresponding Exchange
+Offer for such series of Old Notes, unless such Exchange Offer has been terminated in accordance with the preceding sentence. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">If and when issued, the New Notes
+will not be registered under the Securities Act or any state securities laws. Therefore, the New Notes may not be offered or sold in the United States absent registration or an applicable exemption from the registration requirements of the
+Securities Act and any applicable state securities laws. Intel will enter into a registration rights agreement with respect to the New Notes. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Global Bondholder
+Services Corporation will act as the Information Agent and the Exchange Agent for the Exchange Offers. Questions or requests for assistance related to the Exchange Offers or for additional copies of the Exchange Offer Documents may be directed to
+Global Bondholder Services Corporation at (866) <FONT STYLE="white-space:nowrap">470-3800</FONT> (toll free) or (212) <FONT STYLE="white-space:nowrap">430-3774</FONT> (collect). You may also contact your broker, dealer, commercial bank, trust
+company or other nominee for assistance concerning the Exchange Offers. Exchange Offer Eligible Holders can access the Exchange Offer Documents by completing the Eligibility Letter available through the following link <U><FONT
+STYLE="white-space:nowrap">http://gbsc-usa.com/eligibility/intel</FONT></U>. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Cash Offers </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The second transaction consists of three separate offers to purchase for cash (the &#147;Cash Offers&#148;) any and all of each series of Old Notes, on the terms and
+subject to the conditions set forth in the Offer to Purchase dated November&nbsp;29, 2017 (the &#147;Offer to Purchase&#148; and, together with the accompanying cash offer notice of guaranteed delivery, the &#147;Cash Offer Documents,&#148;
+collectively with the Exchange Offer Documents, the &#147;Offer Documents&#148;). Exchange Offer Eligible Holders are permitted to participate in either the Exchange Offers or the Cash Offers with respect to any particular Old Note (subject to
+authorized denominations requirements ), provided that any particular Old Note may be tendered either in the Exchange Offers or the Cash Offers, but not both. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">On
+the terms and subject to the conditions set forth in the Offer to Purchase, Intel is offering to any and all holders of its outstanding Old Notes listed below to purchase such Old Notes for cash: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="26%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="23%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>CUSIP / ISIN</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Title of Security</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Principal</B><br><B>Amount</B><br><B>Outstanding</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Reference<BR>U.S. Treasury<BR>Security</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Bloomberg<BR>Reference<BR>Page</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Fixed<BR>Spread<BR>(basis<BR>points)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Hypothetical Total<BR>Consideration(1)(2)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">458140 AK6 /</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">US458140AK64</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center">4.80%&nbsp;Senior&nbsp;Notes due&nbsp;2041</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,500,000,000</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2.750%&nbsp;due 15&nbsp;August 2047</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">FIT1</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">+70</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,214.48</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">458140 AP5 /</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">US458140AP51</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center">4.25%&nbsp;Senior&nbsp;Notes due&nbsp;2042</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">925,000,000</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2.750%&nbsp;due 15&nbsp;August 2047</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">FIT1</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">+70</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,129.91</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">458140 AT7 /</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:ARIAL" ALIGN="center">US458140AT73</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center">4.90%&nbsp;Senior&nbsp;Notes due&nbsp;2045</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">2,000,000,000</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2.750%&nbsp;due 15&nbsp;August 2047</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">FIT1</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="right">+75</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle">$</TD>
+<TD VALIGN="middle" ALIGN="right">1,240.14</TD>
+<TD NOWRAP VALIGN="middle">&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:ARIAL">(1) Payable in cash per each $1,000 principal amount of the specified series of Old Notes validly tendered and not
+validly withdrawn at or prior to the Expiration Date or the Guaranteed Delivery Date (as defined below) pursuant to the Guaranteed Delivery Procedures (as defined below) and accepted for purchase. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:ARIAL">(2) Hypothetical Total Consideration is based on the fixed spread for the applicable series of Old
+Notes plus the yield of the Reference U.S. Treasury Security for that series as of 11:00 a.m. (New York City time) on November&nbsp;28, 2017. The information provided in the above table is for illustrative purposes only. Intel makes no
+representation with respect to the actual consideration that may be paid, and such amounts may be greater or less than those shown in the above table depending on the yield of the applicable Reference U.S. Treasury Security as of the applicable
+Price Determination Date (as defined below). The actual Total Consideration will be based on the fixed spread for the applicable series of Old Notes to the yield of the Reference U.S. Treasury Security for that series as of 11:00 a.m. (New York City
+time) on the Price Determination Date. The hypothetical Total Consideration excludes accrued and unpaid interest on the Old Notes accepted for purchase. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The Cash
+Offers will expire at 5:00 p.m. (New York City time) on December&nbsp;5, 2017 (such date and time with respect to a Cash Offer, as the same may be extended with respect to such Cash Offer, the &#147;Expiration Date&#148;). Old Notes tendered may be
+validly withdrawn at any time at or prior to 5:00 p.m. (New York City time) on December&nbsp;5, 2017 (such date and time with respect to a Cash Offer, as the same may be extended with respect to such Cash Offer, the &#147;Withdrawal Date&#148;), but
+not thereafter, unless extended by Intel. The &#147;Settlement Date&#148; with respect to a Cash Offer will be promptly following the Expiration Date and is expected to be December&nbsp;8, 2017. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Upon the terms and subject to the conditions set forth in the Tender Offer Documents, Holders who (i)&nbsp;validly tender and who do not validly withdraw Old Notes
+pursuant to the Cash Offers at or prior to the Expiration Date or (ii)&nbsp;deliver a properly completed and duly executed Notice of Guaranteed Delivery and all other required documents at or prior to the Expiration Date and tender their Old Notes
+pursuant to the Cash Offers at or prior to prior to 5:00 p.m. (New York City time) on the second business day after the Expiration Date (the &#147;Guaranteed Delivery Date&#148;), and whose Old Notes are accepted for purchase by us, will receive the
+applicable Total Consideration (as defined below) for each $1,000 principal amount of Old Notes, which will be payable in cash. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The consideration for each $1,000
+principal amount of each series of Old Notes validly tendered pursuant to the Cash Offers at or prior to the Expiration Date or the Guaranteed Delivery Date pursuant to the guaranteed delivery procedures, and not validly withdrawn (each, the
+applicable &#147;Total Consideration&#148;), will be calculated at 11:00 a.m. (New York City time) on December&nbsp;5, 2017 unless extended (such date and time with respect to a Cash Offer, as it may be extended with respect to such Cash Offer, the
+&#147;Price Determination Date&#148;). The Total Consideration for each series of Old Notes will be determined in accordance with standard market practice as described in the Offer to Purchase, that equates to a yield to maturity equal to the
+applicable fixed spread specified for each such series of Old Notes over the applicable reference yield, which shall be based on the <FONT STYLE="white-space:nowrap">bid-side</FONT> price of the applicable Reference U.S. Treasury Security specified
+under in the above table at 11:00 a.m., (New York City time), on the Price Determination Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel will announce the applicable Total Consideration for each
+series of Old Notes as soon as practicable after it is determined on the Price Determination Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In addition to the applicable Total Consideration, Holders whose
+Old Notes are accepted for tender will be paid accrued and unpaid interest on such Old Notes to, but not including, the Settlement Date. Interest will cease to accrue on the Settlement Date for all Old Notes accepted, including those tendered
+through the guaranteed delivery procedures. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel&#146;s obligation to accept Old Notes tendered in the Cash Offers is subject to the satisfaction of certain
+conditions described in the Offer to Purchase including the timely satisfaction or waiver of all of the conditions precedent to the completion of the Exchange Offer for such series of Old Notes (with respect to each Cash Offer, the &#147;Exchange
+Offer Completion Condition&#148;).&nbsp;Intel reserves the right, subject to applicable law, to waive any and all conditions to any Cash Offer.</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel may terminate the Cash Offer for a given series of Old Notes if Intel terminates the Exchange Offer for such
+series of Old Notes, but Intel may also elect to waive the Exchange Offer Completion Condition for a given series of Old Notes. If Intel waives the Exchange Offer Completion Condition for a given series of Old Notes and terminates the Exchange Offer
+for that series of Old Notes without terminating the corresponding Cash Offer, Intel will offer holders that tendered Old Notes into such terminated Exchange Offer the opportunity to tender into the Cash Offer instead, including by extending the
+applicable Cash Offer if required by law. Intel will terminate the Exchange Offer for a given series of Old Notes if it terminates the Cash Offer for such series of Old Notes. The termination of an Exchange Offer for a series of Old Notes will not
+impact the Cash Offers for any other series of Old Notes. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Global Bondholder Services Corporation will also act as the Information Agent and the Tender Agent for
+the Cash Offers. Questions or requests for assistance related to the Cash Offers or for additional copies of the Cash Offer Documents may be directed to Global Bondholder Services Corporation at (866) <FONT STYLE="white-space:nowrap">470-3800</FONT>
+(toll free) or (212) <FONT STYLE="white-space:nowrap">430-3774</FONT> (collect). You may also contact your broker, dealer, commercial bank, trust company or other nominee for assistance concerning the Cash Offers. The Cash Offer Documents can be
+accessed at the following link <U><FONT STYLE="white-space:nowrap">http://www.gbsc-usa.com/Intel</FONT></U>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">#### </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel refers to the Exchange Offers and the Cash Offers, collectively, as the &#147;Offers.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">If Intel terminates any Offer with respect to one or more series of Old Notes, it will give prompt notice to the Tender Agent or Exchange Agent, as applicable, and all
+Old Notes tendered pursuant to such terminated Offer will be returned promptly to the tendering holders thereof. With effect from such termination, any Old Notes blocked in DTC will be released. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><I>Holders are advised to check with any bank, securities broker or other intermediary through which they hold Old Notes as to when such intermediary needs to receive
+instructions from a holder in order for that holder to be able to participate in, or (in the circumstances in which revocation is permitted) revoke their instruction to participate in, the Exchange Offers or Cash Offers, as applicable, before the
+deadlines specified herein and in the Exchange Offer Documents or the Cash Offer Documents, as applicable. The deadlines set by each clearing system for the submission and withdrawal of exchange instructions will also be earlier than the relevant
+deadlines specified herein and in the Exchange Offer Documents or the Cash Offer Documents, as applicable. </I></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">This announcement is for informational purposes
+only. This announcement is not an offer to purchase or a solicitation of an offer to purchase&nbsp;any Old Notes. The Exchange Offers are being made solely pursuant to the Offering Memorandum and related documents and the Cash Offers are being made
+solely pursuant to the Offer to Purchase and related documents. The Offers are not being made to holders of Old Notes in any jurisdiction in which the making or acceptance thereof would not be in compliance with the securities, blue sky or other
+laws of such jurisdiction. In any jurisdiction in which the securities laws or blue sky laws require the Offers to be made by a licensed broker or dealer, the Offers will be deemed to be made on behalf of Intel by the dealer managers or one or more
+registered brokers or dealers that are licensed under the laws of such jurisdiction. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">#### </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>About Intel </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel (NASDAQ:
+INTC) expands the boundaries of technology to make the most amazing experiences possible. Information about Intel can be found at <U>newsroom.intel.com</U> and <U>intel.com</U>. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">*Other names and brands may be claimed as the property of others. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Forward-Looking Statements </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">This communication contains forward-looking
+statements. Words such as &#147;anticipate,&#148; &#147;believe,&#148; &#147;estimate,&#148; &#147;expect,&#148; &#147;forecast,&#148; &#147;intend,&#148; &#147;may,&#148; &#147;plan,&#148; &#147;project,&#148; &#147;predict,&#148;
+&#147;should,&#148; &#147;would&#148; and &#147;will&#148; and variations of such words and similar expressions are intended to identify such forward-looking statements. Such statements are involve risks and uncertainties that could cause our actual
+results to differ materially from those expressed or implied in our forward-looking statements. Such risks and uncertainties include, among others, risks and uncertainties related to the completion or timing of the Exchange Offers and Cash Offers;
+and other risks detailed in Intel&#146;s filings with the SEC, including those discussed in Intel&#146;s most recent Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> and in any subsequent periodic reports on Form <FONT
+STYLE="white-space:nowrap">10-Q</FONT> and Form <FONT STYLE="white-space:nowrap">8-K,</FONT> each of which is on file or furnished with the SEC and available at the SEC&#146;s website at www.sec.gov. SEC filings for Intel are also available on
+Intel&#146;s Investor Relations website at www.intc.com. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of their dates. Unless otherwise required by applicable law, Intel undertakes no
+obligation and does not intend to update these forward-looking statements, whether as a result of new information, future events or otherwise. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="17%"></TD>
+<TD VALIGN="bottom" WIDTH="11%"></TD>
+<TD WIDTH="60%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">CONTACTS:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Tushar Jain</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Investor Relations</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">408-653-9488</FONT></FONT></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL"><U>tushar.jain@intel.com</U></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Cara Walker</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Media Relations</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">503-696-0831</FONT></FONT></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL"><U>cara.walker@intel.com</U></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g501098g78f93.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g501098g78f93.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+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
+K%U72K6]"]#-$&(^A/(H J:=X(\+:3,)K'P_I\$HZ.L"[A]#CB@#>H __V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g501098g97k73.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g501098g97k73.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( $$ 80,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /?Z "@ H * .=U_QYX7\,;EU;6;>"4?\L0V^3_OA<F@#B9?
+MC?%?.8_#/A/6-8/0.L11#^(#']!0! ?&7Q=O^;#P';6JGH;F7D?FZ_RH 8VI
+M_'/&X:'I _V0R?\ QR@"%O'7Q>TH%M2\"PW,:]3;!B?_ !UF_E0!9TG]H'17
+MNA:>(=)O=&N!PQ9?,53[\!A^5 'J>EZMI^M6*7NF7D-W;/TDB<,/I['VH N4
+M % !0 4 4M6OI=-TN>[@L9[Z6-?DMX -\A)P ,\=^OI0!PTWASQOXP.=>UH>
+M']-;_F'Z6VZ8CT>8]_H,4 :VA_"_P=H!#VVBPS3CDSW0\YR?7+9P?IB@#KD1
+M8T"(H51P !@"@!U !0 4 9&O>%]$\3V9MM8TV"[0C 9U^=/]UAR/P- '@/B7
+MPYK_ ,$-?BU[PY=R3Z'/)L>.3D?]<Y .#WPW7Z=P#WSPKXDLO%OARTUJP)$5
+MPOS(3S&PX93[@T ;- !0!S&G>+8?$.N:MI6DQ-+;Z?&4EO@<1^>?^6:GN0.2
+M: .5^%?AWQKHNIZA)XIU@W\$D2K"IO6GVMGDX/3B@#TPW, .#/&#_O"@!Z2)
+M(,HZL!_=.: /(_B'\4=;\)_$'3M!L;>S>TN8XF=ID8L-SE3@A@.@H ]<1TD&
+M48,.F0<T 1->VB7 MVNH5G/2,N Q_"@#&\=.T?@'Q Z,R,NGS$,IP0=AZ&@#
+MRG]G\W6K>%_$MO->S;WD1%D9RQ3*GIS0!Z-JWA2-_AGJ6@7<[70-K)MD?LP&
+M5//H0#0!YO\ LU:E(]CKVELQ,44D4Z#T+!@W_H*T >\4 >=_%_Q7=>'_  U!
+MIFE,1K&LR_9;?:>5!P&8>_( ]VSVH Z+P]X;M?"7@F+1K4#$%N?,<#F20C+,
+M?J?Z4 >)?LU_\C#KG_7JG_H5 ')^$_!<'COXEZSI%Q>R6B(T\P>-0Q)$@&.?
+M]Z@#1O=*O?A%\6M*L=+U6:>*4PN^1L#H[E61@#@]#^GI0!?^.]J+WXLZ9:,Q
+M19[6",L!R,R,,_K0!T?C!9O@K\-AH>B:E-+=ZK>.RW+*%:)-JAMN._"C/N:
+M.3@^%VBW?@_^V+CQS9_V_+!]I$#7$9 ;&X(Q+;MW;/8]J .E\ >,[[Q%\'_%
+M^E:G.UQ<:;82>7*YRS1M&V 3WP5//H10!<_9J_Y NO\ _7Q%_P"@F@#T'XH^
+M)H/"_@'4KEY +BXC:VMUSRSN"./H,G\* .%_9PT26U\.:KK,J%5O9EBB)[K&
+M#D_FQ'X4 >V4 >(^.IOMG[17@^QF_P!3;QI(H/3<6<Y_-5_*@#VBZ5GLYT49
+M8HP ]>* /G?]FU63Q)KR,"K+;("#V.^@"'X+_P#);-<_ZY7/_HU: #XT_P#)
+M:]#_ .N-M_Z-:@!/CL38?%;1=0G1A;"WA;>!G(65BV/<<?G0!J_&J\L?'/@C
+M3O$GAZ<WMEIUT\-PRQLNS<JG)! . 0H_X$* ,7P_;_!6Z\-6]UJSW%KJ"1 7
+M$!EE+%P.2N."">E '9^&-+\&7?PT\5:AX)MKE);FQE@FAF=F=6",5&"2.<Y&
+M/6@#"^!.L1>'_ OB[5YHFECLRLS(G5@$8X% '/0V_BGX\>+TGG0VFC6QVE@"
+M8K=.X7/WG/\ G H ^F-)TJST/2;73+"(16MK&(XU] /7U/<F@"[0!X'\>(;O
+M0/&/AGQA:)GR"(R>V]'WJ#]06_(T >U:!KECXDT2UU;3I1);7"!AZJ>ZGT(/
+M!H BT_POHNE:S>:O8:?';7MX,3O'D"3G.2.F<]\4 4]&\!^&O#^LS:OI>F+;
+MW\P99)1([9#$$\$D=0* #6? ?AK7]9AU?5-,6XOX JQRF1UP%)(X! ZDT 7M
+M>\,Z+XGM%M=:TZ&]B0[D$@Y4^Q'(_ T 1Z)X4T/P[I,VEZ7IT<-C,Q>2%B75
+MR0 <[B>P'% '-3_!?P#<7AN6T((2<E(YY%3_ +Y#8'X4 =EI>DZ?HEA'8Z99
+MQ6EK']V.)=H^ON?>@#E[$> [C5]4\,:;%927-]&TM_;VP^1@" =Q7@'YN@YH
+M ZRRL;33;..TL;:*VMHAA(HD"JH]@* +% !0!C>*O#-AXN\.W6C:@I\J8?*Z
+M_>C<?=8>X_\ K4 ?-27'C?X&Z_)!M\W3IGX# M;W(]1_=;'X_44 >IZ!^T'X
+M5U&-%U:*YTJ?^+<AECS[,O/YB@#M;/XA^#K\ V_B733GL]PJ'\FP: -#_A*?
+M#V,_V]IN/^ON/_&@"I<^._"5H,S^)=+7V^U(3^AH Y[4OC9X#TX'&KM=N/X;
+M:%F_4@#]: .%UK]I.%0R:%H+L>TMY)@?]\K_ (T ><:GX]\??$"Y-A'<W4RR
+M<?8[",JI'N%Y(^I- 'J_P6^&&O\ A/5YM<UH16WG6QA6V#;I!EE.6(X'W>F3
+M^% 'ME !0 4 % %>^L+/4[.2TOK6*YMI!AXI4#*?P- 'ENO?L^>%=3=I=,FN
+M=*D/.V,^9'_WRW/ZT <->_LVZY&3]AURQG7MYJ/&?T#4 9;?L\^- V!+IA'J
+M+AO_ (F@"Q;_ +.?BR0CSK_2X1_UT=C_ .@T ;VG_LTON!U+Q( .ZV]O_4G^
+ME ':Z/\  ?P3I95[BVN-1D7O=2G;_P!\K@?GF@#T#3M*T[2+86VFV-O9PC^"
+F",(/TH N4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % '_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

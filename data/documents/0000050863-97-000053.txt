@@ -1,0 +1,338 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E7yvWSNArP5P9ibpDN9zMdBNrG0vxxZpcAETk9w7UoYPr6vgctkNKHWpuM4CE4g6
+ DMp5e4cOmYipkKTuVlN/Rw==
+
+<SEC-DOCUMENT>0000050863-97-000053.txt : 19971016
+<SEC-HEADER>0000050863-97-000053.hdr.sgml : 19971016
+ACCESSION NUMBER:		0000050863-97-000053
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19971014
+ITEM INFORMATION:		
+FILED AS OF DATE:		19971015
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		97696129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>Q3 EARNINGS REPORT
+<TEXT>
+
+
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+
+                                    FORM 8-K
+                                 CURRENT REPORT
+
+
+
+     Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934
+
+
+                        Date of Report:  October 14, 1997
+                        (Date of earliest event reported)
+
+
+
+
+
+                                INTEL CORPORATION
+             (Exact name of Registrant as specified in its charter)
+
+
+
+         Delaware                     0-6217                   94-1672743
+         --------                     ------                   ----------
+(State or other jurisdiction of    (Commission              (I.R.S. Employer
+ incorporation or organization)     file number)            Identification No.)
+
+
+2200 Mission College Boulevard, Santa Clara, California        95052-8119
+- -------------------------------------------------------        ----------
+    (Address of principal executive offices)                   (Zip Code)
+
+
+                                 (408) 765-8080
+                                 --------------  
+              (Registrant's telephone number, including area code)
+
+<PAGE> 2
+
+ITEM 5.   OTHER EVENTS
+
+   5.1    Attached hereto as Exhibit 99.1 and incorporated by reference herein
+          is financial information for Intel Corporation for the quarter ended
+          September 27, 1997 and forward-looking statements relating to the 4th
+          Quarter of 1997, as presented in a press release of October 14, 1997.
+
+
+ITEM 7.   FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION
+          AND EXHIBITS
+
+   (c)    Exhibits
+
+          99.1  Financial information for Intel Corporation for the quarter
+                ended September 27, 1997 and forward-looking statements relating
+                to the 4th Quarter of 1997.
+
+<PAGE> 3
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                             INTEL CORPORATION
+                                             (Registrant)
+
+
+
+Date:  October 15, 1997                 By:  /s/ Andy D. Bryant
+                                             ------------------
+                                             Andy D. Bryant
+                                             Vice President, Chief Financial
+                                             Officer and Principal Accounting
+                                             Officer
+
+
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<TEXT>
+
+
+EXHIBIT 99.1
+
+                     Q3 Revenue $6.2 Billion, up 20 Percent
+                    Q3 Earnings Per Share $0.88, up 19 Percent
+                  Record Quarterly Microprocessor Unit Shipments
+                                        
+SANTA CLARA, Calif., Oct. 14, 1997 -- Driven by both solid demand in North
+America and rapid market acceptance of its newest processors, the Pentium(R)
+processor with MMX(TM) technology and the Pentium(R) II processor, Intel
+Corporation set a record for unit shipments of microprocessors in the third
+quarter, the company said today.  Intel's transition to processors with MMX
+media enhancement technology accelerated during the quarter with well over
+half of the company's shipments of microprocessors coming from processors
+with MMX technology.
+     Third quarter revenue was $6.2 billion, up 20 percent from $5.1 billion
+for the third quarter of 1996.  Third quarter revenue was up 3 percent from
+second quarter 1997 revenue of $6.0 billion.
+     Net income in the third quarter was $1.57 billion, up 20 percent from
+third quarter 1996 net income of  $1.31 billion, and down 4 percent from
+second quarter 1997 net income of $1.65 billion.
+     Earnings per share in the third quarter rose to $0.88 from $0.74 in the
+third quarter of 1996, an increase of 19 percent.  Earnings per share in the
+third quarter were down 4 percent from $0.92 in the second quarter of 1997,
+primarily the result of a much weaker than expected Flash memory market
+segment.
+      "The quarter saw a lot of our energy going into product conversions as
+the Pentium processor with MMX technology continued to ramp and we accelerated
+shipments of the Pentium II processor with its novel high performance bus
+architecture," said Dr. Andrew S. Grove, chairman and chief executive officer.
+"Our factories were especially responsive to the challenges presented by this
+rapid conversion, by meeting our volume needs with excellent yields of advanced
+processors."
+      In the third quarter, the company repurchased a total of 2.5 million
+shares of Common Stock at a cost of $251 million under an ongoing program.
+Since the program began in 1990, the company has repurchased 200.7 million
+shares at a total cost of $5.9 billion.
+      During the quarter the company announced its regular quarterly cash
+dividend of $0.03 per share.  The dividend is payable on December 1, 1997 to
+stockholders of record on November 1, 1997.  Intel has paid a quarterly
+dividend for the last 5 years.
+      Intel's 1998 Step-Up Warrants (INTCW) expire on March 14, 1998.  The
+warrants must be exercised on or before Friday, March 13, 1998.  The last day
+of trading of the warrants on the NASDAQ Stock Market will be March 10, 1998.
+
+
+                                BUSINESS OUTLOOK
+                                ----------------
+                                        
+The following statements are based on current expectations.  These statements
+are forward-looking and actual results may differ materially.  These statements
+do not take into account the potential effects of future mergers or
+acquisitions.
+
+** The company expects revenue for the fourth quarter of 1997 to be slightly
+up from third quarter revenue of $6.2 billion.
+** Gross margin percentage in the fourth quarter is expected to be flat to
+slightly up from 58 percent in the third quarter.  In the short-term Intel's
+gross margin percentage varies primarily with revenue levels and product mix.
+** The company still believes that over the long-term the gross margin
+percentage will be 50 percent plus or minus a few points.  Intel's long-term
+gross margin percentage will vary depending on product mix.
+** Expenses (R & D plus MG &A) in the fourth quarter are expected to be
+approximately 10 to 15 percent higher than expenses of $1.3 billion in the
+third quarter, primarily as the result of seasonal spending on advertising
+and marketing. Expenses are dependent in part on the level of revenue.
+** R & D spending is expected to be approximately $2.4 billion for 1997.
+** The company expects interest and other income for the fourth quarter to be
+approximately $160 million, assuming no significant changes in cash balances
+or interest rates and no unanticipated items.
+** The tax rate in 1997 is expected to remain at 35.5 percent.
+** Capital spending is expected to be approximately $4.5 billion for 1997.
+Depreciation is expected to be approximately $2.2 billion for 1997.
+
+     The above statements contained in this outlook are forward-looking
+statements that involve a number of risks and uncertainties.  These statements
+do not take into account the potential financial effects of future mergers or
+acquisitions, including any one time charges, and related operational risks
+such as the company's ability to successfully integrate any acquired
+businesses, enter new market segments and manage the growth of such
+businesses.
+     In addition to the factors discussed above, among the other factors that
+could cause actual results to differ materially are the following: business
+conditions and growth in the computing industry and in the general economy;
+changes in customer order patterns, including timing of delivery and changes in
+seasonal fluctuations in PC buying patterns; changes in the mixes of
+microprocessor types and speeds, motherboards, purchased components and other
+products; competitive factors, such as rival chip architectures and
+manufacturing technologies, competing software-compatible microprocessors,
+acceptance of new products and response to price pressures; risk of inventory
+obsolescence due to shifts in market demand; variations in inventory valuation;
+excess or shortage of purchased components; timing of software industry product
+introductions; continued success in technological advances and their
+implementation, including the manufacturing ramp; development, implementation
+and initial production of new strategic products and processes; excess or
+shortage of manufacturing capacity; unanticipated costs or other adverse effects
+associated with processors and other products containing errata (deviations from
+published specifications); risks associated with foreign operations; litigation
+involving intellectual property and consumer issues; level of stock repurchases;
+and other risk factors listed from time to time in the company's SEC reports,
+including but not limited to the report on Form 10-Q for the quarter ended June
+28, 1997 (Part I, Item 2, Outlook section).
+
+
+                                    INTEL CORPORATION
+                                    -----------------
+                        CONSOLIDATED SUMMARY FINANCIAL STATEMENTS
+                        -----------------------------------------
+                           (Millions, except per share amounts)
+                           ------------------------------------
+<TABLE>
+INCOME                                3 Months Ended           9 Months Ended
+                                      --------------           --------------
+                                   Sept. 27,  Sept. 28,     Sept. 27,  Sept. 28,
+                                     1997       1996          1997       1996
+                                     ----       ----          ----       ----
+<S>                                <C>        <C>           <C>        <C>
+NET REVENUES                       $ 6,155    $ 5,142       $18,563    $14,407
+                                   -------    -------       -------    -------
+Cost of sales                        2,604      2,201         7,254      6,772
+Research and development               586        449         1,742      1,288
+Marketing, general and administrative  676        565         2,073      1,600
+                                   -------    -------       -------    -------
+Operating costs and expenses         3,866      3,215        11,069      9,660
+                                   -------    -------       -------    -------
+OPERATING INCOME                     2,289      1,927         7,494      4,747
+Interest and other                     151         91           571        248
+                                   -------    -------       -------    -------
+INCOME BEFORE TAXES                  2,440      2,018         8,065      4,995
+Income taxes                           866        706         2,863      1,748
+                                   -------    -------       -------    -------
+NET INCOME                         $ 1,574    $ 1,312       $ 5,202    $ 3,247
+                                   =======    =======       =======    =======
+
+EARNINGS PER SHARE                 $  0.88    $  0.74       $  2.89    $  1.84
+                                   =======    =======       =======    =======
+
+COMMON SHARES AND EQUIVALENTS        1,797      1,770         1,798      1,769
+</TABLE>
+________________________________________________________________________________
+<TABLE>
+BALANCE SHEET                                        At            At
+                                                  Sept. 27,     Dec. 28,
+                                                    1997          1996
+                                                    ----          ----
+                                 
+<S>                                                <C>           <C>
+CURRENT ASSETS
+Cash and short-term investments                    $ 8,960       $ 7,994
+Accounts receivable, net                             3,921         3,723
+Inventories                                          1,507         1,293
+Deferred tax assets and other                          752           674
+                                                   -------       -------
+  Total current assets                              15,140        13,684
+
+Property, plant and equipment, net                   9,745         8,487
+Long-term investments                                1,815         1,353
+Other assets                                           501           211
+                                                   -------       -------
+  TOTAL ASSETS                                     $27,201       $23,735
+                                                   =======       =======
+
+CURRENT LIABILITIES
+Short-term debt                                    $   297       $   389
+Accounts payable and accrued liabilities             3,539         3,014
+Deferred income on shipments to distributors           517           474
+Income taxes payable                                   811           986
+                                                   -------       -------
+  Total current liabilities                          5,164         4,863
+                                                   -------       -------
+LONG-TERM DEBT                                         386           728
+                                                   -------       -------
+DEFERRED TAX LIABILITIES                             1,123           997
+                                                   -------       -------
+PUT WARRANTS                                           582           275
+                                                   -------       -------
+
+STOCKHOLDERS' EQUITY
+Common Stock and
+  capital in excess of par value                     3,389         2,897
+Retained earnings                                   16,557        13,975
+                                                   -------       -------
+  Total stockholders' equity                        19,946        16,872
+                                                   -------       -------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY         $27,201       $23,735
+                                                   =======       =======
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

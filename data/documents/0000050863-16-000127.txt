@@ -1,0 +1,806 @@
+<SEC-DOCUMENT>0000050863-16-000127.txt : 20160524
+<SEC-HEADER>0000050863-16-000127.hdr.sgml : 20160524
+<ACCEPTANCE-DATETIME>20160524170831
+ACCESSION NUMBER:		0000050863-16-000127
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160519
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20160524
+DATE AS OF CHANGE:		20160524
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		161672589
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Intel Corporation
+    Document created using EDGARfilings PROfile 3.6.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif" bgcolor="#ffffff" text="#000000">
+<div>
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">UNITED STATES<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font>SECURITIES AND EXCHANGE COMMISSION<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> Washington, D.C. 20549</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">______________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">FORM 8-K</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">______________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">CURRENT REPORT</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">Date of Report (Date of earliest event reported): May 19, 2016</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">______________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt"><font style="FONT-SIZE: 18pt; FONT-FAMILY: 'Times New Roman', Times, serif">INTEL CORPORATION</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> (Exact name of registrant as specified in its charter)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">______________</div>
+
+<div><br>
+</div>
+
+<table id="d251d78749a442c593b90da6bbaefaa2" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Delaware</div>
+</td>
+<td style="WIDTH: 33.32%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">000-06217</div>
+</td>
+<td style="WIDTH: 33.32%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">94-1672743</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.35%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(State or other jurisdiction of<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> incorporation)</div>
+</td>
+<td style="WIDTH: 33.32%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(Commission File Number)</div>
+</td>
+<td style="WIDTH: 33.32%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center">(IRS Employer Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">2200 Mission College Blvd., Santa Clara, California 95054-1549<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> (Address of principal executive offices) (Zip Code)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">(408) 765-8080<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> (Registrant's telephone number, including area code)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">(Former Name or Former Address, if Changed Since Last Report)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">see</font> General Instruction A.2. below):</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt">
+<table id="7819c7dba69b4aeaaf48eaa2b02bf432" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 18pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt">
+<table id="72adf6f6111a4a618f851959638fa377" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 18pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt">
+<table id="51f65b2b09fb489da3983adf428c0243" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 18pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt">
+<table id="3c75d0d6a8774ed6ba3228f8bec72470" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 18pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt">&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt">
+<table id="6ef5d30653e64f39b61df8050bed6c8f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 72pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; align: right">Item 5.07.</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: left">Submission of Matters to a Vote of Security Holders.</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Intel's Annual Stockholders' Meeting was held on May 19, 2016.&#160; At the meeting:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">
+<table id="d76f801e5e0c45a3bdc388af271de374" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 4.76%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">1)</div>
+</td>
+<td style="WIDTH: 95.24%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">stockholders elected the 10 persons recommended by the Board to serve as directors of Intel;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr style="HEIGHT: 32px">
+<td style="WIDTH: 4.76%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">2)</div>
+</td>
+<td style="WIDTH: 95.24%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">stockholders ratified the selection of Ernst &amp; Young LLP to serve as the independent registered public accounting firm of Intel for 2016;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.76%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">3)</div>
+</td>
+<td style="WIDTH: 95.24%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">stockholders approved, on an advisory basis, Intel's executive compensation;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.76%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">4)</div>
+</td>
+<td style="WIDTH: 95.24%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">stockholders did not approve the stockholder proposal seeking the implementation of the principles entitled "Holy Land Principles";</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.76%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">5)</div>
+</td>
+<td style="WIDTH: 95.24%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">stockholders did not approve the stockholder proposal requesting that the Board take steps to allow stockholders to act by written consent; and</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.76%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">6)</div>
+</td>
+<td style="WIDTH: 95.24%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">stockholders did not approve the stockholder proposal requesting that the Board take steps to adopt an alternative vote counting standard.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left">&#160;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Set forth below, with respect to each such matter, are the number of votes cast for or against, the number of abstentions and the number of broker non-votes.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="5936a7f7512f4c848814e0206bfa3a75" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 3.42%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: right">1)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 96.58%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Election of Directors</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="d00868d3e81f40bd9ef4109c2581ed76" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Nominee</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">For</div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Against</div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Abstain</div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Charlene Barshefsky</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">3</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">120</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">846,846</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">89,308</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">833</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">10,046,393</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Aneel Bhusri</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">3,182</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #7a7b7a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">429</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">852</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">27,374</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">247</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">10,397</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">973</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Andy D. Bryant</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">3,092</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">384</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">701</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">114</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">330,563</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">13</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">486</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">808</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">John J. Donahoe</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">3,171,063</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">877</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">38</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">552</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">406</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">10</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">585</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">789</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Reed E. Hundt</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">3</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">138,459</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">299</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">71</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">198</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">398</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">10</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">544</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">375</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Brian M. Krzanich</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">3,165,961,834</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">47</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">921,017</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">6</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">319</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">221</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">James D. Plummer</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">3</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">173,526,516</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">36</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">102,480</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #1e1e1e">10</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">573</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">076</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">David S. Pottruck</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">3</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">122,090</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">438</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">87</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">642</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #7a7b7a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">202</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">10,469</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">432</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">Frank D. Yeary</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">3</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">180,807</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">,060</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">28,822,977</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">10,572,035</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 22.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">David B. Yoffie</div>
+</td>
+<td style="WIDTH: 19.33%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">3,101</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">561,332</font></div>
+</td>
+<td style="WIDTH: 18.24%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">108,529,930</font></div>
+</td>
+<td style="WIDTH: 17.54%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">10,110</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">810</font></div>
+</td>
+<td style="WIDTH: 22.26%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">860</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">691,340</font></div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="4bce452762e840c4b292815dc68e4549" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 3.42%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: right">2)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 96.58%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Ratification of Selection of Independent Registered Public Accounting Firm</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="6a90af8c38484da4a5705216cce8d1c7" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">For</div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Against</div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Abstain</div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">4</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">019</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #7a7b7a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">644,398</font></div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">44,474,305</font></div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #363636">16</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">774</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #646464">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #474747">709</font></div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: center">&#160;(0)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">
+<table id="ee90316f69954707922fa9c24715c8dc" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 4.06%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: right">&#160;3)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 95.94%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Advisory Vote to Approve Executive Compensation</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="771557d588774f2ea289abed64eddbfb" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">For</div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Against</div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Abstain</div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">3</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">086</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">256</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">754</font></div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">117</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">271,206</font></div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2a2a2a">16</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">674,112</font></div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">860,691</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">340</font></div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="803b15cd3051485ebe653ca969f3677b" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 3.42%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: right">4)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 96.58%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Stockholder Proposal on Implementing Principles Entitled "Holy Land Principles"</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="acaa9c351f284ad99e31dace292bdc22" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">For</div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Against</div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Abstain</div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">103,321,479</font></div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">2,551,699,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #505050">762</font></div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">565,180,831</font></div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">860,691,340</font></div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="621ccbf265dd4e18966c8d39d4ec0e48" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 3.42%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: right">5)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 96.58%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Stockholder Proposal on Allowing Stockholders to Act by Written Consent</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="91a85d2021b84c4e883264a185e4b5b2" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">For</div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Against</div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Abstain</div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2a2a2a">1</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #505050">,374,229</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2a2a2a">152</font></div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">1,821</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #2a2a2a">798,085</font></div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">24,174,835</font></div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">860,691,340</font></div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="e974339c5dc84a8f8cc678005d1044bd" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 3.42%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: right">6)&#160;&#160;</div>
+</td>
+<td style="WIDTH: 96.58%; VERTICAL-ALIGN: top; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: justify">Stockholder Proposal on Adopting an Alternative Vote Counting Standard</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<table id="ed1af344d0834c9498e022f55c0ec52c" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">For</div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Against</div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Abstain</div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">Broker Non-Votes</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">339,911,937</font></div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #505050">2,855</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #6a6a6a">,</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">159,789</font></div>
+</td>
+<td style="WIDTH: 24.98%; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">25,130,346</font></div>
+</td>
+<td style="WIDTH: 25.04%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 4px double; BACKGROUND-COLOR: #ffffff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #3c3c3c">860,691,340</font></div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #000000; TEXT-ALIGN: left">&#160;</div>
+
+<div style="MARGIN-BOTTOM: 3pt; TEXT-ALIGN: left; MARGIN-TOP: 3pt">&#160;</div>
+
+<div style="MARGIN-BOTTOM: 3pt; TEXT-ALIGN: left; MARGIN-TOP: 3pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Item 8.01.</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.14pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Other Events.</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt">On May 18, 2016, Director John J. Donahoe was appointed to serve as independent Lead Director of the Board, effective immediately, on the recommendation of the Board's Corporate Governance and Nominating Committee.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">SIGNATURES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt; TEXT-INDENT: 36pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt; TEXT-INDENT: 36pt">
+<table id="4eac36a754d64daabf22210116ac2c01" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: separate" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 51.19%" valign="top">&#160;&#160;&#160;&#160;&#160; </td>
+<td style="WIDTH: 36.82%" valign="top" colspan="2">
+<div style="FONT-WEIGHT: bold">INTEL CORPORATION</div>
+
+<div>(Registrant)</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 51.19%" valign="top">&#160;</td>
+<td style="WIDTH: 1.48%" valign="top">&#160;</td>
+<td style="WIDTH: 35.47%" valign="top">&#160;</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 51.19%; PADDING-BOTTOM: 2px" valign="top" align="left">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">Date:&#160; May 24, 2016<font style="FONT-SIZE: 5.04pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+</td>
+<td style="WIDTH: 1.48%; PADDING-BOTTOM: 2px" valign="top">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">&#160;By:&#160;&#160;&#160;&#160;&#160; </div>
+</td>
+<td style="WIDTH: 35.47%; BORDER-BOTTOM: #000000 2px solid" valign="top" nowrap="nowrap" align="left">/s/&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; FONT-WEIGHT: normal; FONT-STYLE: normal">Suzan A. Miller</font></td>
+<td style="WIDTH: 12%; PADDING-BOTTOM: 2px" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 51.19%" valign="top">&#160;</td>
+<td style="WIDTH: 1.48%" valign="top">&#160;</td>
+<td style="WIDTH: 35.47%" valign="bottom" nowrap="nowrap" align="left">Suzan A. Miller</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 51.19%" valign="top">&#160;</td>
+<td style="WIDTH: 1.48%" valign="top">&#160;</td>
+<td style="WIDTH: 35.47%" valign="top">Vice President, Deputy General Counsel and</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 51.19%" valign="top">&#160;</td>
+<td style="WIDTH: 1.48%" valign="top">&#160;</td>
+<td style="WIDTH: 35.47%" valign="top">
+<div>&#160;Corporate Secretary</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; MARGIN-TOP: 12pt">&#160;</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

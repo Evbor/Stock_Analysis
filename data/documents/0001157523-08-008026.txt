@@ -1,0 +1,5333 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NfR3HRtajnAUhFcrxpqHQU9bIs9qHI7VnOAW9//IokLWuO6h1SWvQ1SqgfC9vgKs
+ 9WaM9wmDanbIdTyaeKhp0Q==
+
+<SEC-DOCUMENT>0001157523-08-008026.txt : 20081014
+<SEC-HEADER>0001157523-08-008026.hdr.sgml : 20081013
+<ACCEPTANCE-DATETIME>20081014163409
+ACCESSION NUMBER:		0001157523-08-008026
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20081014
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20081014
+DATE AS OF CHANGE:		20081014
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		081122674
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a5803404.htm
+<DESCRIPTION>INTEL CORPORATION 8-K
+<TEXT>
+<html>
+  <head>
+    <title></title>
+<!--Copyright 2008 Business Wire, a Berkshire Hathaway company.-->
+<!--All rights reserved www.businesswire.com-->
+  </head>
+  <body style="font-size: 10pt; font-family: Times New Roman">
+    <p style="text-align: center">
+      <font style="font-size: 14pt"><b>UNITED STATES</b></font><br><font style="font-size: 14pt"><b>SECURITIES
+      AND EXCHANGE COMMISSION</b></font><br><br><br><font style="font-size: 10pt">Washington,
+      D.C. 20549</font><br><br><br><font style="font-size: 14pt"><b>FORM 8-K</b></font><br><br><br><font style="font-size: 12pt"><b>CURRENT
+      REPORT</b></font><font style="font-size: 12pt"><br style="font-size: 12pt"></font><font style="font-size: 12pt">Pursuant
+      to Section 13 OR 15(d)</font><font style="font-size: 12pt"><br style="font-size: 12pt"></font><font style="font-size: 12pt">of
+      The Securities Exchange Act of 1934</font><br><br><br><font style="font-size: 12pt"><b>Date
+      of Report:&#160;&#160;October 14, 2008</b></font><font style="font-size: 12pt"><br style="font-size: 12pt"></font><font style="font-size: 12pt">(Date
+      of earliest event reported)</font><br><br><br><br><font style="font-size: 14pt"><b>INTEL
+      CORPORATION</b></font><br><font style="font-size: 12pt">(Exact name of
+      registrant as specified in its charter)</font>
+    </p>
+    <div style="text-align:center">
+    <table style="margin-left:auto;margin-right:auto; font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px; width: 33%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <u><font style="font-size: 12pt"><b>Delaware</b></font></u>
+          </p>
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px; width: 34%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <u><font style="font-size: 12pt"><b>000-06217</b></font></u>
+          </p>
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px; width: 33%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <u><font style="font-size: 12pt"><b>94-1672743</b></font></u>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px; width: 33%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">(State or other jurisdiction</font>
+          </p>
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">of incorporation)</font>
+          </p>
+        </td>
+        <td style="text-align: center; padding-left: 0.0px; width: 34%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">(Commission</font>
+          </p>
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">File Number)</font>
+          </p>
+        </td>
+        <td style="text-align: center; padding-left: 0.0px; width: 33%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">(IRS Employer</font>
+          </p>
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">Identification No.)</font>
+          </p>
+        </td>
+      </tr>
+    </table>
+    </div>
+    <p>
+
+    </p>
+    <div style="text-align:center">
+    <table style="margin-left:auto;margin-right:auto; font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; width: 70%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <u><font style="font-size: 12pt"><b>2200 Mission College Blvd.,
+            Santa Clara, California</b></font></u>
+          </p>
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px; width: 30%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <u><font style="font-size: 12pt"><b>95054-1549</b></font></u>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; width: 70%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">(Address of principal executive
+            offices)</font>
+          </p>
+        </td>
+        <td style="text-align: center; width: 30%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">(Zip Code)</font>
+          </p>
+        </td>
+      </tr>
+    </table>
+    </div>
+    <p>
+
+    </p>
+    <div style="text-align:center">
+    <table style="margin-left:auto;margin-right:auto; font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <u><font style="font-size: 12pt"><b>(408) 765-8080</b></font></u>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 12pt">(Registrant's telephone number,
+            including area code)</font>
+          </p>
+        </td>
+      </tr>
+    </table>
+    </div>
+    <p>
+      Check the appropriate box below if the Form 8-K filing is intended to
+      simultaneously satisfy the filing obligation of the registrant under any
+      of the following provisions:
+    </p>
+    <p>
+      [ ] Written communications pursuant to Rule 425 under the Securities Act
+      (17 CFR 230.425)
+    </p>
+    <p>
+      [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+      (17 CFR 240.14a-12)
+    </p>
+    <p>
+      [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+      Exchange Act (17 CFR 240.14d-2(b))
+    </p>
+    <p>
+      [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+      Exchange Act (17 CFR 240.13e-4c))
+    </p>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center; font-size: 10pt; font-family: Times New Roman">
+          <b>1 </b>
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <div style="text-align:left">
+    <table style="font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px; width: 10%" valign="top">
+          Item 2.02
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 2%" valign="top">
+          &#160;
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 88%" valign="top">
+          RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px; width: 10%" valign="top">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 2%" valign="top">
+
+        </td>
+        <td style="width: 88%">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 10%">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 2%" valign="top">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 88%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            Attached hereto as Exhibit 99.1 and incorporated by reference
+            herein is financial information for Intel Corporation for the
+            quarter ended September 27, 2008 and forward-looking statements
+            relating to 2008 and the fourth quarter of 2008 as presented in a
+            press release of October 14, 2008.
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 10%">
+
+        </td>
+        <td style="width: 2%">
+
+        </td>
+        <td style="width: 88%">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 10%">
+
+        </td>
+        <td style="width: 2%">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 88%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            The information in this report shall be deemed incorporated by
+            reference into any registration statement heretofore or hereafter
+            filed under the Securities Act of 1933, as amended, except to the
+            extent that such information is superseded by information as of a
+            subsequent date that is included in or incorporated by reference
+            into such registration statement. The information in this report
+            shall not be treated as filed for purposes of the Securities
+            Exchange Act of 1934, as amended.
+          </p>
+        </td>
+      </tr>
+    </table>
+    </div>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center; font-size: 10pt; font-family: Times New Roman">
+          <b>2 </b>
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <p>
+
+    </p>
+    <p style="text-align: center">
+      <font style="font-size: 14pt"><b>SIGNATURES</b></font>
+    </p>
+    <p>
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+      registrant has duly caused this report to be signed on its behalf by the
+      undersigned hereunto duly authorized.
+    </p>
+    <div style="text-align:left">
+    <table style="font-size: 10pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="width: 50%">
+
+        </td>
+        <td style="width: 4%">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            <font style="font-size: 11pt"><b>INTEL CORPORATION</b></font>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 50%">
+
+        </td>
+        <td style="width: 4%">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            (Registrant)
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 50%">
+
+        </td>
+        <td style="width: 4%">
+
+        </td>
+        <td style="width: 22%">
+
+        </td>
+        <td style="width: 24%">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px; width: 50%" valign="top">
+          Date: October 14, 2008
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 5.0px; width: 4%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            By:
+          </p>
+        </td>
+        <td style="text-align: left; border-bottom: solid black 1.0pt; padding-left: 0.0px; width: 22%" valign="top">
+          <p style="margin-top: 0px; margin-bottom: 0px">
+            /s/ Stacy J. Smith
+          </p>
+        </td>
+        <td style="width: 24%">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px; width: 50%" valign="top">
+
+        </td>
+        <td style="width: 4%">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px; width: 22%" valign="top">
+          Stacy J. Smith
+        </td>
+        <td style="width: 24%">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 50%">
+
+        </td>
+        <td style="width: 4%">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Vice President and Chief Financial Officer
+        </td>
+      </tr>
+    </table>
+    </div>
+    <p style="text-align: center">
+      <br>
+      <b>3</b>
+    </p>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a5803404-ex991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+<!--Copyright 2008 Business Wire, a Berkshire Hathaway company.-->
+<!--All rights reserved www.businesswire.com-->
+  </head>
+  <body style="font-size: 8pt; font-family: Times New Roman">
+    <p style="text-align: right">
+      <b>Exhibit 99.1</b>
+    </p>
+    <p style="text-align: center">
+      <font style="font-family: Times New Roman; font-size: 12pt"><b>Intel
+      Posts Record Third-Quarter Revenue of $10.2 Billion</b></font>
+    </p>
+    <ul>
+      <li style="margin-bottom: 10.0px">
+        <font style="font-family: Times New Roman; font-size: 12pt"><b>Revenue
+        up 8 Percent Sequentially</b></font>
+      </li>
+      <li style="margin-bottom: 10.0px">
+        <font style="font-family: Times New Roman; font-size: 12pt"><b>Gross
+        Margin 59 Percent; Operating Margin 30 Percent</b></font>
+      </li>
+      <li style="margin-bottom: 10.0px">
+        <font style="font-family: Times New Roman; font-size: 12pt"><b>Operating
+        Income of $3.1 Billion up 37 Percent Sequentially</b></font>
+      </li>
+      <li style="margin-bottom: 10.0px">
+        <font style="font-family: Times New Roman; font-size: 12pt"><b>Net
+        Income $2 Billion</b></font>
+      </li>
+      <li style="margin-bottom: 10.0px">
+        <font style="font-family: Times New Roman; font-size: 12pt"><b>EPS 35
+        Cents</b></font>
+      </li>
+    </ul>
+    <p>
+      SANTA CLARA, Calif.--(BUSINESS WIRE)--October 14, 2008--Intel
+      Corporation today announced record third-quarter revenue of $10.2
+      billion along with operating income of $3.1 billion, net income of $2
+      billion and earnings per share (EPS) of 35 cents.
+    </p>
+    <p>
+      &#8220;Intel delivered the best third-quarter revenue in its history,&#8221; said
+      Paul Otellini, Intel president and CEO. &#8220;We were solidly profitable,
+      with operating income of over $3 billion, reflecting strong
+      across-the-board execution and best-of-class products.&#8221;
+    </p>
+    <p>
+      &#8220;As we look to Q4, it is hard to know what impact the financial crisis
+      will have on end customer demand. We are confident that our product
+      portfolio, strong cash flow, commitment to deploying new technology and
+      market momentum will allow us to outpace peer companies at a time when
+      business levels are difficult to predict.&#8221;
+    </p>
+    <div style="text-align:left">
+    <table style="font-size: 8pt; width: 100%; margin-bottom: 10.0px; font-family: Times New Roman" cellspacing="0">
+      <tr>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          Q3 2008
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          vs. Q3 2007
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          vs. Q2 2008
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          Revenue
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          $10.2 billion
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +1%
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +8%
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          Operating Income
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          $3.1 billion
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +44%
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +37%
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          Net Income
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          $2 billion
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +12%
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +26%
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          EPS
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          35 cents
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +17%
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          +25%
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="4" valign="top">
+          Q3 2008 results included an impairment of the Numonyx investment
+          that net of tax benefits resulted in a $162-million charge. Q3 2007
+          results included $125 million in restructuring and asset impairment
+          charges; the results also included significantly higher revenue from
+          divested businesses such as NOR flash and cellular baseband
+          products. Q2 2008 results included $96 million in restructuring
+          charges.
+        </td>
+      </tr>
+    </table>
+    </div>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <p>
+      <u>Key Financial Information</u>
+    </p>
+    <ul>
+      <li style="margin-bottom: 10.0px">
+        Microprocessor and chipset units both set records.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Revenue from Intel&#174; Atom&#8482; microprocessors and chipsets into the new
+        netbook and nettop segments was approximately $200 million.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The total microprocessor average selling price (ASP) was lower
+        sequentially.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Excluding shipments of Intel Atom microprocessors, the ASP was flat.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Gross margin of 58.9 percent was up from 55.4 percent in the second
+        quarter. The increase was driven primarily by lower microprocessor
+        unit costs and higher microprocessor revenue.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The net loss from equity investments and interest and other was $265
+        million, greater than the expected net loss of $30 million, primarily
+        driven by a $250-million impairment of the company&#8217;s investment in
+        Numonyx.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The effective tax rate was 28.9 percent, lower than the expectation of
+        approximately 33 percent.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The company used $2.1 billion to repurchase 93 million shares of its
+        common stock.
+      </li>
+    </ul>
+    <p>
+      <u>Business Outlook</u>
+    </p>
+    <p>
+      Intel&#8217;s Business Outlook does not include the potential impact of any
+      mergers, acquisitions, divestitures or other business combinations that
+      may be completed after Oct. 13. Current uncertainty in global economic
+      conditions makes it particularly difficult to predict product demand and
+      other related matters and makes it more likely that Intel&#8217;s actual
+      results could differ materially from expectations.
+    </p>
+    <p>
+      <u>Q4 2008</u>:
+    </p>
+    <ul>
+      <li style="margin-bottom: 10.0px">
+        Revenue: Between $10.1 billion and $10.9 billion.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Gross margin: 59 percent plus or minus a couple of points.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Spending (R&amp;D plus MG&amp;A): Approximately $2.9 billion.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Restructuring and asset impairment charges: Approximately $250
+        million. The expected charges are primarily driven by the decision by
+        Intel and Micron to discontinue the supply of NAND flash memory from a
+        200mm facility within the IMFT manufacturing network.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Net gain or loss from equity investments and interest and other: Net
+        loss of approximately $50 million.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Tax rate: Approximately 29 percent, lower than the previous
+        expectation of approximately 33 percent.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Depreciation: Approximately $1.1 billion.
+      </li>
+    </ul>
+    <p>
+      <u>Full-Year 2008</u>:
+    </p>
+    <ul>
+      <li style="margin-bottom: 10.0px">
+        Spending (R&amp;D plus MG&amp;A): Approximately $11.5 billion, lower than the
+        previous expectation of approximately $11.7 billion dollars.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        R&amp;D: Approximately $5.9 billion, lower than the previous expectation
+        of approximately $6 billion.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Capital spending: $5 billion plus or minus $100 million, as compared
+        to the previous expectation of $5.2 billion plus or minus $200 million.
+      </li>
+    </ul>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <p>
+      <u>Status of Business Outlook</u>
+    </p>
+    <p>
+      During the quarter, Intel&#8217;s corporate representatives may reiterate the
+      Business Outlook during private meetings with investors, investment
+      analysts, the media and others. Due to the uncertain economic
+      environment, Intel intends to publish a mid-quarter business update this
+      quarter. From the close of business on Nov. 28 until publication of the
+      mid-quarter update on Dec. 4, Intel will observe a &#8220;Quiet Period&#8221; during
+      which the Business Outlook disclosed in the company&#8217;s press releases and
+      filings with the SEC should be considered to be historical, speaking as
+      of prior to the Quiet Period only and not subject to an update by the
+      company.
+    </p>
+    <p>
+      <u>Risk Factors</u>
+    </p>
+    <p>
+      The above statements and any others in this document that refer to plans
+      and expectations for the fourth quarter, the year and the future are
+      forward-looking statements that involve a number of risks and
+      uncertainties. Many factors could affect Intel&#8217;s actual results, and
+      variances from Intel&#8217;s current expectations regarding such factors could
+      cause actual results to differ materially from those expressed in these
+      forward-looking statements. Intel presently considers the following to
+      be the important factors that could cause actual results to differ
+      materially from the corporation&#8217;s expectations.
+    </p>
+    <ul>
+      <li style="margin-bottom: 10.0px">
+        Current uncertainty in global economic conditions pose a risk to the
+        overall economy as consumers and businesses may defer purchases in
+        response to tighter credit and negative financial news, which could
+        negatively affect product demand and other related matters.
+        Consequently, demand could be different from Intel's expectations due
+        to factors including changes in business and economic conditions,
+        including conditions in the credit market that could affect consumer
+        confidence; customer acceptance of Intel&#8217;s and competitors&#8217; products;
+        changes in customer order patterns including order cancellations; and
+        changes in the level of inventory at customers.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Intel&#8217;s results could be affected by the timing of closing of
+        acquisitions and divestitures.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Intel operates in intensely competitive industries that are
+        characterized by a high percentage of costs that are fixed or
+        difficult to reduce in the short term and product demand that is
+        highly variable and difficult to forecast. Revenue and the gross
+        margin percentage are affected by the timing of new Intel product
+        introductions and the demand for and market acceptance of Intel's
+        products; actions taken by Intel's competitors, including product
+        offerings and introductions, marketing programs and pricing pressures
+        and Intel&#8217;s response to such actions; Intel&#8217;s ability to respond
+        quickly to technological developments and to incorporate new features
+        into its products; and the availability of sufficient supply of
+        components from suppliers to meet demand.
+      </li>
+    </ul>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <ul>
+      <li style="margin-bottom: 10.0px">
+        The gross margin percentage could vary significantly from expectations
+        based on changes in revenue levels; product mix and pricing; capacity
+        utilization; variations in inventory valuation, including variations
+        related to the timing of qualifying products for sale; excess or
+        obsolete inventory; manufacturing yields; changes in unit costs;
+        impairments of long-lived assets, including manufacturing,
+        assembly/test and intangible assets; and the timing and execution of
+        the manufacturing ramp and associated costs, including start-up costs.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Expenses, particularly certain marketing and compensation expenses,
+        vary depending on the level of demand for Intel's products, the level
+        of revenue and profits, and impairments of long-lived assets.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Intel is in the midst of a structure and efficiency program that is
+        resulting in several actions that could have an impact on expected
+        expense levels and gross margin.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The tax rate expectation is based on current tax law and current
+        expected income. The tax rate may be affected by the jurisdictions in
+        which profits are determined to be earned and taxed; changes in the
+        estimates of credits, benefits and deductions; the resolution of
+        issues arising from tax audits with various tax authorities, including
+        payment of interest and penalties; and the ability to realize deferred
+        tax assets.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The recent financial crisis affecting the banking system and financial
+        markets and the going concern threats to investment banks and other
+        financial institutions have resulted in a tightening in the credit
+        markets, a low level of liquidity in many financial markets, and
+        extreme volatility in fixed income, credit and equity markets. There
+        could be a number of follow-on effects from the credit crisis on
+        Intel&#8217;s business, including insolvency of key suppliers resulting in
+        product delays; inability of customers to obtain credit to finance
+        purchases of our products and/or customer insolvencies; counterparty
+        failures negatively impacting our treasury operations; increased
+        expense or inability to obtain short-term financing of Intel&#8217;s
+        operations from the issuance of commercial paper; and increased
+        impairments from the inability of investee companies to obtain
+        financing. Gains or losses from equity securities and interest and
+        other could also vary from expectations depending on gains or losses
+        realized on the sale or exchange of securities; gains or losses from
+        equity method investments; impairment charges related to debt
+        securities as well as equity and other investments; interest rates;
+        cash balances; and changes in fair value of derivative instruments.
+        The current volatility in the financial markets and overall economic
+        uncertainty increases the risk that the actual amounts realized in the
+        future on our debt and equity investments will differ significantly
+        from the fair values currently assigned to them.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        The majority of our non-marketable equity investment portfolio balance
+        is concentrated in companies in the flash memory market segment, and
+        declines in this market segment or changes in management&#8217;s plans with
+        respect to our investments in this market segment could result in
+        significant impairment charges, impacting gains/losses on equity
+        investments and interest and other.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Intel's results could be impacted by adverse economic, social,
+        political and physical/infrastructure conditions in the countries in
+        which Intel, its customers or its suppliers operate, including
+        military conflict and other security risks, natural disasters,
+        infrastructure disruptions, health concerns and fluctuations in
+        currency exchange rates.
+      </li>
+      <li style="margin-bottom: 10.0px">
+        Intel's results could be affected by adverse effects associated with
+        product defects and errata (deviations from published specifications),
+        and by litigation or regulatory matters involving intellectual
+        property, stockholder, consumer, antitrust and other issues, such as
+        the litigation and regulatory matters described in Intel's SEC reports.
+      </li>
+    </ul>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <p>
+      A detailed discussion of these and other factors that could affect
+      Intel&#8217;s results is included in Intel&#8217;s SEC filings, including the report
+      on Form 10-Q for the quarter ended June 28, 2008.
+    </p>
+    <p>
+      <u>Earnings Webcast</u>
+    </p>
+    <p>
+      Intel will hold a public webcast at 2:30 p.m. PDT today on its Investor
+      Relations Web site at <u>www.intc.com</u>. A webcast replay and MP3
+      audio download will also be made available on the site.
+    </p>
+    <p>
+      Intel [NASDAQ: INTC], the world leader in silicon innovation, develops
+      technologies, products and initiatives to continually advance how people
+      work and live. Additional information about Intel is available at <u>www.intel.com/pressroom</u>
+      and blogs.intel.com
+    </p>
+    <p>
+      INTC/IR
+    </p>
+    <p>
+      Intel, the Intel logo and Intel Atom are trademarks of Intel Corporation
+      in the United States and other countries.
+    </p>
+    <p>
+      * Other names and brands may be claimed as the property of others.
+    </p>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <div style="text-align:left">
+    <table style="font-size: 8pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="15" valign="top">
+          INTEL CORPORATION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="15" valign="top">
+          CONSOLIDATED SUMMARY INCOME STATEMENT DATA
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="15" valign="top">
+          (In millions, except per share amounts)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &#160;
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="5" valign="top">
+          Three Months Ended
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="5" valign="top">
+          Nine Months Ended
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Sept. 27,
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Sept. 29,
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Sept. 27,
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Sept. 29,
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2008
+        </td>
+        <td style="text-align: center; padding-bottom: 2.0px; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2007
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2008
+        </td>
+        <td style="text-align: center; padding-bottom: 2.0px; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2007
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          NET REVENUE
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10,217
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10,090
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          29,360
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          27,622
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          Cost of sales
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,198
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,919
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          12,885
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          13,944
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          GROSS MARGIN
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          6,019
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td style="text-align: left; border-bottom: solid black 1.0pt; padding-left: 0.0px" valign="top">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,171
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          16,475
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          13,678
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Research and development
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,471
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,521
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,406
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,274
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Marketing, general and administrative
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,416
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,381
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,195
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,953
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          Restructuring and asset impairment charges
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          34
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          125
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          459
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          282
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          OPERATING EXPENSES
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,921
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,027
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          9,060
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          8,509
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          OPERATING INCOME
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,098
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,144
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          7,415
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,169
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Gains (losses) on equity investments, net
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (396)
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          148
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (564)
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          176
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          Interest and other, net
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          131
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          211
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          466
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          560
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          INCOME BEFORE TAXES
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,833
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,503
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          7,317
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,905
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          Provision for taxes
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          819
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          712
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,259
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,200
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 4.0px; padding-left: 0.0px" colspan="3" valign="top">
+          NET INCOME
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,014
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,791
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,058
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,705
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 4.0px; padding-left: 0.0px" colspan="3" valign="top">
+          BASIC EARNINGS PER COMMON SHARE
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.36
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.31
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.89
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.81
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 4.0px; padding-left: 0.0px" colspan="3" valign="top">
+          DILUTED EARNINGS PER COMMON SHARE
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.35
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.30
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.87
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          0.79
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          WEIGHTED AVERAGE SHARES OUTSTANDING:
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          BASIC
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,603
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,837
+        </td>
+        <td style="text-align: right; padding-left: 0.0px" colspan="2" valign="top">
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,696
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,808
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          DILUTED
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,692
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,967
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,790
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,919
+        </td>
+      </tr>
+    </table>
+    </div>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <div style="text-align:left">
+    <table style="font-size: 8pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="11" valign="top">
+          INTEL CORPORATION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="11" valign="top">
+          CONSOLIDATED SUMMARY BALANCE SHEET DATA
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="11" valign="top">
+          (In millions)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &#160;
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Sept. 27,
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Jun. 28,
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-left: 0.0px" colspan="2" valign="top">
+          Dec. 29,
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2008
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2008
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" colspan="2" valign="bottom">
+          2007
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          CURRENT ASSETS
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Cash and cash equivalents
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,854
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,079
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          7,307
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Short-term investments
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,433
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,312
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,490
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Trading assets
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,917
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,570
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,566
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Accounts receivable, net
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,782
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,399
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,576
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Inventories:
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Raw materials
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          583
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          580
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          507
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Work in process
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,427
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,355
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,460
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" valign="top">
+          Finished goods
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,388
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,330
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,403
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,398
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,265
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,370
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Deferred tax assets
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,430
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,209
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,186
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="2" valign="top">
+          Other current assets
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,609
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          944
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,390
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          TOTAL CURRENT ASSETS
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          21,423
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          19,778
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          23,885
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Property, plant and equipment, net
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          17,026
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          16,723
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          16,918
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Marketable equity securities
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          401
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          644
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          987
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Other long-term investments
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,820
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,651
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,398
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Goodwill
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,924
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,915
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,916
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          Other long-term assets
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          6,125
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          6,681
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,547
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-bottom: 4.0px; padding-left: 0.0px" colspan="2" valign="top">
+          TOTAL ASSETS
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          52,719
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          52,392
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          55,651
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          CURRENT LIABILITIES
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Short-term debt
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          467
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          175
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          142
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Accounts payable
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,507
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,379
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,361
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Accrued compensation and benefits
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,858
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,658
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,417
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Accrued advertising
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          882
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          787
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          749
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Deferred income on shipments to distributors
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          656
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          665
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          625
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Other accrued liabilities
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,698
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,368
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,938
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="2" valign="top">
+          Income taxes payable
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          -
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          -
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          339
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          TOTAL CURRENT LIABILITIES
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10,068
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          8,032
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          8,571
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Long-term income taxes payable
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          782
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          760
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          785
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Deferred tax liabilities
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          36
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          171
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          411
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Long-term debt
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,889
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,892
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,980
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Other long-term liabilities
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,033
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,176
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,142
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="3" valign="top">
+          Stockholders' equity:
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Preferred stock
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          -
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          -
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          -
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Common stock and capital in excess of par value
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          12,744
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          12,452
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          11,653
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Accumulated other comprehensive income (loss)
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (136)
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          129
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          261
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="2" valign="top">
+          Retained earnings
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          26,303
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          27,780
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          30,848
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="3" valign="top">
+          TOTAL STOCKHOLDERS' EQUITY
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          38,911
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          40,361
+        </td>
+        <td>
+
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          42,762
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-bottom: 4.0px; padding-left: 0.0px" colspan="2" valign="top">
+          TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          52,719
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          52,392
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: double black 2.25pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          55,651
+        </td>
+      </tr>
+    </table>
+    </div>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <div style="text-align:left">
+    <table style="font-size: 8pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="10" valign="top">
+          INTEL CORPORATION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="10" valign="top">
+          SUPPLEMENTAL FINANCIAL AND OTHER INFORMATION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="10" valign="top">
+          (In millions)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q3 2008
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q2 2008
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q3 2007
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          GEOGRAPHIC REVENUE:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Asia-Pacific
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $5,389
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $4,805
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $5,205
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          53
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          51
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          52
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Americas
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,887
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,985
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $2,067
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          19
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          21
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          20
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Europe
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,883
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,741
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,824
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          18
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          18
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          18
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Japan
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,058
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $939
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $994
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          %
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          CASH INVESTMENTS:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Cash and short-term investments
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $8,287
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $8,391
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $10,796
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="2" valign="top">
+          Trading assets - marketable debt securities (1)
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,508
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,127
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,732
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Total cash investments
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $11,795
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $11,518
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $12,528
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          TRADING ASSETS:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Trading assets - equity securities
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          offsetting deferred compensation (2)
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $409
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $443
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $493
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Total trading assets - sum of 1+2
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $3,917
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $3,570
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $2,225
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          SELECTED CASH FLOW INFORMATION:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Depreciation
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,059
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,042
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $1,098
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Share-based compensation
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $197
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $243
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $227
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Amortization of intangibles
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $68
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $63
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $65
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Capital spending
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($1,374
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($1,151
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($1,088
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Stock repurchase program
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($2,117
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($2,500
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($750
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Proceeds from sales of shares to employees, tax benefit &amp; other
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $277
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $381
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $908
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Dividends paid
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($783
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($800
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($657
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Net cash received/(used) for divestitures/acquisitions
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($9
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          -
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          ($42
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          EARNINGS PER SHARE INFORMATION:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Weighted average common shares outstanding - basic
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,603
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,699
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,837
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Dilutive effect of employee equity incentive plans
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          38
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          50
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          79
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-bottom: 2.0px; padding-left: 0.0px" colspan="2" valign="top">
+          Dilutive effect of convertible debt
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          51
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          51
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; border-bottom: solid black 1.0pt; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          51
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Weighted average common shares outstanding - diluted
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,692
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,800
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,967
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          STOCK BUYBACK:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Shares repurchased
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          93
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          109
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          30
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Cumulative shares repurchased (in billions)
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3.3
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3.2
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2.9
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Remaining dollars authorized for buyback (in billions)
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $7.4
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $9.5
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          $16.0
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          OTHER INFORMATION:
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Employees (in thousands)
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          83.5
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          81.8
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          88.1
+        </td>
+        <td>
+
+        </td>
+      </tr>
+    </table>
+    </div>
+    <div style="text-indent: 0pt; width: 100%; margin-bottom: 10pt; margin-left: 0pt; margin-right: 0pt">
+      <div>
+        <div style="text-align: left">
+
+        </div>
+      </div>
+      <div style="page-break-after: always">
+        <div style="text-align: center">
+
+        </div>
+        <div style="text-align: center">
+          <hr style="height: 1.5pt; color: black">
+
+        </div>
+      </div>
+      <div>
+        <div style="text-align: right">
+
+        </div>
+      </div>
+    </div>
+    <div style="text-align:left">
+    <table style="font-size: 8pt; width: 100%; font-family: Times New Roman; margin-bottom: 10.0px" cellspacing="0">
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="11" valign="top">
+          INTEL CORPORATION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="11" valign="top">
+          SUPPLEMENTAL OPERATING RESULTS AND OTHER INFORMATION
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding-left: 0.0px" colspan="11" valign="top">
+          ($ in millions)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &#160;
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+          &#160;
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="4" valign="top">
+          Three Months Ended
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="4" valign="top">
+          Nine Months Ended
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          OPERATING SEGMENT INFORMATION:
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q3 2008
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q3 2007
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q3 2008
+        </td>
+        <td style="text-align: center; border-bottom: solid black 1.0pt; padding-left: 0.0px" colspan="2" valign="top">
+          Q3 2007
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Digital Enterprise Group
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Microprocessor revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,069
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,106
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          12,413
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          11,456
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Chipset, motherboard and other revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,249
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,406
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,719
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,887
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Net revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,318
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,512
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          16,132
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          15,343
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Operating income
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,768
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,378
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,242
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,113
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Mobility Group
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Microprocessor revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,387
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,832
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          8,855
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          7,671
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Chipset and other revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,294
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,139
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,292
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,903
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Net revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,681
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,971
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          12,147
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10,574
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Operating income
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,849
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,294
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          4,265
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,928
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          All Other
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Net revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          218
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          607
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,081
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          1,705
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Operating loss
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (519
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (528
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (2,092
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          (1,872
+        </td>
+        <td style="text-align: left; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          )
+        </td>
+      </tr>
+      <tr>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+        <td style="border-bottom: solid black 1.0pt" colspan="2">
+          &#160;
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: left; padding-left: 0.0px" colspan="2" valign="top">
+          Total
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td>
+
+        </td>
+        <td colspan="2">
+
+        </td>
+        <td colspan="2">
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Net revenue
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10,217
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          10,090
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          29,360
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          27,622
+        </td>
+        <td>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+        </td>
+        <td style="text-align: left; padding-left: 0.0px" valign="top">
+          Operating income
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          3,098
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          2,144
+        </td>
+        <td>
+
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          7,415
+        </td>
+        <td>
+
+        </td>
+        <td style="text-align: right; padding-right: 0.0px; white-space: nowrap; padding-left: 0.0px" valign="bottom">
+          5,169
+        </td>
+        <td>
+
+        </td>
+      </tr>
+    </table>
+    </div>
+    <p>
+
+    </p>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

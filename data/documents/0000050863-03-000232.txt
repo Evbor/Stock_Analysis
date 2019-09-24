@@ -1,0 +1,429 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BVD4UM3z24fngoGG9if1fRQC63IHemgs7OMR6QueuYLkkf9O6VrgnACmmX6NL1p8
+ O8AHINttZMUI1Unc3Po8ZQ==
+
+<SEC-DOCUMENT>0000050863-03-000232.txt : 20030822
+<SEC-HEADER>0000050863-03-000232.hdr.sgml : 20030822
+<ACCEPTANCE-DATETIME>20030822142626
+ACCESSION NUMBER:		0000050863-03-000232
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030822
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20030822
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		03862143
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>q303updt8kshell.htm
+<DESCRIPTION>Q3 03 UPDATE PRE-RELEASE 8_22_03 8K_LIVE
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft FrontPage 5.0">
+<TITLE>                                    UNITED STATES</TITLE>
+<META NAME="_AdHocReviewCycleID" CONTENT="411653672">
+<META NAME="_AuthorEmail" CONTENT="jeff.m.bodner@intel.com">
+<META NAME="_AuthorEmailDisplayName" CONTENT="Bodner, Jeff M">
+<META NAME="_PreviousAdHocReviewCycleID" CONTENT="411653672">
+<META NAME="_EmailSubject" CONTENT="8-K shell">
+</HEAD>
+<BODY LINK="#0000ff">
+
+<FONT FACE="Arial" SIZE=2></FONT>
+<P ALIGN="CENTER"><CENTER><TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">UNITED STATES</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">Washington, D.C. 20549</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">FORM 8-K</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">CURRENT REPORT</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">Pursuant to Section 13 or 15(d)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">of the Securities Exchange Act of 1934</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;<B>&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial"><P ALIGN="CENTER">Date of Report:  August  22, 2003</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">(Date of earliest event reported)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">INTEL CORPORATION</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">(Exact name of registrant as specified in its charter)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">Delaware</B></U></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">0-6217</B></U></FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP">
+<B><U><FONT FACE="Arial"><P ALIGN="CENTER">94-1672743</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(State of</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Commission</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(IRS Employer</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">incorporation)</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">File Number)</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">Identification No.)</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP">
+<B><FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<FONT FACE="Arial" SIZE=2>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">2200 Mission College Blvd., Santa Clara, California</B></U></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">95052-8119</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Address of principal executive offices)</FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Zip Code)</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2>
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">(408) 765-8080</B></U></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Registrant's telephone number, including area code)</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER"></P>
+<hr noshade color="#000000" size="3">
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=628>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial">
+<P ALIGN="RIGHT">Item 9.</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>REGULATION FD DISCLOSURE</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Attached hereto as Exhibit 99.1 and incorporated by reference herein is the text of Intel Corporation's announcement regarding an update to forward-looking statements relating to the third quarter of 2003 as presented in a press release of August 22, 2003.  The information in this report shall be deemed incorporated by reference into any registration statement heretofore or hereafter filed under the Securities Act of 1933, as amended, except to the extent that such information is superceded by information as of a subsequent date that is included in or incorporated by reference into such registration statement.  The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial">
+<P>&nbsp;</P>
+
+<FONT FACE="Arial" SIZE=2><hr noshade color="#000000" size="3"></FONT>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial" SIZE=4>
+<B><P ALIGN="CENTER">SIGNATURES</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial"><P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD WIDTH="55%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial">
+<B><P>INTEL CORPORATION</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="55%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>(Registrant)</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial"><P>&nbsp;</P>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD WIDTH="49%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Date: August 22, 2003</FONT></TD>
+<TD WIDTH="51%" VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P>&nbsp;&nbsp;By:&nbsp;&nbsp;<U>/s/&nbsp;Andy D. Bryant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Andy D. Bryant</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Executive Vice President,</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Chief Financial Officer and</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Principal Accounting Officer</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"></P>
+<hr noshade color="#000000" size="3">
+<P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT FACE="Arial"><P ALIGN="CENTER">Exhibit Index</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=658>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT FACE="Arial">
+<U><P ALIGN="RIGHT">Exhibit Number</U></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="78%" VALIGN="TOP">
+<FONT FACE="Arial">
+<U><P>Description</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="78%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="17%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">99.1</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="78%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Press release of August 22, 2003 with an announcement regarding an update to forward-looking statements relating to the third quarter of 2003.</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT SIZE=2>
+<P>&nbsp;</P>
+
+<FONT FACE="Arial" SIZE=2><hr noshade color="#000000" size="3"></FONT>
+</FONT><FONT FACE="Arial">
+<P ALIGN="RIGHT"></P>
+</FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>q3update8kex9982203.htm
+<DESCRIPTION>Q3 03 UPDATE PR EXHIBIT 99 8_22_03 8K_LIVE
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft FrontPage 5.0">
+<TITLE>Intel Corporation</TITLE>
+<META NAME="_AdHocReviewCycleID" CONTENT="-1048892200">
+<META NAME="_EmailSubject" CONTENT="Approved version">
+<META NAME="_AuthorEmail" CONTENT="jennifer.c.gianola@intel.com">
+<META NAME="_AuthorEmailDisplayName" CONTENT="Gianola, Jennifer C">
+<META NAME="_PreviousAdHocReviewCycleID" CONTENT="567747098">
+<META NAME="Template" CONTENT="E:\Program Files\Microsoft Office\Office\html.dot">
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<FONT FACE="Arial"><P ALIGN="right">Exhibit 99.1</P>
+
+<B><P ALIGN="CENTER">&nbsp;</P>
+<P ALIGN="CENTER">INTEL THIRD-QUARTER BUSINESS TRENDING ABOVE EXPECTATIONS</P>
+<P ALIGN="CENTER">Company Updates Revenue Range to $7.3 Billion to $7.8 Billion;<BR>
+Conference Call Scheduled for Today at 7 a.m. PDT<BR>
+Call-in Number is (913) 981-5508; Code 772506</P>
+</B><P>SANTA CLARA, Calif., Aug. 22, 2003 -- Intel Corporation today provided an update to the company's Business Outlook for the third quarter, which ends Sept. 27.</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel expects revenue to be between $7.3 billion and $7.8 billion, as compared to the previous range of $6.9 billion to $7.5 billion. The company's Intel Architecture business is generally trending higher across all geographies and channels while demand for communications products remains soft. Gross margin is expected to be 56 percent, plus or minus a couple of points, compared to previous expectation of 54 percent, plus or minus a couple of points. All other expectations are unchanged.</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The company will hold a conference call at 7 a.m. PDT to discuss today's announcement. The call-in number is (913) 981-5508, code 772506. The replay number is (719) 457-0820, code 772506, and will be available until Aug. 29. In addition, the conference call will be available live at <U>www.intc.com</U>. Intel's third-quarter Business Outlook was originally published in the company's second-quarter 2003 earnings release, available at <U>www.intc.com</U>.</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As announced on July 15, Intel will issue a third-quarter 2003 mid-quarter Business Update press release on Sept. 4. However, the company currently does not plan to hold a conference call on that date.</P>
+<hr noshade color="#000000" size="3">
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel, the world's largest chip maker, is also a leading manufacturer of computer, networking and communications products. Additional information about Intel is available at <U>www.intel.com/pressroom</U>.</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Today's business update and the July 15 Business Outlook are forward looking and involve a number of risks and uncertainties. Demand for Intel's products, which impacts revenue and gross margin, is affected by business and economic conditions as well as computing and communications industry trends and changes in customer ordering patterns. Revenue and the gross margin percentage are affected by competing chip architectures and manufacturing technologies, competing software-compatible microprocessors, pricing pressures and other competitive factors, as well as market acceptance of Intel's new products, the availability of sufficient inventory to meet demand, and the development and timing of introduction of compelling software applications and operating systems that take advantage of the features of our products. Future revenue is also dependent on continuing technological advancement, including developing and implementing new processes and strategic products, as well as the t
+iming of new product introductions, sustaining and growing new businesses, and integrating and operating any acquired businesses. In addition to the impact of changes in revenue, the gross margin percentage varies with product mix and pricing, changes in unit costs, capacity utilization and the existence of insufficient or excess capacity, and the timing and execution of the manufacturing ramp and associated costs. The gross margin percentage could also be affected by excess or obsolete inventory and variations in inventory valuation. Intel conducts much of its manufacturing, assembly and test, and sales outside the United States and is thus subject to a number of other factors, including currency controls and fluctuations, and tariff and import regulations. If terrorist activity, armed conflict, civil or military unrest or political instability occurs in the United States, Israel or other locations, such events may disrupt manufacturing, assembly and test, logistics, security and communications, and could a
+lso result in reduced demand for Intel's products. The impact of major health concerns, such as the SARS illness, could also adversely affect our business and our customer order patterns. Expenses, particularly certain marketing and compensation expenses, vary depending on the level of revenue and profits. The expectation regarding gains or losses from equity securities and interest and other assumes no unanticipated events and varies depending on equity market levels and volatility, gains or losses realized on the sale or exchange of securities, impairment charges related to non-marketable and other investments, interest rates, cash balances, and changes in fair value of derivative instruments. Expectations of impairment charges are based on experience, and it is not possible to know which specific investments are likely to be impaired or the extent or timing of individual impairments. The expectation for our tax rate is based on current tax law and the current expected income, may be affected by the closin
+g of acquisitions or divestitures, the jurisdiction in which profits are determined to be earned and taxed, the ability to realize deferred tax assets, and assumes the company continues to receive the tax benefit for export sales. Results could also be affected by adverse effects associated with product defects and errata (deviations from published specifications) and by litigation, such as that described in Intel's SEC reports, as well as other risk factors listed in Intel's SEC reports, including the report on Form 10-Q for the quarter ended June 28, 2003.</P>
+<hr noshade color="#000000" width="50%">
+<P>&nbsp;</P>
+<P>*Intel is a registered trademark of Intel Corporation or its subsidiaries in the United States and other countries.</P></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

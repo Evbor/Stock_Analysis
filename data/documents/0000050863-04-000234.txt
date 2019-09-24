@@ -1,0 +1,1616 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SpdgVj+lIBxHAnWAhmLk1FogoqNz9dSp5K7napmWddbagI26hdj1gTgF9zRLHn53
+ IUs8b4CIgzLJ7skbTfKoQw==
+
+<SEC-DOCUMENT>0000050863-04-000234.txt : 20041115
+<SEC-HEADER>0000050863-04-000234.hdr.sgml : 20041115
+<ACCEPTANCE-DATETIME>20041115142027
+ACCESSION NUMBER:		0000050863-04-000234
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041110
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041115
+DATE AS OF CHANGE:		20041115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		041143993
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>amendtest.txt
+<DESCRIPTION>AMENDMENT TO BYLAWS
+<TEXT>
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+                 PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+               Date of report:  November 10, 2004
+                (Date of earliest event reported)
+
+
+                        INTEL CORPORATION
+       (Exact Name of Registrant as Specified in Charter)
+
+
+      Delaware              0-06217              94-1672743
+     (State of          (Commission File        (IRS Employer
+   Incorporation)           Number)          Identification No.)
+
+
+
+     2200 Mission College Blvd., Santa Clara, CA 95052-8119
+      (Address of Principal Executive Offices and Zip Code)
+
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4c))
+
+<PAGE>
+
+    Item    Departure   of  Directors  or  Principal   Officers;
+    5.02    Election  of  Directors;  Appointment  of  Principal
+            Officers
+
+            (b)   Change  of  Directors  and  Principal  Officer
+            Positions
+
+                 On  November 10, 2004, Andrew S. Grove informed
+            the  Board  of  Directors of Intel Corporation  (the
+            "Company") that he will retire from his position  as
+            Chairman  of  the  Board  at  the  Company's  annual
+            meeting  of stockholders in May 2005, and  will  not
+            stand for re-election as a director. In addition, in
+            accordance with the November 10, 2004 Board  actions
+            discussed below, Dr. Craig R. Barrett will no longer
+            be  Chief Executive Officer of the Company, and Paul
+            S.  Otellini  will  no  longer  be  Chief  Operating
+            Officer  of the Company, as of the Company's  annual
+            meeting of stockholders in May 2005.
+
+                  The Company's press release is attached hereto
+            as   Exhibit   99.1  and  incorporated   herein   by
+            reference.
+
+            (c)  Appointment of Principal Officers
+
+                  On  November 10, 2004, the Company's Board  of
+            Directors elected Paul S. Otellini as President  and
+            Chief Executive Officer of the Company effective  as
+            of  the Company's annual meeting of stockholders  in
+            May  2005. Mr. Otellini, age 54, has been a director
+            of  Intel  and Intel's President and Chief Operating
+            Officer  since  2002. Mr. Otellini joined  Intel  in
+            1974  and  has held a number of positions, including
+            General  Manager  of  Intel's Peripheral  Components
+            Operation and the Folsom Microcomputer Division.  In
+            1990, Mr. Otellini became the General Manager of the
+            Microprocessor   Products   Group,    leading    the
+            introduction  of the Intel(R) Pentium(R)  processor.
+            He was elected a corporate officer in 1991, a Senior
+            Vice  President in 1993 and Executive Vice President
+            in  1996. From 1996 to 2002, Mr. Otellini served  as
+            General Manager of the Sales and Marketing Group and
+            then the Intel Architecture Group.
+
+                  On  November 10, 2004, the Company's Board  of
+            Directors  elected Dr. Craig R. Barrett as  Chairman
+            of  the  Board effective as of the Company's  annual
+            meeting  of  stockholders in May 2005. Dr.  Barrett,
+            age  65, has been Chief Executive Officer since 1998
+            and  a  director  of Intel since 1992.  Dr.  Barrett
+            joined  Intel  in  1974. In  1984,  he  became  Vice
+            President, and in 1985 he became Vice President  and
+            General  Manager  of the Components  Technology  and
+            Manufacturing  Group. Dr. Barrett  became  a  Senior
+            Vice  President in 1987 and General Manager  of  the
+            Microcomputer Components Group in 1989.  He  was  an
+            Executive  Vice President from 1990 to  1997,  Chief
+            Operating  Officer from 1993 to 1997  and  President
+            from 1997 to 2002.
+<PAGE>
+                  The Company's press release is attached hereto
+            as   Exhibit   99.1  and  incorporated   herein   by
+            reference.
+
+    Item    Amendments  to Articles of Incorporation or  Bylaws;
+    5.03    Change in Fiscal Year
+
+                  On  November  10, 2004 the Board of  Directors
+            approved  a  resolution, effective  immediately,  to
+            amend the Company's bylaws to delete in its entirety
+            Article III, Section 10, which provided the Board of
+            Directors   with  the  ability  to  elect   Emeritus
+            Directors.
+
+    Item    Financial Statements and Exhibits
+    9.01
+
+            (c)  Exhibits
+
+                  The  following exhibits are filed as  part  of
+            this Report:
+
+ Exhibit
+  Number    Description
+
+     3.1    Intel Corporation Bylaws as amended on November  10,
+            2004
+
+    99.1    Press Release
+
+                           SIGNATURES
+Pursuant  to the requirements of the Securities Exchange  Act  of
+1934, the Registrant has duly caused this report to be signed  on
+its behalf by the undersigned hereunto duly authorized.
+
+Date: November 15, 2004            INTEL CORPORATION
+                                   (Registrant)
+
+                                   By:  /s/ Patrice C. Scatena
+                                        ------------------------
+                                        Patrice C. Scatena
+                                        Assistant Secretary
+
+
+
+<PAGE>
+
+Exhibit 3.1
+
+                        INTEL CORPORATION
+                             BYLAWS
+                            ARTICLE I
+                             Offices
+
+           Section 1.  Registered Office.  The registered  office
+of  the corporation in the State of Delaware shall be in the City
+of Wilmington, County of New Castle.
+
+           Section 2.  Other Offices.  The corporation shall also
+have  and  maintain an office or principal place of  business  at
+2200  Mission  College Boulevard, Santa Clara,  County  of  Santa
+Clara,  State  of California, and may also have offices  at  such
+other  places, both within and without the State of Delaware,  as
+the  Board  of Directors may from time to time determine  or  the
+business of the corporation may require.
+
+                           ARTICLE II
+                     Stockholders' Meetings
+
+          Section 1.  Place of Meetings.
+
+           (a)   Meetings of the stockholders of the  corporation
+shall  be held at such place, either within or without the  State
+of  Delaware, as may be designated from time to time by the Board
+of Directors, or, if not so designated, then at the office of the
+corporation  required to be maintained pursuant to Section  2  of
+Article I hereof.
+
+            (b)    The  Board  of  Directors  may,  in  its  sole
+discretion, determine that stockholder meetings shall not be held
+at  any  place, but may instead be held solely by means of remote
+communication  in  accordance  with  Section  211(a)(2)  of   the
+Delaware General Corporation Law.  If authorized by the Board  of
+Directors  in its sole discretion, and subject to such guidelines
+and  procedures as the Board of Directors may adopt, stockholders
+and  proxy  holders  not  physically  present  at  a  meeting  of
+stockholders   may,   by  means  of  remote   communication   (a)
+participate  in  a  meeting of stockholders; and  (b)  be  deemed
+present  in person and vote at a meeting of stockholders  whether
+such  meeting  is to be held at a designated place or  solely  by
+means  of remote communication, provided that (i) the corporation
+shall  implement reasonable measures to verify that  each  person
+deemed  present and permitted to vote at the meeting by means  of
+remote  communication is a stockholder or proxyholder;  (ii)  the
+corporation  shall implement reasonable measures to provide  such
+stockholders  and  proxy  holders  a  reasonable  opportunity  to
+participate  in the meeting and to vote on matters  submitted  to
+the  stockholders, including an opportunity to read or  hear  the
+proceedings of the meeting substantially concurrently  with  such
+proceedings; and (iii) if any stockholder or proxyholder votes or
+takes other action at the meeting by means of remote
+
+<PAGE>
+
+communication,  a record of such vote or other  action  shall  be
+maintained by the corporation.
+
+           Section  2.  Annual Meetings.  The annual meetings  of
+the  stockholders of the corporation for the purpose of  election
+of  directors,  and for such other business as may lawfully  come
+before  them, shall be held on such date and at such time as  may
+be designated from time to time by the Board of Directors, but in
+no  event  more than fifteen (15) months after the  date  of  the
+preceding annual meeting.
+
+           Section 3.  Special Meetings.  Special meetings of the
+stockholders of the corporation may be called, for any purpose or
+purposes,  by  the Chairman of the Board or the  Chief  Executive
+Officer or the Board of Directors at any time.
+
+          Section 4.  Notice of Meetings.
+
+           (a)   Except  as  otherwise provided  by  law  or  the
+Certificate  of  Incorporation,  written  notice  (as  the   term
+"written"  is defined in Article XII hereof) of each  meeting  of
+stockholders, specifying the place, if any, date and hour of  the
+meeting;  the  means of remote communications, if any,  by  which
+stockholders  and proxy holders may be deemed to  be  present  in
+person  and vote at such meeting; and the purpose or purposes  of
+the  meeting, shall be given not less than ten (10) nor more than
+sixty  (60)  days  before  the  date  of  the  meeting  to   each
+stockholder   entitled   to  vote  thereat,   directed   to   the
+stockholders  in  accordance with the  procedures  set  forth  in
+Article  X hereof.  Notice shall be deemed to have been given  to
+all  stockholders  of record who share an address  if  notice  is
+given  in  accordance with the "householding" rules set forth  in
+Rule  14a-3(e)  under the Securities Exchange  Act  of  1934,  as
+amended ("Exchange Act").
+
+           (b)   If at any meeting action is proposed to be taken
+which,  if  taken,  would  entitle  stockholders  fulfilling  the
+requirements   of   Section  262(d)  of  the   Delaware   General
+Corporation  Law  to  an appraisal of the  fair  value  of  their
+shares,  the notice of such meeting shall contain a statement  of
+that  purpose  and to that effect and shall be accompanied  by  a
+copy of that statutory section.
+
+           (c)   When a meeting is adjourned to another  time  or
+place,  notice need not be given of the adjourned meeting if  the
+time  and  place,  if  any,  thereof, and  the  means  of  remote
+communications, if any, by which stockholders and  proxy  holders
+may  be  deemed to be present in person and vote at such meeting,
+are  announced at the meeting at which the adjournment  is  taken
+unless  the adjournment is for more than thirty days,  or  unless
+after  the  adjournment  a  new record  date  is  fixed  for  the
+adjourned  meeting,  in  which event a notice  of  the  adjourned
+meeting shall be given to each stockholder of record entitled  to
+vote at the meeting.
+
+           (d)   Notice  of  the time, place and purpose  of  any
+meeting  of stockholders may be waived in writing, either  before
+or  after such meeting, and to the extent permitted by law,  will
+be waived by any stockholder by his attendance thereat, in person
+or  by  proxy.  Any stockholder so waiving notice of such meeting
+shall be bound by the
+
+<PAGE>
+
+proceedings of any such meeting in all respects as if due  notice
+thereof had been given.
+
+           (e)   Unless  and until voted, every  proxy  shall  be
+revocable at the pleasure of the person who executed it or of his
+legal representatives or assigns, except in those cases where  an
+irrevocable proxy permitted by statute has been given.
+
+          Section 5.  Quorum and Voting.
+
+           (a)   At  all  meetings of stockholders, except  where
+otherwise  provided by law, the Certificate of  Incorporation  or
+these   Bylaws,  the  presence,  in  person  or  by  proxy   duly
+authorized,  of  the  holders of a majority  of  the  outstanding
+shares  of  stock entitled to vote shall constitute a quorum  for
+the transaction of business.  Shares, the voting of which at said
+meeting  have  been enjoined, or which for any reason  cannot  be
+lawfully voted at such meeting, shall not be counted to determine
+a  quorum  at  said  meeting.  In the absence of  a  quorum,  any
+meeting  of stockholders may be adjourned, from time to time,  by
+vote  of  the  holders  of a majority of the  shares  represented
+thereat,  but  no  other  business shall be  transacted  at  such
+meeting.  At such adjourned meeting at which a quorum is  present
+or  represented, any business may be transacted which might  have
+been  transacted  at  the  original  meeting.   The  stockholders
+present  at a duly called or convened meeting, at which a  quorum
+is  present, may continue to transact business until adjournment,
+notwithstanding  the withdrawal of enough stockholders  to  leave
+less than a quorum.
+
+            (b)   Except  as  otherwise  provided  by  law,   the
+Certificate of Incorporation or these Bylaws, all action taken by
+the  holders of a majority of the voting power represented at any
+meeting  at which a quorum is present shall be valid and  binding
+upon the corporation.
+
+          Section 6.  Voting Rights.
+
+           (a)  Except as otherwise provided by law, only persons
+in whose names shares entitled to vote stand on the stock records
+of  the  corporation  on  the record  date  for  determining  the
+stockholders entitled to vote at a meeting shall be  entitled  to
+vote at such meeting.  Shares standing in the names of two (2) or
+more persons shall be voted or represented in accordance with the
+determination of the majority of such persons, or,  if  only  one
+(1) of such persons is present in person or represented by proxy,
+such  person  shall have the right to vote such shares  and  such
+shares  shall  be  deemed to be represented for  the  purpose  of
+determining a quorum.
+
+           (b)  Every person entitled to vote or execute consents
+shall have the right to do so either in person or by an agent  or
+agents  authorized by a written proxy executed by such person  or
+his  duly  authorized agent, which proxy shall be filed with  the
+Secretary of the corporation at or before the meeting at which it
+is  to  be  used.   Said  proxy  so  appointed  need  not  be   a
+stockholder.   No proxy shall be voted on after three  (3)  years
+from its date unless the proxy provides for a longer period.
+
+<PAGE>
+
+           Section 7.  List of Stockholders.  The officer who has
+charge  of the stock ledger of the corporation shall prepare  and
+make,   at   least  ten  (10)  days  before  every   meeting   of
+stockholders,  a  complete list of the stockholders  entitled  to
+vote at said meeting, arranged in alphabetical order, showing the
+address  of  and the number of shares registered in the  name  of
+each  stockholder.   Nothing contained  in  Section  219  of  the
+Delaware General Corporation Law shall require the corporation to
+include  electronic  mail addresses or other  electronic  contact
+information  on  such  list.  Such list  shall  be  open  to  the
+examination  of any stockholder, for any purpose germane  to  the
+meeting,  for  a period of at least ten (10) days  prior  to  the
+meeting,   either  (a)  on  a  reasonably  accessible  electronic
+network, provided that the information required to gain access to
+such  list  is  provided with the notice of the meeting,  or  (b)
+during  ordinary  business  hours,  at  the  principal  place  of
+business  of  the corporation.  In the event that the corporation
+determines  to make the list available on an electronic  network,
+the  corporation  may take reasonable steps to ensure  that  such
+information is available only to stockholders of the corporation.
+If  the  meeting  is  to be held at a place, the  list  shall  be
+produced and kept at the time and place of the meeting during the
+whole time thereof and may be inspected by any stockholder who is
+present.  If the meeting is to be held solely by means of  remote
+communication, the list shall also be open to the examination  of
+any  stockholder  during  the whole time  of  the  meeting  on  a
+reasonably  accessible electronic network,  and  the  information
+required to access such list shall be provided with the notice of
+the meeting.
+
+          Section 8.  Nominations and Stockholder Business.
+
+           (a)   Nominations of persons for election to the Board
+of  Directors of the corporation and the proposal of business  to
+be  considered  by  the stockholders may be  made  at  an  annual
+meeting of stockholders (a) pursuant to the corporation's  notice
+of meeting, (b) by or at the direction of the Board of Directors,
+or (c) by any stockholder of the corporation who is a stockholder
+of  record at the time of giving of notice provided for  in  this
+section,  who is entitled to vote at the meeting and who complied
+with the notice procedures set forth in this section.
+
+           (b)   For nominations or other business to be properly
+brought  before  an annual meeting by a stockholder  pursuant  to
+this  section,  the  stockholder must have  given  timely  notice
+thereof in writing to the Secretary of the corporation, and  such
+business  must be a proper subject for stockholder  action  under
+the   Delaware  General  Corporation  Law.   To  be   timely,   a
+stockholder's notice shall be delivered to the Secretary  at  the
+principal  executive offices of the corporation (if delivered  by
+electronic mail or facsimile, the stockholder's notice  shall  be
+directed  to  the  Secretary at the electronic  mail  address  or
+facsimile  number, as the case may be, specified in the company's
+most  recent proxy statement) not less than forty-five (45)  days
+nor more than one hundred twenty (120) days prior to the date  on
+which  the corporation first mailed its proxy materials  for  the
+prior  year's annual meeting of stockholders; provided,  however,
+that in the event that the date of the annual meeting is advanced
+by  more than thirty (30) days or delayed (other than as a result
+of   adjournment)  by  more  than  thirty  (30)  days  from   the
+anniversary of the previous year's annual meeting, notice by  the
+stockholder  to  be timely must be delivered not later  than  the
+close of business on
+
+<PAGE>
+
+the later of the sixtieth (60th) day prior to such annual meeting
+or  the  tenth  (10th)  day following the  day  on  which  public
+announcement  of  the date of such meeting is first  made.   Such
+stockholder's notice shall set forth (a) as to each  person  whom
+the  stockholder proposes to nominate for election or  reelection
+as  a  director all information relating to such person that   is
+required to be disclosed in solicitations of proxies for election
+of  directors, or is otherwise required, in each case pursuant to
+Regulation  14A under the  Exchange Act (including such  person's
+written  consent  to  being named in the  proxy  statement  as  a
+nominee and to serving as a director if elected); (b) as  to  any
+other business that the stockholder proposes to bring before  the
+meeting,  a  brief  description of the  business  desired  to  be
+brought  before  the  meeting, the reasons  for  conducting  such
+business  at  the  meeting  and any  material  interest  in  such
+business of such stockholder and the beneficial owner, if any, on
+whose  behalf the proposal is made; and (c) as to the stockholder
+giving  the  notice and the beneficial owners  if  any  on  whose
+behalf  the  nomination  or proposal is made  (i)  the  name  and
+address  of such stockholder, as they appear on the corporation's
+books,  and  of  such beneficial owner, and (ii)  the  class  and
+number  of shares of the corporation which are owned beneficially
+and of record by such stockholder and such beneficial owner.
+
+           (c)   Notwithstanding anything in this section to  the
+contrary, in the event that the number of directors to be elected
+to  the  Board  of Directors of the corporation is increased  and
+there  is  no  public announcement specifying  the  size  of  the
+increased  Board  of Directors made by the corporation  at  least
+seventy (70) days prior to the first anniversary of the preceding
+year's  annual meeting, a stockholder's notice required  by  this
+section shall also be considered timely, but only with respect to
+nominees  for any new positions created by such increase,  if  it
+shall  be  delivered to the Secretary at the principal  executive
+offices  of the corporation not later than the close of  business
+on  the  tenth (10th) day following the day on which such  public
+announcement is first made by the corporation.
+
+          (d)  Only such business shall be conducted at a special
+meeting  of  stockholders as shall have been brought  before  the
+meeting   pursuant  to  the  corporation's  notice  of   meeting.
+Nominations of persons for election to the Board of Directors may
+be  made  at a special meeting of stockholders at which directors
+are to be elected pursuant to the corporation's notice of meeting
+(a)  by  or at the direction of the Board of Directors or (b)  by
+any stockholder of the corporation who is a stockholder of record
+at the time of giving of notice provided for in this section, who
+is  entitled  to  vote at the meeting and who complies  with  the
+notice  procedures  set  forth in this section.   Nominations  by
+stockholders  of persons for election to the Board  of  Directors
+may  be  made  at such a special meeting of stockholders  if  the
+stockholder's notice required by this section shall be  delivered
+to  the  Secretary  at  the principal executive  offices  of  the
+corporation  (if delivered by electronic mail or  facsimile,  the
+stockholder's  notice shall be directed to the Secretary  at  the
+electronic mail address or facsimile number, as the case may  be,
+specified  in  the  company's most recent  proxy  statement)  not
+earlier than the one hundred twentieth (120th) day prior to  such
+special meeting and not later than the close of business  on  the
+later of the sixtieth (60th) day prior to such special meeting or
+the   tenth  (10th)  day  following  the  day  on  which   public
+announcement is first made of
+
+<PAGE>
+
+the  date of the special meeting and of the nominees proposed  by
+the Board of Directors to be elected at such meeting.
+
+          (e)  Only those persons who are nominated in accordance
+with  the  procedures set forth in this section shall be eligible
+for  election as directors at any meeting of stockholders.   Only
+such business shall be conducted at a meeting of stockholders  as
+shall have been brought before the meeting in accordance with the
+procedures  set  forth  in this section.   The  chairman  of  the
+meeting  shall  have  the power and duty to determine  whether  a
+nomination  or  any  business proposed to be brought  before  the
+meeting  was made in accordance with the procedures set forth  in
+this  section and, if any proposed nomination or business is  not
+in  compliance with this section, to declare that such  defective
+proposal shall be disregarded.
+
+            (f)    For   purposes   of  this   section,   "public
+announcement"  shall mean disclosure in a press release  reported
+by  the  Dow  Jones News Service, Associated Press or  comparable
+national  news  service or in a document publicly  filed  by  the
+corporation with the Securities and Exchange Commission  pursuant
+to Section 9, 13, 14 or 15(d) of the Exchange Act.
+
+           (g)   Notwithstanding the foregoing provisions of this
+section,  a  stockholder shall also comply  with  all  applicable
+requirements  of  the Exchange Act and the rules and  regulations
+thereunder with respect to the matters set forth in this section.
+Nothing  in this section shall be deemed to affect any rights  of
+stockholders   to   request  inclusion  of   proposals   in   the
+corporation's  proxy statement pursuant to Rule 14a-8  under  the
+Exchange Act.
+
+                           ARTICLE III
+                            Directors
+
+           Section 1.  Number and Term of Office.  The number  of
+directors  which  shall  constitute the whole  of  the  Board  of
+Directors shall be eleven (11).  With the exception of the  first
+Board  of  Directors, which shall be elected by the incorporator,
+and  except  as  provided in Section 3 of this Article  III,  the
+directors  shall  be elected by a plurality vote  of  the  shares
+represented  in  person or by proxy, at the  stockholders  annual
+meeting  in  each  year and entitled to vote on the  election  of
+directors.   Elected directors shall hold office until  the  next
+annual  meeting and until their successors shall be duly  elected
+and  qualified.  Directors need not be stockholders.  If, for any
+cause, the Board of Directors shall not have been elected  at  an
+annual  meeting,  they  may  be elected  as  soon  thereafter  as
+convenient  at a special meeting of the stockholders  called  for
+that purpose in the manner provided in these Bylaws.
+
+           Section  2.   Powers.  The powers of  the  corporation
+shall  be  exercised,  its business conducted  and  its  property
+controlled by or under the direction of the Board of Directors.
+
+<PAGE>
+
+           Section  3.   Vacancies.  Vacancies and newly  created
+directorships  resulting  from any  increase  in  the  authorized
+number  of directors may be filled by a majority of the directors
+then  in  office,  although less than a  quorum,  or  by  a  sole
+remaining  director,  and each director  so  elected  shall  hold
+office  for  the  unexpired portion of the term of  the  director
+whose  place shall be vacant, and until his successor shall  have
+been  duly  elected and qualified.  A vacancy  in  the  Board  of
+Directors shall be deemed to exist under this section in the case
+of  the death, removal or resignation of any director, or if  the
+stockholders  fail  at  any  meeting  of  stockholders  at  which
+directors are to be elected (including any meeting referred to in
+Section   4  below)  to  elect  the  number  of  directors   then
+constituting the whole Board.
+
+          Section 4.  Resignations and Removals.
+
+           (a)  Any director may resign at any time by delivering
+his  written  resignation to the Secretary, such  resignation  to
+specify  whether it will be effective at a particular time,  upon
+receipt  by  the  Secretary or at the pleasure of  the  Board  of
+Directors.  If no such specification is made, it shall be  deemed
+effective  at the pleasure of the Board of Directors.   When  one
+(1) or more directors shall resign from the Board, effective at a
+future  date,  a  majority  of  the  directors  then  in  office,
+including  those who have so resigned, shall have power  to  fill
+such  vacancy or vacancies, the vote thereon to take effect  when
+such resignation or resignations shall become effective, and each
+director so chosen shall hold office for the unexpired portion of
+the  term of the director whose place shall be vacated and  until
+his successor shall have been duly elected and qualified.
+
+           (b)  Except as provided in Section 141 of the Delaware
+General  Corporation  Law, at a special meeting  of  stockholders
+called  for  the purpose in the manner hereinabove provided,  the
+Board  of  Directors, or any individual director, may be  removed
+from  office,  with  or  without cause, and  a  new  director  or
+directors elected by a vote of stockholders holding a majority of
+the  outstanding  shares  entitled to  vote  at  an  election  of
+directors.
+
+          Section 5.  Meetings.
+
+           (a)  Except as hereinafter otherwise provided, regular
+meetings of the Board of Directors shall be held in the office of
+the  corporation required to be maintained pursuant to Section  2
+of  Article I hereof.  Regular meetings of the Board of Directors
+may  also  be  held at any place within or without the  State  of
+Delaware which has been designated by resolutions of the Board of
+Directors  or  the written consent of all directors.   Notice  of
+regular meetings of the directors is hereby dispensed with and no
+notice whatever of any such meetings need be given.
+
+           (b)  Special meetings of the Board of Directors may be
+held  at  any  time  and  place within or without  the  State  of
+Delaware whenever called by the Chairman of the Board, or by  the
+Chief  Executive Officer (if a director) or by  any  two  of  the
+directors.
+
+<PAGE>
+
+           (c)   Written  notice of the time  and  place  of  all
+special meetings of the Board of Directors shall be delivered  to
+each director at least twenty-four (24) hours before the start of
+the meeting, or if sent by first class mail, at least seventy-two
+(72)  hours  before  the  start of the meeting.   Notice  of  any
+meeting may be waived in writing at any time before or after  the
+meeting and will be waived by any director by attendance thereat.
+
+          Section 6.  Quorum and Voting.
+
+           (a)   A quorum of the Board of Directors shall consist
+of a majority of the exact number of directors fixed from time to
+time in accordance with Section 1 of Article III of these Bylaws,
+but  not  less than one (1);  provided, however, at  any  meeting
+whether  a  quorum  be present or otherwise, a  majority  of  the
+directors  present may adjourn from time to time until  the  time
+fixed  for  the  next regular meeting of the Board of  Directors,
+without notice other than by announcement at the meeting.
+
+           (b)  At each meeting of the Board at which a quorum is
+present, all questions and business shall be determined by a vote
+of  a  majority of the directors present, unless a different vote
+be  required  by law, the Certificate of Incorporation  or  these
+Bylaws.
+
+           (c)   Any member of the Board of Directors, or of  any
+committee  thereof,  may participate in a  meeting  by  means  of
+conference telephone or other communication equipment by means of
+which  all  persons participating in the meeting  can  hear  each
+other,  and  participation  in  a meeting  by  such  means  shall
+constitute presence in person at such meeting.
+
+           (d)   The transactions of any meeting of the Board  of
+Directors,  or any committee thereof, however called or  noticed,
+or  wherever held, shall be as valid as though had at  a  meeting
+duly  held after regular call and notice, if a quorum be  present
+and if, either before or after the meeting, each of the directors
+not present shall deliver to the corporation a written waiver  of
+notice,  or a consent to holding such meeting, or an approval  of
+the  minutes  thereof.  All such waivers, consents  or  approvals
+shall  be filed with the corporate records or made a part of  the
+minutes of the meeting.
+
+           Section  7.  Action Without Meeting.  Unless otherwise
+restricted  by the Certificate of Incorporation or these  Bylaws,
+any  action  required or permitted to be taken at any meeting  of
+the  Board of Directors or of any committee thereof may be  taken
+without  a  meeting,  if all members of  the  Board  or  of  such
+committee,  as the case may be, consent thereto in  writing,  and
+such   writing  or  writings  are  filed  with  the  minutes   of
+proceedings of the Board or committee.  Such filing shall  be  in
+paper  form if the minutes are maintained in paper form or  shall
+be in electronic form if the minutes are maintained in electronic
+form.
+
+           Section  8.   Fees  and Compensation.   Directors  may
+receive   compensation  for  their  services  as   directors   as
+determined from time to time by the Board of Directors.   Nothing
+herein contained shall be construed to preclude any
+
+<PAGE>
+
+director from serving the corporation in any other capacity as an
+officer, agent, employee or otherwise, and receiving compensation
+therefor.
+
+          Section 9.  Committees.
+
+           (a)  Executive Committee:  The Board of Directors  may
+appoint  an Executive Committee of not less than one (1)  member,
+each  of  whom shall be a director.  The Executive Committee,  to
+the extent permitted by Delaware law, these Bylaws, the Executive
+Committee Charter or other resolutions of the Board of Directors,
+shall  have and may exercise, when the Board of Directors is  not
+in  session,  all  powers  of  the  Board  of  Directors  in  the
+management  of  the  business  and affairs  of  the  corporation,
+including, without limitation, the power and authority to declare
+a  dividend  or to authorize the issuance of stock,  except  such
+committee shall not have the power or authority to (a) approve or
+adopt, or recommend to the corporation's stockholders, any action
+or  matter expressly required by the Delaware General Corporation
+Law  to  be submitted to stockholders for approval, or (b) adopt,
+amend or repeal any bylaw of the corporation.
+
+           (b)   Other  Committees:  The Board of  Directors  may
+appoint  such other committees as may be permitted by law.   Such
+other  committees appointed by the Board of Directors shall  have
+such  powers and perform such duties as may be prescribed by  the
+resolution  or  resolutions creating such committee,  but  in  no
+event  shall  any such committee have the powers  denied  to  the
+Executive Committee in these Bylaws.
+
+           (c)  Term:  The members of all committees of the Board
+of Directors shall serve a term coexistent with that of the Board
+of  Directors  which  shall have appointed such  committee.   The
+Board,  subject to the provisions of subsections (a)  or  (b)  of
+this section, may at any time increase or decrease the number  of
+members of a committee or terminate the existence of a committee;
+provided  that no committee shall consist of less  than  one  (1)
+member.  The membership of a committee member shall terminate  on
+the date of his death or voluntary resignation, but the Board may
+at any time for any reason remove any individual committee member
+and  the  Board may fill any committee vacancy created by  death,
+resignation, removal or increase in the number of members of  the
+committee.  The Board of Directors may designate one (1) or  more
+directors as alternate members of any committee, who may  replace
+any   absent  or  disqualified  member  at  any  meeting  of  the
+committee,  and,  in addition, in the absence or disqualification
+of  any  member  of  a committee, the member or  members  thereof
+present  at any meeting and not disqualified from voting, whether
+or   not  the  member  or  members  constitutes  a  quorum,   may
+unanimously  appoint another member of the Board of Directors  to
+act  at  the  meeting  in  the  place  of  any  such  absent   or
+disqualified member.
+
+           (d)   Meetings:   Unless the Board of Directors  shall
+otherwise provide, regular meetings of the Executive Committee or
+any  other committee appointed pursuant to this section shall  be
+held  at such times and places as are determined by the Board  of
+Directors, or by any such committee, and when notice thereof  has
+been
+
+<PAGE>
+
+given to each member of such committee, no further notice of such
+regular  meetings need be given thereafter; special  meetings  of
+any  such committee may be called by any director who is a member
+of  such  committee, upon written notice to the members  of  such
+committee of the time and place of such special meeting given  in
+the  manner provided for the giving of written notice to  members
+of  the  Board  of  Directors of the time and  place  of  special
+meetings  of  the  Board  of Directors.  Notice  of  any  special
+meeting  of  any committee may be waived in writing at  any  time
+before or after the meeting and will be waived by any director by
+attendance  thereat.   A  majority of the  authorized  number  of
+members  of any such committee shall constitute a quorum for  the
+transaction  of  business, and the act of  a  majority  of  those
+present at any meeting at which a quorum is present shall be  the
+act of such committee.
+
+           Section  10:  Emergency Bylaws.  In the event  of  any
+emergency, disaster or catastrophe, as referred to in Section 110
+of  the  Delaware  General  Corporation  Law,  or  other  similar
+emergency  condition, as a result of which a quorum of the  Board
+of  Directors or a standing committee of the Board cannot readily
+be  convened  for  action,  then the  director  or  directors  in
+attendance at a meeting shall constitute a quorum.  Such director
+or directors in attendance may further take action to appoint one
+(1) or more of themselves or other directors to membership on any
+standing or temporary committees of the Board as they shall  deem
+necessary and appropriate.
+
+                           ARTICLE IV
+                            Officers
+
+          Section 1.  Officers Designated.
+
+           (a)   The officers of the corporation elected  by  the
+Board of Directors shall be a Chairman of the Board of Directors,
+who  shall  be  a  member  of the Board  of  Directors,  a  Chief
+Executive  Officer, a President, one (1) or more Vice Presidents,
+a  Secretary, a Chief Financial Officer and a Treasurer and  such
+other officers as the Board of Directors may deem expedient,  and
+such  officers  shall be elected in such manner  and  hold  their
+offices  for such terms as the Board of Directors may  prescribe.
+The  Board of Directors may assign such additional titles to  one
+(1)  or more of the officers as they shall deem appropriate.  Any
+one  (1) person may hold any number of offices of the corporation
+at  any one time unless specifically prohibited therefrom by law.
+The  Board of Directors may from time to time, in its discretion,
+assign titles, powers, duties and reporting arrangements for  any
+elected  officer.   Any  office of the corporation  may  be  left
+vacant  from  time  to time at the discretion  of  the  Board  of
+Directors.   The salaries and other compensation of the  officers
+of  the corporation shall be fixed by or in the manner designated
+by the Board of Directors.
+
+           (b)   In addition to the officers elected by the Board
+of Directors in accordance with Section 1(a), the corporation may
+have  one  or more appointed Vice-Presidents, Fellows,  Assistant
+Secretaries,  Assistant Treasurers or other officers,  who  shall
+also   be   officers  of  the  corporation  (each  an  "Appointed
+Officer").   Any  Appointed  Officer  may  be  appointed  by  the
+Chairman of the Board or the Chief Executive Officer.
+
+<PAGE>
+
+The Chairman of the Board or the Chief Executive Officer may from
+time  to  time, in his or her discretion, assign powers,  duties,
+scope of job responsibilities and reporting arrangements for  any
+Appointed  Officer.  Any such Appointed Officer shall  have  such
+title,  powers  and  duties  as  the  person(s)  appointing  such
+Appointed  Officer may determine, consistent with  Section  2  of
+this Article.
+
+          Section 2.  Tenure, Succession and Duties of Officers.
+
+           (a)   Tenure:  All officers shall hold office  at  the
+pleasure  of  the  Board of Directors and until their  successors
+shall  have  been  duly  elected  and  qualified,  unless  sooner
+removed.   Any officer elected by the Board of Directors  may  be
+removed at any time by the Board of Directors.  If the office  of
+any  elected  officer becomes vacant for any reason, the  vacancy
+may  be left vacant or be filled by the Board of Directors.   Any
+Appointed  Officer may be removed at any time  by  the  Board  of
+Directors,  the  Chairman of the Board  or  the  Chief  Executive
+Officer.   If the office of any Appointed Officer becomes  vacant
+for  any  reason, the vacancy may be left vacant or be filled  by
+the  Chairman  of  the  Board  or the  Chief  Executive  Officer.
+Nothing  in these Bylaws shall be construed as creating any  kind
+of contractual right to employment with the corporation.
+
+           (b) Succession:  In the absence of a resolution of the
+Board  of  Directors specifying another order of  succession,  in
+cases  where  a  corporate officer, as  listed  below,  shall  be
+kidnapped,  missing, dead, deemed by his or  her  manager  to  be
+incapacitated  and  unable to appropriately perform  his  or  her
+duties,  or in any other case where such officer vacates  his  or
+her  office  (individually a "Corporate Absence") such  corporate
+officer's powers and duties shall be performed as follows:
+
+                (i)  Succession of the Chairman of the Board:  In
+any  case of Corporate Absence with regard to the Chairman of the
+Board,  the  Board of Directors shall meet promptly  to  consider
+whether to confer the title, powers and duties of the Chairman of
+the  Board  of  Directors  on another  member  of  the  Board  of
+Directors.
+
+                (ii)   Succession of the Chief Executive Officer:
+In  any  case  of  Corporate Absence with  regard  to  the  Chief
+Executive Officer, the Board of Directors shall meet promptly  to
+confer  the  title,  powers and duties  of  the  Chief  Executive
+Officer on another elected officer or officers.  Until the  Board
+of  Directors takes such action, the President shall exercise all
+the  power  and  perform all the duties of  the  Chief  Executive
+Officer.
+
+               (iii) Succession of the President:  In any case of
+Corporate  Absence  with regard to the President,  the  Board  of
+Directors  shall  meet promptly to confer the title,  powers  and
+duties  of  the President on another officer or officers.   Until
+the  Board  of  Directors takes such action, the Chief  Executive
+Officer  (or if there is no separate Chief Executive  Officer  at
+such  time, the Chief Financial Officer) shall exercise all power
+and perform all the duties of the President.
+
+                (iv)  Succession of the Chief Financial  Officer:
+In  any  case  of  Corporate Absence with  regard  to  the  Chief
+Financial Officer, the Chairman of the
+
+<PAGE>
+
+Board  or  the  Chief  Executive  Officer  may  direct  the  Vice
+President,  Director of Corporate Finance to assume  and  perform
+the   duties  of  the  Chief  Financial  Officer,  and  the  Vice
+President, Director of Corporate Finance shall perform such other
+duties and have such other powers as the Board of Directors,  the
+Chairman  of  the  Board  or the Chief  Executive  Officer  shall
+designate from time to time.
+
+                (v) Succession of the Treasurer:  In any case  of
+Corporate  Absence with regard to the Treasurer, the Chairman  of
+the Board or the Chief Executive Officer may direct any Assistant
+Treasurer to assume and perform the duties of the Treasurer,  and
+each Assistant Treasurer shall perform such other duties and have
+such other powers as the Board of Directors, the Chairman of  the
+Board or the Chief Executive Officer shall designate from time to
+time.
+
+                (vi)   Succession of the Vice President,  General
+Counsel:   In  any case of Corporate Absence with regard  to  the
+Vice President, General Counsel, the Chairman of the Board or the
+Chief  Executive  Officer may direct the Vice  President,  Deputy
+General Counsel (or if there is no Vice President, Deputy General
+Counsel  any  member  of  the Vice President,  General  Counsel's
+direct  staff)  to  assume and perform the  duties  of  the  Vice
+President,  General  Counsel,  and  the  Vice  President,  Deputy
+General Counsel (or such other direct staff member) shall perform
+such  other  duties and have such other powers as  the  Board  of
+Directors,  the  Chairman of the Board  or  the  Chief  Executive
+Officer shall designate from time to time.
+
+                (vii) Succession of the Secretary: In any case of
+Corporate  Absence with regard to the Secretary, the Chairman  of
+the Board or the Chief Executive Officer may direct any Assistant
+Secretary to assume and perform the duties of the Secretary,  and
+each  Assistant  Secretary shall perform such  other  duties  and
+shall  have  such  other powers as the Board  of  Directors,  the
+Chairman  of  the  Board  or the Chief  Executive  Officer  shall
+designate from time to time.
+
+           (c)   Duties:  The officer(s) bearing the  titles  set
+forth  below  shall have the powers and duties  set  forth  below
+unless otherwise determined by the Board of Directors.
+
+                (i)  Duties  of  the Chairman  of  the  Board  of
+Directors:  The Chairman of the Board of Directors shall  preside
+at  all  meetings of the stockholders and the Board of Directors,
+unless the Board of Directors determines otherwise.  The Chairman
+of  the  Board of Directors shall perform such other  duties  and
+have  such other powers as the Board of Directors shall designate
+from time to time.
+
+                (ii)  Duties of the Chief Executive Officer:  The
+Chief  Executive Officer shall, subject to the oversight  of  the
+Board  of  Directors,  have  general supervision,  direction  and
+control of the business and the officers, employees and agents of
+the  corporation.  In the absence of the Chairman of  the  Board,
+the Chief Executive Officer, if such officer is a director, shall
+preside  at  all meetings of the Board of Directors,  unless  the
+Board of Directors determines otherwise.  The Chief Executive
+
+<PAGE>
+
+Officer  shall  perform such other duties  and  have  such  other
+powers  as  the Board of Directors shall designate from  time  to
+time.
+
+                (iii)   Duties  of  President:   Subject  to  the
+oversight of the Board of Directors and the supervision,  control
+and authority of the Chief Executive Officer, the President shall
+have  general supervision, direction and control of the  business
+and  the officers, employees and agents of the corporation.   The
+President  shall  perform such other duties and have  such  other
+powers  as  the Board of Directors shall designate from  time  to
+time.
+
+                (iv)   Duties of Vice Presidents & Fellows:   The
+Vice  Presidents  (whether elected by the Board of  Directors  or
+appointed  by  the Chairman of the Board or the  Chief  Executive
+Officer) and Fellows shall have the powers and perform the duties
+that  pertain to, or relate to, such Vice President's or Fellow's
+designated  job  or business function and shall have  such  other
+powers  and  perform such other duties as the Board of Directors,
+the  Chairman  of the Board or the Chief Executive Officer  shall
+designate from time to time.
+
+                (v)   Duties  of Secretary:  The Secretary  shall
+attend  all  meetings of the stockholders and  of  the  Board  of
+Directors  and any committee thereof, and shall record  all  acts
+and proceedings thereof in the minute book of the corporation and
+shall  keep  the  seal of the corporation in safe  custody.   The
+Secretary shall give notice, in conformity with these Bylaws,  of
+all  meetings  of  the stockholders, and of all meetings  of  the
+Board  of  Directors and any Committee thereof requiring  notice.
+The Secretary shall perform such other duties and have such other
+powers  as  the Board of Directors shall designate from  time  to
+time.   It  shall  be  the duty of the Assistant  Secretaries  to
+assist the Secretary in the performance of the Secretary's powers
+and  duties  and generally to have such other powers and  perform
+such  other  duties as may be delegated to them by the  Board  of
+Directors,  the  Chairman of the Board  or  the  Chief  Executive
+Officer.
+
+                (vi)   Duties  of  Chief  Financial  Officer  and
+Treasurer:  Each of the Chief Financial Officer and the Treasurer
+shall  control,  audit and arrange the financial affairs  of  the
+corporation,  consistent with the responsibilities  delegated  to
+each  of  them  by the corporation's Chief Executive  Officer  or
+President.  The Chief Financial Officer or Treasurer, as the case
+may  be,  shall receive and deposit all monies belonging  to  the
+corporation and shall pay out the same only in such manner as the
+Board  of  Directors may from time to time determine,  and  shall
+have such other powers and perform such other duties as the Board
+of  Directors may require.  It shall be the duty of the Assistant
+Treasurers  to  assist the Treasurer in the  performance  of  the
+Treasurer's  powers and duties and generally to have  such  other
+powers and perform such other duties as may be delegated to  them
+by the Board of Directors, the Chairman of the Board or the Chief
+Executive Officer.
+
+<PAGE>
+
+                            ARTICLE V
+             Execution of Corporate Instruments, and
+          Voting of Securities Owned by the Corporation
+
+          Section 1.  Execution of Corporate Instruments.
+
+           (a)   The  Board of Directors may, in its  discretion,
+determine  the  method  and designate the  signatory  officer  or
+officers,  or  other person or persons, to execute any  corporate
+instrument  or  document, or to sign the corporate  name  without
+limitation,  except where otherwise provided  by  law,  and  such
+execution or signature shall be binding upon the corporation.
+
+           (b)   Unless otherwise specifically determined by  the
+Board  of Directors or otherwise required by law or these Bylaws,
+formal  contracts of the corporation, promissory notes, deeds  of
+trust,  mortgages  and  other evidences of  indebtedness  of  the
+corporation and other corporate instruments or documents shall be
+executed,  signed or endorsed by the Chairman of the  Board,  the
+Chief  Executive Officer, the President or the Secretary,  or  by
+any  Vice  President  or any Fellow (only  with  regard  to  such
+corporate  instruments that pertain to or  relate  to  such  Vice
+President's or Fellow's job or business function).
+
+           (c)   All  checks and drafts drawn on banks  or  other
+depositaries on funds or assets to the credit of the corporation,
+or  in  special accounts of the corporation, shall be  signed  by
+such  person  or  persons  as  are authorized  by  the  Board  of
+Directors.
+
+          Section 2.  Execution and Voting of Securities Owned by
+Corporation.    All   stock  and  other   securities   of   other
+corporations owned or held by the corporation for itself, or  for
+other  parties in any capacity, shall be voted, and  all  proxies
+with  respect thereto shall be executed, by the person authorized
+so  to  do  by resolution of the Board of Directors  or,  in  the
+absence of such authorization, by the Chairman of the Board,  the
+Chief  Executive  Officer,  the President,  the  Chief  Financial
+Officer, the Treasurer or the Secretary. Certificates for  shares
+of  stock  or other securities owned by the corporation shall  be
+executed, signed or endorsed by the person authorized so to do by
+resolution of the Board of Directors or, in the absence  of  such
+authorization, by the Chairman of the Board, the Chief  Executive
+Officer,   the  President,  the  Chief  Financial  Officer,   the
+Treasurer, or the Secretary.
+
+                           ARTICLE VI
+                         Shares of Stock
+
+            Section  1.   Form  and  Execution  of  Certificates.
+Certificates for the shares of stock of the corporation shall  be
+in   such   form  as  is  consistent  with  the  Certificate   of
+Incorporation and applicable law.  Every holder of stock  in  the
+corporation shall be entitled to have a certificate signed by, or
+in  the name of the corporation by, the Chairman of the Board, or
+by  the Chief Executive Officer, or by the President or any  Vice
+President  and  by  the Treasurer or Assistant Treasurer  or  the
+Secretary or
+
+<PAGE>
+
+Assistant Secretary, certifying the number of shares owned by him
+in  the  corporation.   Any  or all  of  the  signatures  on  the
+certificate  may  be a facsimile.  In case any officer,  transfer
+agent,  or  registrar who has signed or whose facsimile signature
+has  been placed upon a certificate shall have ceased to be  such
+officer, transfer agent, or registrar before such certificate  is
+issued,  it may be issued with the same effect as if  he  or  she
+were  such officer, transfer agent, or registrar at the  date  of
+issue.  If the corporation shall be authorized to issue more than
+one  class  of  stock or more than one series of any  class,  the
+powers,  designations,  preferences and relative,  participating,
+optional or other special rights of each class of stock or series
+thereof  and  the qualifications, limitations or restrictions  of
+such  preferences  and/or rights shall be set forth  in  full  or
+summarized  on  the  face or back of the  certificate  which  the
+corporation  shall  issue to represent such class  or  series  of
+stock, provided that, except as otherwise provided in Section 202
+of the Delaware General Corporation Law, in lieu of the foregoing
+requirements, there may be set forth on the face or back  of  the
+certificate  which the corporation shall issue to represent  such
+class  or series of stock, a statement that the corporation  will
+furnish  without charge to each stockholder who so  requests  the
+powers,  designations,  preferences and relative,  participating,
+optional or other special rights of each class of stock or series
+thereof  and  the qualifications, limitations or restrictions  of
+such preferences and/or rights.
+
+           Section 2.  Lost Certificates.  The Board of Directors
+may  direct  a  new certificate or certificates to be  issued  in
+place  of  any certificate or certificates theretofore issued  by
+the  corporation alleged to have been lost or destroyed, upon the
+making  of  an affidavit of that fact by the person claiming  the
+certificate  of stock to be lost or destroyed.  When  authorizing
+such  issue  of a new certificate or certificates, the  Board  of
+Directors may, in its discretion and as a condition precedent  to
+the issuance thereof, require the owner of such lost or destroyed
+certificate  or  certificates, or his  legal  representative,  to
+indemnify  the  corporation in such manner as  it  shall  require
+and/or  to  give the corporation a surety bond in such  form  and
+amount  as it may direct as indemnity against any claim that  may
+be  made  against the corporation with respect to the certificate
+alleged to have been lost or destroyed.
+
+           Section 3.  Transfers.  Transfers of record of  shares
+of  stock of the corporation shall be made only upon its books by
+the  holders  thereof, in person or by attorney duly  authorized,
+and  upon  the surrender of a certificate or certificates  for  a
+like number of shares, properly endorsed.
+
+          Section 4.  Fixing Record Dates.
+
+           (a)   In order that the corporation may determine  the
+stockholders entitled to notice of or to vote at any  meeting  of
+stockholders  or any adjournment thereof, the Board of  Directors
+may  fix  a record date, which record date shall not precede  the
+date  upon which the resolution fixing the record date is adopted
+by  the  Board of Directors, and which record date shall  not  be
+more  than sixty (60) nor less than ten (10) days before the date
+of  such  meeting.  If no record date is fixed by  the  Board  of
+Directors, the record date for determining stockholders  entitled
+to  notice of or to vote at a meeting of stockholders shall be at
+the close of business on the day next preceding the day on
+
+<PAGE>
+
+which  notice is given, or, if notice is waived, at the close  of
+business on the day next preceding the date on which the  meeting
+is  held.  A determination of stockholders of record entitled  to
+notice of or to vote at a meeting of stockholders shall apply  to
+any adjournment of the meeting; provided, however, that the Board
+of Directors may fix a new record date for the adjourned meeting.
+
+           (b)   In order that the corporation may determine  the
+stockholders entitled to receive payment of any dividend or other
+distribution  or  allotment  of any rights  or  the  stockholders
+entitled  to  exercise  any  rights in  respect  of  any  change,
+conversion or exchange of stock, or for the purpose of any  other
+lawful  action,  the Board of Directors may fix  a  record  date,
+which  record  date  shall not precede the date  upon  which  the
+resolution  fixing the record date is adopted, and  which  record
+date shall be not more than sixty (60) days prior to such action.
+If  no  record  date  is fixed, the record date  for  determining
+stockholders  for  any such purpose shall  be  at  the  close  of
+business  on the day on which the Board of Directors  adopts  the
+resolution relating thereto.
+
+           Section  5.  Registered Stockholders.  The corporation
+shall  be  entitled to recognize the exclusive right of a  person
+registered  on  its  books  as the owner  of  shares  to  receive
+dividends, and to vote as such owner, and shall not be  bound  to
+recognize  any  equitable or other claim to or interest  in  such
+share  or shares on the part of any other person, whether or  not
+it  shall  have  express  or  other  notice  thereof,  except  as
+otherwise provided by the laws of Delaware.
+
+                           ARTICLE VII
+               Other Securities of the Corporation
+
+          All bonds, debentures and other corporate securities of
+the corporation, other than stock certificates, may be signed  by
+the  Chairman of the Board or the Chief Executive Officer or  the
+President  or any Vice President or such other person as  may  be
+authorized  by  the  Board of Directors and  the  corporate  seal
+impressed  thereon or a facsimile of such seal imprinted  thereon
+and  attested  by the signature of the Secretary or an  Assistant
+Secretary, or the Treasurer or an Assistant Treasurer;  provided,
+however,  that where any such bond, debenture or other  corporate
+security  shall  be authenticated by the manual  signature  of  a
+trustee under an indenture pursuant to which such bond, debenture
+or other corporate security shall be issued, the signature of the
+persons  signing and attesting the corporate seal on  such  bond,
+debenture  or  other  corporate security  may  be  the  imprinted
+facsimile  of  the signatures of such persons.  Interest  coupons
+appertaining  to  any  such bond, debenture  or  other  corporate
+security,  authenticated  by a trustee  as  aforesaid,  shall  be
+signed   by   the  Treasurer  or  Assistant  Treasurer   of   the
+corporation,  or  such other person as may be authorized  by  the
+Board  of  Directors,  or bear imprinted  thereon  the  facsimile
+signature  of  such person.  In case any officer who  shall  have
+signed  or  attested  any  bond,  debenture  or  other  corporate
+security,  or  whose  facsimile signature shall  appear  thereon,
+shall  have  ceased to be such officer of the corporation  before
+the  bond,  debenture or other corporate security  so  signed  or
+attested shall have been delivered, such bond, debenture or other
+corporate security nevertheless may be adopted by the corporation
+and issued and
+
+<PAGE>
+
+delivered  as  though the person who signed  the  same  or  whose
+facsimile  signature shall have been used thereon had not  ceased
+to be such officer of the corporation.
+
+                          ARTICLE VIII
+                         Corporate Seal
+
+           The  corporation shall have a common seal, upon  which
+shall be inscribed:
+
+                       "Intel Corporation
+                   Incorporated March 1, 1989
+                            Delaware"
+
+           In  the  event the corporation changes its  name,  the
+corporate  seal shall be changed to reflect such  new  name.  Any
+corporate instrument or document requiring the corporate seal may
+be  executed  as provided in Article V of these Bylaws,  and  the
+corporate seal shall be applied by the Secretary or any Assistant
+Secretary.
+
+                           ARTICLE IX
+                       Indemnification of
+            Officers, Directors, Employees and Agents
+
+           Section 1.  Right to Indemnification.  Each person who
+was  or is a party or is threatened to be made a party to  or  is
+involved  (as a party, witness, or otherwise), in any threatened,
+pending,  or  completed  action, suit,  arbitration,  alternative
+dispute   mechanism,  inquiry,  administrative   or   legislative
+hearing,  investigation  or  any  other  actual,  threatened   or
+completed  proceeding,  including any and  all  appeals,  whether
+civil, criminal, administrative, or investigative (hereinafter  a
+"Proceeding"), by reason of the fact that he or she, or a  person
+of  whom  he  or she is the legal representative,  is  or  was  a
+director,   officer,  employee,  or  agent  of  the   corporation
+(including service with respect to employee benefit plans) or  is
+or  was  serving at the request of the corporation as a director,
+officer,  employee,  or  agent of another  corporation  or  of  a
+partnership,  joint venture, trust, or other enterprise,  whether
+the  basis  of  the Proceeding is alleged action in  an  official
+capacity  as a director, officer, employee, or agent  or  in  any
+other capacity while serving as a director, officer, employee, or
+agent  (hereafter  an  "Agent"), shall be  indemnified  and  held
+harmless  by the corporation to the fullest extent authorized  by
+the  Delaware General Corporation Law, as the same exists or  may
+hereafter be amended or interpreted (but, in the case of any such
+amendment  or  interpretation,  only  to  the  extent  that  such
+amendment  or interpretation permits the corporation  to  provide
+broader indemnification rights than were permitted prior thereto)
+against  all expenses, liability, and loss (including  attorneys'
+fees,  judgments,  fines, ERISA excise taxes  or  penalties,  and
+amounts  paid  or  to be paid in settlement,  and  any  interest,
+assessments,  or other charges imposed thereon, and any  federal,
+state,  local, or foreign taxes imposed on any Agent as a  result
+of  the  actual  or  deemed receipt of any  payments  under  this
+Article)  reasonably  incurred or  suffered  by  such  person  in
+connection with investigating, defending, being a witness in,  or
+participating in (including on appeal), or preparing for
+
+<PAGE>
+
+any of the foregoing in, any Proceeding (hereinafter "Expenses");
+provided,   however,  that  except  as  to  actions  to   enforce
+indemnification rights pursuant to Section 3 of this Article, the
+corporation shall indemnify any Agent seeking indemnification  in
+connection with a Proceeding (or part thereof) initiated by  such
+person only if the Proceeding (or part thereof) was authorized by
+the  Board  of  Directors  of  the  corporation.   The  right  to
+indemnification  conferred in this Article shall  be  a  contract
+right.
+
+           Section  2.  Authority to Advance Expenses.   Expenses
+incurred  by  an officer or director (acting in his  capacity  as
+such)  in defending a Proceeding shall be paid by the corporation
+in advance of the final disposition of such Proceeding, provided,
+however,  that  if  required by the Delaware General  Corporation
+Law,  as  amended,  such  Expenses shall be  advanced  only  upon
+delivery to the corporation of an undertaking by or on behalf  of
+such  director  or  officer to repay  such  amount  if  it  shall
+ultimately  be  determined that he or she is not entitled  to  be
+indemnified by the corporation as authorized in this  Article  or
+otherwise.   Expenses incurred by other Agents of the corporation
+(or by the directors or officers not acting in their capacity  as
+such,  including service with respect to employee benefit  plans)
+may  be  advanced upon such terms and conditions as the Board  of
+Directors  deems  appropriate.  Any obligation to  reimburse  the
+corporation  for  Expense  advances shall  be  unsecured  and  no
+interest shall be charged thereon.
+
+           Section  3.  Right of Claimant to Bring  Suit.   If  a
+claim under Section 1 or 2 of this Article is not paid in full by
+the corporation within thirty (30) days after a written claim has
+been  received by the corporation, the claimant may at  any  time
+thereafter  bring suit, in a court of competent  jurisdiction  in
+the  state  of Delaware, against the corporation to  recover  the
+unpaid  amount  of the claim and, if successful in  whole  or  in
+part,  the claimant shall be entitled to be paid also the expense
+(including attorneys' fees) of prosecuting such claim.  It  shall
+be  a defense to any such action (other than an action brought to
+enforce  a  claim for expenses incurred in defending a Proceeding
+in   advance   of  its  final  disposition  where  the   required
+undertaking  has  been  tendered to  the  corporation)  that  the
+claimant  has  not  met  the standards of conduct  that  make  it
+permissible  under the Delaware General Corporation Law  for  the
+corporation  to  indemnify the claimant for the  amount  claimed.
+The burden of proving such a defense shall be on the corporation.
+Neither  the failure of the corporation (including its  Board  of
+Directors,  independent legal counsel, or  its  stockholders)  to
+have  made  a  determination prior to the  commencement  of  such
+action  that indemnification of the claimant is proper under  the
+circumstances  because he or she has met the applicable  standard
+of conduct set forth in the Delaware General Corporation Law, nor
+an  actual determination by the corporation (including its  Board
+of  Directors,  independent legal counsel, or  its  stockholders)
+that  the  claimant  had  not  met such  applicable  standard  of
+conduct, shall be a defense to the action or create a presumption
+that the claimant has not met the applicable standard of conduct.
+
+            Section  4.   Provisions  Nonexclusive.   The  rights
+conferred on any person by this Article shall not be exclusive of
+any  other rights that such person may have or hereafter  acquire
+under any statute, provision of the Certificate of Incorporation,
+agreement,  vote of stockholders or disinterested  directors,  or
+otherwise, both as to
+
+<PAGE>
+
+action  in  an  official capacity and as  to  action  in  another
+capacity  while  holding such office.  To  the  extent  that  any
+provision of the Certificate of Incorporation, agreement, or vote
+of  the  stockholders or disinterested directors is  inconsistent
+with  these Bylaws, the provision, agreement, or vote shall  take
+precedence.
+
+           Section 5.  Authority to Insure.  The corporation  may
+purchase  and maintain insurance to protect itself and any  Agent
+against  any Expense, whether or not the corporation  would  have
+the  power  to  indemnify the Agent against  such  Expense  under
+applicable law or the provisions of this Article.
+
+          Section 6.  Survival of Rights.  The rights provided by
+this  Article shall continue as to a person who has ceased to  be
+an  Agent  and shall inure to the benefit of the heirs, executors
+and administrators of such a person.
+
+           Section  7.   Settlement of Claims.   The  corporation
+shall not be liable to indemnify any Agent under this Article (a)
+for  any  amounts  paid  in settlement of  any  action  or  claim
+effected without the corporation's written consent, which consent
+shall not be unreasonably withheld; or (b) for any judicial award
+if  the  corporation  was  not  given  a  reasonable  and  timely
+opportunity,  at its expense, to participate in  the  defense  of
+such action.
+
+           Section  8.      Effect of Amendment.  Any  amendment,
+repeal,  or  modification  of this Article  shall  not  adversely
+affect any right or protection of any Agent existing at the  time
+of such amendment, repeal, or modification.
+
+          Section 9.  Subrogation.  In the event of payment under
+this  Article, the corporation shall be subrogated to the  extent
+of  such  payment to all of the rights of recovery of the  Agent,
+who  shall  execute all papers required and shall  do  everything
+that  may  be  necessary  to secure such  rights,  including  the
+execution  of such documents necessary to enable the  corporation
+effectively to bring suit to enforce such rights.
+
+            Section   10.   No  Duplication  of  Payments.    The
+corporation  shall not be liable under this Article to  make  any
+payment  in connection with any claim made against the  Agent  to
+the  extent  the  Agent has otherwise actually  received  payment
+(under  any  insurance policy, agreement, vote, or otherwise)  of
+the amounts otherwise indemnifiable hereunder.
+
+                            ARTICLE X
+                             Notices
+
+           (a)   Whenever, under any provisions of these  Bylaws,
+notice is required to be given to any stockholder, the same shall
+be  given in writing, either (a) timely and duly deposited in the
+United  States  Mail,  postage  prepaid,  and  addressed  to  the
+stockholder's  last known post office address  as  shown  by  the
+stock record of the corporation or its transfer agent or (b) by a
+form  of  electronic transmission consented to by the stockholder
+to whom the notice is given, except to the extent prohibited by
+
+<PAGE>
+
+Section  232(e)  of  the Delaware General Corporation  Law.   Any
+consent  to  receive notice by electronic transmission  shall  be
+revocable   by   the  stockholder  by  written  notice   to   the
+corporation.  Any such consent shall be deemed revoked if (i) the
+corporation  is unable to deliver by electronic transmission  two
+(2)  consecutive notices given by the corporation  in  accordance
+with  such consent and (ii) such inability becomes known  to  the
+Secretary or an Assistant Secretary of the corporation or to  the
+transfer  agent, or other person responsible for  the  giving  of
+notice; provided, however, the inadvertent failure to treat  such
+inability  as  a revocation shall not invalidate any  meeting  or
+other action.
+
+           (b)   Any  notice required to be given to any director
+may  be given by the method hereinabove stated.  Any such notice,
+other  than one which is delivered personally, shall be  sent  to
+such  post  office address, facsimile number or  electronic  mail
+address  as  such director shall have filed in writing  with  the
+Secretary of the corporation, or, in the absence of such  filing,
+to the last known post office address of such director.  It shall
+not  be  necessary  that  the same method  of  giving  notice  be
+employed  in  respect of all directors, but one  (1)  permissible
+method  may  be employed in respect of any one or more,  and  any
+other permissible method or methods may be employed in respect of
+any other or others.
+
+           (c)   If  no  post office address of a stockholder  or
+director be known, such notice may be sent to the office  of  the
+corporation  required to be maintained pursuant to Section  2  of
+Article I hereof.  An affidavit executed by a duly authorized and
+competent  employee of the corporation or the transfer  agent  or
+other  agent  of  the corporation appointed with respect  to  the
+class  of  stock  affected, specifying the name and  post  office
+address or the names and post office addresses of the stockholder
+or  stockholders, director or directors, to whom any such  notice
+or  notices was or were given, and the time and method of  giving
+the  same (or, for any stockholder or director to whom notice has
+been  directed by electronic transmission, the form of electronic
+transmission and the facsimile number, electronic mail address or
+other location to which such notice was directed and the time  at
+which  such  notice  was  directed  to  each  such  director   or
+stockholder),  shall be prima facie evidence  of  the  statements
+therein contained.
+
+           (d)   All  notices given by mail, as  above  provided,
+shall  be  deemed to have been given as at the time  of  mailing.
+All  notices  given  to  stockholders by  a  form  of  electronic
+transmission,  as above provided, shall be deemed  to  have  been
+given:  (a) if by facsimile, when directed to a number  at  which
+the  stockholder  has  consented to receive  notice;  (b)  if  by
+electronic  mail, when directed to an electronic mail address  at
+which the stockholder has consented to receive notice; (c) if  by
+a  posting on an electronic network together with separate notice
+to  the  stockholder of such specific posting, upon the later  of
+(i) such posting and (ii) the giving of such separate notice; and
+(d)  if  by  any  other  form  of electronic  transmission,  when
+directed to the stockholder.  All notices given to directors by a
+form  of  electronic  transmission, as above provided,  shall  be
+deemed  to  have been given when directed to the electronic  mail
+address, facsimile number, or other location filed in writing  by
+the director with the Secretary of the corporation.
+
+<PAGE>
+
+           (e)  The period or limitation of time within which any
+stockholder  may  exercise any option  or  right,  or  enjoy  any
+privilege or benefit, or be required to act, or within which  any
+director may exercise any power or right, or enjoy any privilege,
+pursuant  to  any  notice sent him in the manner above  provided,
+shall not be affected or extended in any manner by the failure of
+such a stockholder or such director to receive such notice.
+
+           (f)  Whenever any notice is required to be given under
+the  provisions  of  the  statutes  or  of  the  Certificate   of
+Incorporation,  or of these Bylaws, a waiver thereof  in  writing
+given  by the person or persons entitled to said notice,  whether
+before  or  after  the  time  stated  therein,  shall  be  deemed
+equivalent thereto.
+
+          (g)  Whenever notice is required to be given, under any
+provision of law or of the Certificate of Incorporation or Bylaws
+of  the  corporation,  to any person with whom  communication  is
+unlawful, the giving of such notice to such person shall  not  be
+required  and there shall be no duty to apply to any governmental
+authority  or agency for a license or permit to give such  notice
+to  such  person.  Any action or meeting which shall be taken  or
+held without notice to any such person with whom communication is
+unlawful  shall have the same force and effect as if such  notice
+had  been duly given.  In the event that the action taken by  the
+corporation  is  such as to require the filing of  a  certificate
+under any provision of the Delaware General Corporation Law,  the
+certificate  shall state, if such is the fact and  if  notice  is
+required,  that  notice  was given to  all  persons  entitled  to
+receive  notice  except such persons with whom  communication  is
+unlawful.
+
+           (h)  Whenever notice is to be given to the corporation
+by a stockholder under any provision of law or of the Certificate
+of  Incorporation or Bylaws of the corporation, such notice shall
+be  delivered to the Secretary at the principal executive offices
+of   the  corporation.   If  delivered  by  electronic  mail   or
+facsimile,  the  stockholder's notice shall be  directed  to  the
+Secretary at the electronic mail address or facsimile number,  as
+the  case  may  be, specified in the company's most recent  proxy
+statement.
+
+                           ARTICLE XI
+                           Amendments
+
+            Unless  otherwise  provided  in  the  Certificate  of
+Incorporation, these Bylaws may be repealed, altered  or  amended
+or  new Bylaws adopted at any meeting of the stockholders, either
+annual  or special, by the affirmative vote of a majority of  the
+stock  entitled to vote at such meeting.  The Board of  Directors
+shall  also  have the authority to repeal, alter or  amend  these
+Bylaws  or  adopt new Bylaws (including, without limitation,  the
+amendment of any Bylaws setting forth the number of directors who
+shall  constitute  the  whole Board of  Directors)  by  unanimous
+written consent or at any annual, regular, or special meeting  by
+the  affirmative  vote  of a majority  of  the  whole  number  of
+directors, subject to the power of the stockholders to change  or
+repeal such Bylaws and provided that the Board of Directors shall
+not   make   or  alter  any  Bylaws  fixing  the  qualifications,
+classifications, term of office or compensation of directors.
+
+<PAGE>
+
+                           ARTICLE XII
+                     Electronic Transmission
+
+When  used in these Bylaws, the terms "written" and "in  writing"
+shall  include  any  "electronic  transmission,"  as  defined  in
+Section 232(c) of the Delaware General Corporation Law, including
+without    limitation   any   telegram,   cablegram,    facsimile
+transmission and communication by electronic mail.
+
+<PAGE>
+
+Exhibit 99.1
+
+           INTEL BOARD ELECTS PAUL OTELLINI INTEL CEO
+
+             Craig Barrett to Become Intel Chairman
+
+SANTA  CLARA,  Calif.,  Nov. 11, 2004 - Intel  Corporation  today
+announced  that  its  board  of directors  has  elected  Paul  S.
+Otellini, currently president and chief operating officer  (COO),
+as  its  next chief executive officer (CEO). Otellini,  54,  will
+succeed Craig R. Barrett.
+
+     Barrett, 65, will succeed Andrew S. Grove as chairman of the
+Intel board of directors. Grove, 68, will no longer serve on  the
+Intel  board  but will assume the role of senior advisor  to  the
+board and senior management. The changes will become effective at
+the  time of the company's next annual stockholders' meeting  May
+18, 2005.
+
+      "Craig  and Paul are the right team at the right  time  for
+Intel,"  said Grove. "We're exceptionally fortunate to have  them
+at the helm.
+
+      "Having  worked  closely with Craig and Paul  for  over  30
+years,  I know that Paul's vitality and deep knowledge of Intel's
+products,  customers  and global markets, together  with  Craig's
+stature as an industry leader and pre-eminent technologist,  make
+them  outstanding  choices to lead Intel and  the  board  as  the
+company  drives its core silicon expertise further  in  computing
+and communications.
+
+      "I look forward to collaborating with Craig and Paul in  my
+new role and helping Intel achieve new levels of success."
+
+<PAGE>
+
+      Otellini  joined Intel in 1974 and has served as  president
+and  COO  since  January 2002. He was elected  to  the  board  of
+directors in 2002.
+
+       Since  joining  Intel,  Otellini  has  held  a  number  of
+positions,  including  general manager of the  company's  chipset
+business   and  later  serving  as  an  assistant  to  then-Intel
+president  Andy  Grove in 1989. In 1990 he was named  to  oversee
+Intel's  microprocessor business as general manager, leading  the
+introduction of the Intel Pentium(R) processor in 1993.
+
+      Otellini  served  from  1992  to  1998  as  executive  vice
+president  of  sales and marketing where he focused on  extending
+Intel's  global  presence  into emerging  markets  and  initiated
+Intel's  leadership in the development and use of e-Commerce  for
+transacting  business  worldwide. From  1998  to  2002,  Otellini
+served  as  executive vice president and general manager  of  the
+Intel   Architecture  Group,  responsible   for   the   company's
+microprocessor  and  chipset businesses and strategies.  In  this
+role,  he  oversaw  all  of Intel's business  groups  related  to
+enterprise, mobile and desktop computing.
+
+      Otellini received a bachelor's degree in economics from the
+University  of  San  Francisco in  1972,  and  an  MBA  from  the
+University of California, Berkeley in 1974.
+
+      Barrett  joined Intel in 1974 and has served as  CEO  since
+1998. He was elected to the board of directors in 1992.
+
+      Intel,  the world's largest chip maker, is also  a  leading
+manufacturer of computer, networking and communications products.
+Additional    information   about   Intel   is    available    at
+www.intel.com/pressroom.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

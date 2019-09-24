@@ -1,0 +1,275 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JxsCdVL/L72LfUSR/7vyMMS+3Cuv2dayw2dIszWTfIvifBEfznk5lu30NlUYE8sO
+ DwDGcjcOTIQ0SjASzMVY7A==
+
+<SEC-DOCUMENT>0000050863-00-000137.txt : 20001211
+<SEC-HEADER>0000050863-00-000137.hdr.sgml : 20001211
+ACCESSION NUMBER:		0000050863-00-000137
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20001207
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20001208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		785571
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C. 20549
+
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+                      Pursuant to Section 13 or 15 (d)
+                   of the Securities Exchange Act of 1934
+
+
+                       Date of Report:  December 7, 2000
+                     (Date of earliest event reported)
+
+
+
+                            INTEL CORPORATION
+       (Exact name of registrant as specified in its charter)
+
+
+
+  Delaware                     0-6217                   94-1672743
+- -----------                  -----------            ------------------
+(State of                   (Commission             (IRS Employer
+incorporation)              File Number)           Identification No.)
+
+
+
+2200 Mission College Blvd., Santa Clara, California            95052-8119
+- ----------------------------------------------------           ----------
+(Address of principal executive offices)                       (Zip Code)
+
+
+                           (408) 765-8080
+                           --------------
+        (Registrant's telephone number, including area code)
+
+
+<PAGE>
+
+
+Item 5.  OTHER EVENTS
+
+    5.1  Attached hereto as Exhibit 99.1 and incorporated by reference
+herein is the text of Intel Corporation's announcement regarding
+an update to forward-looking statements relating to 2000 and the fourth
+quarter of 2000 as presented in a press release of December 7, 2000.
+
+
+Item 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+    (c)  Exhibits
+
+         99.1 Press release of December 7, 2000 with an announcement
+regarding an update to forward-looking statements relating to 2000 and the
+fourth quarter of 2000.
+
+
+<PAGE>
+
+
+                                  SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                           INTEL CORPORATION
+                                           (Registrant)
+
+
+Date: December 7, 2000                     By: /s/ Andy D. Bryant
+                                               ------------------
+                                               Andy D. Bryant
+                                               Senior Vice President,
+                                               Chief Financial Officer
+                                               and Principal Accounting
+                                               Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+
+
+
+                                                            EXHIBIT 99.1
+
+            INTEL FOURTH QUARTER REVENUE TO BE BELOW EXPECTATION
+
+                GROSS MARGIN PERCENTAGE EXPECTATION UNCHANGED
+
+SANTA CLARA, Calif., Dec. 7, 2000 -- Intel's fourth quarter revenue is
+anticipated to be below the company's previous expectation, primarily due
+to a slowing worldwide economy impacting PC demand, the company said today.
+As a result of recent large cancellations by customers worldwide, the
+company now expects revenue for the fourth quarter to be flat, plus or
+minus a couple of percentage points, with third quarter revenue of $8.7
+billion.  This is lower than the previous expectation that fourth quarter
+revenue would be up 4 to 8 percent from third quarter revenue.
+
+     The company's expectation for gross margin percentage for the fourth
+quarter remains 63 percent, plus or minus a point.  Expenses (R&D,
+excluding in-process R&D, plus MG&A) in the fourth quarter are now expected
+to be approximately flat with third quarter expenses of $2.3 billion.  This
+is lower than the previous expectation that fourth quarter expenses would
+be up 6 to 8 percent from third quarter expenses, due primarily to a
+slowdown in discretionary spending and lower revenue and profit dependent
+expenses.  Interest and other is expected to be approximately $675 million
+for the fourth quarter, down from the company's previous expectation of
+$950 million, due to lower than expected realized gains on equity
+investments as equity market levels fell during the quarter.
+
+                              BUSINESS OUTLOOK
+                              ----------------
+
+     The following statements are based on current expectations.  These
+statements are forward-looking, and actual results may differ materially.
+These statements do not reflect the potential impact of any mergers,
+acquisitions or other business combinations that may be completed after the
+date of this release.
+
+**   The company expects revenue for the fourth quarter of 2000 to be flat,
+plus or minus a couple of percentage points, with third quarter revenue of
+$8.7 billion.
+**   The company expects gross margin percentage for the fourth quarter to
+be 63 percent, plus or minus a point.  In the short term, Intel's gross
+margin percentage varies primarily with revenue levels, product mix,
+changes in unit costs and timing of factory ramps and associated costs.
+**   Expenses (R&D, excluding in-process R&D, plus MG&A) in the fourth
+quarter of 2000 are expected to be approximately flat with third quarter
+expenses of $2.3 billion.  Expenses are dependent in part on the level of
+revenue and profits.
+ **   R&D spending, excluding in-process R&D, is expected to be
+approximately $1.0 billion for the fourth quarter.
+**   The company expects interest and other income for the fourth quarter
+of 2000 to be approximately $675 million.  Interest and other is dependent
+in part on interest rates, cash balances, equity market levels and
+volatility, the realization of expected gains on investments, including
+gains on investments acquired by third parties, and assuming no
+unanticipated items.
+**   The tax rate for 2000 is expected to be approximately 31.8 percent,
+excluding the impact of the previously announced agreement with the
+Internal Revenue Service and acquisition-related costs.
+**   Capital spending for 2000 is expected to be approximately $6.5
+billion, higher than previous expectation of $6.0 billion.
+**   Depreciation is expected to be approximately $815 million in the
+fourth quarter, lower than previous expectation of $865 million.
+**   Amortization of goodwill and other acquisition-related intangibles is
+expected to be approximately $460 million in the fourth quarter, higher
+than previous expectation of $440 million.
+
+     The above statements contained in this Outlook are forward-looking
+statements that involve a number of risks and uncertainties.  In addition
+to factors discussed above, among other factors that could cause actual
+results to differ materially are the following: business and economic
+conditions and growth in the computing industry in various geographic
+regions; changes in customer order patterns; changes in the mixes of
+microprocessor types and speeds, purchased components and other products;
+competitive factors, such as rival chip architectures and manufacturing
+technologies, competing software-compatible microprocessors and acceptance
+of new products in specific market segments; pricing pressures; development
+and timing of introduction of compelling software applications;
+insufficient, excess or obsolete inventory and variations in inventory
+valuation; continued success in technological advances, including
+development and implementation of new processes and strategic products for
+specific market segments; execution of the manufacturing ramp; shortage of
+manufacturing capacity; the ability to grow new networking, communications,
+wireless and other Internet-related businesses and successfully integrate
+and operate any acquired businesses; impact of events outside the United
+States such as the business impact of fluctuating currency rates or unrest
+or political instability in a locale, such as transport disruption in
+Europe or unrest in Israel; unanticipated costs or other adverse effects
+associated with processors and other products containing errata (deviations
+from published specifications); litigation involving antitrust,
+intellectual property, consumer and other issues; and other risk factors
+listed from time to time in the company's SEC reports, including but not
+limited to the report on Form 10-Q for the quarter ended Sept. 30, 2000
+(Part I, Item 2, Outlook section).
+
+
+STATUS OF BUSINESS OUTLOOK AND RELATED RISK FACTORS STATEMENTS
+
+     Intel expects that its corporate representatives will meet privately
+during the quarter with investors, the media, investment analysts and
+others. At these meetings Intel may reiterate the Outlook published in this
+press release. At the same time, Intel will keep this press release and
+Outlook publicly available on its Web site (www.intc.com). Prior to the
+start of the Quiet Period (described below), the public can continue to
+rely on the Outlook on the Web site as still being Intel's current
+expectations on matters covered, unless Intel publishes a notice stating
+otherwise.
+     Beginning Dec. 16, 2000, Intel will observe a "Quiet Period" during
+which the Outlook as provided in this press release and the company's
+quarterly report on Form 10-Q no longer constitute the company's current
+expectations. During the Quiet Period, the Outlook in these documents
+should be considered to be historical, speaking as of prior to the Quiet
+Period only and not subject to update by the company.  During the Quiet
+Period, Intel representatives will not comment concerning Outlook or
+Intel's financial results or expectations. The Quiet Period will extend
+until the day when Intel's next quarterly Earnings Release is published,
+presently scheduled for Jan. 16, 2001.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

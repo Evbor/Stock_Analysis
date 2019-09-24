@@ -1,0 +1,417 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N9aP1LiDeZLaL3s16mJxw4RB8rRbrdn4jIM6f5jvM6te4K+yeRY6htXoCntwruA4
+ Dun/BMi9RPMdBreU6MCaqg==
+
+<SEC-DOCUMENT>0000050863-06-000167.txt : 20060905
+<SEC-HEADER>0000050863-06-000167.hdr.sgml : 20060904
+<ACCEPTANCE-DATETIME>20060905161840
+ACCESSION NUMBER:		0000050863-06-000167
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20060830
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20060905
+DATE AS OF CHANGE:		20060905
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		061074241
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+                      ____________________
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+             Pursuant to Section 13 OR 15(d) of the
+                 Securities Exchange Act of 1934
+
+                Date of Report:  August 30, 2006
+                (Date of earliest event reported)
+
+                        INTEL CORPORATION
+     (Exact name of registrant as specified in its charter)
+
+
+      Delaware               000-06217             94-1672743
+   (State or other          (Commission          (IRS Employer
+    jurisdiction
+  of incorporation)         File Number)      Identification No.)
+
+  2200 Mission College Blvd., Santa Clara,         95054-1549
+                 California
+  (Address of principal executive offices)         (Zip Code)
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+Check  the  appropriate  box below if  the  Form  8-K  filing  is
+intended to simultaneously satisfy the filing obligation  of  the
+registrant  under  any of the following provisions  (see  General
+Instruction A.2. below):
+
+[  ]  Written  communications pursuant  to  Rule  425  under  the
+Securities Act (17 CFR 230.425)
+
+[  ]  Soliciting  material  pursuant to  Rule  14a-12  under  the
+Exchange Act (17 CFR 240.14a-12)
+
+[  ]  Pre-commencement communications pursuant to  Rule  14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+[  ]  Pre-commencement communications pursuant to  Rule  13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+Item         Regulation FD Disclosure.
+7.01
+             In connection with the April 19 and July 19
+             Earnings Releases, Intel Corporation (the
+             "Corporation") discussed an ongoing program
+             designed to improve operational efficiency and
+             results.  In connection with that program the
+             Corporation has previously announced the planned
+             sale of its communications and application
+             processor business to Marvell Technology Group, and
+             the elimination of approximately 1,000 management
+             positions within the Corporation.
+
+             Further with respect to that program, the
+             Corporation determined on August 30, 2006 to
+             undertake a number of additional actions
+             recommended by the Corporation's Structure and
+             Efficiency Taskforce relating to organizational
+             efficiency, business processes and programs. Some
+             of these actions (collectively, the "Efficiency
+             Plan") have commenced and will continue for varying
+             periods of time, and other actions will involve
+             further analysis and execution at a later date.  It
+             is intended that most of these actions will have
+             commenced or be executed by the end of the 2007
+             fiscal year, although some actions may occur or
+             continue into the 2008 and 2009 fiscal years.
+
+             The Corporation presently estimates that the
+             aggregate result of these actions pursuant to the
+             Efficiency Plan will be to reduce cost-of-sales and
+             marketing, general and administrative and research
+             and development expenses by approximately $2
+             billion in 2007 and $3 billion in 2008.  These
+             actions are also expected to reduce the
+             Corporation's workforce by approximately 10,500
+             employees worldwide as of July 1, 2007 relative to
+             employment of 102,500 persons as of July 1, 2006.
+             Year-end 2006 employment is expected to be
+             approximately 95,000 persons. The Corporation also
+             expects that several of these actions under the
+             Efficiency Plan will result in the avoidance of
+             approximately $1 billion in capital expenditures
+             that otherwise would have been incurred in 2008.
+             The Corporation intends to provide additional
+             information concerning the impact of these actions
+             on the Corporation's third quarter and the
+             estimated impact of these actions on the
+             Corporation's fourth quarter with the Corporation's
+             2006 third quarter Earnings Release (scheduled for
+             publication on October 17, 2006). Similarly,
+             additional detail with regard to 2007 will be
+             provided in the Corporation's earnings releases and
+             Business Outlook statements published quarterly
+             during 2007.
+
+             In connection with the Efficiency Plan, the
+             Corporation expects to record restructuring charges
+             of approximately $200 million no later than 2007.
+             Additional, presently undetermined, charges may be
+             incurred during the 2008 and 2009 fiscal years. The
+             Corporation currently expects that a majority of
+             the aggregate charges will be related to employee
+             benefit and severance arrangements to be paid
+
+<PAGE>
+             in cash.
+
+             The exact timing of these charges and the related
+             cash outflows, as well as the estimated cost ranges
+             by category type, have not been finalized. This
+             information will be subject to the finalization of
+             timetables for the transition of functions, local
+             labor law requirements, including consultation with
+             appropriate works councils as well as the statutory
+             severance requirements of the particular legal
+             jurisdictions impacted, and the amount and timing
+             of the actual charges may vary due to a variety of
+             factors including the salary, position and number
+             of years of service of the affected employees as
+             well as the type and amount of severance benefits
+             offered to employees. The Efficiency Plan reflects
+             the Corporation's intention only and restructuring
+             decisions at certain non-U.S. locations remain
+             subject to local labor law requirements, including
+             consultation with appropriate works councils.
+
+             Attached hereto as Exhibit 99.1 and incorporated by
+             reference herein is a press release describing the
+             Efficiency Plan. The information in this Current
+             Report shall be deemed incorporated by reference
+             into any registration statement heretofore or
+             hereafter filed under the Securities Act of 1933,
+             as amended, except to the extent that such
+             information is superseded by information as of a
+             subsequent date that is included in or incorporated
+             by reference into such registration statement. The
+             information in this report shall not be treated as
+             filed for purposes of the Securities Exchange Act
+             of 1934, as amended.
+
+             This Form 8-K and attached press release contain
+             forward-looking statements that involve risks,
+             uncertainties and assumptions. Many factors could
+             affect the Efficiency Plan and the Corporation's
+             actual results, and if the risks or uncertainties
+             ever materialize or the assumptions prove
+             incorrect, the results of the Corporation may
+             differ materially from those expressed or implied
+             by such forward-looking statements and assumptions.
+             All statements other than statements of historical
+             fact are statements that could be deemed forward-
+             looking statements, including but not limited to
+             any projections, the extent or timing of cost
+             savings, charges, use of cost savings, revenue or
+             profitability improvements, or other financial
+             items; any statements of the plans, strategies, and
+             objectives of management for future operations,
+             including timing and execution of any restructuring
+             plans, retirement programs, benefit program changes
+             or reorganizations and extent of employees
+             impacted; any statements concerning the
+             Corporation's expected competitive position or
+             performance; any statements of expectation or
+             belief; and any statements of assumptions
+             underlying any of the foregoing. Intel presently
+             considers the factors set forth below to be the
+             important factors that could cause actual results
+             to differ materially from the Corporation's
+
+<PAGE>
+
+             published expectations: risks, uncertainties and
+             assumptions including the timing and execution of
+             plans and programs subject to local labor law
+             requirements, including consultation with
+             appropriate works councils; assumptions related to
+             severance and post-retirement costs; future
+             acquisitions, dispositions, investments, new
+             business initiatives and changes in product
+             roadmap, development and manufacturing which may
+             affect expense and employment levels at the
+             Corporation; assumptions relating to product demand
+             and the business environment; and other risk
+             factors that are described from time to time in the
+             Corporation's Securities and Exchange Commission
+             reports, including but not limited to the risk
+             factors described in the Corporation's Quarterly
+             Report on Form 10-Q for the fiscal quarter ended
+             July 1, 2006, and other reports filed after the
+             Corporation's Annual Report on Form 10-K for the
+             fiscal year ended December 31, 2005. The
+             Corporation assumes no obligation to update these
+             forward-looking statements.
+
+<PAGE>
+
+                           SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.
+
+                                 INTEL CORPORATION
+                                 (Registrant)
+
+
+                                 By:  /s/ Cary I. Klafter
+                                      --------------------
+                                      Cary I. Klafter
+Date:  September 5, 2006              Corporate Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh99.txt
+<DESCRIPTION>EXHIBIT 99.1 - PRESS RELEASE
+<TEXT>
+                                                 Exhibit 99.1
+
+2200 Mission College Blvd.
+P.O. Box 58119
+Santa Clara, CA 95052-8119
+
+CONTACTS: Chuck Mulloy                  Alex Lenke
+          Media Relations               Investor Relations
+          408-765-3484                  408-765-1773
+          chuck.mulloy@intel.com        alex.lenke@intel.com
+
+
+
+                  INTEL ANNOUNCES RESTRUCTURING
+
+         Expects to Reduce Costs and Operating Expenses
+          By $2 Billion in 2007, By $3 Billion in 2008
+
+SANTA CLARA, Calif., Sept. 5, 2006 - Intel today announced plans
+for restructuring following an analysis of the company's
+structure and efficiency. As a result of the restructuring, the
+company expects to generate savings in costs and operating
+expenses of approximately $2 billion in 2007.  In 2008 the
+company expects savings from this restructuring to grow to
+approximately $3 billion annually.
+
+     The savings are a combination of non-workforce related steps
+and a significant reduction in Intel's workforce. The company's
+employee population will decline to approximately 95,000 by the
+end of this year, resulting from workforce reductions, attrition
+and previously announced actions. The workforce will decline to
+approximately 92,000 by the middle of 2007 - 10,500 fewer than
+the company's employee population at the end of the second
+quarter of 2006. In addition to the savings from the workforce
+reduction, the company expects savings in merchandizing expenses,
+capital and materials.
+
+     "These actions, while difficult, are essential to Intel
+becoming a more agile and efficient company, not just for this
+year or the next, but for years to come," said Paul Otellini,
+Intel president and chief executive officer.
+
+<PAGE>
+
+     Most job reductions this year will occur in management,
+marketing and information technology functions, reductions
+related to the previously announced sale of businesses, as well
+as attrition. In 2007, the reductions will be more broadly based
+as Intel improves labor efficiency in manufacturing, improves
+equipment utilization, eliminates organizational redundancies,
+and improves product design methods and processes.
+
+     In 2008, the company expects the cost and operating expense
+savings from this restructuring to grow to approximately $3
+billion as it achieves the full-year run rate on the projects
+implemented in 2007. In addition, Intel expects to achieve a
+capital expenditure avoidance of $1 billion by better utilizing
+manufacturing equipment and space. The company expects that
+approximately 25 percent of the project's savings in 2007 will
+reduce cost of sales, and the rest will reduce operating
+expenses.
+
+     The company expects severance costs to total approximately
+$200 million, offsetting some of the expected savings from the
+project's implementation.
+
+     Intel is currently in its quiet period, so an update to its
+business outlook will not be made at this time. Further
+information concerning savings and costs related to the
+restructuring project will be provided in quarterly earnings
+releases and related business outlook estimates. The earnings
+release for the third quarter of this year is scheduled for
+publication Oct. 17.
+
+     Intel, the world leader in silicon innovation, develops
+technologies, products and initiatives to continually advance how
+people work and live. Additional information about Intel is
+available at www.intel.com/pressroom.
+
+This press release contains forward-looking statements that
+involve risks, uncertainties and assumptions. Many factors could
+affect the Efficiency Plan and the Corporation's actual results,
+and if the risks or uncertainties ever materialize or the
+assumptions prove incorrect, the results of the Corporation may
+differ materially from those expressed or implied by such forward-
+looking statements and assumptions. All statements other than
+statements of historical fact are statements that could be deemed
+forward-looking statements, including but not limited to any
+projections, the extent or timing of cost savings, charges, use
+of cost savings, revenue or profitability improvements, or other
+financial items; any statements of the plans, strategies, and
+objectives of management for future operations, including timing
+and execution of any restructuring plans, retirement programs,
+benefit program changes or reorganizations and extent of
+employees impacted; any statements concerning the Corporation's
+expected competitive position or performance; any statements of
+expectation or belief; and any statements of assumptions
+underlying any of the foregoing. Intel presently considers the
+factors set forth below to be the important factors that could
+cause actual results to differ materially from the Corporation's
+published expectations: risks, uncertainties and assumptions
+including the timing and execution of plans and programs subject
+to local labor law requirements, including consultation with
+appropriate works councils; assumptions related to severance and
+post-retirement costs; future acquisitions, dispositions,
+investments, new business initiatives and changes in product
+roadmap, development and manufacturing which may affect expense
+and employment levels at the Corporation; assumptions relating to
+product demand and the business environment; and other risk
+factors that are described from time to time in the Corporation's
+Securities and Exchange Commission reports, including but not
+limited to the risk factors described in the Corporation's
+Quarterly Report on Form 10-Q for the fiscal quarter ended July
+1, 2006, and other reports filed after the Corporation's Annual
+Report on Form 10-K for the fiscal year ended December 31, 2005.
+The
+
+<PAGE>
+
+Corporation assumes no obligation to update these forward-looking
+statements.
+
+Intel and the Intel logo are trademarks or registered trademarks
+of Intel Corporation or its subsidiaries in the United States and
+other countries. *Other names and brands may be claimed as the
+property of others.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

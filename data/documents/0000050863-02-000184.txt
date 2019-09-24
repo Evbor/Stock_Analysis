@@ -1,0 +1,383 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IHrTtzvSZpQWjLKX2Lplt7hxeoOpRIItwac6JTTKNLZdFmEK/L4qlxhebvYoTDyM
+ 53SinxoUocRa5jzd7e58LA==
+
+<SEC-DOCUMENT>0000050863-02-000184.txt : 20021205
+<SEC-HEADER>0000050863-02-000184.hdr.sgml : 20021205
+<ACCEPTANCE-DATETIME>20021205171230
+ACCESSION NUMBER:		0000050863-02-000184
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20021205
+ITEM INFORMATION:		Acquisition or disposition of assets
+FILED AS OF DATE:		20021205
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		02850068
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>q4028kupdatecover.htm
+<DESCRIPTION>Q4 02 BUSINESS UPDATE COVER LIVE
+<TEXT>
+<html>
+
+<head>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<title> UNITED STATES</title>
+</head>
+
+<body LINK="#0000ff">
+<font SIZE="4"><b>
+
+<p ALIGN="CENTER">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</p>
+</b></font><font SIZE="2">
+
+<p>&nbsp;</p>
+</font>
+
+<p ALIGN="CENTER">Washington, D.C. 20549</p>
+<font SIZE="2">
+
+<p>&nbsp;</p>
+</font><font SIZE="4"><b>
+
+<p ALIGN="CENTER">FORM 8-K</p>
+</b></font><font SIZE="2">
+
+<p>&nbsp;</p>
+</font><b>
+
+<p ALIGN="CENTER">CURRENT REPORT<br>
+</b>Pursuant to Section 13 or 15 (d)<br>
+of the Securities Exchange Act of 1934</p>
+
+<p ALIGN="CENTER"><b>Date of Report: December 5, 2002<br>
+</b>(Date of earliest event reported)</p>
+<font SIZE="2">
+
+<p>&nbsp;</p>
+</font><font SIZE="4"><b>
+
+<p ALIGN="CENTER">INTEL CORPORATION<br>
+</b></font><font size="3">(Exact name of registrant as specified in its charter)<br>
+</font><font SIZE="2"></font></p>
+<div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638" cellpadding="0">
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><u><b><p ALIGN="CENTER">Delaware</b></u></td>
+    <td WIDTH="33%" VALIGN="TOP"><u><b><p ALIGN="CENTER">0-6217</b></u></td>
+    <td WIDTH="33%" VALIGN="TOP"><u><b><p ALIGN="CENTER">94-1672743</b></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">(State of</td>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">(Commission</td>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">(IRS Employer</td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">incorporation)</td>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">File Number)</td>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">Identification No.)</td>
+  </tr>
+</table>
+</center></div><font SIZE="2">
+
+<p>&nbsp;</p>
+</font><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="639" cellpadding="0">
+  <tr>
+    <td WIDTH="62%" VALIGN="TOP"><u><b><p ALIGN="CENTER">2200 Mission College Blvd., Santa
+    Clara, California</b></u></td>
+    <td WIDTH="38%" VALIGN="TOP"><u><b><p ALIGN="CENTER">95052-8119</b></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="62%" VALIGN="TOP"><p ALIGN="CENTER">(Address of principal executive offices)</td>
+    <td WIDTH="38%" VALIGN="TOP"><p ALIGN="CENTER">(Zip Code)</td>
+  </tr>
+</table>
+</center></div><b><u>
+
+<p ALIGN="CENTER">(408) 765-8080<br>
+</u></b>(Registrant's telephone number, including area code)</p>
+<font SIZE="2">
+
+<p ALIGN="CENTER">&nbsp;</p>
+
+<hr noshade size="4">
+
+<p ALIGN="CENTER">&nbsp;</p>
+</font><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="666">
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">Item 5.</b></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b></td>
+    <td WIDTH="82%" VALIGN="TOP"><b>OTHER EVENTS</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b>&nbsp;&nbsp;</td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">5.1</b></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b></td>
+    <td WIDTH="82%" VALIGN="TOP">Attached hereto as Exhibit 99.1 and incorporated by reference
+    herein is the text of Intel Corporation's announcement regarding an update to
+    forward-looking statements related to 2002 and the fourth quarter of 2002 as presented in
+    a press release of December 5, 2002.</td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b>&nbsp;&nbsp;&nbsp;</td>
+    <td WIDTH="82%" VALIGN="TOP"><b></b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">Item 7.</b></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b></td>
+    <td WIDTH="82%" VALIGN="TOP"><b>FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND
+    EXHIBITS</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b>&nbsp;&nbsp;</td>
+    <td WIDTH="82%" VALIGN="TOP"><b></b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><dir>
+      <b><p ALIGN="RIGHT">(c)</b></p>
+    </dir>
+    </td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b></td>
+    <td WIDTH="82%" VALIGN="TOP"><b>Exhibits</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b>&nbsp;&nbsp;</td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">99.1</b></td>
+    <td WIDTH="4%" VALIGN="TOP"><b></b></td>
+    <td WIDTH="82%" VALIGN="TOP">Press release of December 5, 2002 with an announcement
+    regarding an update to forward-looking statements related to 2002 and the fourth quarter
+    of 2002.</td>
+  </tr>
+</table>
+</center></div>
+
+<p>&nbsp;</p>
+
+<hr noshade size="4">
+
+<p>&nbsp;</p>
+<div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638" cellpadding="0">
+  <tr>
+    <td VALIGN="TOP"><font SIZE="4"><b><p ALIGN="CENTER">SIGNATURES</b></font></td>
+  </tr>
+</table>
+</center></div><font SIZE="2">
+
+<p>&nbsp;</p>
+</font><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638" cellpadding="0">
+  <tr>
+    <td VALIGN="TOP">Pursuant to the requirements of the Securities Exchange Act of 1934, the
+    Registrant has duly caused this report to be signed on its behalf by the undersigned
+    hereunto duly authorized.</td>
+  </tr>
+</table>
+</center></div>
+
+<p>&nbsp;</p>
+<div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="636" cellpadding="0">
+  <tr>
+    <td WIDTH="56%" VALIGN="TOP"></td>
+    <td WIDTH="44%" VALIGN="TOP"><b>INTEL CORPORATION</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="56%" VALIGN="TOP"></td>
+    <td WIDTH="44%" VALIGN="TOP">(Registrant)</td>
+  </tr>
+</table>
+</center></div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638" cellpadding="0">
+  <tr>
+    <td WIDTH="50%" VALIGN="TOP">Date: December 5, 2002</td>
+    <td WIDTH="50%" VALIGN="TOP" COLSPAN="2">By:&nbsp;&nbsp;<u>/s/ Andy D.
+    Bryant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Andy D. Bryant</td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Executive Vice President,</td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Chief Financial Officer and</td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Principal Accounting Officer</td>
+  </tr>
+</table>
+</center></div>
+
+<p><font FACE="Courier New" SIZE="2">&nbsp;</font></p>
+
+<hr noshade size="4">
+<font SIZE="2">
+
+<p ALIGN="RIGHT">&nbsp;</p>
+</font>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>q402updateex99.htm
+<DESCRIPTION>Q4 02 BUSINESS UPDATE EXHIBIT 99 LIVE
+<TEXT>
+<html>
+
+<head>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<title>INTEL UPDATES FOURTH-QUARTER BUSINESS EXPECTATIONS</title>
+</head>
+
+<body LINK="#0000ff">
+
+<p ALIGN="RIGHT">Exhibit 99.1</p>
+<font SIZE="4"><b>
+
+<p ALIGN="CENTER">INTEL UPDATES FOURTH-QUARTER BUSINESS EXPECTATIONS</p>
+</b></font>
+
+<p>SANTA CLARA, Calif., Dec. 5, 2002 -- Intel Corporation today provided a planned update
+to the company's Business Outlook for the fourth quarter, which ends Dec. 28.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel expects revenue for the fourth quarter to be
+between $6.8 billion and $7.0 billion, as compared to the previous range of $6.5 billion
+to $6.9 billion. The company's Intel Architecture business is performing above
+expectations, primarily due to higher sales in Asia. Intel's communications businesses are
+in line with the company's expectations at the beginning of the quarter.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The gross margin percentage is expected to be at the high
+end of the previous range of 49 percent, plus or minus a couple of points. Gains or losses
+from equity investments and interest and other are expected to be a net loss of $90
+million, as compared to the previous expectation of a net loss of $50 million, primarily
+due to higher impairment charges on equity investments. All other expectations are
+unchanged.</p>
+<font FACE="TIMES">
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel's fourth-quarter 2002 Business Outlook was
+originally published in the company's third-quarter 2002 earnings release, available a</font>t
+<u>www.intc.com</u><font FACE="TIMES">.</p>
+</font>
+
+<p>&nbsp;</p>
+<i>
+
+<hr noshade size="4">
+
+<p><br>
+</i>This Business Update and the Oct. 15 Business Outlook are forward looking and involve
+a number of risks and uncertainties. Demand for Intel's products, which impacts revenue
+and gross margin, is affected by business and economic conditions as well as computing and
+communications industry trends and changes in customer ordering patterns. Revenue and
+gross margin are affected by competing chip architectures and manufacturing technologies,
+competing software-compatible microprocessors, pricing pressures and other competitive
+factors, as well as market acceptance of Intel's new products. Future revenue is also
+dependent on continuing technological advancement, including developing and implementing
+new processes and strategic products, as well as sustaining and growing new businesses and
+integrating and operating any acquired businesses. In addition to the impact of changes in
+revenue, the gross margin percentage varies with product mix, changes in unit costs,
+capacity utilization and the existence of excess capacity, and the timing and execution of
+factory ramps. The gross margin percentage could also be affected by excess or obsolete
+inventory and variations in inventory valuation. Intel does business outside the United
+States and is thus subject to a number of other factors, including currency controls and
+fluctuations, and tariff and import regulations. If terrorist activity, armed conflict,
+civil or military unrest or political instability occurs in the United States, Israel or
+other locations, such events may disrupt logistics, security and communications, and could
+also result in reduced demand for Intel's products. Expenses, particularly certain
+marketing and compensation expenses, vary depending on the level of revenue and profits.
+The expectation regarding gains or losses from equity securities and interest and other
+assumes no unanticipated events and varies depending on equity market levels and
+volatility, gains or losses realized on the sale or exchange of securities, impairment
+charges related to non-marketable and other investments, interest rates, cash balances,
+and changes in fair value of derivative instruments. Results could also be affected by
+adverse effects associated with product errata (deviations from published specifications)
+and by litigation, such as that described in Intel's SEC reports, as well as other risk
+factors listed in Intel's SEC reports, including the report on Form 10-Q for the quarter
+ended Sept. 28, 2002.<i></p>
+
+<p>&nbsp;</p>
+
+<hr noshade size="4" width="50%">
+
+<p><br>
+</i><small>*Intel is a registered trademark of Intel Corporation or its subsidiaries in
+the United States and other countries.</small></p>
+
+<p>&nbsp;</p>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

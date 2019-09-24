@@ -1,0 +1,255 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fkr3Gm2JYg/xV3TLQzGfrMR2CW94kJCoyQkPtUG6cbyfop6mFMb4XRH7OsAUZcFu
+ MG8bsBC5E3buf9pMjW4Xmw==
+
+<SEC-DOCUMENT>0000050863-98-000025.txt : 19980309
+<SEC-HEADER>0000050863-98-000025.hdr.sgml : 19980309
+ACCESSION NUMBER:		0000050863-98-000025
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980304
+ITEM INFORMATION:		
+FILED AS OF DATE:		19980306
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		98558530
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>COMPANY PRESS RELEASE DATED MARCH 4, 1998
+<TEXT>
+
+
+
+                 UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+ 
+                                    FORM 8-K
+                                 CURRENT REPORT
+
+
+
+   Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934   
+
+
+                         Date of Report: March 4, 1998
+                       (Date of earliest event reported)
+
+
+
+
+                               INTEL CORPORATION
+            (Exact name of Registrant as specified in its charter)
+
+
+
+           Delaware                     0-6217                94-1672743
+           --------                     ------                ----------
+(State or other jurisdiction of       (Commission          (I.R.S. Employer
+incorporation or organization)        file number)         Identification No.)
+
+
+
+
+2200 Mission College Boulevard, Santa Clara, California            95052-8119
+- -------------------------------------------------------            ----------
+     (Address of principal executive offices)                      (Zip Code)
+
+
+
+                               (408) 765-8080
+                               --------------
+            (Registrant's telephone number, including area code)
+
+
+
+<PAGE> 2
+
+ITEM 5.    OTHER EVENTS
+
+    5.1    Attached hereto as Exhibit 99.1 and incorporated by reference herein
+           is an update to forward-looking statements relating to 1998 and
+           the 1st Quarter of 1998, and certain matters related to the
+           acquisition of Chips and Technologies, Inc., as presented in a 
+           press release of March 4, 1998.
+
+
+
+
+
+ITEM 7.    FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION
+           AND EXHIBITS
+
+    (c)    Exhibits
+
+           99.1 Company press release dated March 4, 1998.
+
+
+                
+<PAGE> 3
+
+                                 SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                              INTEL CORPORATION
+                                              (Registrant)
+
+
+
+
+
+Date:     March 4, 1998                 By:   /s/ Andy D. Bryant
+                                              ------------------
+                                              Andy D. Bryant
+                                              Vice President, Chief Financial
+                                              Officer and Principal Accounting
+                                              Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<TEXT>
+
+
+EXHIBIT 99.1
+
+
+                          INTEL FIRST QUARTER TO BE
+                             BELOW EXPECTATIONS
+
+              Lower than Anticipated Demand Impacting Results
+
+SANTA CLARA, Calif., March 4, 1998 - Weaker than anticipated demand,
+particularly in OEM turns (orders from PC manufacturers to be shipped within
+the quarter), is expected to cause revenue and net income levels to fall below
+Intel's expectations for the first quarter of 1998, the company said today.
+When Intel announced fourth quarter earnings in January, the expectations were
+that revenue in the first quarter of 1998 would be approximately flat with
+fourth quarter revenue of $6.5 billion. The outlook for the first quarter has
+been revised from the view presented in the fourth quarter 1997 earnings report
+on January 13, 1998.
+
+                              BUSINESS OUTLOOK
+                              ----------------
+The following statements are based on current expectations.  These statements
+are forward-looking, and actual results may differ materially.  These
+statements do not reflect the potential impact of any mergers or acquisitions
+that may be completed after the date of this release, except as noted below.
+
+** The company expects revenue for the first quarter of 1998 to be down
+approximately 10 percent from the fourth quarter revenue of $6.5 billion.
+** Gross margin percentage in the first quarter of 1998 is now expected to be
+53 percent, plus or minus a couple of points. The change from earlier guidance
+is due to the lower revenue expectation.  In the short-term, Intel's gross
+margin percentage varies primarily with revenue levels and product mix.
+Expectations for Intel's gross margin for the full year 1998 will be updated
+in the first quarter earnings report.
+** The company still believes that over the long-term, the gross margin
+percentage will be 50 percent plus or minus a few points.  Intel's long-term
+gross margin percentage will vary depending on product mix.
+** The company completed the merger of Chips and Technologies, Inc. with
+Intel Enterprise Corporation during the quarter. The acquisition is expected
+to result in a one-time non-deductible charge in the first quarter of
+approximately $165 million, or $0.09 per share. This includes a write-off
+of in-process R&D.
+** Expenses (R& D plus MG &A) in the first quarter of 1998 are expected to
+be approximately 3 percent higher than the expenses of $1.4 billion in the
+fourth quarter. In January, expectations were that expenses in the first
+quarter of 1998 would be approximately 2 to 5 percent lower than the fourth
+quarter. The increase from prior expectations is attributable to the one time
+charge associated with the acquisition of Chips and Technologies, Inc. Expenses
+are dependent in part on the level of revenue.
+** R & D spending is expected to be approximately $3.0 billion for 1998, up
+from $2.3 billion in 1997. In January, expectations were that R&D spending in
+1998 would be approximately $2.8 billion. The increase from prior expectations
+is primarily attributable to the one time charge associated with the
+acquisition of Chips and Technologies, Inc. Expenses are dependent in part on
+the level of revenue.
+** The company expects interest and other income for the first quarter of
+1998 to be approximately $175 million assuming no significant changes in cash
+balances or interest rates, and no unanticipated items.
+** The tax rate in 1998 is expected to be 34.0 percent, excluding the impact of
+the one time charge associated with the acquisition of Chips and Technologies,
+Inc.
+** Capital spending for 1998 is expected to be approximately $5.3 billion, up
+from $4.5 billion in 1997.
+** Depreciation is expected to be approximately $2.7 billion for 1998, up from
+$2.2 billion in 1997.  Depreciation in the first quarter of 1998 is expected to
+be approximately $580 million.
+
+     The above statements contained in this outlook are forward-looking
+statements that involve a number of risks and uncertainties.  In addition to
+factors discussed above, among other factors that could cause actual results
+to differ materially are the following: business and economic conditions, and
+growth in the computing industry in various geographic regions; changes in
+customer order patterns, including changes in customer and channel inventory
+levels; changes in the mixes of microprocessor types and speeds, purchased
+components and other products; competitive factors, such as rival chip
+architectures and manufacturing technologies, competing software-compatible
+microprocessors, availability of other computing alternatives and acceptance
+of new products in specific market segments; pricing pressures; excess or
+obsolete inventory and variations in inventory valuation;  timing of software
+industry product introductions; continued success in technological advances,
+including development and implementation of new processes and new strategic
+products for specific market segments; execution of the manufacturing ramp;
+excess or shortage of manufacturing capacity; the ability to successfully
+integrate and operate any acquired businesses; unanticipated costs or other
+adverse effects associated with processors and other products containing errata
+(deviations from published specifications); risks associated with foreign
+operations;  litigation involving intellectual property, consumer and other
+issues; and other risk factors listed from time to time in the company's SEC
+reports, including but not limited to the report on Form 10-Q for the quarter
+ended September 27, 1997 (Part I, Item 2, Outlook section).
+     Intel's 1998 Step-Up Warrants (INTCW) expire on March 14, 1998.  The
+warrants must be exercised on or before Friday, March 13, 1998.  The last day
+of trading of the warrants on The Nasdaq Stock Market* will be March 10, 1998.
+
+
+*Third party marks and brands are property of their respective holders.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,679 @@
+<SEC-DOCUMENT>0001193125-17-250756.txt : 20170808
+<SEC-HEADER>0001193125-17-250756.hdr.sgml : 20170808
+<ACCEPTANCE-DATETIME>20170808083205
+ACCESSION NUMBER:		0001193125-17-250756
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20170808
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170808
+DATE AS OF CHANGE:		20170808
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		171013327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d415088d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<div style="width:790px"></div>
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM <FONT STYLE="white-space:nowrap">8-K</FONT> </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Pursuant to Section&nbsp;13
+or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Date of Report (Date of earliest event reported): August&nbsp;8, 2017 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>INTEL CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(Exact name of registrant
+as specified in its charter) </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Delaware</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">000-06217</FONT></B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-1672743</FONT></B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(Commission<BR></B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>2200 Mission College Blvd., Santa Clara, California</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>95054-1549</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: <FONT STYLE="white-space:nowrap">(408)&nbsp;765-8080</FONT>
+</B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Not Applicable</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Former name or former address, if changed since last report.)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule
+405 of the Securities Act of 1933 (17&nbsp;CFR 230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17&nbsp;CFR 240.12b-2). </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="97%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="right">Emerging Growth Company</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of
+the Exchange Act.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Events. </B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">On August&nbsp;8, 2017, Intel Corporation (&#147;Intel&#148;) issued a joint press release with
+Mobileye N.V. (&#147;Mobileye&#148;), announcing the expiration and results of the previously announced tender offer by Cyclops Holdings, LLC, a wholly owned subsidiary of Intel, to purchase all of the outstanding ordinary shares of Mobileye. The
+full text of the joint press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>(d)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibits.</B> </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The following exhibit is filed as part of this Report. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:26.65pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Joint Press Release issued by Intel Corporation and Mobileye N.V., dated August&nbsp;8, 2017, announcing Completion of the Tender Offer</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>INTEL CORPORATION</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">Date: August&nbsp;8,&nbsp;2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL">/s/ Robert H. Swan</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Robert H. Swan</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Executive Vice President and Chief Financial Officer</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d415088dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="43%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="42%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="middle">
+
+
+<IMG SRC="g415088g0616005813796.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Intel Corporation</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">2200 Mission College Blvd.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Santa Clara, CA 95054-1549</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle"> <P STYLE="margin-top:0pt;margin-bottom:1pt" ALIGN="right">
+
+
+<IMG SRC="g415088g13o85.jpg" ALT="LOGO">
+</P></TD></TR>
+</TABLE> <P STYLE="margin-top:14pt; margin-bottom:0pt; font-size:14pt; font-family:ARIAL" ALIGN="center"><B>Intel Completes Tender Offer for Mobileye </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><I>Acquisition Expected to Accelerate the Future of Autonomous Driving </I></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">SANTA CLARA, Calif., and JERUSALEM, August&nbsp;8, 2017 &#150; Intel Corporation (NASDAQ: INTC) and Mobileye N.V. (NYSE: MBLY) today announced the completion of
+Intel&#146;s tender offer for outstanding ordinary shares of Mobileye, a global leader in the development of computer vision and machine learning, data analysis, localization and mapping for advanced driver assistance systems and autonomous driving.
+The acquisition is expected to accelerate innovation for the automotive industry and positions Intel as a leading technology provider in the fast-growing market for highly and fully autonomous vehicles. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The combination of Intel and Mobileye will allow Mobileye&#146;s leading computer vision expertise (the &#147;eyes&#148;) to complement Intel&#146;s high-performance
+computing and connectivity expertise (the &#147;brains&#148;) to create automated driving solutions from cloud to car. Intel estimates the vehicle systems, data and services market opportunity to be up to $70&nbsp;billion by 2030. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">&#147;With Mobileye, Intel emerges as a leader in creating the technology foundation that the automotive industry needs for an autonomous future,&#148; said Intel CEO
+Brian Krzanich. &#147;It&#146;s an exciting engineering challenge and a huge growth opportunity for Intel. Even more exciting is the potential for autonomous cars to transform industries, improve society and save millions of lives.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel&#146;s Automated Driving Group (ADG) will combine its operations with Mobileye, an Intel Company. The combined Mobileye organization will lead Intel&#146;s
+autonomous driving efforts, and will have the full support of Intel resources and technology to define and deliver cloud-to-car solutions for the automotive market segment. Mobileye, an Intel Company, will remain headquartered in Israel and led by
+Prof. Amnon Shashua who will serve as Intel Senior Vice President and Mobileye CEO and Chief Technology Officer. In addition, Ziv Aviram, Mobileye Co-Founder, President and CEO, is retiring from the company, effective immediately. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">&#147;Leading in autonomous driving technology requires a combination of innovative proprietary software products and versatile open-system hardware platforms that
+enable customers and partners to customize solutions,&#148; said Prof. Amnon Shashua. &#147;For the first time, the auto industry has a single partner with deep expertise and a cultural legacy in both areas. Mobileye is very excited to begin this
+new chapter.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mobileye will support and build on both companies&#146; existing technology and customer relationships with automakers, <FONT
+STYLE="white-space:nowrap">tier-1</FONT> suppliers and semiconductor partners to develop advanced driving assist, highly autonomous and fully autonomous driving programs. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Further Transaction Details and Timing </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Today, Intel is acquiring approximately 84% of Mobileye&#146;s outstanding ordinary shares. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The initial offering period for the tender offer and withdrawal rights expired at 5:00 p.m., New York City time, on August&nbsp;7, 2017 (the &#147;Expiration
+Time&#148;). Based on information provided by the American Stock Transfer&nbsp;&amp; Trust Company, LLC, the depositary for the tender offer, a total of 187,882,291&nbsp;Mobileye ordinary shares (excluding Mobileye ordinary shares tendered pursuant
+to guaranteed delivery procedures), representing approximately 84% of the outstanding Mobileye ordinary shares, had been validly tendered and had not been validly withdrawn as of the expiration of the initial offering period (excluding
+26,424,016&nbsp;ordinary shares, representing approximately 12% of the aggregate number of ordinary shares outstanding, tendered pursuant to guaranteed delivery procedures that have not yet been delivered in settlement or satisfaction of such
+guarantee). Cyclops Holdings, LLC (&#147;Cyclops&#148;), a wholly owned subsidiary of Intel, has accepted for payment all shares that were validly tendered and were not properly withdrawn from the offer, and payment for such shares will be made
+promptly in accordance with the terms of the offer. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel and Mobileye also announced today the commencement of a subsequent offering period scheduled to expire at
+11:59 p.m., New York City time, on August&nbsp;21, 2017, as it may be further extended to provide for a minority exit offering period of at least 5&nbsp;business days to provide Mobileye shareholders who have not yet tendered their shares the
+opportunity to do so (under certain circumstances as more fully described in the tender offer statement on Schedule TO filed by Cyclops with the U.S. Securities and Exchange Commission (the &#147;SEC&#148;) on April&nbsp;5, 2017 (as amended and
+supplemented, the &#147;Schedule TO&#148;). All ordinary shares validly tendered during the subsequent offering period will be immediately accepted for payment, and tendering holders will thereafter promptly be paid the same form and amount of offer
+consideration as in the initial offering period. The procedures for tendering shares during the subsequent offering period are the same as those applicable to the initial offering period, except that (i)&nbsp;the guaranteed delivery procedures may
+not be used during the subsequent offering period and (ii)&nbsp;no withdrawal rights will apply to shares tendered during the subsequent offering period. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mobileye
+plans to delist its ordinary shares from the New York Stock Exchange (the &#147;NYSE&#148;) as promptly as practicable. Mobileye also intends to deregister its shares under the U.S.&nbsp;Securities Exchange Act of 1934 (as amended, the
+&#147;Exchange Act&#148;) and to suspend its reporting obligations under the Exchange Act, but will only be eligible to do so upon satisfaction of the applicable requirements for deregistration. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mobileye has submitted written notice to the NYSE of its intent to voluntarily delist its shares from the NYSE in connection with the tender offer. Mobileye intends to
+file a Form 25, Notification of Removal from Listing and/or Registration under Section&nbsp;12(b) of the Exchange Act, with the SEC on August&nbsp;21, 2017 to notify the SEC of the delisting of its ordinary shares from the NYSE. Delisting from the
+NYSE is expected to become effective 10 days after the filing date of the Form 25. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Following delisting from the NYSE, Mobileye ordinary shares will not be listed
+or registered on another national securities exchange. Delisting is likely to reduce significantly the liquidity and marketability of any Mobileye ordinary shares that have not been tendered pursuant to the tender offer. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Media Conference Call </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel and Mobileye management will hold a media conference call today at 7:00 a.m. PT (10:00 a.m. ET) to discuss the transaction. The live call can be found at
+<U>http://intelandmobileye.transactionannouncement.com</U>. The live call can also be accessed in the United States at 1-866-547-1509 and outside the United States at +1-920-663-6208 with the passcode 63678747. A replay will also be available at
+<U>http://intelandmobileye.transactionannouncement.com</U>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>About Intel </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel expands the boundaries of technology to make the most amazing experiences possible. Information about Intel can be found at newsroom.Intel.com and Intel.com. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>About Mobileye </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mobileye N.V. is the global leader in the development of
+computer vision and machine learning, data analysis, localization and mapping for Advanced Driver Assistance Systems and autonomous driving. Mobileye&#146;s technology keeps passengers safer on the roads, reduces the risks of traffic accidents,
+saves lives and has the potential to revolutionize the driving experience by enabling autonomous driving. Mobileye&#146;s proprietary software algorithms and EyeQ<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> chips perform detailed
+interpretations of the visual field in order to anticipate possible collisions with other vehicles, pedestrians, cyclists, animals, debris and other obstacles. Mobileye&#146;s products are also able to detect roadway markings such as lanes, road
+boundaries, barriers and similar items; identify and read traffic signs, directional signs and traffic lights; create a Roadbook&#153; of localized drivable paths and visual landmarks using REM&#153;; and provide mapping for autonomous driving.
+Mobileye&#146;s products are or will be integrated into car models from more than 25&nbsp;global automakers. Mobileye&#146;s products are also available in the aftermarket. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Additional Information and Where to Find It </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">This press release is for
+informational purposes only and is neither an offer to purchase nor a solicitation of an offer to sell any ordinary shares of Mobileye or any other securities. A tender offer statement on Schedule TO, including an offer to purchase, a letter of
+transmittal and related documents, has been filed with the SEC by Intel and one or more of its subsidiaries and a solicitation/recommendation statement on Schedule&nbsp;14D-9,&nbsp;has been filed with the SEC by Mobileye. The offer to purchase all
+of the issued and outstanding ordinary shares of Mobileye will only be made pursuant to the offer to purchase, the letter of transmittal and related documents filed as a part of the tender offer statement on Schedule TO, in each case as amended from
+time to time. THE TENDER OFFER MATERIALS (INCLUDING AN OFFER TO PURCHASE, A RELATED LETTER OF TRANSMITTAL AND CERTAIN OTHER TENDER OFFER DOCUMENTS) AND THE SOLICITATION/RECOMMENDATION STATEMENT ON
+<FONT STYLE="white-space:nowrap">SCHEDULE&nbsp;14D-9&nbsp;CONTAIN</FONT> IMPORTANT INFORMATION. INVESTORS AND SHAREHOLDERS OF MOBILEYE ARE URGED TO READ THESE DOCUMENTS CAREFULLY BECAUSE THEY CONTAIN IMPORTANT INFORMATION THAT SUCH HOLDERS SHOULD
+CONSIDER BEFORE MAKING ANY DECISION REGARDING TENDERING THEIR ORDINARY SHARES. Investors and security holders may obtain a free copy of these statements and other documents filed with the SEC at the website maintained by the SEC at
+<U>www.sec.gov</U>, at the transaction website (<U>http://intelandmobileye.transactionannouncement.com</U>), or by directing such requests to D.F.&nbsp;King&nbsp;&amp; Co., Inc., the information agent for the tender offer,
+toll&nbsp;free&nbsp;at&nbsp;(800)&nbsp;966-9021 (for shareholders) or collect at (212)&nbsp;269-5550 (for banks and brokers). </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Forward-Looking Statements </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">This document contains forward-looking statements related to the proposed transaction between Intel and Mobileye, including statements regarding the benefits and the
+timing of the transaction as well as statements regarding the companies&#146; products and markets. Words such as &#147;anticipate,&#148; &#147;believe,&#148; &#147;estimate,&#148; &#147;expect,&#148; &#147;forecast,&#148; &#147;intend,&#148;
+&#147;may,&#148; &#147;plan,&#148; &#147;project,&#148; &#147;predict,&#148; &#147;should,&#148; &#147;would&#148; and &#147;will&#148; and variations of such words and similar expressions are intended to identify such forward-looking statements.
+Such statements are based on management&#146;s expectations as of the date they were first made and involve risks and uncertainties that could cause our actual results to differ materially from those expressed or implied in our forward-looking
+statements. Such risks and uncertainties include, among others, the uncertainty of regulatory approvals; risks and uncertainties related to Mobileye&#146;s delisting from the NYSE and suspension of Mobileye&#146;s reporting obligations under the
+Exchange Act; the ability of the parties to consummate the transactions and their plans described in this press release in the time expected or at all; the ability of Intel to successfully integrate Mobileye&#146;s business; the market for advanced
+driving assistance systems and autonomous driving may develop more slowly than expected or than it has in the past; evolving government regulation of the advanced driving assistance systems and autonomous driving markets; the risk that we are unable
+to commercially develop the technologies acquired or achieve the anticipated benefits and synergies of the transaction; the risk that we are unable to develop derivative works from the technologies acquired; our ability to attract new or maintain
+existing customer and supplier relationships at reasonable cost; the failure to protect and enforce our intellectual property rights; assertions or claims by third parties that we infringe their intellectual property rights; the risk of
+technological developments and innovations by others; the risk of potential losses related to any product liability claims and litigation; the risk that the parties are unable to retain and hire key personnel; unanticipated restructuring costs may
+be incurred or undisclosed liabilities assumed; and other risks detailed in Intel&#146;s and Mobileye&#146;s filings with the SEC, including those discussed in Intel&#146;s most recent Annual Report on
+<FONT STYLE="white-space:nowrap">Form&nbsp;10-K&nbsp;and</FONT> in any subsequent periodic reports on Form&nbsp;10-Q&nbsp;and Form&nbsp;8-K&nbsp;and Mobileye&#146;s most recent Annual Report on Form&nbsp;20-F&nbsp;and in any subsequent reports on
+Form&nbsp;6-K,&nbsp;each of which is on file or furnished with the SEC and available at the SEC&#146;s website at <U>www.sec.gov</U>. SEC filings for Intel are also available on Intel&#146;s Investor Relations website at&nbsp;<U>www.intc.com</U>,
+and SEC filings for Mobileye are available in the Investor Relations section of Mobileye&#146;s website at&nbsp;<U>ir.mobileye.com</U>. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of
+their dates. Unless otherwise required by applicable law, Intel and Mobileye undertake no obligation and do not intend to update these forward-looking statements, whether as a result of new information, future events or otherwise. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>&#150; 30 &#150; </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel and the Intel logo are trademarks of
+Intel Corporation in the United States and other countries. Mobileye, EyeQ<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP>, and the Mobileye logo are registered trademarks of the Mobileye group in the United States and in other countries.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">*Other names and brands may be claimed as the property of others. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="67%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">CONTACTS:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Cara Walker</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Alexis Blais</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Intel Media Relations</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Mobileye Media Relations</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">503-696-0831</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">203-682-8270</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><U>cara.walker@intel.com</U></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL"><U>mobileyepr@icrinc.com</U></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Tushar Jain</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Dan Galves</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Intel&nbsp;Investor&nbsp;Relations</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Mobileye Investor Relations</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">1-408-653-9488</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top">917-960-1525</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><U>tushar.jain@intel.com</U></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><U>dan.galves@mobileye.com</U></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g415088g0616005813796.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g415088g0616005813796.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !" &$# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+@H **** "BBB@ HHHH **** "BBB@ HHHH **** /_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g415088g13o85.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g415088g13o85.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( &H L ,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /?Z "@ H * "@ H * ,K4_$NBZ-D:AJ=O P_@9\M_WR.:I0
+ME+9"<DMSD-0^,GAVURMI%=7C=BJ!%_,\_I6RP\GN9NJEL<W=_&^]8G[%HT$8
+M[&60O_+%:+#KJR75?1%'_A:?C2]_X]K.$>GDVS-_,FG[&"W%[21&WC+XF2<I
+M'>*/]G3E(_5#1[.DO^'#FF1GQI\2H?FE-X!_MZ>H'_H%/V=+^F+FF*GQ;\6V
+M;!;A+:1AVE@(/Z$4>P@]@]I)&S8?&^=6 U#1HV'=H)"N/P.?YU#PZZ,I5>Z.
+MST?XG^&-7*H;PV<Q_@NAL_\ 'NGZUE*C.):J19UZ.LB!T8,I&00<@BL30=0
+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
+M;JWEY"Y++S,SP[\.=<TZ>"&ZEBAL]VZ=K:^F5G_X",#/054JL7L*,&CU<*
+M .!TKE-BGK,\EKH>H7$+;98K>1T;&<$*2#3BKM(3T1\OPV^K^)]8*Q+/?7T[
+M9)^\3[D]A^E>D[07D<FK9[;X%^&EMX<*:AJ12YU/&5 Y2'Z>I]_R]:XZE9RT
+M6QT0I\NK/0*P- H * "@ H \E^,WAQYH+;7[=,^2/)N,#HN?E;\R1^(KJP\_
+MLF-6/4Y_X9^/4\/3'2=3<C3IFRDA_P"6+'_V4]_3KZUI6I<VJW)ISY=&>\1R
+M)+&LD;JZ,,JRG((]0:X3H'4 % !0 4 % !0 4 % !0 4 5[R_M-.MVN+VYBM
+MX5ZO*X4?K32;T0F[%:"YL/$FB.]M*9;*[1X]ZY7(Y4XS^--IP>H:-":-H.F:
+M!:?9M,LX[=/XB!EF]R>IHE)R=V"BH[&E4C"@ H * "@ H BN;:&\M9;:YB66
+M"52CHPX8'J*:=M4&Y\\^._ -WX5NVN;=7GTJ1ODEQDQ_[+?X]Z[J=535NIRS
+MARE7PO\ $#6O"V(8)1<66>;>;)4?[IZK_+VISI1GN$9N)ZMHWQ<\.ZBJI>F3
+M3YCU$@W)GV8?U KFE0DMM395$]SL[+5M.U) UC?V]R#_ ,\I0W\JQ<6MRTT]
+MBY2&% !0 4 ,DECA3=+(J*.[' H Q;[QIX;T[/VG6K0$=523>WY+DU:IS>R)
+M<HKJ<KJ7QFT&U!6QMKF]?L<"-?S//Z5JL/)[D.JEL<3JWQA\0WP9+)(-/C/=
+M%WO^9_H!6T:$5N9NHWL</?:E?:G.9[Z[FN93_%*Y8_K6R26B(;;W/HCX9?\
+M)/-*^DG_ *,:N"M\;.FG\**WC[6Y[(V=A9W[6=PR27)=023L7Y$.!T9R!] :
+M=*-]6A3=M$.O/&%_*BSZ5!:M;C2AJ3&<MG&3E!COQ^%"II;][ Y/H:6JZC,S
+M^&IH)'A2[NU\Q0?O*8G;:?7D#\JF*W*;V, ^+M=GT3SWBL[=[S39[NW:,LQB
+M,>,[L\'(;(]#US5\D4[>9',[$]QXLUFRCLK-;:*[OC8B\D*02OY@)PJ*%!VD
+MXY8\ TE"+U'S-&WX=N9KG4M=,K2;1=1[(W/^K!@C.W';DG\<U$E9(J.[-^H*
+M"@!DL,4\+PS1K)$XPR.,@CT(HV \P\3?!RTO&>YT&<6DIY^SRY,9/L>J_K^%
+M=,*[6DC&5+L>6ZQX0U[06;[?ILR1C_EJHW)_WT.*Z8SC+9F3BUN8JLR$%201
+MT(JR31@\0ZU:X%OJU[$!T"3L!_.I<8O=#NT75\<>*$&!KM[^,Q-+V<.P^:7<
+M5O'/BANNNWGX2D4>SAV#FEW*LWBC7[C_ %NM7[>QN'Q_.GR1707,^YG37,]P
+MVZ::20^KL33V$1<FF!?L-#U75&"V&G7-SGO'$6'YU+DENQI-['8:5\(/$E\5
+M:[$%A&>OFON;\ES^I%9.O!;%JG)G>:-\'M!L"LFH23:A*.S'8GY#G]:QE7D]
+MM#14DMSOK6TM[&UCMK2!(((QA(XU"JH]@*P;;U9JE8S=2U#1=$OUO+QUCO;E
+M!$NU&>1U4DX"J"< D]N]4E*2LB6T@L-'T.:P$MG9Q_9KBW:(84C=$Q+%<'D
+MEB<>]#E)/4$D7WTZTD6U5H%(M&#0#^X0"H(_ D5-V.Q FAZ9'%!$EE&(X(F@
+MC7&0J-C<OT.!3YF%D5F\*:(UK!;FP7R[<$18=@5!ZC.<X]LXI\\NXN5&E!:6
+M]M+/)#$J/.P>0C^(@!0?R 'X5-VRK6)Z0!0 4 % !C(P: ,6_P#"/A[4R6N]
+M'M7<]7$85C^(P:M5)1V9+BGT.?N/A'X4F)*07$'_ %SF)_\ 0LUHJ\T3[.)G
+M2?!302<IJ%^H]"R'_P!EI_6)=A>R1&/@EHW?4[W\-G^%/ZQ+L'LD6(?@OX=C
+M_P!9=W\GUD0?^RTOK$@]DC2MOA3X2MR"UC),1_STF;^A%2ZTV/V<4;EEX3\/
+MZ>0;71K-&'\7E M^9YJ'.3W92BET-A5"J%4  = *@H6@ H * .8U%;O2O%IU
+MI=.GOK6:S6V/V<!I(6#EONDC*G/;N*T5G'EN0]'<P]=L=0U&]O;@Z3?/<W4$
+M7]F2!@/L;X^;<0WR$-@D\Y''M6D6DDK^I+38LOAB:ZU%KBXLIFDDUH^8X8C=
+M;>7SW^X6[4N>RLNP<NIGMIZ6^H:=8:CI%W?016]YLM8B2RK]H_=G&1D;2 /3
+M(/:JO=-I]OR%;HQ\^DZ^&TA)]/=[RVCM?]+1/,<X?,BM)N&W:..AW9-"E'77
+MN%GH7X/#3+<V]S/:2HT]_>+=R%R/]&<2[<\\+]TCWYJ>?IZ#Y2]X%2[NOM-_
+M>R"7[.HTZ"16W+*D1.Z0'ON)_P#':52RT7J5#N=E6)84 % !0 4 % !0 4 %
+M !0 4 % !0 4 % !0 4 % $9@A-P+@Q(9E4H)-HW!2<D9].!^5'D!)0 UT61
+>&1U#(PP5(R"/2@ CC2&-8XD5(U&%51@ >@% '__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

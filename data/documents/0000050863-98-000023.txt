@@ -1,0 +1,192 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fqy0nAA2o/kRK4OVyFQByYjwLL/G3VXLSP4tCYZe5CzP5iSnctGyBHEk/d/2iWbg
+ 6vF+Wd2OHuI/3352/6CVdQ==
+
+<SEC-DOCUMENT>0000050863-98-000023.txt : 19980306
+<SEC-HEADER>0000050863-98-000023.hdr.sgml : 19980306
+ACCESSION NUMBER:		0000050863-98-000023
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980305
+ITEM INFORMATION:		
+FILED AS OF DATE:		19980305
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		98558219
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+        UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C. 20549
+                                
+                                
+                                
+                            FORM 8-K
+                         CURRENT REPORT
+
+
+
+ Pursuant to Section 13 or 15 (d) of the Securities Exchange Act
+                             of 1934
+
+                                
+                 Date of Report:  March 5, 1998
+                (Date of earliest event reported)
+
+
+
+
+                        INTEL CORPORATION
+     (Exact name of Registrant as specified in its charter)
+
+
+           Delaware                0-6217         94-1672743
+          ----------              --------       ------------
+(State or other jurisdiction of (Commission    (I.R.S. Employer
+incorporation or organization)  file number)    Identification
+                                                     No.)
+
+
+
+2200 Mission College Boulevard, Santa Clara,      95052-8119
+California
+   -------------------------------------         ------------
+(Address of principal executive offices)          (Zip Code)
+
+
+
+
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+<PAGE> 2
+
+ITEM 5.   OTHER EVENTS
+
+          5.1   Attached  hereto as Exhibit 99.1 and incorporated
+          by  reference  herein is certain information  regarding
+          Legal Proceedings.
+          
+ITEM 7.   FINANCIAL  STATEMENTS, PRO FORMA FINANCIAL  INFORMATION
+          AND EXHIBITS
+          
+     (c)  Exhibits
+
+          99.1 Legal Proceedings
+
+<PAGE> 3
+                           SIGNATURES
+                                
+Pursuant  to the requirements of the Securities Exchange  Act  of
+1934, the Registrant has duly caused this report to be signed  on
+its behalf by the undersigned hereunto duly authorized.
+
+                                 INTEL CORPORATION (Registrant)
+                                 
+                                 
+                                 
+                                      /s/F. Thomas Dunlap, Jr.
+                                      -------------------------
+Date:  March 5, 1998             By:  F. Thomas Dunlap, Jr.
+                                      Vice President, General
+                                      Counsel and Secretary
+                                 
+<PAGE> 4
+
+EXHIBIT 99.1
+
+LEGAL PROCEEDINGS
+
+                Intergraph Corporation vs. Intel
+                                
+ U.S. District Court, Northern District of Alabama, Northeastern
+                   Division (CV-97-N-3023-NE)
+                                
+In  November  1997,  Intergraph Corporation ("Intergraph")  filed
+suit in Federal District Court in Alabama generally alleging that
+Intel  attempted to coerce Intergraph into relinquishing  certain
+patent  rights relating to microprocessor and chipset interaction
+in  multiprocessor workstations. The suit also alleges that Intel
+infringes   three   Intergraph  patents  and   includes   alleged
+violations  of  antitrust laws. The suit seeks injunctive  relief
+along  with  unspecified damages. In November 1997,  Intel  filed
+suit  against Intergraph in Federal District Court in  California
+seeking  a  declaratory judgment that the Intergraph patents  are
+invalid.  Intel  also filed an action in the same court  alleging
+breach of contract and misappropriation of trade secrets based on
+Intergraph's refusal to return Intel confidential information  as
+contractually  required. Although the ultimate  outcome  of  this
+lawsuit  cannot be determined at this time, management, including
+internal counsel, does not believe that the ultimate outcome will
+have  a material adverse effect on Intel's financial position  or
+overall trends in results of operations.
+
+                   Cyrix Corporation vs. Intel
+                                
+           U.S. District Court, E.D. Texas (4-97cv164)
+                                
+Cyrix Corporation brought suit in Federal District Court in Texas
+in  May  1997, alleging that Intel infringed two patents relating
+to  microprocessors.  Cyrix became a wholly owned  subsidiary  of
+National Semiconductor Corporation ("National") in November 1997.
+On February 3, 1998, Intel and National  announced that they have
+settled  the Cyrix lawsuit and extended the term of the  existing
+patent cross-license agreement between the companies.
+
+                  Michael W. Scriber vs. Intel
+                                
+   U.S. District Court for the District of Oregon (CV-1262-AS)
+                                
+Michael  W. Scriber, a former employee of the Company,  filed  an
+action  in September 1996 alleging that Intel's products infringe
+a  patent  issued  to  the plaintiff and  that  Intel  wrongfully
+terminated his employment. On January 21, 1998, the court granted
+Intel's  motions  for  summary  judgment  on  all  claims.    The
+plaintiff has appealed the decision.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

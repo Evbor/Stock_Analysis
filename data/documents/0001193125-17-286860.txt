@@ -1,0 +1,473 @@
+<SEC-DOCUMENT>0001193125-17-286860.txt : 20170918
+<SEC-HEADER>0001193125-17-286860.hdr.sgml : 20170918
+<ACCEPTANCE-DATETIME>20170918091103
+ACCESSION NUMBER:		0001193125-17-286860
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170913
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170918
+DATE AS OF CHANGE:		20170918
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		171089128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d445731d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<div style="width:790px"></div>
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE
+COMMISSION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>WASHINGTON, D.C. 20549 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM <FONT STYLE="white-space:nowrap">8-K</FONT> </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Pursuant to Section 13 or
+15(d) of </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Date of Report (Date of earliest event reported):&nbsp;September 13, 2017 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>INTEL CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(Exact name of registrant
+as specified in its charter) </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Delaware</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">000-06217</FONT></B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-1672743</FONT></B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Commission File Number)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>2200 Mission College Blvd., Santa Clara, California</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="border-bottom:1.00px solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>95054-1549</B></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (408) <FONT STYLE="white-space:nowrap">765-8080</FONT>
+</B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Not Applicable </B></P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center"><B>(Former Name or Former Address, if Changed Since Last Report) </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions (<I>see</I>&nbsp;General Instruction A.2. below): </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule
+405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Securities Exchange Act of 1934 <FONT STYLE="white-space:nowrap">(&#167;240.12b-2</FONT> of this chapter). </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right">Emerging growth company&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;5.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. </B></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>(d)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Election of New Director </B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">On September&nbsp;13, 2017, the Board of Directors (the &#147;Board&#148;) of Intel
+Corporation (&#147;Intel&#148;) elected Andrew Wilson as a member of the Board, effective immediately. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The Board has determined that Mr.&nbsp;Wilson qualifies as
+&#147;independent&#148; in accordance with the published listing requirements of NASDAQ. Mr.&nbsp;Wilson has not been appointed to any Board committees at this time. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mr.&nbsp;Wilson, 43, joined Electronic Arts Inc. (&#147;EA&#148;) in May 2000 and has served as EA&#146;s Chief Executive Officer and director of EA since September
+2013. Previously, Mr.&nbsp;Wilson held several leadership positions at EA, including serving as Executive Vice President, EA SPORTS from August 2011 to September 2013. Mr.&nbsp;Wilson also serves as Chairman of the Board of Directors of the World
+Surf League. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mr.&nbsp;Wilson will receive the standard compensation amounts payable to <FONT STYLE="white-space:nowrap">non-employee</FONT> directors of the Board.
+Pursuant to these arrangements, commencing in September 2017, Mr.&nbsp;Wilson will be paid an annual retainer of $90,000 (in addition to any committee fees), which will be <FONT STYLE="white-space:nowrap">pro-rated</FONT> for his first year of
+service. In addition, in the fourth quarter of 2017, Mr.&nbsp;Wilson will be granted <FONT STYLE="white-space:nowrap">non-employee</FONT> director outperformance restricted stock units and restricted stock units. Mr.&nbsp;Wilson&#146;s awards will
+have a cumulative value on the grant date of approximately $146,666, which is <FONT STYLE="white-space:nowrap">pro-rated</FONT> from the value of the annual awards granted to <FONT STYLE="white-space:nowrap">non-employee</FONT> directors, and the
+awards will vest on the same schedule as the annual awards granted to <FONT STYLE="white-space:nowrap">non-employee</FONT> directors in February 2017, subject to his continued service on the Board. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Mr.&nbsp;Wilson will also enter into Intel&#146;s standard form of directors&#146; indemnification agreement with Intel, pursuant to which Intel agrees to indemnify its
+directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement. </P>
+<P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Regulation FD Disclosure. </B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel&#146;s press release announcing&nbsp;the election of Mr.&nbsp;Wilson is
+furnished as Exhibit 99.1 to this Current Report on <FONT STYLE="white-space:nowrap">Form&nbsp;8-K.</FONT> </P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>(d)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibits. </B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">The following exhibit is furnished as part of this Report: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="17%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="79%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1.00pt solid #000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit&nbsp;Number</B></TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1.00pt solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1.00pt solid #000000"><B>Description</B></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.1</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><B><A HREF="d445731dex991.htm">Intel press release dated September&nbsp;18, 2017 </A></B></TD></TR>
+</TABLE> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>INTEL CORPORATION</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">(Registrant)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">Date: September&nbsp;18, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL">/s/ Susie Giordano</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Susie Giordano</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL">Corporate Vice President and Corporate
+Secretary</P></TD></TR>
+</TABLE> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d445731dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<div style="width:790px"></div>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g445731g49u34.gif" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Andrew Wilson Elected to Intel Board of Directors </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">SANTA CLARA, Calif., Sept. 18, 2017 &#150; Intel Corporation today announced that Andrew Wilson, CEO of Electronic Arts Inc., has been elected to Intel&#146;s board of
+directors. Wilson&#146;s election brings Intel&#146;s board membership to 12. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">&#147;Andrew understands first-hand how technology and data create opportunity with
+his transformation of EA from offline packaged goods to a leader in online digital services,&#148; said Intel Chairman Andy Bryant. &#147;In addition to his experience leading and growing a global, technology-driven company, Andrew possesses a
+combination of creativity and business acumen that will further strengthen Intel&#146;s board.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Wilson, 43, joined Electronic Arts (&#147;EA&#148;) in May
+2000, and has served as the company&#146;s chief executive officer and a director of EA since September 2013. During his tenure as CEO, EA has launched groundbreaking new games and services, reached record player engagement levels across its global
+franchises, and transformed into one of the world&#146;s leading digital entertainment companies. Prior to his appointment as CEO, Wilson held several leadership positions at EA, including executive vice president of EA SPORTS. He also serves as
+chairman of the board for the World Surf League. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>About Intel </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Intel
+(NASDAQ: INTC) expands the boundaries of technology to make the most amazing experiences possible. Information about Intel can be found at <U>newsroom.intel.com</U> and <U>intel.com</U>. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>&#150; 30 &#150; </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL">Intel and the Intel logo are trademarks of
+Intel Corporation in the United States and other countries. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL">*Other names and brands may be claimed as the property of others. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="30%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="17%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="35%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="40%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">CONTACTS:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Trey Campbell</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cara Walker</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Investor Relations</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Media Relations</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">971-344-4118</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;503-696-0831</FONT></FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><U>trey.s.campbell@intel.com</U></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>cara.walker@intel.com</U></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g445731g49u34.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g445731g49u34.gif
+M1TE&.#=AMP)/ ,8  /_____>E#DYE-[__Y2U_Y2UM6,         8[7___^U
+M8P Y.3D    YE-[_WI0Y    .9248V.U_[5C /__WMZU8V-C8P!CM=Z4.3F4
+MWI3>_SD 8___M6, 8V,YE&, .90Y.6.4WCD .=Z48SECM91CE)0Y8_^UE#F4
+MM;5C8Y3>M;6U8V.UM;7_M=[>_Y1C8V,Y )24.?^UM;7>E&-CM??W]^?GY];6
+MUL[.SL;&QKV]O;6UM>_O[XR,C&MK:TI*2C$Q,1@8&! 0$ @(""$A(3DY.5)2
+M4JVMK=[>WJ6EI5I:6I24E$)"0G-S<Y24M82$A  Y8RDI*924WK5C.=ZUM=[>
+ME'M[>[64E)R<G-[_M;7_WF,Y.=Z4E&-C.6.UWO_>W@!CE+64.93>WI1C
+M
+M                                                 "P     MP)/
+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
+M!.-[E3"@M4@)=M-D:/>#%D2?="=^[:<)-N!3PX 9VK"A'*H+'EI\%49<4'H
+M3<D(0[,L?+4P:A4>!,.+ X,4\1F3*QE[VC8(:O5SDQ!"]..CC;!OYW>C]UE^
+M+6,N)9H[F_!7,)D+T_B-R-"<3>JD>BE])I$#U"(MYR9AEL!7+_,XXEBBC4,Y
+M -4(0YBGE)F?#HH4?6F&F$4)?I1;8THJ[9";^B9[CX #2 $TAQI<G "851H+
+M.Y!0:/JGP.&A!^(A/S TNI1;,-II$,.>I?:#"7-VBX"KR*=7B1!T[8"9 <.F
+MC>!'?&5EDP!]! 2GD9 PVZ2K_IWP5T,@K*]@ TN@-;$JJ[)!JP"03;'TFG&:
+M"!_W-AO69)2C%X_"IX] K.IFJ2+4,LGT:-":IM/'?34S"1L6KCU'JH_@3=OT
+MFA<:"3WY?K2@ SX 1P)["17(;!/[:]<ID!<["!7XG178B=]I"&WVL8R >B.0
+MG() ;(QH ,PF"178#BV'LC%7"!/P90=#K@%38 !03W]G$3-40_41?2;I8N+#
+M P51HY!@J@M7K\::"$,(!-01?\R:+SL C((*FG[B-M$S6 M#9W9Z"-3Z"*DJ
+M+?6TJ_!A!>%7?@?Q _QH"CE@!=6T$0D;"24[G"TWMQ/0<A0  AK  1XP 'F[
+MMWVK_K%H.0@!L 4/Z EWZW*E: @!L $)T+@Q^P@A*P@30&:0FPA_6[.!:@C(
+M:A  E3.#J)\XF%!L*BM#@(T* 3# ]W&8*0A*8 0-YJ"YE:EBR@@Y(U'?)S+9
+MP0,Z8 6R8F/]6JXZ0T/H@@4_L [=%3!%$$Y?1P@NA 6[90,"]4@"%;K^-+KK
+M$+60=!!#X -G^PD\L --\+8'$;>3<+F" +ED2;D2:&P3T'H4\ );D)Q<$ .'
+MRPD&F)P*(+*0B[XL^P"<%P ", #^"[)ZJ[D5M@BI&DLA4C&2905/\ 16\(YX
+MP::58@0%T;H X%C64J:"P''6(AV<,B+<LK,Q:J^Q@ZGX_G*:1& !$?P$39!W
+M(Y:'C2E+<J<@$3S!15 Q6X9*4= #.N N.* #E0*;CB4$3. #_8(%2U".[D!J
+M;6,U1@#!$DS!WP,)0&D22K #(E<)/' 1AX00QA$*'- !)5?&"8 !D*?&:MR
+M#^B5%6!L'$ #;1RRQ'8 +VL >.RW #R=*+L"R38(">ARA="<_>NXB$>S8L8.
+M9+9X)CNYPVFY&Z %7=:5:(EL:&:R5D*N3W00D;I=RLASN).TG(L0YU4#[Y80
+M]BD),EH([9-O>5.-^/),01)5&J%CR7451Z(.20%PR7=?A[ #J:P1W&H(2U F
+M]N%!A"@)Z)($5A!9R@@$TR$*_@$0 A!HS6TL>!F0S=FL;%]IQ@!P @CX9F(F
+M@118 @.POUXY .4LP 3, !)@9A?@OX-<9@,<@8><  KP9@K0 %5PSXZ[SP#0
+MSX3\;,N9OHZ+QN%LB@G] 9JL(OC6"+F+;82@ _471T8P;WU3+>'4C0T*3<AL
+M$$9@OH4P-"9,7W.J;[:\A/LX=$+GH'V($$S ?TA C9!BM#TPS$],?A8]*R=1
+MS-%%OB:Q$*K)$]$3%#9P T,10- <DC_0A:!P!04- %*MS6[,S6^,SFTLU74,
+MP 7I<E_];!*0S1.0 ?DLR ;IQI1KUHX+N8K(B&:,QF]=<I"\@8A<UE%GU9G+
+M+ \[_B;:.PA8$@1C$@7DMRGT^!9!D)IKVSY"0*G"^PY1V[9-_0Y$ +N58 &"
+M'02.G5-C,B:1:@,]P 0HQ6YI,G!C-"909Z9&H%%)401RL0A'L#C(?"8I-$$B
+M\@.L;36H<=3&2T9#D-A/L+:*L!XAS;TUY5 _@'=X]P,/)1)*F)0(9[:F@ '?
+M2=UCZ;[MR[X:B\Y\6P78_&9UO;(D%[(SI\UGG;X'2+@$4-YJG,_6+<C5*7@B
+M*];HS=!KUK@S0 !Z?<#,(C'K!;888@-Q:@,Y< 1)D 1'D ,DG;,';@_R>> S
+MZ @$;N (KN"7X-\+'N VX#Q(H ,0OA/W&>!75N -3EF0_D"5.P#A%8XC/D3B
+M%;[@ZJ,#%)[@,,Y>007=.!Y33: #77P);<P!4F#50/ZW[DSD [S=+C<! K!F
+M72V!;S8%&B#04!ZR^4OD;8W(@Y"XE]BW5:ZW^4S0 $ %54 "A #F5%#0X?VX
+M6*[E"N!K>RVN<"X1.6 !.IWCLX+$3]!#J+#(F<SG-)NQ  #H!MUR 4#FBYP!
+MR-8 %<#( \WHB9Z0U5F!T9G6B[RRDD>!708%,+#'J'?'\>VG!NT.F+[' _V
+M?(X ,Y#><;[J_^"MHFWGP80531"[S1$ ^JULPL;JNAX92$!"! 'K&S$/0%SC
+MG_&^Z7OKNY[LD#$./0"&V\++_@D1F'-G!$I\!#A [*-A9HDWU<K>[9 A,04*
+M#37"FCAP P+N[>B>[NJ^[NS>[K4P>*ANS9E L@&XLI5 LLDYQX> R9QWQ\P&
+MZ/Y><MU,"'A]LGIL[]G,[^Z^\.0!N<1VOX@@ Y%+\):HD%A."5J^N UH[^D+
+MT&LFSAJKMWSK<B"?<@8 \6(I""4_" \?Z![/\#"_'>X<Z/*N" 5<9JH^T/%\
+M\9*0O\?&>?$+ _=+UJ/.>>L[G$5/""E@OR8'>1NK]$Q/]#$_]<ZQ;&>LQP"H
+MLH!LR>S  EAOLO4,@0G]]1SP 1&0LIEL<FE];-N<UEA- 2X0@5:MS7 O]X&^
+MWA __O=U#\_'WL983?6 'QP5:&SK6];R[/!F7/B'&_:$&]#%B0*5/-#%F?>,
+MK_2B: #?V>9K5O NGY!K_(!%KM64?[^A[_D#S6R<'_BJ#QM,VMY7+HK@K-9H
+MS>WTC)$.30@#/_N,>V:,3O!>EIP48 )I_/D:*_P@G_NR7_P)</R0M\@TN_K0
+M#QK5C-";SPYLK>:P7_V31[@Y;^N7>^AE+Y"'?@@^?^P ,+<#_?P02.9(?O3&
+M+@A>Z0"C9_U^FOOQ/__;'^CL'_W\_QB72]" @)$!(!BPD6"8P-&1($@X"! )
+M,-$P ,#A,9#H*,CQH?$8*CE*:8DY<!I)\7 Q"J" D#"JPS!( :(1(& 923OJ
+MZ"HJV2OY^QH+C)RLO,S<[/P,'2T]35UM?8V=K;W-W>W]#1XNSAQ08'!PK'"P
+MSK[ <-#@\  1P7X@X3JQ'KL*7V&_+X$Z=A;N =.'+D&_5H3605)7B=<ZA@ "
+M,(  :B#%2,6(.7PUT94CB+O&F3R),J7*E2Q;NGP),Z9,F $(S+R),Z?.G3Q[
+M^OP)-"C.7"6%&CV*-*G2I4R;.GT*-:K4J52K6KV*-:O6K5R[>OT*-JS8L63+
+&FET6"  [
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

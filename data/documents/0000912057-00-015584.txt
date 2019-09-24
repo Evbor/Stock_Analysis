@@ -1,0 +1,209 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K++lWc7Y9FTjsHPyQdgChCaHoi6p/UN1Lc0VTU+WyVbdMsKqFaFrYkTTtreBaeFh
+ 9ispWRIm+jAoVEtRQezo9Q==
+
+<SEC-DOCUMENT>0000912057-00-015584.txt : 20000403
+<SEC-HEADER>0000912057-00-015584.hdr.sgml : 20000403
+ACCESSION NUMBER:		0000912057-00-015584
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000330
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		590898
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>8-K
+<TEXT>
+
+<PAGE>
+                                    UNITED STATES
+                          SECURITIES AND EXCHANGE COMMISSION
+
+                                Washington, D.C. 20549
+
+
+
+
+                                       FORM 8-K
+
+
+                                     CURRENT REPORT
+                           Pursuant to Section 13 or 15 (d)
+                        of the Securities Exchange Act of 1934
+
+
+                          Date of Report:  March 30, 2000
+                         (Date of earliest event reported)
+
+
+
+
+                                 INTEL CORPORATION
+               (Exact name of registrant as specified in its charter)
+
+
+
+        Delaware                     0-6217                 94-1672743
+       ----------                   ---------             --------------
+       (State of                  (Commission             (IRS Employer
+     incorporation)               File Number)           Identification No.)
+
+
+
+
+  2200 Mission College Blvd., Santa Clara, California            95052-8119
+  ---------------------------------------------------            ----------
+      (Address of principal executive offices)                   (Zip Code)
+
+
+
+                                   (408) 765-8080
+                                   --------------
+                (Registrant's telephone number, including area code)
+
+<PAGE>
+
+
+ Item 5.       OTHER EVENTS
+
+     5.1       Attached hereto as Exhibit 99.1 and incorporated by reference
+               herein is a press release of March 30, 2000 relating to final
+               agreement with the Internal Revenue Service on a tax examination
+               for years up to and including 1998.
+
+Item 7.        FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND
+               EXHIBITS
+
+    (c)        Exhibits
+
+               99.1 Press release of March 30, 2000 relating to final agreement
+               with the Internal Revenue Service on a tax examination for years
+               up to and including 1998.
+
+
+
+<PAGE>
+
+
+
+                              SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                             INTEL CORPORATION
+                                              (Registrant)
+
+
+
+
+
+Date: March 30, 2000                       By   /s/ Andy D. Bryant
+                                             ------------------------
+                                             Andy D. Bryant
+                                             Senior Vice President,
+                                             Chief Financial Officer
+                                             and Principal Accounting
+                                             Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 99-1
+<TEXT>
+
+<PAGE>
+                                                     EXHIBIT 99.1
+
+
+
+           INTEL REACHES FINAL AGREEMENT WITH INTERNAL REVENUE SERVICE
+              ON TAX EXAMINATION FOR YEARS UP TO AND INCLUDING 1998
+
+
+
+SANTA CLARA, Calif., March 30, 2000 -- Intel Corporation announced today that
+the Internal Revenue Service has closed its examination of the company's tax
+returns up to and including 1998. Resolution was reached on a number of issues
+including adjustments related to inter-company allocation of profits. In the
+current quarter, the company expects to reverse previously accrued taxes
+reducing the quarter's tax provision by $600 million, or approximately $0.17 per
+share.
+         This agreement does not change Intel's previous tax rate guidance. The
+company still expects its tax rate for 2000 to be 31.7 percent, excluding the
+$600 million accrual reversal and acquisition-related costs* from both prior and
+future mergers and acquisitions.
+
+         Intel plans to release its first quarter earnings after the close of
+market on April 18.
+
+         Intel, the world's largest chip maker, is also a leading manufacturer
+of computer, networking and communications products. Additional information
+about Intel is available at www.intel.com/pressroom.
+
+
+*Acquisition-related costs consist of one-time write-offs of purchased
+in-process research and development and the ongoing amortization of goodwill and
+other acquisition-related intangibles.
+
+This release contains forward-looking statements which are based upon current
+expectations or beliefs, as well as a number of assumptions about future events.
+The reader is cautioned not to put undue reliance on these forward-looking
+statements, as these statements are subject to numerous factors and
+uncertainties, including without limitation, changes in the tax law, the
+estimate of earnings and the expected distribution of income among various tax
+jurisdictions, any of which may cause actual results to differ materially from
+those described in the statements. In addition to the factors discussed above,
+other factors that could cause actual results to differ materially are discussed
+in Intel's most recent Form 10-Q and Form 10-K filings with the Securities and
+Exchange Commission.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

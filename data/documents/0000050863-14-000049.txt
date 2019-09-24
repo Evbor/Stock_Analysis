@@ -1,0 +1,1560 @@
+<SEC-DOCUMENT>0000050863-14-000049.txt : 20140626
+<SEC-HEADER>0000050863-14-000049.hdr.sgml : 20140626
+<ACCEPTANCE-DATETIME>20140623110309
+ACCESSION NUMBER:		0000050863-14-000049
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20140620
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20140623
+DATE AS OF CHANGE:		20140623
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		14934437
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+    <title>form8k.htm</title>
+    <!--Licensed to: Intel Corp-->
+    <!--Document Created using EDGARizer 2020 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 8-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pursuant to Section 13 OR 15(d) of the</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Securities Exchange Act of 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Date of Report (Date of earliest event reported):&#160;&#160;June 20, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 18pt; FONT-WEIGHT: bold">INTEL CORPORATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Exact name of registrant as specified in its charter)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">Delaware</font></font></div>
+</td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">000-06217</font></font></div>
+</td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">94-1672743</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="27%" style="TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 18pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(State or other jurisdiction of incorporation)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Commission File Number)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(IRS Employer Identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">2200 Mission College Blvd., Santa Clara, California 95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Address of principal executive offices) (Zip Code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(408) 765-8080</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Registrant&#8217;s telephone number, including area code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Former Name or Former Address, if Changed Since Last Report)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-STYLE: italic; DISPLAY: inline">see</font> General Instruction A.2. below):</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 5.02</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Election of New Director.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On June 20, 2014, the company's Board of Directors elected Aneel Bhusri as a member of the Board, effective June 20, 2014. Mr. Bhusri has not been appointed to any Board Committees at this time.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Mr. Bhusri co-founded Workday, Inc. in 2005, and serves as Workday&#8217;s chief executive officer and as a member of Workday&#8217;s board of directors. Mr. Bhusri served as co-chief executive officer of Workday from 2009 to May 2014 and as chairman from 2012 until May 2014. In addition, Mr. Bhusri is a partner of Greylock Partners, a venture capital investment firm.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt">Mr. Bhusri will receive the standard compensation amounts payable to non-employee directors of the company. Pursuant to these arrangements, commencing in July 2014 Mr. Bhusri will be paid an annual retainer of $90,000 (in addition to any committee fees) and in July 2014 he will be granted non-employee director Outperformance restricted stock units (OSUs) and Restricted stock units (RSUs) with a market value on the grant date of approximately $220,000. Any shares earned under the OSUs will vest in full on the 36-month anniversary of the grant date and shares subject to the RSUs will vest ratably on each of the first three anniversaries of the grant date, in each case subject to continued service as a director. Mr. Bhusri and the company will also enter into the company's standard form of directors' indemnification agreement, a copy of which is set forth as Exhibit 10.1 to this Form 8-K, pursuant to which the company agrees to indemnify its directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement. </font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 7.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Regulation FD Disclosure.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The company's press release announcing the election of Mr. Bhusri is furnished as Exhibit 99.1 to this Current Report on Form 8-K.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 9.01</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Financial Statements and Exhibits.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Exhibits.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The following exhibit is furnished as part of this Report:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr>
+<td align="left" valign="top" width="25%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: -72pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">Exhibit Number</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td align="left" valign="top" width="47%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: -72pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">Description</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="25%">
+<div style="TEXT-INDENT: -72pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">10.1</font></div>
+</td>
+<td align="left" valign="top" width="47%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Form of Indemnification Agreement Used for Directors and Executive Officers on or after November 16, 2009</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="25%">
+<div style="TEXT-INDENT: -72pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">99.1</font></div>
+</td>
+<td align="left" valign="top" width="47%">
+<div style="TEXT-INDENT: -72pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Press Release dated June 23, 2014</font></div>
+</td>
+</tr></table>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr valign="top">
+<td style="WIDTH: 81pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td>
+<div align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr>
+<td valign="top" width="36%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">INTEL CORPORATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Registrant)</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="36%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">/s/ Cary I. Klafter</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="36%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Date: June 23, 2014</font></div>
+</td>
+<td valign="top" width="42%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Cary I. Klafter</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Corporate Secretary</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>exh101.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<html>
+<head>
+    <title>exh101.htm</title>
+    <!--Licensed to: Intel Corp-->
+    <!--Document Created using EDGARizer 2020 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+<div>
+<div><br>
+</div>
+
+<div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit 10.1</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">INDEMNIFICATION AGREEMENT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">(Form Used After November 16, 2009)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>THIS AGREEMENT is entered into, effective as of <font style="DISPLAY: inline; FONT-WEIGHT: bold">[EFFECTIVE DATE]</font>, between INTEL CORPORATION, a Delaware corporation (the "Company") and <font style="DISPLAY: inline; FONT-WEIGHT: bold">[INDEMNITEE NAME]</font> ("Indemnitee").</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>WHEREAS, it is essential to the Company to retain and attract as directors, officers and employees the most capable persons available;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>WHEREAS, Indemnitee is a director, and/or officer, and/or employee of the Company;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>WHEREAS, both the Company and Indemnitee recognize the increased risk of litigation and other claims currently being asserted against directors, officers and employees of corporations; and</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>WHEREAS, in recognition of Indemnitee's need for substantial protection against personal liability in order to enhance Indemnitee's continued and effective service to the Company, and in order to induce Indemnitee to provide services to the Company as a director, officer or employee, the Company wishes to provide in this Agreement for the indemnification of and the advancing of expenses to Indemnitee to the fullest extent (whether partial or complete) permitted by law and as set forth in this Agreement, and, to the extent insurance is maintained which includes Indemnitee as a covered party, for the coverage of Indemnitee under the Company's directors' and officers' liability insurance policies.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>NOW, THEREFORE, in consideration of the above premises and of Indemnitee's continuing to serve the Company directly or, at its request, with another enterprise, and intending to be legally bound hereby, the parties agree as follows:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>1.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Certain Definitions</font>:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Board</font>:&#160;&#160;the Board of Directors of the Company.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Change in Control</font>:&#160;&#160;shall be deemed to have occurred if (i) any "person" (as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended), other than a trustee or other fiduciary holding securities under an employee benefit plan of the Company or a corporation owned directly or indirectly by the stockholders of the Company in substantially the same proportions as their ownership of stock of the Company, is or becomes the "Beneficial Owner" (as defined in Rule 13d-3 under said Act), directly or indirectly, of securities of the Company representing 20% or more of the total voting power represented by the Company's then outstanding Voting Securities, or (ii) during any period of two consecutive years, individuals who at the beginning of such period constitute the Board and any new director whose election by the Board or nomination for election by the Company's stockholders was approved by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors at the beginning of the period or whose election or nomination for election was previously so approved, cease for any reason to constitute a majority thereof, or (iii) the stockholders of the Company approve a merger or consolidation of the Company with any other corporation, other than a merger or consolidation that would result in the Voting Securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into Voting Securities of the surviving entity) at least 80% of the total voting power represented by the Voting Securities of the Company or such surviving entity outstanding immediately after such merger or consolidation, or the stockholders of the Company approve a plan of complete liquidation of the Company or an agreement for the sale or disposition by the Company (in one transaction or a series of transactions) of all or substantially all of the Company's assets.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">1</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(c)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Disinterested Director:</font>&#160;&#160;a director of the Company who is not and was not a party to the Proceeding in respect of which indemnification is sought by Indemnitee.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(d)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Expenses</font>:&#160;&#160;any expense, including without limitation, attorneys' fees, retainers, court costs, transcript costs, fees and expenses of experts, including accountants and other advisors, travel expenses, duplicating costs, postage, delivery service fees, filing fees, and all other disbursements or expenses of the types typically paid or incurred in connection with investigating, defending, being a witness in, or participating in (including on appeal), or preparing for any of the foregoing in, any Proceeding relating to any Indemnifiable Event, and any expenses of establishing a right to indemnification under Sections 2, 4 and 5 of this Agreement.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(e)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Indemnifiable Event</font>:&#160;&#160;any event or occurrence that takes place either prior to or after the execution of this Agreement, related to the fact that Indemnitee is or was a director, officer or employee of the Company, or while a director, officer or employee, is or was serving at the request of the Company as a director, officer, employee, trustee, agent, limited partner, member or fiduciary of another foreign or domestic corporation, partnership, joint venture, employee benefit plan, trust, or other enterprise, or was a director, officer, employee, or agent of a foreign or domestic corporation that was a predecessor corporation of the Company or of another enterprise at the request of such predecessor corporation, or related to anything done or not done by Indemnitee in any such capacity, whether or not the basis of the Proceeding is alleged action in an official capacity as a director, officer, employee, or agent or in any other capacity while serving as a director, officer, employee, or agent of the Company, as described above.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(f)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Independent Counsel</font>:&#160;&#160;the person or body appointed in connection with Section 3.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(g)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Potential Change in Control</font>:&#160;&#160;shall be deemed to have occurred if (i) the Company enters into an agreement or arrangement, the consummation of which would result in the occurrence of a Change in Control; (ii) any person (including the Company) publicly announces an intention to take or to consider taking actions that, if consummated, would constitute a Change in Control; (iii) any person (other than a trustee or other fiduciary holding securities under an employee benefit plan of the Company acting in such capacity or a corporation owned, directly or indirectly, by the stockholders of the Company in substantially the same proportions as their ownership of stock of the Company), who is or becomes the Beneficial Owner, directly or indirectly, of securities of the Company representing 10% or more of the combined voting power of the Company's then outstanding Voting Securities, increases his beneficial ownership of such securities by 5% or more over the percentage so owned by such person on the date hereof, or (iv) the Board adopts a resolution to the effect that, for purposes of this Agreement, a Potential Change in Control has occurred.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">2</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(h)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Proceeding</font>:&#160;&#160;any threatened, pending, or completed action, suit, arbitration, alternative dispute mechanism, inquiry, administrative or legislative hearing, investigation or any other actual, threatened or completed proceeding, including any and all appeals, whether conducted by the Company or any other party, whether civil, criminal, administrative, investigative, or other, and in each case whether or not commenced prior to the date of this Agreement, that relates to an Indemnifiable Event.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(i)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Reviewing Party</font>:&#160;&#160;the person or body appointed in accordance with Section 3.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(j)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Voting Securities</font>:&#160;&#160;any securities of the Company that vote generally in the election of directors.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>2.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Agreement to Indemnify</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">General Agreement</font>.&#160;&#160;In the event Indemnitee was, is, or becomes a party to or witness or other participant in, or is threatened to be made a party to or witness or other participant in, a Proceeding by reason of (or arising in part out of) an Indemnifiable Event, the Company shall indemnify Indemnitee from and against any and all Expenses, liability or loss, judgments, fines, ERISA excise taxes and penalties, amounts paid or to be paid in settlement, any interest, assessments, or other charges imposed thereon, and any federal, state, local, or foreign taxes imposed as a result of the actual or deemed receipt of any payments under this Agreement, to the fullest extent permitted by applicable law, as the same exists or may hereafter be amended or interpreted (but in the case of any such amendment or interpretation, only to the extent that such amendment or interpretation permits the Company to provide broader indemnification rights than were permitted prior thereto).&#160;&#160;The parties hereto intend that this Agreement shall provide for indemnification in excess of that expressly permitted by statute.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Initiation of Proceeding</font>.&#160;&#160;Notwithstanding anything in this Agreement to the contrary, Indemnitee shall not be entitled to indemnification or advancement pursuant to this Agreement in connection with any Proceeding initiated by Indemnitee against the Company or any director or officer of the Company unless (i) the Company has joined in or the Board has consented to the initiation of such Proceeding; (ii) the Proceeding is one to enforce indemnification rights under Section 5; or (iii) the Proceeding is instituted after a Change in Control.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">3</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(c)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Expense Advances</font>.&#160;&#160;If so requested by Indemnitee, the Company shall advance any and all Expenses to Indemnitee (an "Expense Advance") within thirty (30) calendar days after the receipt by the Company of a statement or statements from Indemnitee requesting such advance or advances, whether prior to or after final disposition of any Proceeding.&#160;&#160;Advances shall be made without regard to Indemnitee&#8217;s ability to repay the Expenses and without regard to Indemnitee&#8217;s ultimate entitlement to indemnification under the provisions of this Agreement.&#160;&#160;The Indemnitee shall qualify for advances solely upon the execution and delivery to the Company of an undertaking in form and substance reasonably satisfactory to the Company providing that the Indemnitee undertakes to repay the advance if and to the extent that it is ultimately determined that Indemnitee is not entitled to be indemnified by the Company.&#160;&#160;Advances shall include any and all reasonable Expenses incurred pursuing an action to enforce this right of advancement.&#160;&#160;If Indemnitee has commenced legal proceedings in a court of competent jurisdiction in the State of Delaware to secure a determination that Indemnitee should be indemnified under applicable law, as provided in Section 4, any determination made by the Reviewing Party that Indemnitee would not be permitted to be indemnified under applicable law shall not be binding and Indemnitee shall not be required to reimburse the Company for any Expense Advance until a final judicial determination is made with respect thereto (as to which all rights of appeal therefrom have been exhausted or have lapsed).&#160;&#160;Indemnitee's obligation to reimburse the Company for Expense Advances shall be unsecured and no interest shall be charged thereon.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(d)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Mandatory Indemnification</font>.&#160;&#160;Notwithstanding any other provision of this Agreement, to the extent that Indemnitee has been successful on the merits in defense of any Proceeding relating in whole or in part to an Indemnifiable Event or in defense of any issue or matter therein, Indemnitee shall be indemnified against all Expenses incurred in connection therewith.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(e)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Partial Indemnification</font>.&#160;&#160;If Indemnitee is entitled under any provision of this Agreement to indemnification by the Company for some or a portion of Expenses, but not, however, for the total amount thereof, the Company shall nevertheless indemnify Indemnitee for the portion thereof to which Indemnitee is entitled.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>3.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Reviewing Party</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(a)&#160;&#160;Prior to any Change in Control, the person, persons or entity ("the Reviewing Party") who shall determine whether Indemnitee is entitled to indemnification in the first instance shall be (a) the Board of Directors of the Company acting by a majority vote of Disinterested Directors, whether or not such majority constitutes a quorum of the Board of Directors; (b) a committee of Disinterested Directors designated by a majority vote of such directors, whether or not such majority constitutes a quorum; or (c) if there are no Disinterested Directors, or if the Disinterested Directors so direct, by Independent Counsel (as described below in Section 3(b)) in a written determination to the Board of Directors, a copy of which shall be delivered to Indemnitee.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">4</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(b)&#160;&#160;After a Change in Control, the Reviewing Party shall be the Independent Counsel referred to below.&#160;&#160;With respect to all matters arising from a Change in Control (other than a Change in Control approved by a majority of the directors on the Board who were directors immediately prior to such Change in Control) concerning the rights of Indemnitee to indemnity payments and Expense Advances under this Agreement or any other agreement or under applicable law or the Company's articles of incorporation or by-laws now or hereafter in effect relating to indemnification for Indemnifiable Events, the Company shall seek legal advice only from Independent Counsel selected by Indemnitee and approved by the Company (which approval shall not be unreasonably withheld), and who has not otherwise performed services for the Company or the Indemnitee (other than in connection with indemnification matters) within the last five years.&#160;&#160;The Independent Counsel shall not include any person who, under the applicable standards of professional conduct then prevailing, would have a conflict of interest in representing either the Company or Indemnitee in an action to determine Indemnitee's rights under this Agreement.&#160;&#160;Such counsel, among other things, shall render its written opinion to the Company and Indemnitee as to whether and to what extent the Indemnitee should be permitted to be indemnified under applicable law.&#160;&#160;The Company agrees to pay the reasonable fees of the Independent Counsel and to indemnify fully such counsel against any and all expenses (including attorneys' fees), claims, liabilities, loss, and damages arising out of or relating to this Agreement or the engagement of Independent Counsel pursuant hereto.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>4.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Indemnification Process and Appeal</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(a)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Indemnification Payment</font>.&#160;&#160;Indemnitee shall be entitled to indemnification of Expenses, and shall receive payment thereof, from the Company in accordance with this Agreement within thirty (30) calendar days after Indemnitee has made written demand on the Company for indemnification (which written demand shall include such documentation and information as is reasonably available to Indemnitee and is reasonably necessary to determine whether and to what extent Indemnitee is entitled to indemnification), unless the Reviewing Party has provided a written determination to the Company that Indemnitee is not entitled to indemnification under applicable law.&#160;&#160;The Reviewing Party making the determination with respect to Indemnitee&#8217;s entitlement to indemnification shall notify Indemnitee of such written determination no later than two (2) business days thereafter.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(b)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Suit to Enforce Rights</font>.&#160;&#160;If (i) no determination of entitlement to indemnification shall have been made within thirty (30) calendar days after Indemnitee has made a demand in accordance with Section 4(a), (ii) payment of indemnification pursuant to Section 4(a) is not made within thirty (30) calendar days after a determination has been made that Indemnitee is entitled to indemnification, (iii) the Reviewing Party determines pursuant to Section 4(a) that Indemnitee is not entitled to indemnification under this Agreement, or (iv)&#160;Indemnitee has not received advancement of Expenses within thirty (30) calendar days after making such a request in accordance with Section 2(c), then Indemnitee shall have the right to enforce its indemnification rights under this Agreement by commencing litigation in any court of competent jurisdiction in the State of Delaware seeking an initial determination by the court or challenging any determination by the Reviewing Party or any aspect thereof.&#160;&#160;The Company hereby consents to service of process and to appear in any such proceeding.&#160;&#160;Any determination by the Reviewing Party not challenged by the Indemnitee on or before the first anniversary of the date of the Reviewing Party&#8217;s determination shall be binding on the Company and Indemnitee.&#160;&#160;The remedy provided for in this Section 4 shall be in addition to any other remedies available to Indemnitee in law or equity.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">5</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(c)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Defense to Indemnification, Burden of Proof, and Presumptions</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(i)&#160;&#160;To the maximum extent permitted by applicable law in making a determination with respect to entitlement to indemnification (or advancement of expenses) hereunder, the Reviewing Party shall presume that an Indemnitee is entitled to indemnification (or advancement of expenses) under this Agreement if Indemnitee has submitted a request for indemnification in accordance with Section 4(a) of this Agreement, and the Company shall have the burden of proof to overcome that presumption in connection with the making by the Reviewing Party of any determination contrary to that presumption.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(ii)&#160;&#160;It shall be a defense to any action brought by Indemnitee against the Company to enforce this Agreement (other than an action brought to enforce a claim for Expenses incurred in defending a Proceeding in advance of its final disposition where the required undertaking has been tendered to the Company) that it is not permissible under applicable law for the Company to indemnify Indemnitee for the amount claimed.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(iii)&#160;&#160;In connection with any action brought pursuant to Section&#160;4(c)(ii) as to whether Indemnitee is entitled to be indemnified hereunder, the burden of proving Indemnitee is not entitled to indemnification under this Agreement shall be on the Company.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(iv)&#160;&#160;Neither the failure of the Reviewing Party or the Company (including its Board, independent legal counsel, or its stockholders) to have made a determination prior to the commencement of such action by Indemnitee that indemnification of the claimant is proper under the circumstances because Indemnitee has met the standard of conduct set forth in applicable law, nor an actual determination by the Reviewing Party or Company (including its Board, independent legal counsel, or its stockholders) that the Indemnitee had not met such applicable standard of conduct, shall be admissible as evidence in any such action for any purpose.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(v)&#160;&#160;For purposes of this Agreement, the termination of any claim, action, suit, or proceeding, by judgment, order, settlement (whether with or without court approval), conviction, or upon a plea of nolo contendere, or its equivalent, shall not create a presumption that Indemnitee did not meet any particular standard of conduct or have any particular belief or that a court has determined that indemnification is not permitted by applicable law.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">6</font>.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>5.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Indemnification for Expenses Incurred in Enforcing Rights</font>.&#160;&#160;The Company shall indemnify Indemnitee against any and all Expenses and, if requested by Indemnitee, shall advance such Expenses to Indemnitee on such terms and conditions as the Board of Directors deems appropriate, that are incurred by Indemnitee in connection with any claim asserted against or action brought by Indemnitee for</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>(i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;enforcement of this Agreement,</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>(ii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;indemnification of Expenses or Expense Advances by the Company under this Agreement or any other agreement or under applicable law or the Company's articles of incorporation or by-laws now or hereafter in effect relating to indemnification for Indemnifiable Events, and/or</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>(iii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;recovery under directors' and officers' liability insurance policies maintained by the Company.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>6.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Notification and Defense of Proceeding</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(a)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Notice</font>.&#160;&#160;Promptly after receipt by Indemnitee of notice of the commencement of any Proceeding, Indemnitee will, if a claim in respect thereof is to be made against the Company under this Agreement, notify the Company of the commencement thereof; but the omission so to notify the Company will not relieve it from any liability that it may have to Indemnitee, except as provided in Section 2(c) of this Agreement.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Defense</font>.&#160;&#160;With respect to any Proceeding as to which Indemnitee notifies the Company of the commencement thereof, the Company will be entitled to participate in the Proceeding at its own expense and except as otherwise provided below, to the extent the Company so wishes, it may assume the defense thereof with counsel reasonably satisfactory to Indemnitee.&#160;&#160;After notice from the Company to Indemnitee of its election to assume the defense of any Proceeding, the Company will not be liable to Indemnitee under this Agreement or otherwise for any Expenses subsequently incurred by Indemnitee in connection with the defense of such Proceeding other than reasonable costs of investigation or as otherwise provided below.&#160;&#160;Indemnitee shall have the right to employ his own counsel in such Proceeding, but all Expenses related thereto incurred after notice from the company of its assumption of the defense shall be at Indemnitee's expense unless:&#160;&#160;(i) the employment of counsel by Indemnitee has been authorized by the Company, (ii) Indemnitee has reasonably determined that there may be a conflict of interest between Indemnitee and the Company in the defense of the Proceeding, (iii) after a Change in Control, the employment of counsel by Indemnitee has been approved by the Independent Counsel, or (iv) the Company shall not within sixty (60) calendar days in fact have employed counsel to assume the defense of such Proceeding, in each of which case all Expenses of the Proceeding shall be borne by the Company; and (v) if the Company has selected counsel to represent Indemnitee and other current and former directors, officers and employees of the Company in the defense of a Proceeding, and a majority of such persons, including Indemnitee, reasonably object to such counsel selected by the Company pursuant to this <font style="DISPLAY: inline; TEXT-DECORATION: underline">Section 6(b)</font>, then such persons, including Indemnitee, shall be permitted to employ one (1) additional counsel of their choice and the reasonable fees and expenses of such counsel shall be at the expense of the Company; <font style="DISPLAY: inline; TEXT-DECORATION: underline">provided</font>, <font style="DISPLAY: inline; TEXT-DECORATION: underline">however</font>, that such counsel shall be chosen from amongst the list of counsel, if any, approved by any company with which the Company obtains or maintains insurance.&#160;&#160;In the event separate counsel is retained by an Indemnitee pursuant to this Section 6(b), the Company shall cooperate with Indemnitee with respect to the defense of the Proceeding, including making documents, witnesses and other reasonable information related to the defense available to the Indemnitee and such separate counsel pursuant to joint-defense agreements or confidentiality agreements, as appropriate.&#160;&#160;The Company shall not be entitled to assume the defense of any Proceeding brought by or on behalf of the Company or as to which Indemnitee shall have made the determination provided for in (ii) above.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">7</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>(c)&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Settlement of Claims</font>.&#160;&#160;The Company shall not be liable to indemnify Indemnitee under this Agreement or otherwise for any amounts paid in settlement of any Proceeding effected without the Company's written consent, provided, however, that if a Change in Control has occurred, the Company shall be liable for indemnification of Indemnitee for amounts paid in settlement if the Independent Counsel has approved the settlement.&#160;&#160;The Company shall not settle any Proceeding in any manner that would impose any penalty or limitation on Indemnitee without Indemnitee's written consent.&#160;&#160;Neither the Company nor the Indemnitee will unreasonably withhold their consent to any proposed settlement.&#160;&#160;The Company shall not be liable to indemnify the Indemnitee under this Agreement with regard to any judicial award if the Company was not given a reasonable and timely opportunity, at its expense, to participate in the defense of such action; the Company's liability hereunder shall not be excused if participation in the Proceeding by the Company was barred by this Agreement.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>7.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Establishment of Trust</font>.&#160;&#160;In the event of a Change in Control or a Potential Change in Control, the Company shall, upon written request by Indemnitee, create a Trust for the benefit of the Indemnitee and from time to time upon written request of Indemnitee shall fund the Trust in an amount sufficient to satisfy any and all Expenses reasonably anticipated at the time of each such request to be incurred in connection with investigating, preparing for, participating in, and/or defending any Proceeding relating to an Indemnifiable Event.&#160;&#160;The amount or amounts to be deposited in the Trust pursuant to the foregoing funding obligation shall be determined by the Reviewing Party.&#160;&#160;The terms of the Trust shall provide that upon a Change in Control, (i) the Trust shall not be revoked or the principal thereof invaded, without the written consent of the Indemnitee, (ii) the Trustee shall advance, within ten business days of a request by the Indemnitee, any and all Expenses to the Indemnitee (and the Indemnitee hereby agrees to reimburse the Trust under the same circumstances for which the Indemnitee would be required to reimburse the Company under Section 2(c) of this Agreement), (iii) the Trust shall continue to be funded by the Company in accordance with the funding obligation set forth above, (iv) the Trustee shall promptly pay to the Indemnitee all amounts for which the Indemnitee shall be entitled to indemnification pursuant to this Agreement or otherwise, and (v) all unexpended funds in the Trust shall revert to the Company upon a final determination by the Reviewing Party or a court of competent jurisdiction, as the case may be, that the Indemnitee has been fully indemnified under the terms of this Agreement.&#160;&#160;The Trustee shall be chosen by the Indemnitee.&#160;&#160;Nothing in this Section 7 shall relieve the Company of any of its obligations under this Agreement.&#160;&#160;All income earned on the assets held in the Trust shall be reported as income by the Company for federal, state, local, and foreign tax purposes. The Company shall pay all costs of establishing and maintaining the Trust and shall indemnify the Trustee against any and all expenses (including attorneys' fees), claims, liabilities, loss, and damages arising out of or relating to this Agreement or the establishment and maintenance of the Trust.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">8</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>8.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Non-Exclusivity</font>.&#160;&#160;The rights of Indemnitee hereunder shall be in addition to any other rights Indemnitee may have under the laws of the State of Delaware, the Company&#8217;s articles of incorporation, by-laws, applicable law, or otherwise.&#160;&#160;To the extent that a change in applicable law (whether by statute or judicial decision) permits greater indemnification by agreement than would be afforded currently under the Company's articles of incorporation, by-laws, applicable law, or this Agreement, it is the intent of the parties that Indemnitee enjoy by this Agreement the greater benefits so afforded by such change.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>9.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Liability Insurance</font>.&#160;&#160;To the extent the Company maintains an insurance policy or policies providing directors' or officers' liability insurance, Indemnitee, if a director or officer of the Company, shall be covered by such policy or policies, in accordance with its or their terms.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>10.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Period of Limitations</font>.&#160;&#160;No legal action shall be brought and no cause of action shall be asserted by or on behalf of the Company or any affiliate of the Company against Indemnitee, Indemnitee's spouse, heirs, executors, or personal or legal representatives after the expiration of two years from the date of accrual of such cause of action, or such longer period as may be required or permitted by federal or state law under the circumstances.&#160;&#160;Any claim or cause of action of the Company or its affiliate shall be extinguished and deemed released unless asserted by the timely filing of a legal action within such period; provided, however, that if any shorter period of limitations is otherwise applicable to any such cause of action the shorter period shall govern.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>11.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Amendment of this Agreement</font>.&#160;&#160;No supplement, modification, or amendment of this Agreement shall be binding unless executed in writing by both of the parties hereto.&#160;&#160;No waiver of any of the provisions of this Agreement shall operate as a waiver of any other provisions hereof (whether or not similar), nor shall such waiver constitute a continuing waiver.&#160;&#160;Except as specifically provided herein, no failure to exercise or any delay in exercising any right or remedy hereunder shall constitute a waiver thereof.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>12.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Subrogation</font>.&#160;&#160;In the event of payment under this Agreement, the Company shall be subrogated to the extent of such payment to all of the rights of recovery of Indemnitee, who shall execute all papers required and shall do everything that may be necessary to secure such rights, including the execution of such documents necessary to enable the Company effectively to bring suit to enforce such rights.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">9</font>&#160;.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>13.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">No Duplication of Payments</font>.&#160;&#160;The Company shall not be liable under this Agreement to make any payment in connection with any claim made against Indemnitee to the extent Indemnitee has otherwise actually received payment (under any insurance policy, by law, or otherwise) of the amounts otherwise indemnifiable hereunder.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>14.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Binding Effect</font>.&#160;&#160;This Agreement shall be binding upon and inure to the benefit of and be enforceable by the parties hereto and their respective successors, assigns, including any direct or indirect successor by purchase, merger, consolidation, or otherwise to all or substantially all of the business and/or assets of the Company, spouses, heirs, and personal and legal representatives.&#160;&#160;The Company shall require and cause any successor (whether direct or indirect by purchase, merger, consolidation, or otherwise) to all, substantially all, or a substantial part, of the business and/or assets of the Company, by written agreement in form and substance satisfactory to Indemnitee, expressly to assume and agree to perform this Agreement in the same manner and to the same extent that the Company would be required to perform if no such succession had taken place.&#160;&#160;This Agreement shall continue in effect regardless of whether Indemnitee continues to serve as a director, officer or employee of the Company or of any other enterprise at the Company's request.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>15.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Severability</font>.&#160;&#160;If any provision (or portion thereof) of this Agreement shall be held by a court of competent jurisdiction to be invalid, void, or otherwise unenforceable, the remaining provisions shall remain enforceable to the fullest extent permitted by law.&#160;&#160;Furthermore, to the fullest extent possible, the provisions of this Agreement (including, without limitation, each portion of this Agreement containing any provision held to be invalid, void, or otherwise unenforceable, that is not itself invalid, void, or unenforceable) shall be construed so as to give effect to the intent manifested by the provision held invalid, void, or unenforceable.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>16.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Governing Law</font>.&#160;&#160;This Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Delaware applicable to contracts made and to be performed in such State without giving effect to the principles of conflicts of laws.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>17.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Notices</font>.&#160;&#160;All notices, demands, and other communications required or permitted hereunder shall be made in writing and shall be deemed to have been duly given if delivered by hand, against receipt, or mailed, postage prepaid, certified or registered mail, return receipt requested, and addressed to the Company at:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>Intel Corporation</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>2200 Mission College Blvd., RNB 4-151</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>Santa Clara, California&#160;&#160;95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>Attn:&#160;&#160;Corporate Secretary</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div><br>
+</div>
+
+<div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">10.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">and to Indemnitee at:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>[INDEMNITEE]</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>2200 Mission College Blvd., RNB 4-151</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 108pt"></font>Santa Clara, California&#160;&#160;95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Notice of change of address shall be effective only when done in accordance with this Section.&#160;&#160;All notices complying with this Section shall be deemed to have been received on the date of delivery or on the third business day after mailing.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement as of the day specified above.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr>
+<td valign="top" width="20%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Company:</font></div>
+</td>
+<td colspan="2" valign="top" width="60%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel Corporation, a Delaware corporation</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="15%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">By:</font></div>
+</td>
+<td valign="top" width="45%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="15%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Printed Name:</font></div>
+</td>
+<td valign="top" width="45%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Cary I. Klafter</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="45%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Vice President, Legal and Corporate Affairs, Director Corporate Legal and Corporate Secretary</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="20%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Indemnitee:</font></div>
+</td>
+<td valign="top" width="15%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Printed Name:</font></div>
+</td>
+<td valign="top" width="45%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">[INDEMNITEE]</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="45%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div>
+<div>
+<div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">11.&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Form effective as of 11-16-09)</font></div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>exh991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+    <title>exh991.htm</title>
+    <!--Licensed to: Intel Corp-->
+    <!--Document Created using EDGARizer 2020 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit 99.1</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr>
+<td align="left" valign="top" width="40%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><img src="intellogo.jpg" alt=""></div>
+</td>
+<td align="left" valign="top" width="40%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><img src="prlogo.jpg" alt=""></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Aneel Bhusri Elected to Intel Board of Directors</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 27pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">NEWS HIGHLIGHTS</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr valign="top">
+<td align="right" style="WIDTH: 27pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">CEO of Workday, Inc., increases enterprise software and cloud computing expertise of Intel board</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SANTA CLARA, Calif., June 23, 2014 &#8211;<a name="DDE_LINK"><!--EFPlaceholder--></a>Intel Corporation announced that Aneel Bhusri, co-founder and chief executive officer of Workday, Inc. (NYSE: WDAY), has been elected to serve on the company&#8217;s board of directors.&#160;&#160;&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>&#8220;We are very pleased to have Aneel Bhusri as an Intel director,&#8221; said Andy Bryant, chairman of the board of Intel. &#8220;His more than 20 years&#8217; experience in enterprise software innovation and cloud computing will increase our board&#8217;s depth in areas that are key to Intel&#8217;s business and crucial in today&#8217;s connected world.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Bhusri, 48, co-founded Workday, Inc., in 2005 and served as its co-chief executive officer from 2009 and chairman from 2012 until May of this year, when he was named chief executive officer. Workday is a leading provider of enterprise cloud applications for human resources and finance. In addition, Bhusri serves as a partner at Greylock Partners, a venture capital firm. Previously, he held a number of leadership positions at PeopleSoft, including senior vice president responsible for product strategy, business development and marketing, and vice chairman of the board.</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Bhusri received an MBA from Stanford University and holds bachelor&#8217;s degrees in electrical engineering and in economics from Brown University. He also is a Crown Fellow at the Aspen Institute.</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world&#8217;s computing devices.&#160;As a leader in corporate responsibility and sustainability, Intel also manufactures the world&#8217;s first commercially available &#8220;conflict-free&#8221; microprocessors. Additional information about Intel is available at <font style="DISPLAY: inline; TEXT-DECORATION: underline">newsroom.intel.com</font> and <font style="DISPLAY: inline; TEXT-DECORATION: underline">blogs.intel.com</font>, and about Intel&#8217;s conflict-free efforts at <font style="DISPLAY: inline; TEXT-DECORATION: underline">conflictfree.intel.com</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#8211; 30 &#8211;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">*Other names and brands may be claimed as the property of others.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: arial; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: arial">
+<tr>
+<td align="left" valign="top" width="28%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">CONTACTS:</font></div>
+</td>
+<td align="left" valign="top" width="52%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Laura Anderson</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Intel Corporation</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">480-552-9020</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline">laura.m.anderson@intel.com</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>intellogo.jpg
+<TEXT>
+begin 644 intellogo.jpg
+M_]C_X``02D9)1@`!`0$`E@"6``#_VP!#``H'!PD'!@H)"`D+"PH,#QD0#PX.
+M#QX6%Q(9)"`F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$!`)C!&2T4^2CD_0#W_
+MP``+"`"X`/4!`1$`_\0`'P```04!`0$!`0$```````````$"`P0%!@<("0H+
+M_\0`M1```@$#`P($`P4%!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$(
+M(T*QP152T?`D,V)R@@D*%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%56
+M5UA96F-D969G:&EJ<W1U=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBI
+MJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W
+M^/GZ_]H`"`$!```_`/9J****************************************
+M************************************************************
+M************************************1F"J68@`<DGM7/ZGX]\,Z02+
+MS6K0.O5(W\QA^"Y-<O??'3PU;9%K#?W9[%8PB_\`CQ!_2L*Z_:!Y(M-!X]9;
+MG^@7^M9LOQ]UHG]UI6GJ/]HNW]14/_"^O$6?^/'2\?\`7.3_`.+J:+X^ZT#^
+M]TO3V'^SO7^IK3M/V@5)`O="(']Z&YS^A7^M=)IOQK\*WQ5;B2ZL6/\`SWAR
+M/S7-=GIFM:;K,/FZ9?6UVG<PR!L?4#I^-7J******************Y'Q%\3_
+M``UX<+QS7HNKE?\`EA:XD8'T)Z#\37G&I_&S7]8G-MX<TU;<MPI"&>4_08Q^
+MAK./@OXB^,6WZF;I8V_Y_9_+4?\`;/J/^^:V]._9_G;!U/6HT]4MX2W_`(\Q
+M'\JZ2R^!OABW`^T27]TW??*%'Y*!_.MFW^%G@^V`VZ+$Y'>21W_F:OIX#\+Q
+M_=T#3?QMU/\`,4]O!/AEA@Z!I?\`X"I_A56?X<^$[@8?0;,?[BE/_0<5C7WP
+M5\)W8/DP75H3WAG)Q^#9KDM7^`,Z*SZ-JZ2>D=TFT_\`?2Y_E7G^K>%_$G@R
+MZ6:[M;JS*GY+F%CM_!UZ?3K75^%OC9K&E,D&MK_:5J."_"S*/KT;\>?>O;/#
+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
+'%%%%%%?_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>prlogo.jpg
+<TEXT>
+begin 644 prlogo.jpg
+M_]C_X``02D9)1@`!`0$`E@"6``#_VP!#``H'!PD'!@H)"`D+"PH,#QD0#PX.
+M#QX6%Q(9)"`F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$!`)C!&2T4^2CD_0#W_
+MP``+"`"(`9@!`1$`_\0`'P```04!`0$!`0$```````````$"`P0%!@<("0H+
+M_\0`M1```@$#`P($`P4%!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$(
+M(T*QP152T?`D,V)R@@D*%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%56
+M5UA96F-D969G:&EJ<W1U=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBI
+MJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W
+M^/GZ_]H`"`$!```_`/9J****************************************
+M************************************************************
+M************************************************************
+M*******************************************Q-2\9^']'O6M-1U:U
+MM[A`"T;ORN>1FM'3M2L]6LDN]/N8[FWDSMDC;(..#5JF2RI!"\LKJD:*69F.
+M`H'))K)TOQ?H.MWGV73-4MKFXVEO+1N<#J:V:*****************YF[^(W
+MA2QG>&?6[821L595W/@CJ.`:J?\`"V/!O_0:7_OQ+_\`$U<L?B)X5U"14M]<
+MM-S<`2,8\_\`?0%=&CK(@=&#*PR&!R"*=11116=KFOZ=X;T_[=JUP(+?>$W;
+M2V6/08`)[&H]`\3:5XHM)+G1[H7$43['.QE(.,]"!ZUJT444444444444444
+M5\P?%7_DI6L?]=$_]%K74_`[Q9]AU6;0+J3$%X?,M\GA90.1_P`"`_-?>O=J
+MS/$G_(KZM_UYS?\`H!KP7X*?\E$A_P"O>7^5?1M%%%%%%%%%%%%%%%%%?)]A
+MI`U[QPNF-*85NKQHS(%W;<L><5ZC_P`,_6O_`$'I_P#P&'_Q59NJ_`*]AA9]
+M*U:*Y<#(BFB,9/L""1_*N=\&>-=6\`>(/[/U(S"Q67R[JTEY\KGEE]".O'!_
+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
+(HHHHHHHK_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

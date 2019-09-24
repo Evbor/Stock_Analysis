@@ -1,0 +1,245 @@
+<SEC-DOCUMENT>0000050863-16-000145.txt : 20160915
+<SEC-HEADER>0000050863-16-000145.hdr.sgml : 20160915
+<ACCEPTANCE-DATETIME>20160915160156
+ACCESSION NUMBER:		0000050863-16-000145
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160914
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20160915
+DATE AS OF CHANGE:		20160915
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		161887216
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>8-k_a.htm
+<DESCRIPTION>8-K/A
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: intel
+    Document created using EDGARfilings PROfile 4.0.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif" bgcolor="#ffffff" text="#000000">
+<div>
+<div>
+<div style="LINE-HEIGHT: 0pt"><br style="LINE-HEIGHT: 0pt">
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">UNITED STATES<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font>SECURITIES AND EXCHANGE COMMISSION<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> Washington, D.C. 20549</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">______________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">FORM 8-K/A</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">______________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">CURRENT REPORT</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">Date of Report (Date of earliest event reported): July 7, 2016</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">______________</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt"><font style="FONT-SIZE: 18pt; FONT-FAMILY: 'Times New Roman', Times, serif">INTEL CORPORATION</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> (Exact name of registrant as specified in its charter)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">______________</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<table id="3215f6d2889d4cb7b2211b2e909621e6" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">Delaware</div>
+</td>
+<td style="WIDTH: 33.32%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">000-06217</div>
+</td>
+<td style="WIDTH: 33.32%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">94-1672743</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 33.35%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">(State or other jurisdiction of<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> incorporation)</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 33.32%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">(Commission File Number)</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 33.32%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">(IRS Employer Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">2200 Mission College Blvd., Santa Clara, California 95054-1549<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> (Address of principal executive offices) (Zip Code)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">(408) 765-8080<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif"><br>
+</font> (Registrant's telephone number, including area code)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">(Former Name or Former Address, if Changed Since Last Report)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-STYLE: italic">see</font> General Instruction A.2. below):</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">
+<table id="441c2b4a89f443ba8ae4ccaf3009f234" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">
+<table id="cbfedf4f804a42569dcdaa4f53945c37" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">
+<table id="1f3d2488564c4f00844bb0192d100217" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">
+<table id="0c5291a7feb3422a888c1618937008ac" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="c7add8b64417469ca594c34b6fbbce2b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 108pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; align: right">Item 5.02.</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: auto; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: left">Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers.</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">(d)</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 1px; WIDTH: 36pt; DISPLAY: inline-block">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold">Election of New Director</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">On September 14, 2016, the Board appointed Dr. Tsu-Jae King Liu to the Audit Committee of the Board, effective immediately.&#160; The Board also has determined that Dr. Liu qualifies as "independent" in accordance with the published listing requirements of NASDAQ, including those requirements specifically applicable to Audit Committee members.&#160; As previously disclosed, Dr. Liu was elected a director, effective July 7, 2016, by the Board.&#160;</div>
+</div>
+
+<div style="MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">SIGNATURES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<table id="99b718808fad4c10afc66911268a9f57" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">INTEL CORPORATION</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">(Registrant)</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">/s/ Suzan A. Miller</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">Suzan A. Miller</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">Date: September 15, 2016</div>
+</td>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">Vice President, Deputy General Counsel and Corporate Secretary</div>
+</td>
+</tr>
+</table>
+
+<div style="MARGIN-TOP: 12pt; LINE-HEIGHT: 13.7pt">&#160;</div>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

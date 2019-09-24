@@ -1,0 +1,245 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AM8GOQvjC9iwzwNMj7f1tLpCcXzsrdU5j2fzWWSxqF3KRXmhd229+7bivBLk+GAf
+ C7qmmnwOQM9wI4vvXnAFaA==
+
+<SEC-DOCUMENT>0000050863-06-000135.txt : 20060720
+<SEC-HEADER>0000050863-06-000135.hdr.sgml : 20060720
+<ACCEPTANCE-DATETIME>20060720113620
+ACCESSION NUMBER:		0000050863-06-000135
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20060719
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20060720
+DATE AS OF CHANGE:		20060720
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		06970963
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+                      ____________________
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+             Pursuant to Section 13 OR 15(d) of the
+                 Securities Exchange Act of 1934
+
+                 Date of Report:  July 19, 2006
+                (Date of earliest event reported)
+
+                        INTEL CORPORATION
+     (Exact name of registrant as specified in its charter)
+
+
+      Delaware               000-06217             94-1672743
+   (State or other          (Commission          (IRS Employer
+    jurisdiction
+  of incorporation)         File Number)      Identification No.)
+
+  2200 Mission College Blvd., Santa Clara,         95054-1549
+                 California
+  (Address of principal executive offices)         (Zip Code)
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+Check  the  appropriate  box below if  the  Form  8-K  filing  is
+intended to simultaneously satisfy the filing obligation  of  the
+registrant  under  any of the following provisions  (see  General
+Instruction A.2. below):
+
+[  ]  Written  communications pursuant  to  Rule  425  under  the
+Securities Act (17 CFR 230.425)
+
+[  ]  Soliciting  material  pursuant to  Rule  14a-12  under  the
+Exchange Act (17 CFR 240.14a-12)
+
+[  ]  Pre-commencement communications pursuant to  Rule  14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+[  ]  Pre-commencement communications pursuant to  Rule  13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+Item         Regulation FD Disclosure.
+7.01
+             Attached hereto as Exhibit 99.1 and incorporated  by
+             reference  herein  is  a  press  release  describing
+             certain  changes  in  executive  management   within
+             Intel  Corporation. The information in  this  report
+             shall  be deemed incorporated by reference into  any
+             registration   statement  heretofore  or   hereafter
+             filed  under the Securities Act of 1933, as amended,
+             except  to  the  extent  that  such  information  is
+             superseded  by  information as of a subsequent  date
+             that  is  included in or incorporated  by  reference
+             into  such  registration statement. The  information
+             in  this  report shall not be treated as  filed  for
+             purposes of the Securities Exchange Act of 1934,  as
+             amended.
+
+
+
+
+<PAGE>
+
+                           SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.
+
+                                 INTEL CORPORATION
+                                 (Registrant)
+
+
+                                 By:  /s/ Cary I. Klafter
+                                      -----------------------
+                                      Cary I. Klafter
+Date:  July  20, 2006                 Corporate Secretary
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh991.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                        Exhibit 99.1
+
+CONTACT:  Robert Manetta
+          408-765-7082
+          Robert.i.manetta@intel.com
+
+             INTEL ANNOUNCES MANAGEMENT CHANGES
+
+SANTA CLARA, Calif., July 20, 2006 - Intel Corporation
+today announced that it is making a number of senior
+management changes focused on improving the company's
+structure and achieving faster and better decision
+making. The company also announced that two senior
+executives will be retiring.
+
+     "As part of the thorough analysis of Intel begun
+in April, we have examined the focus and structure of
+our top management level, including our use of 'two-in-
+a-box' co-managers," said Intel President and CEO Paul
+Otellini. "The moves announced today will help us speed
+decision making and bring new resources to bear in
+critical areas, while allowing me to spend more time on
+key strategic issues."
+
+     The management changes include:
+
+     Intel's Sales and Marketing Group will be led by
+Executive Vice President Sean Maloney, 50, who
+previously co-managed the company's Mobility Group.
+Maloney will also become Intel's chief sales and
+marketing officer. Donald MacDonald, who was previously
+vice president and general manager of the Digital Home
+Group, will become vice president of Marketing and
+Brands, reporting to Maloney.
+
+     Senior Vice President David Perlmutter, 53, will
+continue as general manager of the Mobility Group.
+Senior Vice President Anand Chandrasekher, 43, formerly
+co-general manager of the Sales and Marketing Group,
+will manage a newly created business unit focused on
+low power Intel Architecture products and the ultra-
+mobile PC market. He will report to Perlmutter.
+
+     Eric Kim, 51, senior vice president, who
+previously co-managed the Sales and Marketing Group,
+will become general manager of the Digital Home Group.
+
+     William Siu, a 26-year Intel veteran who served as
+vice president and general manager of the Channel
+Platforms Group, and Richard Wirt, who has 25 years of
+service and is vice president, senior fellow and co-
+general manager of the Software and Solutions Group,
+announced their retirements. Both of these executives
+will remain full time with Intel through the end of the
+year to best manage their organizations' transitions.
+With the impending retirement of Siu, the Channel
+Platforms Group will report to Maloney in the Sales and
+Marketing Group. A general manager for the Channel
+Platforms Group will be named at a later date.
+
+     Renee James, vice president and co-general manager
+of the Software and Solutions Group, will continue to
+manage the group following Wirt's retirement at the end
+of the year.
+
+     "I want to express my deep appreciation to Bill
+Siu and Richard Wirt for their numerous contributions
+and dedicated service to Intel over many years,"
+continued Otellini.  "We thank them very much and wish
+them all the best in their retirement."
+
+     The management changes are effective immediately.
+
+     Intel, the world leader in silicon innovation,
+develops technologies, products and initiatives to
+continually advance how people work and live.
+Additional information about Intel is available at
+www.intel.com/pressroom.
+
+Intel and the Intel logo are trademarks or registered
+trademarks of Intel Corporation or its subsidiaries in
+the United States and other countries.
+
+*Other names and brands may be claimed as the property
+of others.
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

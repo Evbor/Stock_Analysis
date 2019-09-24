@@ -1,0 +1,780 @@
+<SEC-DOCUMENT>0000050863-12-000132.txt : 20121119
+<SEC-HEADER>0000050863-12-000132.hdr.sgml : 20121119
+<ACCEPTANCE-DATETIME>20121119091713
+ACCESSION NUMBER:		0000050863-12-000132
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20121114
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20121119
+DATE AS OF CHANGE:		20121119
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		121213278
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+    <title>form8k.htm</title>
+    <!--Licensed to: intel corp-->
+    <!--Document Created using EDGARizer 2020 5.4.3.1-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div><br>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">WASHINGTON, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 8-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">PURSUANT TO SECTION 13 OR 15(d) OF THE</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES EXCHANGE ACT OF 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Date of Report (Date of earliest event reported):&#160;&#160;November 14, 2012</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 18pt; FONT-WEIGHT: bold">INTEL CORPORATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Exact name of registrant as specified in its charter)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">Delaware</font></font></div>
+</td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">000-06217</font></font></div>
+</td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">94-1672743</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(State or other jurisdiction of incorporation)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Commission File Number)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(IRS Employer Identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">2200 Mission College Blvd., Santa Clara, California 95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Address of principal executive offices) (Zip Code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(408) 765-8080</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Registrant&#8217;s telephone number, including area code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Former Name or Former Address, if Changed Since Last Report)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-STYLE: italic; DISPLAY: inline">see</font> General Instruction A.2. below):</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><a name="E_R_R1"><!--EFPlaceholder--></a><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 5.02&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On November 14, 2012, Paul Otellini, President and CEO, notified the Board of Directors of Intel Corporation (&#8220;Intel&#8221;) of his intention to retire as President and CEO and from the board of directors of Intel in May 2013.&#160;&#160;&#160;Mr. Otellini will continue to serve as President and CEO and as a director of Intel until the company&#8217;s next annual meeting of stockholders, which is scheduled to be held on May 16, 2013.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 7.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Regulation FD Disclosure.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The company's press release announcing Mr. Otellini&#8217;s retirement is furnished as Exhibit 99.1 to this Current Report on Form 8-K.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 9.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Financial Statements and Exhibits.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(d) Exhibits.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The following exhibit is furnished as part of this Report:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit Number</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">Description</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Intel press release dated November 19, 2012</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td style="WIDTH: 81pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td>
+<div align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="top" width="36%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">INTEL CORPORATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Registrant)</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="36%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">/s/ Cary I. Klafter</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="36%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Date: November 19, 2012</font></div>
+</td>
+<td valign="top" width="42%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Cary I. Klafter</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Corporate Secretary</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99_1.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>exhibit99_1.htm</title>
+    <!--Licensed to: intel corp-->
+    <!--Document Created using EDGARizer 2020 5.4.3.1-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: right">Exhibit 99.1<br>
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><img src="intel.jpg" alt=""></div>
+
+<div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><img src="news.gif" alt=""></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Intel Corporation</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2200 Mission College Blvd.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Santa Clara, CA 95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Intel CEO Paul Otellini to Retire in May</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SANTA CLARA, Calif., Nov. 19, 2012 &#8211; <a name="DDE_LINK"><!--EFPlaceholder--></a>Intel Corporation today announced that the company&#8217;s president and CEO, Paul Otellini, has decided to retire as an officer and director at the company&#8217;s annual stockholders&#8217; meeting in May, starting an orderly leadership transition over the next six months. Otellini&#8217;s decision to retire will bring to a close a remarkable career of nearly 40 years of continuous service to the company and its stockholders.</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#8220;Paul Otellini has been a very strong leader, only the fifth CEO in the company&#8217;s great 45-year history, and one who has managed the company through challenging times and market transitions,&#8221; said Andy Bryant, chairman of the board. &#8220;The board is grateful for his innumerable contributions to the company and his distinguished tenure as CEO over the last eight years.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#8220;I&#8217;ve been privileged to lead one of the world&#8217;s greatest companies,&#8221; Otellini said. &#8220;After almost four decades with the company and eight years as CEO, it&#8217;s time to move on and transfer Intel&#8217;s helm to a new generation of leadership. I look forward to working with Andy, the board and the management team during the six-month transition period, and to being available as an advisor to management after retiring as CEO.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The board of directors will conduct the process to choose Otellini&#8217;s successor and will consider internal and external candidates for the job.&#160;</font></div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In addition, the company also announced that the board has approved the promotion of three senior leaders to the position of executive vice president: Renee James, head of Intel&#8217;s software business; Brian Krzanich, chief operating officer and head of worldwide manufacturing; and Stacy Smith, chief financial officer and director of corporate strategy.</font></div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">During Otellini&#8217;s tenure as CEO -- from the second quarter of 2005 through the third quarter of 2012 -- Intel:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Generated cash from operations of $107 billion</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Made $23.5 billion in dividend payments</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Increased the quarterly dividend 181 percent from $0.08 to $0.225</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">From the end of 2005 through the end of 2011, Intel achieved record revenue and net income.&#160; During this period, annual revenue grew from $38.8 billion to $54 billion, while annual earnings-per-share grew from $1.40 to $2.39. &#160;</font></div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">In addition to financial performance, Intel, under Otellini&#8217;s leadership, achieved notable successes in areas of strategic importance. During this period, the company:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Transformed operations and the cost structure for long-term growth</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Achieved breakthrough innovations, including High-K/Metal gate and now 3-D Tri-gate transistors; and dramatic improvement in energy efficiency of Intel processors</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Reinvented the PC with Ultrabook&#8482; devices</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Greatly expanded business partnerships and made strategic acquisitions that expanded Intel&#8217;s presence in security, software and mobile communications</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Delivered the first smartphones and tablets for sale with Intel inside</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Grew the vast network of cloud-based computing built on Intel products</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world&#8217;s computing devices. Additional information about Intel is available at <font style="DISPLAY: inline; TEXT-DECORATION: underline">newsroom.intel.com</font> and <font style="DISPLAY: inline; TEXT-DECORATION: underline">blogs.intel.com</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#8211; 30 &#8211;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel, the Intel logo and Ultrabook are trademarks of Intel Corporation in the United States and other countries.&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">*Other names and brands may be claimed as the property of others.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">CONTACT:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Paul Bergevin&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mark Henninger</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>Intel Media Relations&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Investor Relations</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">408-765-4793&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 408-653-9944</font></div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Paul.bergevin@intel.com</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">mark.h.henninger@intel.com</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<br>
+<br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>news.gif
+<TEXT>
+begin 644 news.gif
+M1TE&.#EA(`%=`/<``````(````"``("`````@(``@`"`@,#`P,#<P*;*\```
+M``@("!`0$!<7%Q\?'RHJ*C$Q,3DY.4)"0DI*2E%145I:6F-C8VQL;')R<GIZ
+M>H2$A(N+BY.3DYN;FZ2DI*VMK;6UM;R\O,?'Q\[.SM;6UMW=W>?GY_#P\/?W
+M]_[^_@``````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````````````````````````````````````/_[\*"@H']_?_\```#_
+M`/__````__\`_P#______R'Y!```````+``````@`5T`AP```(````"``("`
+M````@(``@`"`@,#`P,#<P*;*\`````@("!`0$!<7%Q\?'RHJ*C$Q,3DY.4)"
+M0DI*2E%145I:6F-C8VQL;')R<GIZ>H2$A(N+BY.3DYN;FZ2DI*VMK;6UM;R\
+MO,?'Q\[.SM;6UMW=W>?GY_#P\/?W]_[^_@``````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````/_[\*"@H']_?_\```#_`/__````__\`_P#______PC^`%,('$BP
+MH,&#"!,J7,BPH<.'$"-*G$BQHL6+&#-JW,BQH\>/($.*'$FRI,F3*%.J7,FR
+MI<N7,&/*G$FSILV;.'/JW,FSI\^?0(,*'4JTJ-&C2),J7<JTJ=.G4*-*G4JU
+MJM6K6+-JW<JUJ]>O8,.*'4NVK-FS:-.J7<NVK=NW<./*G6L5Q0D3)4CHW4O"
+M!`J4(PX<&$$6Q(4($A+?<RA"0H0(%_Z6+4$!P@,'#19HWLS`080*'`B/+.$`
+M```&HL-.,,V:`8F&&UJ;,'N/M>W;MAE4$"%RQ`+6(<:NOGVA(0?6#F:7K8V[
+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
+&F&`9$``[
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>intel.jpg
+<TEXT>
+begin 644 intel.jpg
+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
+#`?_9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

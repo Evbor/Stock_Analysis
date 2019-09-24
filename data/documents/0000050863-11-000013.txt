@@ -1,0 +1,1150 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Js1r1jokB7v1ytfSAz/G5R23vEnmRZKf6SDlPE7wQv8Mu5a06REL+z9pxPZecVqJ
+ ih5gybrO3hsIFDLsZLRwwA==
+
+<SEC-DOCUMENT>0000050863-11-000013.txt : 20110124
+<SEC-HEADER>0000050863-11-000013.hdr.sgml : 20110124
+<ACCEPTANCE-DATETIME>20110124092851
+ACCESSION NUMBER:		0000050863-11-000013
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20110121
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20110124
+DATE AS OF CHANGE:		20110124
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		11542701
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+    <title>form8k.htm</title>
+    <!-- Licensed to: Intel Corporation -->
+    <!-- Document Created using EDGARizer 5.3.1.0 -->
+    <!-- Copyright 1995 - 2011 Thomson Reuters. All rights reserved. -->
+</head>
+
+
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div><br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 8-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pursuant to Section 13 OR 15(d) of the</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Securities Exchange Act of 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Date of Report (Date of earliest event reported):&#160;&#160;January 21, 2011</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 18pt; FONT-WEIGHT: bold">INTEL CORPORATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Exact name of registrant as specified in its charter)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">Delaware</font></font></div>
+</td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">000-06217</font></font></div>
+</td>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline">94-1672743</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 18pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(State or other jurisdiction of incorporation)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Commission File Number)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(IRS Employer Identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">2200 Mission College Blvd., Santa Clara, California 95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Address of principal executive offices) (Zip Code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(408) 765-8080</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Registrant&#8217;s telephone number, including area code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Former Name or Former Address, if Changed Since Last Report)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-STYLE: italic; DISPLAY: inline">see</font> General Instruction A.2. below):</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline;" face="Wingdings">&#168;</font> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 7.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Regulation FD Disclosure.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On January 24, 2011, the company issued a press release announcing that the Board of Directors had declared an 18.12 cents per share quarterly dividend on the company's common stock and approved a $10 billion increase in the amount of the company&#8217;s authorized share repurchase program.&#160;&#160;The company's press release announcing the dividend declaration and increase in share repurchase authorization is furnished as Exhibit 99.1 to this Current Report on Form 8-K.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 9.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Financial Statements and Exhibits.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Exhibits.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The following exhibit is filed as part of this Report:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="9%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Exhibit Number</font></div>
+</td>
+<td align="left" valign="top" width="58%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Description</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="9%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">99.1</font></div>
+</td>
+<td align="left" valign="top" width="58%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Press release dated January 24, 2011</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 81pt">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></div>
+</td>
+<td>
+<div align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="36%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">INTEL CORPORATION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Registrant)</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="36%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="42%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">/s/ Cary I. Klafter</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="36%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Date: January 24, 2011</font></div>
+</td>
+<td valign="top" width="42%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Cary I. Klafter</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Corporate Secretary</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exh991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+    <title>exh991.htm</title>
+    <!-- Licensed to: Intel Corporation -->
+    <!-- Document Created using EDGARizer 5.3.1.0 -->
+    <!-- Copyright 1995 - 2011 Thomson Reuters. All rights reserved. -->
+</head>
+
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div><br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Exhibit 99.1</font></font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="22%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><img src="intellogo.jpg" alt=""></div>
+</td>
+<td align="left" valign="top" width="20%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Intel Corporation</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2200 Mission College Blvd.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Santa Clara, CA 95054-1549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td align="left" valign="top" width="38%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><img src="prlogo.jpg" alt=""></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="15%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CONTACTS:</font></div>
+</td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="28%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Amy Kircos</font></div>
+</td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="29%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Kevin Sellers</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="28%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Media Relations</font></div>
+</td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="29%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Investor Relations</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="28%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">480-552-8803</font></div>
+</td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="29%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">480-363-2642</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="28%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline">amy.kircos@intel.com</font></font></div>
+</td>
+<td valign="top" width="4%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="29%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline">kevin.k.sellers@intel.com</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Intel Declares Quarterly Cash Dividend,</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Authorizes Additional $10 Billion for Share Repurchases</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SANTA CLARA, Calif., Jan. 24, 2011 &#8211; Intel Corporation today announced that its board of directors has declared an 18.12 cents per share quarterly dividend (72.48 cents per share on an annual basis), reflecting the previously announced 15 percent increase from the fourth quarter of 2010. The dividend will be payable on March 1, 2011 to stockholders of record on Feb. 7, 2011. The Intel board is also increasing the authorization limit for share repurchases by an additional $10 billion, which increases the overall outstanding buyback authorization to $14.2 billion.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#8220;In 2010, Intel achieved its best and most profitable year ever,&#8221; said Paul Otellini, Intel president and CEO. &#8220;Today&#8217;s announcement signals confidence in our fundamental business strategies both today and looking forward, allowing us to return more cash to shareholders.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Intel began paying a cash dividend in 1992 and has paid out approximately $21 billion to its shareholders in dividends. Intel cash dividends paid during 2010 totaled approximately $3.5 billion.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Since the company&#8217;s stock buyback program began in 1990, Intel has repurchased approximately 3.4 billion shares at a cost of approximately $70 billion. Taken together since their inception, Intel&#8217;s dividends and stock buyback program have returned approximately $91 billion to shareholders.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world&#8217;s computing devices. Additional information about Intel is available at <font style="DISPLAY: inline; TEXT-DECORATION: underline">www.intel.com/pressroom</font> and <font style="DISPLAY: inline; TEXT-DECORATION: underline">blogs.intel.com</font>.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Risk Factors</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The above statements and any others in this document that refer to plans and expectations for the first quarter, the year and the future are forward-looking statements that involve a number of risks and uncertainties. Many factors could affect Intel&#8217;s actual results, and variances from Intel&#8217;s current expectations regarding such factors could cause actual results to differ materially from those expressed in these forward-looking statements. Intel presently considers the following to be the important factors that could cause actual results to differ materially from the corporation&#8217;s expectations.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Dividend declarations, the dividend rate and the stock buyback are at the discretion of Intel's board of directors, and plans for future dividends and stock buybacks may be revised by the board. Intel's dividend and stock buyback programs could be affected by changes in Intel's operating results, its capital spending programs, changes in its cash flows and changes in the tax laws, as well as by the level and timing of acquisition and investment activity.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Demand could be different from Intel's expectations due to factors including changes in business and economic conditions; customer acceptance of Intel&#8217;s and competitors&#8217; products; changes in customer order patterns including order cancellations; and changes in the level of inventory at customers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel operates in intensely competitive industries that are characterized by a high percentage of costs that are fixed or difficult to reduce in the short term and product demand that is highly variable and difficult to forecast. Revenue and the gross margin percentage are affected by the timing of Intel product introductions and the demand for and market acceptance of Intel's products; actions taken by Intel's competitors, including product offerings and introductions, marketing programs and pricing pressures and Intel&#8217;s response to such actions; and Intel&#8217;s ability to respond quickly to technological developments and to incorporate new features into its products.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The gross margin percentage could vary significantly from expectations based on capacity utilization; variations in inventory valuation, including variations related to the timing of qualifying products for sale; changes in revenue levels; product mix and pricing; the timing and execution of the manufacturing ramp and associated costs; start-up costs; excess or obsolete inventory; changes in unit costs; defects or disruptions in the supply of materials or resources; product manufacturing quality/yields; and impairments of long-lived assets, including manufacturing, assembly/test and intangible assets.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Expenses, particularly certain marketing and compensation expenses, as well as restructuring and asset impairment charges, vary depending on the level of demand for Intel's products and the level of revenue and profits.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The tax rate expectation is based on current tax law and current expected income. The tax rate may be affected by the jurisdictions in which profits are determined to be earned and taxed; changes in the estimates of credits, benefits and deductions; the resolution of issues arising from tax audits with various tax authorities, including payment of interest and penalties; and the ability to realize deferred tax assets.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Gains or losses from equity securities and interest and other could vary from expectations depending on gains or losses on the sale, exchange, change in the fair value or impairments of debt and equity investments; interest rates; cash balances; and changes in fair value of derivative instruments. &#160;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The majority of Intel&#8217;s non-marketable equity investment portfolio balance is concentrated in companies in the flash memory market segment, and declines in this market segment or changes in management&#8217;s plans with respect to Intel&#8217;s investments in this market segment could result in significant impairment charges, impacting restructuring charges as well as gains/losses on equity investments and interest and other.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel's results could be impacted by adverse economic, social, political and physical/infrastructure conditions in countries where Intel, its customers or its suppliers operate, including military conflict and other security risks, natural disasters, infrastructure disruptions, health concerns and fluctuations in currency exchange rates.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel&#8217;s results could be affected by the timing of closing of acquisitions and divestitures.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel's results could be affected by adverse effects associated with product defects and errata (deviations from published specifications), and by litigation or regulatory matters involving intellectual property, stockholder, consumer, antitrust and other issues, such as the litigation and regulatory matters described in Intel's SEC reports. An unfavorable ruling could include monetary damages or an injunction prohibiting us from manufacturing or selling one or more products, precluding particular business practices, impacting Intel&#8217;s ability to design its products, or requiring other remedies such as compulsory licensing of intellectual property.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">A detailed discussion of these and other factors that could affect Intel&#8217;s results is included in Intel&#8217;s SEC filings, including the report on Form 10-Q for the fiscal quarter ended Sept. 25, 2010.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#8211; 30 &#8211;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">*Other names and brands may be claimed as the property of others.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>intellogo.jpg
+<TEXT>
+begin 644 intellogo.jpg
+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
+@%`!1110`4444`%%%%`!1110`4444`%%%%`!1110!_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>prlogo.jpg
+<TEXT>
+begin 644 prlogo.jpg
+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
+$*`/_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

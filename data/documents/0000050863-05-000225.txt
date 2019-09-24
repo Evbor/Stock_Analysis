@@ -1,0 +1,291 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Jiwya26v61xr4pUZ0Ytt0rsccFLWDck5ThxCzlEn2YKjZmhHl5Gqv84Us46yMyFA
+ OHGhDYBULYlTCYclNhAnDg==
+
+<SEC-DOCUMENT>0000050863-05-000225.txt : 20051121
+<SEC-HEADER>0000050863-05-000225.hdr.sgml : 20051121
+<ACCEPTANCE-DATETIME>20051121120800
+ACCESSION NUMBER:		0000050863-05-000225
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20051118
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20051121
+DATE AS OF CHANGE:		20051121
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		051217129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k112105.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+                         UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+
+
+                     Washington, D.C. 20549
+
+
+                            FORM 8-K
+
+
+                         CURRENT REPORT
+                Pursuant to Section 13 or 15(d)
+             of the Securities Exchange Act of 1934
+
+
+              Date of Report:  November 18, 2005
+               (Date of earliest event reported)
+
+
+
+                       INTEL CORPORATION
+     (Exact name of registrant as specified in its charter)
+
+
+      Delaware              000-06217            94-1672743
+      --------               -------             ----------
+      (State of            (Commission          (IRS Employer
+   incorporation)          File Number)      Identification No.)
+
+
+
+
+ 2200 Mission College Blvd., Santa Clara,         95054-1549
+                 California
+ -----------------------------------------        ----------
+ (Address of principal executive offices)         (Zip Code)
+
+
+                          (408) 765-8080
+                          --------------
+      (Registrant's telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4c))
+
+<PAGE>
+
+Item 7.01	Regulation FD Disclosure
+
+
+		Attached hereto as Exhibit 99.1 and incorporated by reference herein
+		is a press release describing a transaction between Intel
+		Corporation and Micron Technology, Inc. The information in this report
+		shall be deemed incorporated by reference into any registration
+		statement heretofore or hereafter filed under the Securities Act
+		of 1933, as amended, except to the extent that such information is
+		superseded by information as of a subsequent date that is included
+		in or incorporated by reference into such registration statement.
+		The information in this report shall not be treated as filed for
+		purposes of the Securities Exchange Act of 1934, as amended.
+
+<PAGE>
+
+                           SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.
+
+
+                                     INTEL CORPORATION
+                                     (Registrant)
+
+
+Date: November 21, 2005        By:   /s/ D. Bruce Sewell
+                                     -------------------------
+				     D. Bruce Sewell
+                                     Vice President
+                                     General Counsel
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit8k.txt
+<DESCRIPTION>EXHIBIT 99.1 PRESS RELEASE
+<TEXT>
+									Exhibit 99.1
+
+FOR IMMEDIATE RELEASE
+
+Contacts:	Daniel Francisco		Tom Beermann
+		Micron Technology, Inc.		Intel Corporation
+		(208) 368-5584			(408) 765-6855
+		dfrancisco@micron.com		tom.beermann@intel.com
+
+
+Micron And Intel Create New Company To Manufacture NAND Flash Memory
+
+BOISE, Idaho, and SANTA CLARA, Calif., Nov. 21, 2005 - Micron
+Technology, Inc., and Intel Corporation today announced they have
+agreed to form a new company to manufacture NAND flash memory for use
+in consumer electronics, removable storage and handheld communications
+devices. The new company will exclusively manufacture product for
+Micron and Intel. Formation of the company is subject to customary
+closing conditions and is expected to be finalized around the end of
+the year.
+
+The company, to be called IM Flash Technologies, LLC, brings together
+the manufacturing technology, assets, experience and scale necessary
+for Intel and Micron to successfully compete in the NAND flash memory
+business, an increasingly important and fast-growing market segment.
+The new company combines Micron's expertise in developing NAND
+technology and operating highly efficient manufacturing facilities with
+Intel's multi-level cell technology and history of innovation in the
+flash memory business.
+
+In addition and subject to the closing of the venture, Intel and Micron
+have each entered into separate long-term agreements to supply Apple
+with a significant portion of each of their share of IM Flash
+Technologies' NAND flash memory output. As part of these agreements,
+Apple would prepay $250 million each to Intel and Micron.
+
+"This strategic relationship positions both Intel and Micron to build
+on each other's strengths to become leaders in the fast-growing NAND
+market segment," said Steve Appleton, Micron chairman, president and
+CEO. "This enhances Micron's competitive position as a leading supplier
+of advanced semiconductor solutions by ensuring we better serve our
+customers in the mobile communication and consumer electronics market
+segments."
+
+"The creation of this new company supports Intel's intent to maintain
+its industry-leading position in nonvolatile memory and enables us to
+rapidly enter a fast-growing portion of the flash market segment," said
+Paul Otellini, Intel president and CEO. "We are looking forward to
+working with Micron, and are extremely pleased to have Apple broaden
+its relationship with us."
+
+Intel and Micron have agreed to initially contribute approximately $1.2
+billion each in cash, notes and assets to IM Flash Technologies.
+Subject to certain conditions, the parties will each contribute an
+additional approximately $1.4 billion over the next three years and
+intend to make additional investments as appropriate to support the
+growth of the operation. The company will be 51 percent owned by Micron
+and 49 percent owned by Intel. Production will initially take place in
+manufacturing facilities located in Boise, Idaho, Manassas, Va. and
+Lehi, Utah. The new company will benefit from Micron's and Intel's
+process technology expertise to aggressively convert to advanced 72nm
+and 50nm technology. Initial production from the company is expected in
+early 2006.
+
+The management team for the new company will be led by Intel's Dave
+Baglee, who previously served as manager of Intel's Fab 11 in New
+Mexico, and Micron's Rod Morgan, who most recently served as manager of
+Micron's fabrication facility in Manassas.
+
+Micron Technology, Inc. is one of the world's leading providers of
+advanced semiconductor solutions. Through its worldwide operations,
+Micron manufactures and markets DRAMs, NAND Flash memory, CMOS image
+sensors, other semiconductor components, and memory modules for use in
+leading-edge computing, consumer, networking, and mobile products.
+Micron's common stock is traded on the New York Stock Exchange (NYSE)
+under the MU symbol. To learn more about Micron Technology, Inc., visit
+its Web site at www.micron.com.
+
+Intel, the world's largest chip maker, is also a leading manufacturer
+of computer, networking and communications products. Additional
+information about Intel is available at www.intel.com/pressroom.
+
+This press release contains forward-looking statements regarding future
+investments by Micron and Intel in IM Flash Technologies ("IMFT") and
+the timing of and technology used in future production from IMFT.
+Although Micron and Intel believe that the expectations reflected in
+the forward-looking statements are reasonable, Micron and Intel cannot
+guarantee their or IMFT's respective future results, levels of activity,
+performance or achievements. Actual events or results may differ
+materially from those contained in these forward-looking statements.
+Among the important factors that could cause actual results to vary are
+changes in Micron's and Intel's ability and commitment to contribute
+cash or assets to IMFT; the demand for and market acceptance of
+products Micron and Intel have manufactured by and purchase from IMFT,
+including the level of sales under Micron's and Intel's supply
+agreements with Apple; pricing pressures and actions taken by
+competitors; the timing and execution of the manufacturing ramp, and
+manufacturing yields, at IMFT's production facilities; disruptions in
+IMFT's supply of necessary raw materials, utilities or other
+infrastructure; unexpected expenses related to IMFT's operations; the
+ability of Intel and Micron to integrate technology, management and
+operations at IMFT and at the facilities that it uses; adverse effects
+associated with product defects and errata (deviations from published
+specifications); and litigation or regulatory matters involving
+intellectual property, antitrust and other issues. These factors could
+materially affect the results of IMFT that will be reflected in
+Micron's and Intel's respective financial statements. In addition,
+please refer to the documents that Micron and Intel file with the
+Securities and Exchange Commission on Forms 10-K, 10-Q and 8-K. The
+filings by each of Micron and Intel identify and address other
+important factors that could cause their respective relationship with
+IMFT and their respective financial and operational results to differ
+materially from those contained in the forward-looking statements set
+forth in this press release and in the companies' respective filings.
+Micron and Intel are under no duty to update any of the forward-looking
+statements after the date of this press release to conform to actual
+results.
+
+(c)2005 Micron Technology, Inc., and Intel Corporation. All rights
+reserved. Information is subject to change without notice.
+
+Micron and the Micron logo are trademarks of Micron Technology, Inc.
+Intel is a trademark or registered trademark of Intel Corporation or
+its subsidiaries in the United States and other countries.
+
+* Other names and brands may be claimed as the property of others.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

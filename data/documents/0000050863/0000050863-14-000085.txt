@@ -1,0 +1,651 @@
+<SEC-DOCUMENT>0000050863-14-000085.txt : 20141216
+<SEC-HEADER>0000050863-14-000085.hdr.sgml : 20141216
+<ACCEPTANCE-DATETIME>20141216161541
+ACCESSION NUMBER:		0000050863-14-000085
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20141216
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141216
+DATE AS OF CHANGE:		20141216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		141289819
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Intel Corp
+    Document created using Disclosure Solutions PROFILE 3.1.0.0
+    Copyright 1995 - 2014 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: center">
+<hr style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 4px solid; MARGIN-RIGHT: auto">
+<br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">UNITED STATES<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt"><br>
+</font> SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C. 20549</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 3pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 3pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 12pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">FORM 8-K</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 3pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 3pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 16pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 16pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pursuant to Section 13 OR 15(d) of the</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 16pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Securities Exchange Act of 1934</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 16pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Date of Report (Date of earliest event reported):&#160; December 16, 2014</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 3pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 3pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 18pt; FONT-WEIGHT: bold">INTEL CORPORATION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Exact name of registrant as specified in its charter)</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 3pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 3pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">______________</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="970dc6921c7443829540d5114041dda1" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Delaware</u></div>
+</td>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>000-06217</u></div>
+</td>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>94-1672743</u></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 18pt; FONT-SIZE: 10pt">(State or other jurisdiction of incorporation)</div>
+</td>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Commission File Number)</div>
+</td>
+<td style="WIDTH: 33.33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(IRS Employer Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 12pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">2200 Mission College Blvd., Santa Clara, California 95054-1549</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><br>
+</font> (Address of principal executive offices) (Zip Code)</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 12pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(408) 765-8080</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><br>
+</font> (Registrant's telephone number, including area code)</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 16pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(Former Name or Former Address, if Changed Since Last Report)</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">see</font> General Instruction A.2. below):</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#9744;</font> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#9744;</font> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#9744;</font> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#9744;</font> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<hr style="BORDER-BOTTOM: black 4px solid; TEXT-ALIGN: center; BACKGROUND-COLOR: #ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 1px solid; MARGIN-RIGHT: auto">
+</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="PAGE-BREAK-AFTER: always; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: left"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 8.01</font><font style="FONT-SIZE: 5.14pt" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Other Events.</font></div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">On December 16, 2014, Intel Corporation announced that the upside trigger on its 2.95% Junior Subordinated Convertible Debentures Due 2035 <font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(CUSIP No. 458140AD2)</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</font>has been met<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</font>for the six-month interest payment period from December 15, 2014 to June 15, 2015.&#160;As a result, contingent interest of approximately $4 million in the aggregate will be paid on the notes for that six-month interest payment period.&#160;</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">The company's press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K.</div>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="7cc51972c87443cb9e43ae89471651ec" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; align: right">Item 9.01</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Financial Statements and Exhibits.</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="180a18a5570e4022a3c7b843a9f4f94a" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 6.72%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 23.99%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(d)</div>
+</td>
+<td style="WIDTH: 69.29%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibits.</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="c9ce9ac6c6f64e9c86fe7788b3ba5cca" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 6.72%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 93.28%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt">The following exhibit is furnished as part of this Report:</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="8c4b00eae744430fb009e4b2b94efa18" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 6.72%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 23.99%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Exhibit Number</u></div>
+
+<div>&#160;</div>
+</td>
+<td style="WIDTH: 69.29%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Description</u></div>
+
+<div>&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 6.72%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 23.99%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt">99.1</div>
+</td>
+<td style="WIDTH: 69.29%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: -72pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 72pt; FONT-SIZE: 10pt">Press Release dated December 16, 2014</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+ &#160;</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="PAGE-BREAK-AFTER: always; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-TOP: 16pt; TEXT-INDENT: -81pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-LEFT: 81pt; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 8pt; TEXT-INDENT: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="MARGIN-TOP: 8pt"><br>
+</div>
+
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="10c4c341adb640c4ba93fe34876a04d4" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 46.16%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 53.84%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">INTEL CORPORATION</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Registrant)</div>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 2px; WIDTH: 46.16%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="BORDER-BOTTOM: #000000 1px solid; WIDTH: 53.84%; VERTICAL-ALIGN: top">
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">/s/ Cary I. Klafter</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 46.16%; VERTICAL-ALIGN: top">
+<div>&#160;</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Date: December 16, 2014</div>
+</td>
+<td style="WIDTH: 53.84%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Cary I. Klafter</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Corporate Secretary</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exh991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Intel Corp
+    Document created using Disclosure Solutions PROFILE 3.1.0.0
+    Copyright 1995 - 2014 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: right; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Exhibit 99.1</u></div>
+
+<div><br>
+</div>
+
+<div>
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, Serif; FONT-SIZE: 10pt" id="e1039c3eca524c328727591df5c3bd6b" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33.33%">
+<div><img src="image00002.jpg"></div>
+</td>
+<td style="WIDTH: 33.33%">
+<div>
+<div style="TEXT-ALIGN: left">Intel Corporation</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">2200 Mission College Blvd.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Santa Clara, CA 95054-1549</div>
+</div>
+</td>
+<td style="WIDTH: 33.33%">
+<div><img src="image00003.jpg"></div>
+</td>
+</tr>
+</table>
+
+<br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">&#160;</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div>
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">Intel's 2.95% Junior Subordinated Convertible Debentures Due 2035</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">to Pay Contingent Interest of $4 Million</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-TOP: 12pt; FONT-FAMILY: 'Times New Roman', Times, serif; MARGIN-BOTTOM: 12pt; FONT-SIZE: 10pt">SANTA CLARA, Calif., Dec. 16, 2014 &#8211; Intel announced that the upside trigger on its 2.95 percent junior subordinated convertible debentures, which were issued in 2005 and due 2035 (CUSIP No. 458140AD2) (the "Notes"), has been met for the six-month interest payment period from Dec. 15, 2014 to June 15, 2015.&#160;As a result, contingent interest will be paid on the Notes for that six-month interest payment period.&#160;Contingent interest of approximately $4 million in the aggregate on the $1.6 billion outstanding principal amount of the Notes, or approximately $2.50 per $1,000 principal amount of the Notes, will be paid on June 15, 2015, to the holders of record as of June 1, 2015.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">About Intel</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world's computing devices. As a leader in corporate responsibility and sustainability, Intel also manufactures the world's first commercially available "conflict-free" microprocessors. Additional information about Intel is available at&#160;<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">newsroom.intel.com</font>&#160;and&#160;<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">blogs.intel.com</font> and about Intel's conflict-free efforts at&#160;<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">conflictfree.intel.com</font>.</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#8211; 30 &#8211;</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">* Other names and brands may be claimed as the property of others.</div>
+
+<br>
+</div>
+
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="6fe567204a754bc4b4b2884d3a562f0f" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 23.68%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">CONTACTS:</div>
+</td>
+<td style="WIDTH: 33.83%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Trey Campbell</div>
+</td>
+<td style="WIDTH: 42.48%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Cara Walker</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 23.68%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 33.83%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Investor Relations</div>
+</td>
+<td style="WIDTH: 42.48%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Media Relations</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 23.68%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 33.83%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">503-696-0431</div>
+</td>
+<td style="WIDTH: 42.48%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">503-696-0831</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 23.68%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 33.83%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt">trey.s.campbell@intel.com</div>
+</td>
+<td style="WIDTH: 42.48%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; COLOR: #0000ff; FONT-SIZE: 10pt">cara.walker@intel.com</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image00002.jpg
+<TEXT>
+begin 644 image00002.jpg
+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
+3`HHHH`****`"BBB@`HHHH`__V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>image00003.jpg
+<TEXT>
+begin 644 image00003.jpg
+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
+G`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

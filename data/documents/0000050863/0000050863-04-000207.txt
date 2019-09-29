@@ -1,0 +1,586 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LSUQsj6AiHCbwNYdg55fXWo7Ht8ikQagMhVeBRXpkcFDaZey2sQB4G71kel8EL8c
+ t3a2bNEjmutoMqX0HVOipg==
+
+<SEC-DOCUMENT>0000050863-04-000207.txt : 20041012
+<SEC-HEADER>0000050863-04-000207.hdr.sgml : 20041011
+<ACCEPTANCE-DATETIME>20041012121832
+ACCESSION NUMBER:		0000050863-04-000207
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041006
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20041012
+DATE AS OF CHANGE:		20041012
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		041074083
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>k8.txt
+<DESCRIPTION>ELTSOP
+<TEXT>
+8-K 2004 10-11-04 ELTSOP 1.doc
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+
+
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+                 PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+                Date of report:  October 6, 2004
+                (Date of earliest event reported)
+
+
+
+                        INTEL CORPORATION
+       (Exact Name of Registrant as Specified in Charter)
+
+
+
+      Delaware              0-06217              94-1672743
+     (State of          (Commission File        (IRS Employer
+   Incorporation)           Number)          Identification No.)
+
+
+
+     2200 Mission College Blvd., Santa Clara, CA 95052-8119
+      (Address of Principal Executive Offices and Zip Code)
+
+
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is
+intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4c))
+
+<PAGE>
+
+    Item    Entry into a Material Definitive Agreement
+    1.01
+
+            On  October  6, 2004, the Compensation Committee  of
+            the  Board  of  Directors of Intel Corporation  (the
+            "Corporation")  approved the form  of  non-qualified
+            stock option agreement to be used in connection with
+            grants   of  stock  options  to  executive  officers
+            pursuant  to the Corporation's Executive  Long  Term
+            Stock  Option Program (ELTSOP).  ELTSOP  grants  are
+            long-term   executive  performance   incentive   and
+            retention  awards made pursuant to the Corporation's
+            2004  Equity  Incentive Plan, which was approved  by
+            the  Corporation's stockholders in May 2004.  ELTSOP
+            stock  options typically vest 25% annually beginning
+            five  or  six  years after the date of  grant.   The
+            delayed vesting of these awards is designed to focus
+            the  efforts  of the executive on the  Corporation's
+            long-term  performance and stock price appreciation.
+            ELTSOP stock options expire ten years from the  date
+            of grant.  There is no material relationship between
+            the  Corporation  and recipients of  ELTSOP  awards,
+            other  than in respect of their employment with  the
+            Corporation.
+
+            The form of ELTSOP stock option agreement sets forth
+            the  terms  and conditions of stock options  granted
+            pursuant  to the Corporation's ELTSOP program.   The
+            following  description is qualified by reference  to
+            the  terms  of  the  form  of  ELTSOP  stock  option
+            agreement, a copy of which is filed with this Form 8-
+            K, and to the terms of the Corporation's 2004 Equity
+            Incentive  Plan  and the form of  Notice  of  Grant,
+            copies  of  which  were filed as exhibits  10.3  and
+            10.7,  respectively, to the Corporation's Form  10-Q
+            for  the quarter ending June 26, 2004.  ELTSOP stock
+            options   are   subject   to   administration    and
+            interpretation  by the committee  of  the  Board  of
+            Directors designated pursuant to the plan, or by its
+            delegate.    Unvested  ELTSOP  stock   options   are
+            cancelled  as of the date of employment  termination
+            and  vested  options  expire  after  termination  of
+            employment as set forth in the form of ELTSOP  stock
+            option  agreement.  If employment is terminated  due
+            to misconduct, the options will be cancelled and the
+            holder will have no further right to exercise  them.
+            ELTSOP  stock options are transferable at  death  by
+            will  or the laws of descent and distribution or  by
+            gift to the permitted transferees identified in  the
+            stock option agreement.
+
+    Item    Financial Statements and Exhibits
+    9.01
+
+            (c) Exhibits.
+
+            The  following exhibits are filed as  part  of  this
+            Report:
+
+ Exhibit    Description
+  Number
+
+    10.1    Form of ELTSOP Non-Qualified Stock Option Agreement
+
+<PAGE>
+
+                            SIGNATURE
+Pursuant  to the requirements of the Securities Exchange  Act  of
+1934, the Registrant has duly caused this report to be signed  on
+its behalf by the undersigned hereunto duly authorized.
+
+Date: October 12, 2004             INTEL CORPORATION
+                                   (Registrant)
+
+                                   By:  /s/ Patrice C. Scatena
+                                        ------------------------
+                                        Patrice C. Scatena
+                                        Assistant Secretary
+
+
+
+
+<PAGE>
+
+Exhibit 10.1
+
+                        INTEL CORPORATION
+                    2004 EQUITY INCENTIVE PLAN
+
+TERMS AND CONDITIONS RELATING TO NONQUALIFIED STOCK OPTIONS
+GRANTED ON AND AFTER SEPTEMBER 1, 2004 UNDER THE INTEL CORPORATION
+2004 EQUITY INCENTIVE PLAN FOR GRANTS FORMERLY KNOWN AS ELTSOP
+GRANTS
+
+1.   TERMS OF OPTION
+
+     The following terms and conditions (these "Terms") apply  to
+     Nonqualified  Stock Options granted to U.S. employees  under
+     the  Intel Corporation 2004 Equity Incentive Plan (the "2004
+     Plan") for grants formerly known as ELTSOP grants.
+
+2.   NONQUALIFIED STOCK OPTION
+
+     The  option is not intended to be an incentive stock  option
+     under  Section 422 of the Internal Revenue Code of 1986,  as
+     amended (the "Code") and will be interpreted accordingly.
+
+3.   OPTION PRICE
+
+     The  exercise  price of the option (the "option  price")  is
+     100%  of  the  market  value of the common  stock  of  Intel
+     Corporation ("Intel" or the "Corporation"), $.001 par  value
+     (the "Common Stock"), on the date of grant, as specified  in
+     the  Notice  of Grant.  "Market value" means the average  of
+     the  highest and lowest sales prices of the Common Stock  as
+     reported by NASDAQ.
+
+4.   TERM OF OPTION AND EXERCISE OF OPTION
+
+     To  the  extent  the option has become exercisable  (vested)
+     during the periods indicated in the Notice of Grant and  has
+     not been previously exercised, and subject to termination or
+     acceleration as provided in these Terms and the requirements
+     of  these Terms, the Notice of Grant and the 2004 Plan,  you
+     may  exercise  the option to purchase up to  the  number  of
+     shares of the Common Stock set forth in the Notice of Grant.
+     Notwithstanding  anything to the contrary in  Section  5  or
+     Sections  7 through 9 hereof, no part of the option  may  be
+     exercised after ten (10) years from the date of grant.
+
+     The  process for exercising the option (or any part thereof)
+     is  governed by these Terms, the Notice of Grant,  the  2004
+     Plan   and   your   agreements  with  Intel's   stock   plan
+     administrator.  Exercises of stock options will be processed
+     as soon as practicable.  The option price may be paid (a) in
+     cash,   (b)   by   arrangement  with  Intel's   stock   plan
+     administrator which is acceptable to Intel where payment  of
+     the   option  price  is  made  pursuant  to  an  irrevocable
+     direction  to  the  broker to deliver all  or  part  of  the
+     proceeds  from  the sale of the shares of the  Common  Stock
+     issuable under the option to Intel, (c) by delivery  of  any
+     other lawful consideration
+
+<PAGE>
+
+     approved  in  advance  by  the Committee  of  the  Board  of
+     Directors  of  Intel established pursuant to the  2004  Plan
+     (the "Committee") or its delegate, or (d) in any combination
+     of  the  foregoing.  Fractional shares may not be exercised.
+     Shares  of  the  Common  Stock will be  issued  as  soon  as
+     practicable.  You will have the rights of a stockholder only
+     after the shares of the Common Stock have been issued.   For
+     administrative or other reasons, Intel may from time to time
+     suspend  the  ability of employees to exercise  options  for
+     limited periods of time.
+
+     Notwithstanding the above, Intel shall not be  obligated  to
+     deliver  any  shares of the Common Stock during  any  period
+     when  Intel determines that the exercisability of the option
+     or  the  delivery  of  shares hereunder  would  violate  any
+     federal, state or other applicable laws.
+
+     Notwithstanding anything to the contrary in these  Terms  or
+     the  applicable  Notice  of Grant,  Intel  may  reduce  your
+     unvested options if you change classification from  a  full-
+     time to a part-time employee.
+
+     IF  AN  EXPIRATION DATE DESCRIBED HEREIN FALLS ON A WEEKDAY,
+     YOU  MUST  EXERCISE YOUR OPTIONS BEFORE 3:45 P.M.  NEW  YORK
+     TIME ON THE EXPIRATION DATE.
+
+     IF AN EXPIRATION DATE DESCRIBED HEREIN FALLS ON A WEEKEND OR
+     ANY  OTHER DAY ON WHICH THE NEW YORK STOCK EXCHANGE ("NYSE")
+     IS NOT OPEN, YOU MUST EXERCISE YOUR OPTIONS BEFORE 3:45 P.M.
+     NEW  YORK  TIME ON THE LAST NYSE BUSINESS DAY PRIOR  TO  THE
+     EXPIRATION DATE.
+
+5.   LEAVES OF ABSENCE
+
+     (a)    Except  as  expressly  provided  otherwise  in   this
+     Agreement, if you take a personal leave of absence ("PLOA"),
+     the option will be exercisable only to the extent and during
+     the times specified in this Section 5:
+
+                     (1)  If the duration of the PLOA is 365 days
+               or  less, you may exercise any part of the  option
+               that  vested prior to the commencement of the PLOA
+               at  any time during the PLOA.  If the duration  of
+               the PLOA is greater than 365 days, any part of the
+               option  that  had vested prior to the commencement
+               of  the PLOA and that has not been exercised  will
+               terminate on the 365th day of the PLOA.
+
+                    (2)  If the duration of the PLOA is less than
+               thirty (30) days:
+
+                              a.   The exercisability of any part
+                    of  the  option that would have vested during
+                    the  PLOA  shall be deferred until the  first
+                    day  that you return to work (i.e., the  date
+                    that the PLOA is terminated); and
+
+                               b.    Any part of the option  that
+                    had  not  vested at the commencement  of  the
+                    PLOA  and  would not have vested  during  the
+                    PLOA shall vest in accordance with the normal
+
+<PAGE>
+
+                          schedule  indicated in  the  Notice  of
+                    Grant and shall not be affected by the PLOA.
+
+                     (3)   If the duration of the PLOA equals  or
+               exceeds  thirty  (30) days, the exercisability  of
+               each  part  of the option scheduled to vest  after
+               commencement of the PLOA shall be deferred  for  a
+               period of time equal to the duration of the  PLOA,
+               however, in no event shall the term of the  option
+               be extended beyond ten (10) years from the date of
+               grant.    If   you   terminate  employment   after
+               returning  from the PLOA but prior to the  end  of
+               such  deferral period, you shall have no right  to
+               exercise  any  unvested  portion  of  the  option,
+               except   to  the  extent  provided  otherwise   in
+               Sections  8  and 9 hereof, and such  option  shall
+               terminate  as  of  the date that  your  employment
+               terminates.
+
+                     (4)   If  you terminate employment with  the
+               Corporation during a PLOA:
+
+                               a.    Any  portions of the  option
+                    that had vested prior to the commencement  of
+                    the  PLOA  shall be exercisable in accordance
+                    with   Sections  7  through  9   hereof,   as
+                    applicable; and
+
+                               b.    Any  portions of the  option
+                    that had not vested prior to the commencement
+                    of  the  PLOA shall terminate, except to  the
+                    extent provided otherwise in Sections 8 and 9
+                    hereof.
+
+          (b)   If you take an approved (i) medical (including  a
+          medical  leave  to care for your family,  as  described
+          below),  (ii)  industrial, or (iii) military  leave  of
+          absence ("LOA"), the option shall be unaffected by such
+          LOA  and will vest in accordance with the schedule  set
+          forth  in  the Notice of Grant.  For purposes  of  this
+          subsection,  family  care  related  medical  leaves  of
+          absence are approved periods of time off from work  for
+          an  employee to care for: (i) a spouse, parent, and, in
+          Oregon  only,  parent-in-law; (ii) a  child,  or  legal
+          dependent  who has a serious health condition  and,  in
+          Oregon  only, to care for a child who has a non-serious
+          medical  condition that requires home care; or (iii)  a
+          newborn,  newly-adopted  child or  newly-placed  foster
+          child.
+
+6.   SUSPENSION OR TERMINATION OF OPTION FOR MISCONDUCT
+
+     If  you  have  allegedly committed an act of  misconduct  as
+     defined  in  the 2004 Plan, including, but not  limited  to,
+     embezzlement, fraud, dishonesty, unauthorized disclosure  of
+     trade   secrets  or  confidential  information,  breach   of
+     fiduciary  duty or nonpayment of an obligation owed  to  the
+     Corporation, an Authorized Officer, as defined in  the  2004
+     Plan, may suspend your right to exercise the option, pending
+     a  decision by the Committee (or Board of Directors, as  the
+     case  may  be)  or  an Authorized Officer to  terminate  the
+     option.    The  option  cannot  be  exercised  during   such
+     suspension or after such termination.
+
+7.   TERMINATION OF EMPLOYMENT
+
+<PAGE>
+
+     Except as expressly provided otherwise in this Agreement, if
+     your  employment  by  the  Corporation  terminates  for  any
+     reason,  whether  voluntarily or involuntarily,  other  than
+     death,   Disablement  (defined  below),  or  discharge   for
+     misconduct, you may exercise any portion of the option  that
+     had  vested  on or prior to the date of termination  at  any
+     time  prior  to  ninety (90) days after  the  date  of  such
+     termination.  The option shall terminate on the 90th day  to
+     the  extent  that  it  is unexercised.  All  unvested  stock
+     options  shall  be  cancelled  on  the  date  of  employment
+     termination,   regardless   of   whether   such   employment
+     termination is voluntary or involuntary.
+
+     For  purposes  of  this Section 7, your  employment  is  not
+     deemed  terminated if, prior to sixty (60)  days  after  the
+     date  of  termination  from Intel or a Subsidiary,  you  are
+     rehired by Intel or a Subsidiary on a basis that would  make
+     you eligible for future Intel stock option grants, nor would
+     your  transfer from Intel to any Subsidiary or from any  one
+     Subsidiary  to  another, or from a Subsidiary  to  Intel  be
+     deemed   a   termination  of  employment.    Further,   your
+     employment   with   any  partnership,   joint   venture   or
+     corporation not meeting the requirements of a Subsidiary  in
+     which  Intel or a Subsidiary is a party shall be  considered
+     employment for purposes of this provision if either (a)  the
+     entity  is  designated by the Committee as a Subsidiary  for
+     purposes of this provision or (b) you are designated  as  an
+     employee of a Subsidiary for purposes of this provision.
+
+8.   DEATH
+
+     Except as expressly provided otherwise in this Agreement, if
+     you  die while employed by the Corporation, the executor  of
+     your  will,  administrator of your estate or  any  successor
+     trustee of a grantor trust may exercise the option,  to  the
+     extent not previously exercised and whether or not vested on
+     the  date  of death, at any time prior to 365 days from  the
+     date of death.
+
+     Except as expressly provided otherwise in this Agreement, if
+     you  die  prior  to ninety (90) days after terminating  your
+     employment with the Corporation, the executor of  your  will
+     or  administrator of your estate may exercise the option, to
+     the  extent  not previously exercised and to the extent  the
+     option had vested on or prior to the date of your employment
+     termination, at any time prior to 365 days from the date  of
+     your employment termination.
+
+     The option shall terminate on the applicable expiration date
+     described  in  this  Section 8, to the  extent  that  it  is
+     unexercised.
+
+9.   DISABILITY
+
+     Except as expressly provided otherwise in this Agreement and
+     at   the  discretion  of  the  Committee  or  its  delegate,
+     following your termination of employment due to Disablement,
+     you  may  exercise the option, to the extent not  previously
+     exercised  and whether or not the option had  vested  on  or
+     prior  to  the date of employment termination, at  any  time
+     prior  to  365 days from the date of determination  of  your
+     Disablement  as  described  in  this  Section  9;  provided,
+     however,  that  while the claim of Disablement  is  pending,
+     options that were unvested at termination of employment  may
+     not be exercised and options that
+
+<PAGE>
+
+     were  vested  at termination of employment may be  exercised
+     only  during the period set forth in Section 7 hereof.   The
+     option  shall terminate on the 365th day from  the  date  of
+     determination  of  Disablement, to the  extent  that  it  is
+     unexercised.   For purposes of this Agreement, "Disablement"
+     means  a  physical  condition arising  from  an  illness  or
+     injury,  which renders an individual incapable of performing
+     work  in  any  occupation.   The  determination  as  to   an
+     individual's  Disablement shall be made in  accordance  with
+     the  standards and procedures of the then-current Long  Term
+     Disability  Plan  maintained  by  the  Corporation  or   the
+     Subsidiary  that employs you (or if such Subsidiary  has  no
+     such plan, in accordance with the Intel Long Term Disability
+     Plan) and shall be conclusive on all of the parties.
+
+10.  INCOME TAXES WITHHOLDING
+
+     Nonqualified  stock options are taxable upon  exercise.   To
+     the  extent required by applicable federal, state  or  other
+     law,  you shall make arrangements satisfactory to Intel  for
+     the  satisfaction  of any withholding tax  obligations  that
+     arise  by  reason of an option exercise and, if  applicable,
+     any sale of shares of the Common Stock.  Intel shall not  be
+     required to issue shares of the Common Stock or to recognize
+     any  purported transfer of shares of the Common Stock  until
+     such  obligations are satisfied.  The Committee  may  permit
+     these obligations to be satisfied by having Intel withhold a
+     portion  of  the  shares of the Common Stock that  otherwise
+     would  be issued to you upon exercise of the option,  or  to
+     the  extent permitted by the Committee, by tendering  shares
+     of the Common Stock previously acquired.
+
+11.  TRANSFERABILITY OF OPTION
+
+     Unless  otherwise  provided by the  Committee,  each  option
+     shall be transferable only
+
+          (a)   pursuant to your will or upon your death to  your
+          beneficiaries, or
+
+          (b)   by gift to your Immediate Family (defined below),
+          partnerships whose only partners are you or members  of
+          your  Immediate  Family,  limited  liability  companies
+          whose  only  shareholders are you or  members  of  your
+          Immediate  Family, trusts established  solely  for  the
+          benefit of you or members of your Immediate Family,  or
+          private, charitable foundations in which you or members
+          of  your Immediate Family control the management of the
+          foundation's assets.
+
+     For  purposes of these Terms, "Immediate Family" is  defined
+     as your spouse or domestic partner, children, grandchildren,
+     parents or siblings.
+
+     With  respect to transfers by gift, options are transferable
+     to  private, charitable foundations only to the  extent  the
+     options are vested at the time of transfer.  Options may  be
+     transferred  by  gift  to  partnerships,  limited  liability
+     companies,  or  trusts  in accordance  with  subsection  (b)
+     above,  whether or not vested at the time of transfer.   Any
+     purported assignment, transfer or encumbrance that does  not
+     qualify  under subsections (a) and (b) above shall  be  void
+     and unenforceable against the Corporation.
+
+<PAGE>
+
+     Any option transferred by you pursuant to this section shall
+     not  be transferable by the recipient except by will or  the
+     laws of descent and distribution.
+
+     The  transferability of options is subject to any applicable
+     laws of your country of residence or employment.
+
+12.  DISPUTES
+
+     The Committee or its delegate shall finally and conclusively
+     determine any disagreement concerning your option.
+
+13.  AMENDMENTS
+
+     The  2004  Plan and the option may be amended or altered  by
+     the  Committee  or the Board of Directors of  Intel  to  the
+     extent provided in the 2004 Plan.
+
+14.  THE 2004 PLAN AND OTHER AGREEMENTS; OTHER MATTERS
+
+          (a)   The  provisions of these Terms and the 2004  Plan
+          are incorporated into the Notice of Grant by reference.
+          Certain  capitalized  terms used  in  these  Terms  are
+          defined in the 2004 Plan.
+
+          These  Terms,  the Notice of Grant and  the  2004  Plan
+          constitute the entire understanding between you and the
+          Corporation   regarding   the   option.    Any    prior
+          agreements, commitments or negotiations concerning  the
+          option are superseded.
+
+          The  grant of an option to an employee in any one year,
+          or  at  any  time,  does  not  obligate  Intel  or  any
+          Subsidiary to make a grant in any future year or in any
+          given amount and should not create an expectation  that
+          Intel  or  any  Subsidiary might make a  grant  in  any
+          future year or in any given amount.
+
+          (b)  To the extent that the option refers to the Common
+          Stock of Intel Corporation, and as required by the laws
+          of  your  residence or employment, only authorized  but
+          unissued  shares thereof shall be utilized for delivery
+          upon  exercise by the holder in accord with  the  terms
+          hereof.
+
+          (c)   Because  this  Agreement  relates  to  terms  and
+          conditions under which you may purchase Common Stock of
+          Intel,  a  Delaware corporation, an essential  term  of
+          this Agreement is that it shall be governed by the laws
+          of  the State of Delaware, without regard to choice  of
+          law principles of Delaware or other jurisdictions.  Any
+          action,  suit, or proceeding relating to this Agreement
+          or the option granted hereunder shall be brought in the
+          state  or  federal courts of competent jurisdiction  in
+          the State of California.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

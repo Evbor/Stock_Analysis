@@ -1,0 +1,285 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JXFPpnRX4a/p4mS4EXGAyNHKN1Ivk/AmJ5Az/fOS5KQUN7aHweuM27Eop3pscIls
+ ZznxdERCU9rs63T2goVavg==
+
+<SEC-DOCUMENT>0000050863-07-000254.txt : 20070529
+<SEC-HEADER>0000050863-07-000254.hdr.sgml : 20070528
+<ACCEPTANCE-DATETIME>20070529161840
+ACCESSION NUMBER:		0000050863-07-000254
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070522
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20070529
+DATE AS OF CHANGE:		20070529
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		07883900
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>WASHINGTON, D.C. 20549</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>PURSUANT TO SECTION 13 OR 15(d) OF THE</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>SECURITIES EXCHANGE ACT OF 1934</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported):  May 22, 2007</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="565" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="85" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>94-1672743 </font></b><font size=2>&nbsp;</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="631" style='border-collapse:collapse; '>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="199" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="111" style='border-collapse:collapse'>
+    <tr >
+        <td width="111" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:.0001pt;line-height:129.6%'><font size=2>of incorporation)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California  95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="341" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1.01</font></b></p> </td>
+        <td width="269" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Entry into a Material Definitive Agreement.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>On May 22, 2007, Intel Corporation (&#147;Intel&#148;), STMicroelectronics NV (&#147;STMicroelectronics&#148;), and certain affiliates of Francisco Partners L.P. (&#147;Francisco Partners&#148;) entered into a Master Agreement (the &#147;Master Agreement&#148;) to form a private, independent semiconductor company (&#147;Newco&#148;) that will design, develop and manufacture NOR and NAND flash memory products. As discussed below, pursuant to the Master Agreement, Intel has agreed to transfer assets related to its NOR flash memory business in exchange for cash and a 45.1% ownership interest in the new company, and STMicroelectronics has agreed to contribute assets related to its NOR and NAND flash memory business in exchange for cash and a 48.6% ownership interest in the new company. Francisco Partners agreed to acquire the remaining 6.3% ownership interest in exchange for a cash investment of $150 million.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>The Master Agreement provides that as soon as reasonably practicable following clearance of the transactions contemplated under the Master Agreement under the Hart-Scott-Rodino Antitrust Improvements Act (and under any other similar applicable laws or regulations), the parties will take all actions necessary to incorporate Newco and to prepare Newco to commence operations following the closing of the transactions provided for under the Master Agreement.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>The Master Agreement further provides that additional actions will be taken and transactions consummated on a closing date determined under the Master Agreement in order to allow Newco to commence operations, subject to satisfaction or waiver of the conditions applicable to each of the parties. On the closing date, Intel, certain subsidiaries of Intel, Newco and certain subsidiaries of Newco will enter into an asset transfer agreement (the &#147;Intel Asset Transfer Agreement&#148;), in substantially the form attached to the Master Agreement, pursuant to which Intel and its subsidiaries will transfer assets related to Intel&#146;s NOR flash memory business to Newco and its subsidiaries in exchange for Newco shares and a cash payment to Intel and its subsidiaries. Intel and it subsidiaries may also purchase shares of Newco. The total number of shares purchased plus the shares issued to Intel and its
+subsidiaries in exchange for the transferred assets will constitute a 45.1% ownership interest in Newco. The cash payments to Intel by Newco and its subsidiaries for the transferred assets (net of amounts paid for Newco shares) will be approximately $432 million (which amount may be adjusted under the Master Agreement).</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>At the same time, STMicroelectronics will enter into a substantially similar asset contribution agreement, pursuant to which it will contribute assets related to its NOR and NAND flash memory business in exchange for a 48.6% ownership interest in Newco and a cash payment of approximately $468 million (which amount may be adjusted under the Master Agreement), and Francisco Partners will acquire the remaining 6.3% ownership interest in Newco in exchange for a cash investment of $150 million.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>The Master Agreement sets forth the conditions to the respective obligations of Intel and STMicroelectronics to close the transactions, including that Newco has obtained the debt financing contemplated by the commitment letter described below (or substitute debt financing on substantially equivalent economic terms), that the other party has obtained and delivered two years&#146; audited financial statements covering the business (as defined for purposes of the Master Agreement) it is transferring or contributing to Newco, that governmental approvals and consents have been obtained, that there has not been a material adverse effect (as defined under the Master Agreement) on the assets being transferred to Newco by the other party, considered as a whole, or on the ability of the other party to perform its obligations or consummate the transactions contemplated by the Master Agreement, and that additional,
+customary conditions to consummating such a transaction have been satisfied. The Master Agreement also sets forth the conditions to the obligation of Francisco Partners to close the transactions. Three lenders have provided a binding commitment letter to provide up to $1.55 billion in debt financing for Newco, consisting of a term loan of $1.3 billion  and a senior secured revolving credit facility of up to $250 million, subject to customary conditions.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>The Master Agreement contains representations and warranties of each of the parties, and sets forth covenants, including covenants relating to the operation of the transferred businesses. The Master Agreement specifies that it may be terminated under specified circumstances, including by mutual agreement of the parties, and by written notice from any party if the closing of the transaction has not occurred or been extended by December 31, 2007, and provides for the payment of a termination fee by Intel if specified conditions to closing of the transaction are not satisfied.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>As described above, the Intel Asset Transfer Agreement will be executed on the closing date provided for under the Master Agreement. The Intel Asset Transfer Agreement specifies the assets and liabilities that Intel and its subsidiaries will transfer on the closing date. Under the Intel Asset Transfer Agreement, Intel and Newco (and their relevant subsidiaries) will make representations and warranties, make covenants and provide indemnities, relating to themselves, the assets to be transferred, the shares of Newco to be issued to Intel and its subsidiaries and the operation of Newco. These representations, warranties, covenants and indemnities address subjects such as intellectual property, taxes and environmental and employee matters.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>The above description of the material terms of the Master Agreement and the Intel Asset Transfer Agreement are qualified in their entireties by reference to the full text of each of the agreements. Intel intends to file the Master Agreement and the form of Intel Asset Transfer Agreement provided for under the Master Agreement as exhibits to its Quarterly Report on Form 10-Q for the fiscal quarter ending June 30, 2007.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>This Form 8-K contains forward-looking statements regarding proposed transactions by Intel and other entities relating to or with the new company; the new company&#146;s future operations; and future capital raising transactions by Newco. Actual events or results may differ materially from those contained in these forward-looking statements. Among the important factors that could cause future events or results to vary from those addressed in the forward-looking statements are risks arising from the possibility that the closing of the transaction may be delayed or may not occur; the ability to retain key employees and customer and supplier relationships; the potential for unexpected liabilities related to the disposition of the assets; changes in Intel&#146;s and STMicroelectronics&#146;s ability and commitment to contribute assets to the new company; and litigation or regulatory matters involving intellectual
+property, antitrust and other issues that could affect the closing of the transactions, the future operation of the new company and/or Intel&#146;s or other entities&#146; dealings with the new company.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>In addition, please refer to the documents that Intel files with the Securities and Exchange Commission on Forms 10-K, 10-Q and 8-K. The filings by Intel identify and address other important factors that could affect its relationship with the new company and could cause its financial and operational results to differ materially from those contained in the forward-looking statements set forth in this Form 8-K and in Intel&#146;s other filings. Intel is under no duty to update any of the forward-looking statements after the date of this Form 8-K to conform to actual results.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom: solid black 1.0pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: May 29, 2007</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

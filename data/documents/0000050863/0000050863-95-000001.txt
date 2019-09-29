@@ -1,0 +1,721 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ trhMIPPoTcF6AgTcj0CV8sCnExMoyMNMv0PTZgdiL0WmCJibw413M+x5zQbgQHKG
+ /aPN7RpMLITcxwGc6qCuTg==
+
+<IMS-DOCUMENT>0000050863-95-000001.txt : 19950509
+<IMS-HEADER>0000050863-95-000001.hdr.sgml : 19950508
+ACCESSION NUMBER:		0000050863-95-000001
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19950120
+ITEM INFORMATION:		Other events
+FILED AS OF DATE:		19950120
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		95502084
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+                          SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D.C. 20549
+
+
+
+
+
+
+                                     FORM 8-K
+                                  CURRENT REPORT
+
+
+
+
+
+      Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934
+
+
+
+
+                       Date of Report:  January 19, 1995
+
+
+
+
+                              INTEL CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+
+
+
+        Delaware                      0-6217                  94-1672743
+ (State of Incorporation)    (Commission File Number)       (IRS Employer
+                                                          Identification No.)
+
+
+
+                2200 Mission College Blvd., Santa Clara, CA 95052
+                    (Address of principal executive offices)
+
+
+
+                                 408/765-8080
+                       (Registrant's telephone number)
+
+
+
+
+PAGE 2
+
+ITEM 5.           OTHER EVENTS.
+- -------           -------------
+   5.1            Attached hereto as Exhibit 99.1 and incorporated by reference 
+                  herein is a press release of Intel Corporation relating to the
+                  settlement of all outstanding legal disputes between Intel 
+                  Corporation and Advanced Micro Devices, Inc.
+
+   5.2            Attached hereto as Exhibit 99.2 and incorporated by reference 
+                  herein is a press release of Intel Corporation relating to 
+                  earnings for the year ended December 31, 1994.
+
+
+ITEM 7.           Financial Statements, Pro Forma Financial Information 
+- -------           and Exhibits.
+                  -----------------------------------------------------
+Exhibit 99.1      Press Release of Intel Corporation dated January 11, 1995
+
+Exhibit 99.2      Press Release of Intel Corporation dated January 17, 1995
+
+
+
+
+
+PAGE 3
+                                   SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the 
+undersigned hereunto duly authorized.
+
+
+
+
+INTEL CORPORATION
+
+
+
+
+BY:  /s/ F. Thomas Dunlap, Jr.
+     -------------------------
+     F. Thomas Dunlap, Jr.
+     Vice President,
+     General Counsel and Secretary
+
+
+     January 19, 1995
+     -----------------
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<TEXT>
+
+                                                                   Exhibit 99.1
+
+
+CONTACTS: Chuck Mulloy
+               AMD
+               (408) 749-5481
+     
+               Howard High
+               Intel
+               (408) 765-1488
+     
+     
+     AMD, INTEL SETTLE ALL LEGAL DISPUTES
+     
+     SANTA CLARA, Calif., January 11, 1995 -- Advanced Micro Devices, 
+     Inc. and Intel Corporation said they have reached agreement to 
+     settle all outstanding legal disputes between the two companies.  
+          Following are the major points of the agreement:
+               *    AMD will have a perpetual license to the microcode 
+                    in the Intel386(tm) and Intel486(tm)                
+                    microprocessors.
+     
+               *    AMD agrees that it has no right to copy any other  
+                    Intel microcode including the Pentium(tm)          
+                    Processor, P6 microcode and 486 ICE (in circuit    
+                    emulation) microcode. 
+     
+               *    The companies will negotiate a new patent          
+                    cross-license agreement to become effective        
+                    1/1/96. 
+     
+               *    Intel will receive $58 million as settlement for   
+                    past damages in the 486 ICE case.  As ordered in   
+                    the 1992 arbitration between the two companies,    
+                    Intel will pay AMD approximately $18 million       
+                    (which includes interest) awarded by the           
+                    arbitrator for breach of contract and will not     
+                    contest the rights granted AMD in the              
+                    arbitration award.
+                        
+               *    Intel and AMD will drop all cases including        
+                    appeals currently in the courts.                  
+               
+               *    AMD will drop its antitrust case against Intel.
+     
+               *    AMD will have the right to use foundries for       
+                    Am486(tm) products containing Intel microcode for  
+                    up to 20% of its 486 production.
+               
+               *    AMD and its customers will get a license on        
+                    Intel's "Crawford `338" patent, covering memory    
+                    management.    
+               
+               *    The two companies will agree not to initiate legal 
+                    action against one another for any activity      
+                    occurring prior to January 6, 1995.
+     
+          The two companies said they have been in negotiations for 4 
+     months. The talks were suggested by Judge Magistrate Patricia 
+     Trumbull of the U.S. District Court in San Jose, who presided in 
+     the 386 and 486 cases.  
+          In a joint statement, Richard Previte, president and chief 
+     operating officer of AMD, and Craig Barrett, executive vice 
+     president and chief operating officer of Intel, said "We are 
+     pleased to reach an agreement that will enable the two companies 
+     to concentrate on competing in the marketplace, not the courts.  
+     This is clearly in the best interests of our customers, our 
+     stockholders and the PC marketplace."  Messrs. Previte and 
+     Barrett were the lead negotiators of the agreement.  
+          AMD is the fifth-largest U.S. manufacturer of integrated 
+     circuits.  Focusing on the personal and networked computing and 
+     communications markets, AMD produces micrprocessors and related 
+     peripherals, memories, programmable logic devices and circuits 
+     for telecommunications and networking applications.
+          Intel, the world's largest chip maker, is also a leading 
+     manufacturer of personal computer, networking and communications 
+     products.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<TEXT>
+
+                                                                   Exhibit 99.2
+
+
+
+
+
+
+
+
+CONTACTS:  Howard High
+           Press Relations
+          (408) 765-1488
+
+           Scott Nirenberski
+           Investor Relations
+           (408) 765-8418
+
+
+             INTEL 1994 REVENUE, EARNINGS PER SHARE SET RECORDS
+                Q4 Results impacted by a $475 million charge
+SANTA CLARA, Calif., January 17, 1995 -- Driven by a robust personal computer 
+market, Intel Corporation's 1994 revenue and earnings per share set new records,
+the company announced today.
+     Revenue totaled $11.52 billion, up 31% from $8.78 billion for 1993.  As a
+result of a one-time pretax charge of $475 million, net income decreased 
+slightly to $2.29 billion, from $2.30 billion for the previous year.  After the 
+charge, which amounted to $0.70 per share, earnings per share increased to $5.24
+ from $5.20 per share for 1993.
+     Fourth quarter revenue of $3.23 billion, up 35% from $2.39 billion a year 
+ago, marked the first quarter in which Intel's revenue exceeded $3 billion.  Net
+income totaled $372 million, down 37% from $594 million for the fourth quarter
+of 1993.  Post-charge earnings per share were $0.86, versus $1.35 a year 
+earlier.
+     The fourth quarter results announced today compare with third quarter
+revenue of $2.86 billion, and net income of $659 million or $1.52 per share.  
+Third quarter pretax income benefited from $45 million of non-recurring items or
+approximately $0.07 earnings per share.
+     Fourth quarter 1994 revenue and cost of sales were impacted by a one-time 
+charge taken to cover replacement and other costs associated with a divide 
+problem in the floating point unit of the company's Pentium(tm) processor.  As a
+result, fourth quarter gross margin was reduced by $475 million.  This charge
+resulted in a $0.70 per share impact to fourth quarter and 1994 earnings per
+share.
+     Based on Intel's analysis, the problem can result in reduced precision in 
+floating point divide operations once in every nine billion random number pairs.
+n December, the company offered to replace the processor for any PC owner whose
+system is based on this version of the Pentium processor.
+     The charge covers replacement costs, replacement material and writedown of
+the company's inventory of the earlier versions of Pentium processors.  The
+company said it believed the charge announced today will be sufficient to cover 
+all associated costs.  
+     In 1994, Intel repurchased a total of 10.9 million shares of common stock 
+at a cost of $658 million under its stock repurchase program.
+     President and Chief Executive Officer Andrew S. Grove, said, "Demand was 
+very strong for both Pentium and Intel486(tm) processors during the holiday 
+season.  Unit shipments of the Pentium processor approximately doubled versus 
+the previous quarter and we expect continued strong growth in the first quarter
+ of 1995.
+     "We have done a very rapid manufacturing cutover to the updated version of 
+the Pentium processor, and currently all Pentium processor shipments are of the 
+updated version.  We were able to make this very rapid transition because 
+Intel's manufacturing operation performed so well.  The usual holiday shutdowns
+were canceled and the group pulled out all the stops to ramp production of the 
+updated version.
+     "The replacement program is complex.  We serve hundreds of manufacturers of
+Pentium processor-based systems worldwide.  They use a variety of heat sinks, 
+sockets and motherboards, and we offer five speed selections of Pentium 
+processors in various packages.  Almost overnight, we created an infrastructure 
+to serve thousands of callers daily, and to get the right replacement processor 
+in their machines as quickly as possible.  Our people are working hard to make 
+this happen.
+     "The Pentium processor divide problem has been a learning experience for 
+Intel.  In the end, I think it will strengthen the company by improving our
+policies and infrastructure for serving consumers with a wide range of computing
+needs," Dr. Grove said.
+
+BUSINESS UPDATE
+- ---------------
+Processor Products
+- ------------------
+     Key Q4 1994 developments in the company's processor products business 
+include the following:
+*  Unit volume of microprocessor shipments set a new quarterly record.
+*  In spite of very strong Intel486 bookings in the fourth quarter, the dollar 
+   volume of fourth quarter Pentium processor bookings was larger than bookings
+   of the Intel486 chip for the first time.
+*  The company said approximately 23% of its fourth quarter processor unit
+   shipments for the desktop computer market segment were represented by the 
+   Pentium processor.
+*  The 100-MHz Pentium processor moved into volume production during the 
+   quarter.
+*  Intel achieved its goal of doubling microprocessor performance at major PC 
+   price points in 1994.  For example, during the December 1993 holiday season 
+   the consumer was able to purchase a PC based on the Intel486 DX2-50MHz
+   processor with 4 megabytes of RAM, a 200 megabyte hard disk drive and monitor
+   for about $2,000.  In the December 1994 holiday season that same $2,000 would
+   enable the consumer to purchase a PC based on the 60-MHz Pentium processor 
+   with 8 megabytes of RAM, a 400+ megabyte hard disk drive and monitor.
+*  Quarterly unit volume of PC board shipments set a new Intel record.  The
+   company expects quarterly unit volume of PC board shipments to continue to 
+   increase in 1995.
+*  At the 1994 Comdex Computer show, NEC Corporation, Texas Instruments 
+   Incorporated, and Toshiba Corp. demonstrated new PC notebook products based 
+   on the 75-MHz Pentium processor.  To date, 28 companies have announced plans 
+   to produce mobile PCs based on the Pentium processor.
+*  Intel's Scalable Systems Division set a new world supercomputing record.  The
+   Paragon(tm) XP/S MP supercomputer at Oak Ridge National Laboratory, employing
+   6,768 Intel I860(R) XP processors, performed in excess of 281 billion 
+   instructions per second on certain applications. This represents a 
+   performance increase of over 50% from the prior speed record.
+
+Communications & Network Products
+- ---------------------------------
+     In the fourth quarter Intel announced new products and enhanced capability
+for its ProShare(tm) personal conferencing family.  The ProShare Video System 
+200 now includes the capability to conduct video conferences over local area 
+networks (LAN) in addition to ISDN (integrated services digital network) 
+networks.  Intel also introduced an extension of its LANDesk(tm) Manager family
+that allows network administrators to manage the deployment of video 
+conferencing over existing corporate networks.  In its December 94 issue, PC 
+Computing selected LANDesk manager software as the 1994 most valuable product in
+networking management.
+     Intel acquired certain assets of Shany Computers, Ltd. this quarter.  
+Shany's flagship AlertVIEW(R) product detects, diagnoses, and corrects LAN-based
+PC software application errors across a wide spectrum of networking 
+environments.  The acquired assets will further Intel's end-to-end network
+management strategy by complementing the company's PC LAN management LANDesk 
+product family.
+
+Semiconductor Products
+- ----------------------
+     Sales of Intel's flash memory products reached a new record in the fourth 
+quarter as Intel continued to be the number one supplier of flash memory chips 
+in the world.  Applications for flash memory in wireless communications and 
+networking products have been the principal drivers of growth in Intel's flash 
+memory business in recent quarters.  Intel also announced two 16-megabit 
+embedded flash RAM devices featuring high-performance interfaces that allow both
+code storage and direct data execution.
+     During the fourth quarter, Intel introduced new microcontrollers based on 
+the MCS(R) 251 architecture.  These new 8-bit microcontrollers are expected to
+give customers a 5-15 times performance improvement over current 8-bit devices
+while preserving full compatibility with existing system design and support 
+software.
+
+Geographic Review
+- -----------------
+     Intel's revenue breakdown by major geographic regions is summarized below:
+                                         Q4 93          Q3 94          Q4 94
+Percent of revenue
+      by geographic area
+Americas                                   45             53             48
+Europe                                     33             23             32
+Asia Pacific                               14             15             12
+Japan                                       8              9              8
+
+     Bookings for the fourth quarter were slightly greater than billings due to
+a robust PC market.  Fourth quarter 1994 bookings set a record.
+     A healthy rebound in European sales in the fourth quarter and growth in the
+Americas market drove the revenue increase.  Sales in the Asia-Pacific and Japan
+markets were down from the prior quarter.
+
+Manufacturing Review
+- --------------------
+     The company has successfully transitioned to the new stepping needed to 
+produce the updated version of the Pentium processor without the floating point
+divide problem.
+     Fab 5 in Oregon converted its existing six-inch wafer, 0.8-micron capacity
+to six-inch wafer, 0.6- micron technology.  The converted Fab 5 was qualified
+for production and began shipping volume quantities of advanced Intel486 and 
+Pentium processors in the fourth quarter.  Conversion of existing six-inch
+wafer, 0.8-micron capacity to advanced 0.6-micron capacity continues at Fab 9 in
+New Mexico.
+     The company completed a project to upgrade Fab D1, in Aloha, Oregon to a 
+full production facility.  Fab D1, which features the next generation 
+0.35-micron process technology, will begin to ramp shortly.  Additional 
+state-of-the-art 0.35-micron capacity is being readied at Fab 11 in New Mexico.
+     During the fourth quarter Intel announced and began major expansions in its
+production and process technology research and development (R&D) facilities. 
+The company began the expansion of its Fab D2 production facility in Santa Clara
+that will roughly double the size of the existing facility.  The company also 
+broke ground on a new R&D facility in Oregon known as Fab D1b.  Fab D1b will 
+initially serve as a home for Oregon's Portland Technology Development 
+operation, which creates the manufacturing recipes for future Intel chips. 
+The plant will develop technologies in the sub-0.25-micron range and later be 
+converted into a manufacturing facility.
+
+Marketing Review
+- ----------------
+     Intel continued its Pentium processor merchandising campaign during the 
+fourth quarter with extensive television advertisements and cooperative 
+advertising in retail stores.
+     Intel's "Passport To The World" exhibit at the Comdex computer show and 
+Consumer Electronics show in Las Vegas featured a six minute presentation of
+some of the latest PC applications, including ProShare video conferencing, and 
+CNN-At-Work*, running on Pentium processor-based systems in real-world 
+situations.
+
+FINANCIAL REVIEW
+- ----------------
+Income Statement
+- ----------------
+     Q4 1994 net revenue was up 13% from Q3 1994, driven by higher revenue from
+Pentium processors, and board-level products.  Fourth quarter revenue was 
+reduced slightly by the revenue portion of the charge for Pentium processors 
+with the floating point divide problem.
+     Cost of sales in Q4 1994 increased 59% from Q3 1994, driven by a one-time 
+charge to cover costs related to inventory writedown and replacement of Pentium 
+processors containing the floating point divide problem, and higher volumes of 
+board-level products.  Primarily as a result of these items, gross margin 
+percentage decreased 18 percentage points and gross margin dollars decreased by 
+$385 million from Q3 1994.
+     Q4 1994 total expenses increased 11% from Q3 1994.  Marketing, general and 
+administrative expenses increased $64 million primarily as a result of 
+expenditures for the Pentium processor merchandising campaign.
+     Interest and other income was $67 million.  The company expects interest 
+and other income to be in the $65 million range for Q1 1995, subject to 
+prevailing interest rates and excluding the litigation settlement with Advanced 
+Micro Devices, Inc.  The tax rate throughout 1994 was 36.5%.  For 1995, the 
+company expects its tax rate to be 37.0%.
+    Shares and equivalents used in the calculation of earnings per share 
+decreased primarily as a result of the stock repurchase program.  Shares and 
+equivalents are summarized below:
+(millions of shares)
+
+                                                    1993     1994
+                                Q3 94     Q4 94     Year     Year
+Average Outstanding              413       413       418      415
+Equivalents                       21        20        23       22
+Total                            434       433       441      437
+
+
+Balance Sheet
+     Intel's net cash position (short- and long-term investments less short- and
+ long-term debt) increased by $256 million in Q4 1994 to $3.63 billion.  
+Significant components of the changes in cash for Q4 1994 and year-to-date are
+summarized below:
+
+
+
+Increase/(Decrease)
+(in millions)
+                                                        Twelve Months ended
+                                Q4 94                    December 31, 1994
+
+Net income                       $372                            $2,288
+Depreciation                      282                             1,028
+Capital spending                 (760)                           (2,441)
+Working capital
+      and other, net              461                              (415)
+Put warrant proceeds, net          11                                76
+Stock repurchase program         (111)                             (658)
+Sales of shares to employees, 
+     including tax benefit         26                               215
+Redemption of stock
+     purchase rights                -                                (2)
+Dividends paid                    (25)                              (92)
+
+Total change                     $256                            $   (1)
+
+     Net inventories decreased $209 million in the quarter to $1.17 billion.  
+The decrease was primarily due to the writedown of inventories of Pentium 
+processors containing the floating point divide problem.
+
+Inventories
+(in millions)
+                              October 1, 1994          December 31, 1994
+Raw material                      $  347                     $  345
+Work in process                      668                        528
+Finished goods                       363                        296
+Total net inventories             $1,378                     $1,169
+
+     Capital spending was $760 million and depreciation was $282 million in Q4
+1994.  For 1994, capital spending was $2.44 billion and depreciation was $1.03 
+billion.  The company expects 1995 capital spending to be about $2.9 billion and
+1995 depreciation to be about $1.4 billion.
+     Accounts receivable increased by $69 million in the quarter primarily as a 
+result of record billings.  The company's average-days-sales-outstanding was 48
+at the end of Q4 1994 compared with 45 at the end of Q3 1994.
+     During Q4 1994, the company repurchased 1.8 million shares of common stock
+at a cost of $111 million (including $65 million to repurchase 1.0 million 
+shares in connection with the exercise of 1.0 million put warrants) and sold an 
+additional 2.0 million put warrants for proceeds of $11 million.  As of December
+31, 1994, the company's potential put warrant obligation was $744 million to buy
+ back 12.5 million shares of common stock.  Of the total 55.0 million shares 
+authorized for repurchase, approximately 24.6 million shares have been 
+repurchased and 17.9 million shares of common stock remained available for 
+repurchase under the stock repurchase program, after reserving shares to cover 
+outstanding put warrants.
+     Activity during the quarter related to put warrants and stock buybacks is 
+as follows:
+
+<TABLE>
+Increase/(Decrease)
+(millions of shares)
+                                                                                (Less)
+                             Available For       Allocated To        Net
+                             Stock Buybacks      Put Warrants     Available
+<S>                             <C>                 <C>           <C>
+10/1/94                          32.2                11.5          20.7
+Put warrant sales                 -                   2.0          (2.0)
+Stock buyback                    (0.8)                -            (0.8)
+Put warrant exercises            (1.0)               (1.0)          -
+12/31/94                         30.4                12.5          17.9
+</TABLE>
+
+     Stockholders' equity increased by $215 million in Q4 1994.  Changes in 
+equity for Q4 and the 1994 year are summarized as follows:
+<TABLE>
+Increase/(Decrease)
+(in millions)
+                                                   Twelve Months ended
+                                 Q4 1994            December 31, 1994
+<S>                              <C>                     <C>
+Net income                        $ 372                   $2,288
+Put warrant proceeds                 11                       76
+Reclass of put warrant 
+     obligation, net               (122)                    (121)
+Repurchase of stock                 (46)                    (593)
+Dividends declared                  (25)                     (95)
+Redemption of stock 
+     purchase rights                  -                       (2)
+Sales of shares to employees,
+     plus tax benefit and other      25                      214
+
+Total increase                    $ 215                    $1,767
+</TABLE>
+
+
+Key Microprocessor Prices
+- -------------------------
+(1,000 unit prices)
+
+Pentium Processor.                Q4 94                Jan 3, 1995***
+     100 MHz                       $935                   $905
+      90 MHz                       $587                   $587
+      75 MHz (TCP)                 $495                   $495
+      66 MHz                     **$479                   $479
+      60 MHz                     **$383                   $383
+
+IntelDX4(tm)
+     100 MHz                       $459                   $449
+      75 MHz                       $382                   $356
+
+IntelDX2(tm)
+      66 MHz                       $199                   $158
+      50 MHz (SQFP)                $149                   $102
+      40 MHz (SQFP)                $149                   $102
+
+Intel486 DX
+      33 MHz (PQFP)                $149                   $102
+
+IntelSX2
+      50 MHz                       $102                   $ 75
+
+Intel486 SX 
+      33 MHz                       $ 85                   $ 83
+      25 MHz                       $ 78                   $ 77
+
+**  These Q4 1994 prices were effective 10/31/94.
+*** New prices are expected to be released in February.
+
+
+
+Copies of this earnings release can be obtained by calling Intel's transfer 
+agent, Harris Trust, at 1-800-298-0146 or through the following on-line 
+services:  CompuServe* (GO:  Intel), and the Internet 
+(Address:  http://www.intel.com).
+     Intel, the world's largest chip maker, is also a leading manufacturer of 
+personal computer, networking and communications products.
+
+
+    *Other brands or products are trademarks or registered trademarks of their 
+respective holders. 
+
+
+<TABLE>
+                           INTEL CORPORATION
+                           -----------------
+               CONSOLIDATED SUMMARY FINANCIAL STATEMENTS
+               -----------------------------------------
+                 (Millions, except per share amounts)
+                 ------------------------------------
+
+INCOME STATEMENT                 3 Months Ended       12 Months Ended
+                              Dec. 31,  Dec. 25,    Dec. 31,  Dec. 25,
+                                1994      1993        1994      1993
+                               -------  --------     -------  --------
+<S>                            <C>      <C>          <C>      <C>
+NET REVENUE                    $ 3,228  $ 2,389      $11,521  $ 8,782
+                               -------  --------     -------  --------
+Cost of Sales                    2,023      935        5,576    3,252
+Research and Development           285      262        1,111      970
+Marketing, General 
+  and Administrative               402      333        1,447    1,168
+                               -------  --------     -------  --------
+Operating Costs and Expenses     2,710    1,530        8,134    5,390
+                               -------  --------     -------  --------
+OPERATING INCOME                   518      859        3,387    3,392
+Interest and Other                  67       55          216      138
+                               -------  --------     -------  --------
+INCOME BEFORE TAXES                585      914        3,603    3,530
+Income Taxes                       213      320        1,315    1,235
+                               -------  --------     -------  --------
+NET INCOME                     $   372  $   594      $ 2,288  $ 2,295
+                               =======  ========     =======  ========
+
+EARNINGS PER SHARE             $  0.86  $  1.35      $  5.24  $  5.20
+                               =======  ========     =======  ========
+
+COMMON SHARES AND EQUIVALENTS      433      441          437      441
+</TABLE>
+
+<TABLE>
+- --------------------------------------------------------------------
+BALANCE SHEET                              At           At
+(millions)                              Dec. 31,     Dec. 25,
+                                          1994         1993
+- --------------------------------------------------------------------
+CURRENT ASSETS
+- --------------
+<S>                                     <C>          <C>
+Cash and Short-Term
+  Investments                           $ 2,410      $ 3,136
+Accounts Receivable                       1,978        1,448
+Inventories                               1,169          838
+Deferred Tax Assets and Other               610          380
+                                        -------      -------
+  Total Current Assets                    6,167        5,802
+Property, Plant and
+  Equipment, Net                          5,367        3,996
+Long-Term Investments                     2,127        1,416
+Other Assets                                155          130
+                                        -------      -------
+  TOTAL ASSETS                          $13,816      $11,344
+                                        =======      =======
+
+CURRENT LIABILITIES
+- -------------------
+Short-Term Debt                         $   517      $   497
+Accounts Payable and Accrued 
+  Liabilities                             1,809        1,345
+Deferred Income on Shipments 
+  to Distributors                           269          200
+Income Taxes Payable                        429          391
+                                        -------      -------
+  Total Current Liabilities               3,024        2,433
+                                        -------      -------
+
+LONG-TERM DEBT                              392          426
+                                        -------      -------
+DEFERRED TAX LIABILITIES                    389          297
+                                        -------      -------
+PUT WARRANTS                                744          688
+                                        -------      -------
+
+STOCKHOLDERS' EQUITY
+- --------------------
+Common Stock and Capital
+in Excess of Par Value                    2,306        2,194
+Retained Earnings                         6,961        5,306
+                                        -------      -------
+  Total Stockholders' Equity              9,267        7,500
+                                        -------      -------
+
+TOTAL LIABILITIES AND 
+STOCKHOLDERS' EQUITY                    $13,816      $11,344
+                                        =======      =======
+</TABLE>
+  
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

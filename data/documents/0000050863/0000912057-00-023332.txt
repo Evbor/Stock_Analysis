@@ -1,0 +1,195 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NbdVH4xumpnijTfTloI2JzxYVYGPwuUFrk40G/RhwOA8ZzikrA3glnkeuE6LPApV
+ +NOuRna2obnjtZSbwhkX4w==
+
+<SEC-DOCUMENT>0000912057-00-023332.txt : 20000512
+<SEC-HEADER>0000912057-00-023332.hdr.sgml : 20000512
+ACCESSION NUMBER:		0000912057-00-023332
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000510
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000511
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		626192
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>8-K
+<TEXT>
+
+<PAGE>
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C. 20549
+
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+                      Pursuant to Section 13 or 15 (d)
+                   of the Securities Exchange Act of 1934
+
+
+                       Date of Report:  May 10, 2000
+                     (Date of earliest event reported)
+
+
+
+                            INTEL CORPORATION
+       (Exact name of registrant as specified in its charter)
+
+
+
+Delaware                     0-6217                   94-1672743
+- ----------                  -----------            ------------------
+(State of                   (Commission             (IRS Employer
+incorporation)              File Number)           Identification No.)
+
+
+
+2200 Mission College Blvd., Santa Clara, California            95052-8119
+- ---------------------------------------------------            ----------
+(Address of principal executive offices)                       (Zip Code)
+
+
+                           (408) 765-8080
+                           --------------
+        (Registrant's telephone number, including area code)
+
+                                        Page 1
+
+<PAGE>
+
+Item 5.  OTHER EVENTS
+
+    5.1  Attached hereto as Exhibit 99.1 and incorporated by reference
+         herein is the text of Intel Corporation's announcement regarding
+         replacement of motherboards with a defective memory translator hub
+         component as presented in a press release of May 10, 2000.
+
+Item 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+    (c)  Exhibits
+
+         99.1 Press release of May 10, 2000 with an announcement regarding
+         replacement of motherboards with a defective memory translator hub
+         component.
+
+
+                                        Page 2
+
+<PAGE>
+
+                              SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                           INTEL CORPORATION
+                                           (Registrant)
+
+
+Date: May 10, 2000                     By: /s/ ANDY D. BRYANT
+                                           -----------------------
+                                           Andy D. Bryant
+                                           Senior Vice President,
+                                           Chief Financial Officer
+                                           and Principal Accounting
+                                           Officer
+
+
+                                        Page 3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+
+<PAGE>
+
+                                                                 EXHIBIT 99.1
+
+INTEL TO REPLACE MOTHERBOARDS WITH DEFECTIVE MEMORY
+TRANSLATOR HUB COMPONENT
+
+SANTA CLARA, Calif. -- May 10, 2000 -- Intel Corporation today announced that
+it would replace motherboards that have a defective memory translator hub
+(MTH) component that translates signals from SDRAM memory to the
+Intel-Registered Trademark- 820 Chipset. The MTH is only used with
+motherboards utilizing SDRAM and the Intel 820 Chipset. The MTH began
+shipping in November 1999; therefore systems shipped before that time are
+unaffected by this issue.
+
+Intel has identified system noise issues with the MTH that can cause some
+systems to intermittently reset, reboot and/or hang. In addition, the noise
+issue can, under extreme conditions, potentially cause data corruption. In
+some instances the company has been able to induce data corruption under
+synthetic stress testing in its laboratories.
+
+Intel is working with its customers (the computer makers, motherboard makers
+and distribution channels) to notify computer users of this issue and to
+offer a replacement motherboard. Computer users that want to know if their
+system uses an MTH can contact their computer maker for more information, or
+download a utility from Intel's web site (the Intel -Registered Trademark-
+MTH I.D. Utility at www.intel.com/support/mth).
+
+Intel plans to reserve for the cost associated with this replacement program
+when the cost can be determined.  Depending upon the user replacement rate,
+the amount of this reserve could be material.
+
+Normally the Intel 820 Chipset is used with a different memory -- RDRAM.
+RDRAM-based systems are not impacted since they don't use the memory
+translator hub.
+
+Intel, the world's largest chip maker, is also a leading manufacturer of
+computer, networking and communications products. Additional information
+about Intel is available at www.intel.com/pressroom.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

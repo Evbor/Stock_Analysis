@@ -1,0 +1,2268 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TrZNxoh1pICxCcRZsTMh5WVXtXjPzskX1S6lmFm2QNmh4qBsZHhc64pbVXupHPQG
+ U2ZBPUTcpuIVSKZIcKwPCQ==
+
+<SEC-DOCUMENT>0000050863-07-000248.txt : 20070516
+<SEC-HEADER>0000050863-07-000248.hdr.sgml : 20070516
+<ACCEPTANCE-DATETIME>20070516131211
+ACCESSION NUMBER:		0000050863-07-000248
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20070516
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20070516
+DATE AS OF CHANGE:		20070516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		07856927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>WASHINGTON, D.C. 20549</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>PURSUANT TO SECTION 13 OR 15(d) OF THE</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>SECURITIES EXCHANGE ACT OF 1934</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported):  May 16, 2007</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="565" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="85" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>94-1672743 </font></b><font size=2>&nbsp;</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="631" style='border-collapse:collapse; '>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="199" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="111" style='border-collapse:collapse'>
+    <tr >
+        <td width="111" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:.0001pt;line-height:129.6%'><font size=2>of incorporation)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:0.5in;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1.01</font></b></p> </td>
+        <td  valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Entry into a Material Definitive Agreement</font></b></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>On May 16, 2007, Intel&#146;s stockholders approved the amendment and extension of the Intel Corporation 2006 Equity Incentive Plan (as amended, the &#147;Plan&#148;) to: (1) extend the term of the Plan to June 30, 2010, (2) reserve an additional 119 million shares for a total authorization of 294 million shares of Intel common stock for issuance under the Plan, and (3) add a claw-back provision for executive officers.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>The Plan provides for the grant of stock options, stock appreciation rights, restricted stock and restricted stock units (&#147;RSUs&#148;) to eligible full-time and part-time employees and non-employee directors.  The Compensation Committee (the &#147;Committee&#148;) determines which employees will participate in the Plan, as well as the terms of employee grants, and the Board determines the terms of grants to non-employee directors.  The Committee has delegated authority to a committee consisting of the CEO to grant awards to non-executive employees within limits and a budget pre-approved by the Committee. An aggregate of 294 million shares have been reserved for issuance as awards over the term of the Plan, subject to adjustment only to reflect stock splits and similar events.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>Stock options granted under the Plan may not have a term longer than seven years, except that up to 7 million shares may be used for long-term  executive retention stock option grants having a term no longer than 10 years.  No more than 168 million shares may be issued as restricted stock&nbsp;or&nbsp;restricted stock unit awards under the Plan. Within these 168 million shares of restricted stock or RSUs, up to an aggregate of 100,000 shares may be issued under the Plan as employee recognition stock awards having no minimum vesting period. The Plan limits awards to any employee participant&nbsp;in any single calendar year to no more than 3 million shares subject to&nbsp;stock&nbsp;options or stock appreciation&nbsp;rights and no more&nbsp;than&nbsp;2&nbsp;million shares&nbsp;subject to restricted stock or restricted stock&nbsp;unit awards. No more than 30,000 shares may be subject
+to&nbsp;awards granted to any non-employee director in a single calendar year. Awards under the Plan may be conditioned on continued employment, the passage of time or the satisfaction of performance vesting criteria, which criteria may be based on financial and business performance criteria. Vesting requirements are determined by the Committee, provided, however, that stock options and stock appreciation rights shall not first become exercisable in less than one year and restricted stock or restricted stock units shall not vest in less than pro rata installments over three years, unless vesting is based on the achievement of performance criteria, in which case such performance vesting criteria may not be based on a period of less than one year.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>If the Committee should determine that an executive officer has engaged in an act of embezzlement, fraud, or breach of fiduciary duty that contributed to an obligation to restate Intel&#146;s financial statements, the new claw-back provision requires the officer to repay proceeds from the sale of equity awards within the 12-month period following the first public issuance or filing with the SEC of the financial statements required to be restated.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>The foregoing summary description of the Plan is qualified in its entirety by reference to the actual terms of the Plan, which is attached hereto as Exhibit 10.1. For additional information regarding the Plan, refer to Proposal 3 (Approval of Amendment and Extension of the 2006 Equity Incentive Plan) on pages 43-50 of our 2007 Proxy Statement, as filed with the Securities and Exchange Commission on March 27, 2007, which is incorporated herein by reference.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>On May 16, 2007, Intel&#146;s stockholders approved the 2007 Executive Officer Incentive Plan (&#147;2007 EOIP&#148;). The 2007 EOIP, in which the company&#146;s executive officers participate, is a cash-based, pay-for-performance incentive program.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>Executive officers, as determined by the Committee, are eligible to participate in the 2007 EOIP. The 2007 EOIP includes a formula to calculate the maximum annual incentive payout for each executive officer. The 2007 EOIP incentive formula has three variables: (1) the executive officer&#146;s annual incentive baseline amount, which the Committee determines annually for each participant, (2) a plan multiplier for the year, which is the sum of three components, described below (&#147;Plan Multiplier&#148;), and (3) an individual performance adjustment, as determined each year by the Committee (the &#147;Individual Performance Adjustment&#148;). The Committee will determine each executive officer&#146;s Individual Performance Adjustment based on a subjective, discretionary criteria. Individual performance adjustments are expected to be between 90% and 110%, with most executive officers receiving 100%.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>At the end of the year, Intel multiplies each executive officer&#146;s incentive baseline amount by the Plan Multiplier and the Individual Performance Adjustment to calculate the executive officer&#146;s maximum annual incentive payout for that year. The 2007 EOIP has a cap limiting each executive officer&#146;s annual incentive payout to a maximum annual amount of $10,000,000. After each executive officer&#146;s maximum annual incentive payout has been calculated under the formula, the Committee has the discretion to reduce, but not increase, that amount to arrive at the executive officer&#146;s incentive payment. The 2007 EOIP does not specify the criteria that the Committee must use in exercising its discretion to reduce the incentive payment and it also does not require the Committee to make any reductions.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>The Plan Multiplier is the sum of the following three components: (1) the absolute financial component; (2) the relative financial component; and (3) the operational component. The absolute financial component is calculated by dividing Intel&#146;s current-year net income by Intel&#146;s average net income over the previous three years. The relative financial component is calculated by Intel&#146;s annual net income growth (plus 1) divided by the simple average of the annual net income growth for the S&amp;P 100 and the technology peer companies (plus 1) (the &#147;market net income&#148;). The operational component is based on performance against operational goals under success criteria approved by the Committee each year.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>For purposes of the absolute financial and relative financial components, Intel&#146;s net income and the market&#146;s net income may be adjusted based on a criteria selected by the Committee in its sole discretion. Such criteria may include asset write-downs; acquisition-related charges; litigation, claim judgments, settlements, or tax settlements; the effects of changes in tax law, changes in accounting principles, or other such laws or provisions affecting reported results; accruals for reorganization and restructuring programs; unrealized gains or losses on investments; gains or losses from discontinued operations; consolidated operating results attributable to acquisitions; and any extraordinary non-recurring items as described in Accounting Principles Board Opinion No. 30 and/or in management&#146;s discussion and analysis of financial condition and results of operations appearing in
+the annual report to stockholders for the applicable year.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>Operational goals may be measured either annually or cumulatively over a period of years, on an absolute basis or relative to a pre-established target, to previous years&#146; results or to a designated comparison group. Operational goals will include any one or more of the following performance criteria:  Financial/Stock Performance (revenue, operating income or net operating income, operating profit or net operating profit, operating margin or profit margin, earnings before interest, taxes, and amortization, income or net income, earnings per share, cash flow, return on equity, return on capital, return on assets or net assets, return on operating revenue, return on invested capital, total stockholder return, stock price performance); Product Design/Development Roadmap (new product innovation, product release schedules, product ship targets, product cost reduction through advanced
+technology); Cost/Productivity Improvements (performance against cost and productivity goals, inventory/supply chain management initiatives, initiatives/projects related to improvements in infrastructure/support systems, including Human Resources, Information Technology, and Finance, effectiveness of investment strategies toward stated goals), and Market Acceptance/Customer Satisfaction (customer satisfaction, brand recognition/acceptance, market segment share). The Committee may use other criteria that it determines are appropriate to measure the performance of an individual in carrying out his or her assigned duties and responsibilities, as defined within the first 90 days of the performance period.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>The 2007 EOIP&#146;s claw-back provision provides that Intel can recoup any excess amounts that were paid as a result of Intel&#146;s net income having been overstated. If Intel&#146;s financial statements are the subject of a restatement due to error or misconduct, Intel may seek reimbursement of excess incentive cash compensation paid under the 2007 EOIP to all executive officers for the relevant performance periods.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>The foregoing description of the 2007 EOIP is qualified in its entirety by reference to the actual terms of the plan, which is attached hereto as Exhibit 10.2. For additional information about the 2007 EOIP, refer to Proposal 4 (Approval of the 2007 Executive Officer Incentive Plan) on pages 50-53 of the company&#146;s 2005 Proxy Statement, as filed with the Securities and Exchange Commission on March 27, 2007, which is incorporated herein by reference.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+<font size=2>Item 9.01</font><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size=2>Financial Statements and Exhibits.</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="211" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="48" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td width="67" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Exhibits.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1.5in;text-align:left;'><font size=2>The following exhibits are filed as part of this Report:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="638" style='margin-left:113.4pt;border-collapse:collapse'>
+    <tr >
+        <td width="128" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Exhibit Number</font></p> </td>
+        <td width="511" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Description</font></p> </td> </tr>
+    <tr >
+        <td width="128" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>10.1</font></p> </td>
+        <td width="511" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Intel Corporation 2006 Equity Incentive Plan, as</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Amended and Restated Effective May 16, 2007</font></p> </td> </tr>
+    <tr >
+        <td width="128" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>10.2</font></p> </td>
+        <td width="511" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Intel Corporation 2007 Executive Officer </font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt'><font size=2>Incentive Plan, Effective as of  January 1, 2007</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:1.0pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom: solid black 1.0pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=2>Date:  May 16, 2007</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0in;margin-bottom:0pt;line-height:129.6%'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>exh101.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="596" style='border-collapse:collapse; '>
+    <tr >
+        <td width="507" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:right;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>  </td>
+        <td width="89" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:right;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Exhibit 10.1</font></b></p>  </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>2006 EQUITY INCENTIVE PLAN</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>AS AMENDED AND RESTATED EFFECTIVE MAY 16, 2007</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>1. PURPOSE</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The purpose of this Intel Corporation 2006 Equity Incentive Plan (the &#147;Plan&#148;) is to advance the interests of Intel Corporation, a Delaware corporation, and its Subsidiaries (hereinafter collectively &#147;Intel&#148; or the &#147;Corporation&#148;), by stimulating the efforts of employees who are selected to be participants on behalf of Intel, aligning the long-term interests of participants with those of stockholders, heightening the desire of participants to continue in working toward and contributing to the success of Intel, assisting Intel in competing effectively with other enterprises for the services of new employees necessary for the continued improvement of operations, and to attract, motivate and retain the best available individuals for service to the Corporation. This Plan permits the grant of stock options, stock appreciation rights, restricted stock and restricted stock units, each of
+which shall be subject to such conditions based upon continued employment, passage of time or satisfaction of performance criteria as shall be specified pursuant to the Plan.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>2. DEFINITIONS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Award&#148; means a stock option, stock appreciation right, restricted stock or restricted stock unit granted to a Participant pursuant to the Plan.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Board of Directors&#148; means the Board of Directors of the Corporation.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Code&#148; shall mean the Internal Revenue Code of 1986, as such is amended from time to time, and any reference to a section of the Code shall include any successor provision of the Code.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Committee&#148; shall mean the committee appointed by the Board of Directors from among its members to administer the Plan pursuant to Section 3.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(e)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Exchange Act&#148; shall mean the Securities Exchange Act of 1934, as amended from time to time, and any reference to a section of the Exchange Act shall include any successor provision of the Exchange Act.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(f)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Outside Director&#148; shall mean a member of the Board of Directors who is not otherwise an employee of the Corporation.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(g)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Participants&#148; shall mean those individuals to whom Awards have been granted from time to time and any authorized transferee of such individuals.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(h)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Performance Award&#148; means an Award the grant, issuance, retention, vesting and/or settlement of which is subject to satisfaction of one or more of the Qualifying Performance Criteria specified in Section 10(b).</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="18" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(i)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Plan&#148; means this Intel Corporation 2006 Equity Incentive Plan.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="18" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(j)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Share&#148; shall mean a share of common stock, $.001 par value, of the Corporation or the number and kind of shares of stock or other securities which shall be substituted or adjusted for such shares as provided in Section 11.                    </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in; text-indent:-0.22in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(k)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&#147;Subsidiary&#148; means any corporation or entity in which Intel Corporation owns or controls, directly or indirectly, fifty percent (50%) or more of the voting power or economic interests of such corporation or entity.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in; text-indent:-0.22in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in; text-indent:-0.22in;text-align:left;'><b><font size=2>3. ADMINISTRATION</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Composition of Committee.</font></i><font size=2> This Plan shall be administered by the Committee. The Committee shall consist of two or more Outside Directors who shall be appointed by the Board of Directors. The Board of Directors shall fill vacancies on the Committee and may from time to time remove or add members of the Committee. The Board of Directors, in its sole discretion, may exercise any authority of the Committee under this Plan in lieu of the Committee&#146;s exercise thereof, and in such instances references herein to the Committee shall refer to the Board of Directors.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Delegation and Administration.</font></i><font size=2> The Committee may delegate to one or more separate committees (any such committee a &#147;Subcommittee&#148;) composed of one or more directors of the Corporation (who may but need not be members of the Committee) the ability to grant Awards and take the other actions described in Section 3(c) with respect to Participants who are not executive officers, and such actions shall be treated for all purposes as if taken by the Committee. The Committee may delegate to a Subcommittee of one or more officers of the Corporation the ability to grant Awards and take the other actions described in Section 3(c) with respect to Participants (other than any such officers themselves) who are not directors or executive officers, provided however that the resolution so authorizing such officer(s) shall specify the total
+number of rights or options such Subcommittee may so award, and such actions shall be treated for all purposes as if taken by the Committee. Any action by any such Subcommittee within the scope of such delegation shall be deemed for all purposes to have been taken by the Committee, and references in this Plan to the Committee shall include any such Subcommittee. The Committee may delegate the administration of the Plan to an officer or officers of the Corporation, and such administrator(s) may have the authority to execute and distribute agreements or other documents evidencing or relating to Awards granted by the Committee under this Plan, to maintain records relating to the grant, vesting, exercise, forfeiture or expiration of Awards, to process or oversee the issuance of Shares upon the exercise, vesting and/or settlement of an Award, to interpret the terms of Awards and to take such other actions as the Committee may specify. Any action by any such administrator within the scope
+of its delegation shall be deemed for all purposes to have been taken by the Committee and references in this Plan to the Committee shall include any such administrator, provided that the actions and interpretations of any such administrator shall be subject to review and approval, disapproval or modification by the Committee.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Powers of the Committee.</font></i><font size=2> Subject to the express provisions and limitations set forth in this Plan, the Committee shall be authorized and empowered to do all things necessary or desirable, in its sole discretion, in connection with the administration of this Plan, including, without limitation, the following:</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(i)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to prescribe, amend and rescind rules and regulations relating to this Plan and to define terms not otherwise defined herein;</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(ii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to determine which persons are eligible to be Participants, to which of such persons, if any, Awards shall be granted hereunder and the timing of any such Awards, and to grant Awards;</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to grant Awards to Participants and determine the terms and conditions thereof, including the number of Shares subject to Awards and the exercise or purchase price of such Shares and the circumstances under which Awards become exercisable or vested or are forfeited or expire, which terms may but need not be conditioned upon the passage of time, continued employment, the satisfaction of performance criteria, the occurrence of certain events, or other factors;</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>2</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iv)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to establish or verify the extent of satisfaction of any performance goals or other conditions applicable to the grant, issuance, exercisability, vesting and/or ability to retain any Award;</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(v)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to prescribe and amend the terms of the agreements or other documents evidencing Awards made under this Plan (which need not be identical);</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(vi)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to determine whether, and the extent to which, adjustments are required pursuant to Section 11;</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="29" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(vii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to interpret and construe this Plan, any rules and regulations under this Plan and the terms and conditions of any Award granted hereunder, and to make exceptions to any such provisions in good faith and for the benefit of the Corporation; and</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="32" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(viii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>to make all other determinations deemed necessary or advisable for the administration of this Plan.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Effect of Change in Status.</font></i><font size=2> The Committee shall have the discretion to determine the effect upon an Award and upon an individual&#146;s status as an employee under the Plan (including whether a Participant shall be deemed to have experienced a termination of employment or other change in status) and upon the vesting, expiration or forfeiture of an Award in the case of (i) any individual who is employed by an entity that ceases to be a Subsidiary of the Corporation, (ii) any leave of absence approved by the Corporation or a Subsidiary, (iii) any transfer between locations of employment with the Corporation or a Subsidiary or between the Corporation and any Subsidiary or between any Subsidiaries, (iv) any change in the Participant&#146;s status from an employee to a consultant or member of the Board of Directors, or vice versa, and (v) at
+the request of the Corporation or a Subsidiary, any employee who becomes employed by any partnership, joint venture, corporation or other entity not meeting the requirements of a Subsidiary.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(e)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Determinations of the Committee.</font></i><font size=2> All decisions, determinations and interpretations by the Committee regarding this Plan shall be final and binding on all Participants or other persons claiming rights under the Plan or any Award. The Committee shall consider such factors as it deems relevant to making such decisions, determinations and interpretations including, without limitation, the recommendations or advice of any director, officer or employee of the Corporation and such attorneys, consultants and accountants as it may select. A Participant or other holder of an Award may contest a decision or action by the Committee with respect to such person or Award only on the grounds that such decision or action was arbitrary or capricious or was unlawful, and any review of such decision or action shall be limited to determining whether the
+Committee&#146;s decision or action was arbitrary or capricious or was unlawful.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>4. PARTICIPANTS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Awards under the Plan may be granted to any person who is an employee or Outside Director of the Corporation. Outside Directors may be granted Awards only pursuant to Section 9 of the Plan. The status of the Chairman of the Board of Directors as an employee or Outside Director shall be determined by the Committee. Any person designated by the Corporation as an independent contractor shall not be treated as an employee and shall not be eligible for Awards under the Plan.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>5. EFFECTIVE DATE AND EXPIRATION OF PLAN</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Effective Date.</font></i><font size=2> This Plan was approved by the Board of Directors on February 23, 2006 and became effective on May 17, 2006.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Expiration Date.</font></i><font size=2> The Plan shall remain available for the grant of Awards until June 30, 2010 or such earlier date as the Board of Directors may determine. The expiration of the Committee&#146;s authority to grant Awards under the Plan will not affect the operation of the terms of the Plan or the Corporation&#146;s and Participants&#146; rights and obligations with respect to Awards granted on or prior to the expiration date of the Plan.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>3</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>6. SHARES SUBJECT TO THE PLAN</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Aggregate Limits.</font></i><font size=2> Subject to adjustment as provided in Section 11, the aggregate number of Shares authorized for issuance as Awards under the Plan is 294,000,000, of which no more than an aggregate of 168,000,000 Shares may be issued as restricted stock or restricted stock units and no more than an aggregate of 7,000,000 Shares shall be available for issuance as stock options under any program providing for stock option grants that vest in full in five or more years and that have a maximum term of ten years. The Shares subject to the Plan may be either Shares reacquired by the Corporation, including Shares purchased in the open market, or authorized but unissued Shares. Any Shares subject to an Award which for any reason expires or terminates unexercised or is not earned in full may again be made subject to an Award under the Plan. The
+following Shares may not again be made available for issuance as Awards under the Plan: (i) Shares not issued or delivered as a result of the net settlement of an outstanding Stock Appreciation Right, (ii) Shares used to pay the exercise price or withholding taxes related to an outstanding Award, or (iii) Shares repurchased on the open market with the proceeds of the option exercise price.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Tax Code Limits.</font></i><font size=2> The aggregate number of Shares subject to stock options or stock appreciation rights granted under this Plan during any calendar year to any one Participant shall not exceed 3,000,000. The aggregate number of Shares subject to restricted stock or restricted stock unit Awards granted under this Plan during any calendar year to any one Participant shall not exceed 2,000,000. Notwithstanding anything to the contrary in this Plan, the foregoing limitations shall be subject to adjustment under Section 11, but only to the extent that such adjustment will not affect the status of any Award intended to qualify as &#147;performance-based compensation&#148; under Section 162(m) of the Code. The aggregate number of Shares issued pursuant to incentive stock options granted under the Plan shall not exceed 294,000,000, which
+limitation shall be subject to adjustment under Section 11 only to the extent that such adjustment is consistent with adjustments permitted of a plan authorizing incentive stock options under Section 422 of the Code.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>7. PLAN AWARDS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Award Types.</font></i><font size=2> The Committee, on behalf of the Corporation, is authorized under this Plan to grant, award and enter into the following arrangements or benefits under the Plan provided that their terms and conditions are not inconsistent with the provisions of the Plan: stock options, stock appreciation rights, restricted stock and restricted stock units. Such arrangements and benefits are sometimes referred to herein as &#147;Awards.&#148; The Committee, in its discretion, may determine that any Award granted hereunder shall be a Performance Award.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="18" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(i)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Stock Options.</font></i><font size=2> A &#147;Stock Option&#148; is a right to purchase a number of Shares at such exercise price, at such times, and on such other terms and conditions as are specified in or determined pursuant to the document(s) evidencing the Award (the &#147;Option Agreement&#148;). The Committee may grant Stock Options intended to be eligible to qualify as incentive stock options (&#147;ISOs&#148;) pursuant to Section 422 of the Code and Stock Options that are not intended to qualify as ISOs (&#147;Non-qualified Stock Options&#148;), as it, in its sole discretion, shall determine.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="22" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(ii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Stock Appreciation Rights.</font></i><font size=2> A &#147;Stock Appreciation Right&#148; or &#147;SAR&#148; is a right to receive, in cash or stock (as determined by the Committee), value with respect to a specific number of Shares equal to or otherwise based on the excess of (i) the market value of a Share at the time of exercise over (ii) the exercise price of the right, subject to such terms and conditions as are expressed in the document(s) evidencing the Award (the &#147;SAR Agreement&#148;).</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Restricted Stock.</font></i><font size=2> A &#147;Restricted Stock&#148; Award is an award of Shares, the grant, issuance, retention and/or vesting of which is subject to such conditions as are expressed in the document(s) evidencing the Award (the &#147;Restricted Stock Agreement&#148;).</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>4</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="40" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="25" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iv)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Restricted Stock Unit.</font></i><font size=2> A &#147;Restricted Stock Unit&#148; Award is an award of a right to receive, in cash or stock (as determined by the Committee) the market value of one Share, the grant, issuance, retention and/or vesting of which is subject to such conditions as are expressed in the document(s) evidencing the Award (the &#147;Restricted Stock Unit Agreement&#148;).</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="27" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Grants of Awards.</font></i><font size=2> An Award may consist of one of the foregoing arrangements or benefits or two or more of them in tandem or in the alternative.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in; text-indent:-0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in; text-indent:-0.5in;text-align:left;'><b><font size=2>8. EMPLOYEE PARTICIPANT AWARDS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Grant, Terms and Conditions of Stock Options and SARs </font></i></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.2in;text-align:left;'><font size=2>The Committee may grant Stock Options or SARs at any time and from time to time prior to the expiration of the Plan to eligible employee Participants selected by the Committee. No Participant shall have any rights as a stockholder with respect to any Shares subject to Stock Options or SARs hereunder until said Shares have been issued. Each Stock Option or SAR shall be evidenced only by such agreements, notices and/or terms or conditions documented in such form (including by electronic communications) as may be approved by the Committee. Each Stock Option grant will expressly identify the Stock Option as an ISO or as a Non-qualified Stock Option. Stock Options or SARs granted pursuant to the Plan need not be identical but each must contain or be subject to the following terms and conditions:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="41" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(i)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Price.</font></i><font size=2> The purchase price (also referred to as the exercise price) under each Stock Option or SAR granted hereunder shall be established by the Committee. The purchase price per Share shall not be less than 100% of the market value of a Share on the date of grant. For purposes of the Plan, &#147;market value&#148; shall mean the average of the high and low sales prices of the Corporation&#146;s common stock. The exercise price of a Stock Option shall be paid in cash or in such other form if and to the extent permitted by the Committee, including without limitation by delivery of already owned Shares, withholding (either actually or by attestation) of Shares otherwise issuable under such Stock Option and/or by payment under a broker-assisted sale and remittance program acceptable to the Committee.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.23in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="41" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="22" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(ii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>No Repricing.</font></i><font size=2> Other than in connection with a change in the Corporation&#146;s capitalization (as described in Section 11 of the Plan), the exercise price of a Stock Option or SAR may not be reduced without stockholder approval.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.23in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="41" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>No Reload Grants.</font></i><font size=2> Stock Options shall not be granted under the Plan in consideration for and shall not be conditioned upon the delivery of Shares to the Corporation in payment of the exercise price and/or tax withholding obligation under any other employee stock option.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.23in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="41" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="25" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iv)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Duration, Exercise and Termination of Stock Options and SARs.</font></i><font size=2> Each Stock Option or SAR shall be exercisable at such time and in such installments during the period prior to the expiration of the Stock Option or SAR as determined by the Committee. The Committee shall have the right to make the timing of the ability to exercise any Stock Option or SAR subject to continued employment, the passage of time and/or such performance requirements as deemed appropriate by the Committee. At any time after the grant of a Stock Option, the Committee may reduce or eliminate any restrictions on the Participant&#146;s right to exercise all or part of the Stock Option, except that no Stock Option shall first become exercisable within one (1) year from its date of grant, other than upon the death, disability or retirement of the person to whom the Stock
+Option was granted, in each case as specified in the Option Agreement.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.69in;text-align:left;'><font size=2>Each Stock Option or SAR that vests in full in less than five (5) years (standard grants) must expire within a period of not more than seven (7) years from the grant date and each Stock Option or SAR that vests in full in five (5) or more years (long-term retention grants) must expire within a period of not more than ten (10) years from the grant date. In each case, the Option Agreement or SAR Agreement may provide for expiration prior to the end of the stated </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.69in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>5</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.69in;text-align:left;'><font size=2>term of the Award in the event of the termination of employment or service of the Participant to whom it was granted.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(v)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Suspension or Termination of Stock Options and SARs.</font></i><font size=2> If at any time (including after a notice of exercise has been delivered) the Committee, including any Subcommittee or administrator authorized pursuant to Section 3(b) (any such person, an &#147;Authorized Officer&#148;), reasonably believes that a Participant, other than an Outside Director, has committed an act of misconduct as described in this Section, the Authorized Officer may suspend the Participant&#146;s right to exercise any Stock Option or SAR pending a determination of whether an act of misconduct has been committed. If the Committee or an Authorized Officer determines a Participant, other than an Outside Director, has committed an act of embezzlement, fraud, dishonesty, nonpayment of any obligation owed to Intel, breach of fiduciary duty or deliberate disregard of
+Corporation rules resulting in loss, damage or injury to the Corporation, or if a Participant makes an unauthorized disclosure of any Corporation trade secret or confidential information, engages in any conduct constituting unfair competition, induces any customer to breach a contract with the Corporation or induces any principal for whom Intel acts as agent to terminate such agency relationship, neither the Participant nor his or her estate shall be entitled to exercise any Stock Option or SAR whatsoever. In addition, for any Participant who is designated as an &#147;executive officer&#148; by the Board of Directors, if the Committee determines that the Participant engaged in an act of embezzlement, fraud or breach of fiduciary duty during the Participant&#146;s employment that contributed to an obligation to restate the Corporation&#146;s financial statements (&#147;Contributing Misconduct&#148;), the Participant shall be required to repay to the Corporation, in cash and upon
+demand, the Option Proceeds (as defined below) resulting from any sale or other disposition (including to the Corporation) of Shares issued or issuable upon exercise of a Stock Option or SAR if the sale or disposition was effected during the twelve-month period following the first public issuance or filing with the SEC of the financial statements required to be restated. The term &#147;Option Proceeds&#148; means, with respect to any sale or other disposition (including to the Corporation) of Shares issuable or issued upon exercise of a Stock Option or SAR, an amount determined appropriate by the Committee to reflect the effect of the restatement on the Corporation&#146;s stock price, up to the amount equal to the number of Shares sold or disposed of multiplied by the difference between the market value per Share at the time of such sale or disposition and the exercise price. The return of Option Proceeds is in addition to and separate from any other relief available to the
+Corporation due to the executive officer&#146;s Contributing Misconduct.  Any determination by the Committee or an Authorized Officer with respect to the foregoing shall be final, conclusive and binding on all interested parties. For any Participant who is an executive officer, the determination of the Committee or of the Authorized Officer shall be subject to the approval of the Board of Directors.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.26in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="44" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="25" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(vi)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Conditions and Restrictions Upon Securities Subject to Stock Options or SARs.</font></i><font size=2> Subject to the express provisions of the Plan, the Committee may provide that the Shares issued upon exercise of a Stock Option or SAR shall be subject to such further conditions or agreements as the Committee in its discretion may specify prior to the exercise of such Stock Option or SAR, including, without limitation, conditions on vesting or transferability, forfeiture or repurchase provisions. The obligation to make payments with respect to SARs may be satisfied through cash payments or the delivery of Shares, or a combination thereof as the Committee shall determine. The Committee may establish rules for the deferred delivery of Common Stock upon exercise of a Stock Option or SAR with the deferral evidenced by use of Restricted Stock Units equal in number
+to the number of Shares whose delivery is so deferred.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.26in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="44" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="29" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(vii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Other Terms and Conditions.</font></i><font size=2> Stock Options and SARs may also contain such other provisions, which shall not be inconsistent with any of the foregoing terms, as the Committee shall deem appropriate.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.26in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="44" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="33" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(viii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>ISOs.</font></i><font size=2> Stock Options intending to qualify as ISOs may only be granted to employees of the Corporation within the meaning of the Code, as determined by the Committee. No ISO shall </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.81in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>6</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.81in;text-align:left;'><font size=2>be granted to any person if immediately after the grant of such Award, such person would own stock, including stock subject to outstanding Awards held by him or her under the Plan or any other plan established by the Corporation, amounting to more than ten percent (10%) of the total combined voting power or value of all classes of stock of the Corporation. To the extent that the Option Agreement specifies that a Stock Option is intended to be treated as an ISO, the Stock Option is intended to qualify to the greatest extent possible as an &#147;incentive stock option&#148; within the meaning of Section 422 of the Code, and shall be so construed; provided, however, that any such designation shall not be interpreted as a representation, guarantee or other undertaking on the part of the Corporation that the Stock Option is or will be determined to qualify as an ISO. If and to the extent that
+any Shares are issued under a portion of any Stock Option that exceeds the $100,000 limitation of Section 422 of the Code, such Shares shall not be treated as issued under an ISO notwithstanding any designation otherwise. Certain decisions, amendments, interpretations and actions by the Committee and certain actions by a Participant may cause a Stock Option to cease to qualify as an ISO pursuant to the Code and by accepting a Stock Option the Participant agrees in advance to such disqualifying action.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i>&nbsp;</i></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>(b)</font></i></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Grant, Terms and Conditions of Restricted Stock and Restricted Stock Units</font></i></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.4in; text-indent:-0.01in;text-align:left;'><font size=2>The Committee may grant Restricted Stock or Restricted Stock Units at any time and from time to time prior to the expiration of the Plan to eligible employee Participants selected by the Committee. A Participant shall have rights as a stockholder with respect to any Shares subject to a Restricted Stock Award hereunder only to the extent specified in this Plan or the Restricted Stock Agreement evidencing such Award. Awards of Restricted Stock or Restricted Stock Units shall be evidenced only by such agreements, notices and/or terms or conditions documented in such form (including by electronic communications) as may be approved by the Committee. Awards of Restricted Stock or Restricted Stock Units granted pursuant to the Plan need not be identical but each must contain or be subject to the following terms and conditions:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="38" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(i)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Terms and Conditions.</font></i><font size=2> Each Restricted Stock Agreement and each Restricted Stock Unit Agreement shall contain provisions regarding (a) the number of Shares subject to such Award or a formula for determining such, (b) the purchase price of the Shares, if any, and the means of payment for the Shares, (c) the performance criteria, if any, and level of achievement versus these criteria that shall determine the number of Shares granted, issued, retainable and/or vested, (d) such terms and conditions on the grant, issuance, vesting and/or forfeiture of the Shares as may be determined from time to time by the Committee, (e) restrictions on the transferability of the Shares and (f) such further terms and conditions as may be determined from time to time by the Committee, in each case not inconsistent with this Plan.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="38" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="23" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(ii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Sale Price.</font></i><font size=2> Subject to the requirements of applicable law, the Committee shall determine the price, if any, at which Shares of Restricted Stock or Restricted Stock Units shall be sold or awarded to a Participant, which may vary from time to time and among Participants and which may be below the market value of such Shares at the date of grant or issuance.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="38" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iii)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Share Vesting.</font></i><font size=2> The grant, issuance, retention and/or vesting of Shares under Restricted Stock or Restricted Stock Unit Awards shall be at such time and in such installments as determined by the Committee or under criteria established by the Committee. The Committee shall have the right to make the timing of the grant and/or the issuance, ability to retain and/or vesting of Shares under Restricted Stock or Restricted Stock Unit Awards subject to continued employment, passage of time and/or such performance criteria and level of achievement versus these criteria as deemed appropriate by the Committee, which criteria may be based on financial performance and/or personal performance evaluations. Up to 100,000 Shares shall be available for issuance to employee Participants as Awards having no minimum vesting period. No condition that is based
+on performance criteria and level of achievement versus such criteria shall be based on performance over a period of less than one year, and no condition that is based upon continued employment or the passage of time shall provide for vesting in full of a </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.67in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>7</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.67in;text-align:left;'><font size=2>Restricted Stock or Restricted Stock Unit Award in less than pro rata installments over three years from the date the Award is made, other than with respect to such Awards that are issued upon exercise or settlement of Stock Options or SARs or upon the death, disability or retirement of the Participant, in each case as specified in the agreement evidencing such Award. Notwithstanding anything to the contrary herein, the performance criteria for any Restricted Stock or Restricted Stock Unit that is intended to satisfy the requirements for &#147;performance-based compensation&#148; under Section 162(m) of the Code shall be a measure based on one or more Qualifying Performance Criteria selected by the Committee and specified at the time the Restricted Stock Award is granted.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="38" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iv)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Termination of Employment.</font></i><font size=2> The Restricted Stock or Restricted Stock Unit Agreement may provide for the forfeiture or cancellation of the Restricted Stock or Restricted Stock Unit Award, in whole or in part, in the event of the termination of employment or service of the Participant to whom it was granted.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="38" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(v)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Restricted</font><i><font size=2> Stock Units.</font></i><font size=2> Except to the extent this Plan or the Committee specifies otherwise, Restricted Stock Units represent an unfunded and unsecured obligation of the Corporation and do not confer any of the rights of a stockholder until Shares are issued thereunder. Settlement of Restricted Stock Units upon expiration of the deferral or vesting period shall be made in Shares or otherwise as determined by the Committee. Dividends or dividend equivalent rights shall be payable in cash or in additional shares with respect to Restricted Stock Units only to the extent specifically provided for by the Committee. Until a Restricted Stock Unit is settled, the number of Shares represented by a Restricted Stock Unit shall be subject to adjustment pursuant to Section 11. Any Restricted Stock Units that are settled after the
+Participant&#146;s death shall be distributed to the Participant&#146;s designated beneficiary(ies) or, if none was designated, the Participant&#146;s estate.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="38" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="26" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(vi)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Suspension or Termination of Restricted Stock Options and Restricted Stock Units.</font></i><font size=2> If at any time the Committee, including any Subcommittee or administrator authorized pursuant to Section 3(b) (any such person, an &#147;Authorized Officer&#148;), reasonably believes that a Participant, other than an Outside Director, has committed an act of misconduct as described in this Section, the Authorized Officer may suspend the vesting of Shares under the Participant&#146;s Restricted Stock or Restricted Stock Unit Awards pending a determination of whether an act of misconduct has been committed. If the Committee or an Authorized Officer determines a Participant, other than an Outside Director, has committed an act of embezzlement, fraud, dishonesty, nonpayment of any obligation owed to Intel, breach of fiduciary duty or deliberate disregard of
+Corporation rules resulting in loss, damage or injury to the Corporation, or if a Participant makes an unauthorized disclosure of any Corporation trade secret or confidential information, engages in any conduct constituting unfair competition, induces any customer to breach a contract with the Corporation or induces any principal for whom Intel acts as agent to terminate such agency relationship, the Participant&#146;s Restricted Stock or Restricted Stock Unit Agreement shall be forfeited and cancelled. In addition, for any Participant who is designated as an &#147;executive officer&#148; by the Board of Directors, if the Committee determines that the Participant engaged in an act of embezzlement, fraud or breach of fiduciary duty during the Participant&#146;s employment that contributed to an obligation to restate the Corporation&#146;s financial statements (&#147;Contributing Misconduct&#148;), the Participant shall be required to repay to the Corporation, in cash and upon demand,
+the Restricted Stock Proceeds (as defined below) resulting from any sale or other disposition (including to the Corporation) of Shares issued or issuable upon the vesting of Restricted Stock or a Restricted Stock Unit if the sale or disposition was effected during the twelve-month period following the first public issuance or filing with the SEC of the financial statements required to be restated. The term &#147;Restricted Stock Proceeds&#148; means, with respect to any sale or other disposition (including to the Corporation) of Shares issued or issuable upon vesting of Restricted Stock or a Restricted Stock Unit, an amount determined appropriate by the Committee to reflect the effect of the restatement on the Corporation&#146;s stock price, up to the amount equal to the market value per Share at the time of such sale or other disposition multiplied by the number of Shares or units </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.67in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>8</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.67in;text-align:left;'><font size=2>sold or disposed of. The return of Restricted Stock Proceeds is in addition to and separate from any other relief available to the Corporation due to the executive officer&#146;s Contributing Misconduct. Any determination by the Committee or an Authorized Officer with respect to the foregoing shall be final, conclusive and binding on all interested parties. For any Participant who is an executive officer, the determination of the Committee or of the Authorized Officer shall be subject to the approval of the Board of Directors.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>9. OUTSIDE DIRECTOR AWARDS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Each Outside Director may be granted Awards (each an &#147;Outside Director Award&#148;) each fiscal year for up to 30,000 Shares, as determined by the Board of Directors. Notwithstanding anything to the contrary in this Plan, the foregoing limitation shall be subject to adjustment under Section 11. The number of Shares subject to each Outside Director Award, or the formula pursuant to which such number shall be determined, the type or types of Awards included in the Outside Director Awards, the date of grant and the vesting, expiration and other terms applicable to such Outside Director Awards shall be specified from time to time by the Board of Directors, subject to the terms of this Plan, including the terms specified in Section 8. If the Board of Directors reasonably believes that an Outside Director has committed an act of misconduct as specified in Section 8(a)(v) or 8(b)(vi), the Board of Directors may
+suspend the Outside Director&#146;s right to exercise any Stock Option or SAR and/or the vesting of any Restricted Stock or Restricted Stock Unit Award pending a determination of whether an act of misconduct has been committed. If the Board of Directors determines that an Outside Director has committed an act of misconduct, neither the Outside Director nor his or her estate shall be entitled to exercise any Stock Option or SAR whatsoever and shall forfeit any unvested Restricted Stock or Restricted Stock Unit Award.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>10. OTHER PROVISIONS APPLICABLE TO AWARDS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Transferability. </font></i><font size=2>Unless the agreement or other document evidencing an Award (or an amendment thereto authorized by the Committee) expressly states that the Award is transferable as provided hereunder, no Award granted under this Plan, nor any interest in such Award, may be sold, assigned, conveyed, gifted, pledged, hypothecated or otherwise transferred in any manner, other than by will or the laws of descent and distribution. The Committee may grant an Award or amend an outstanding Award to provide that the Award is transferable or assignable (a) in the case of a transfer without the payment of any consideration, to any &#147;family member&#148; as such term is defined in Section 1(a)(5) of the General Instructions to Form S-8 under the Securities Act of 1933, as such may be amended from time to time, and (b) in any transfer described in
+clause (ii) of Section 1(a)(5) of the General Instructions to Form S-8 under the 1933 Act as amended from time to time, </font><i><font size=2>provided </font></i><font size=2>that following any such transfer or assignment the Award will remain subject to substantially the same terms applicable to the Award while held by the Participant to whom it was granted, as modified as the Committee shall determine appropriate, and as a condition to such transfer the transferee shall execute an agreement agreeing to be bound by such terms; </font><i><font size=2>provided further</font></i><font size=2>, that an ISO may be transferred or assigned only to the extent consistent with Section 422 of the Code. Any purported assignment, transfer or encumbrance that does not qualify under this Section 10(a) shall be void and unenforceable against the Corporation.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Qualifying Performance Criteria.</font></i><font size=2> For purposes of this Plan, the term &#147;Qualifying Performance Criteria&#148; shall mean any one or more of the following performance criteria, either individually, alternatively or in any combination, applied to either the Corporation as a whole or to a business unit or Subsidiary, either individually, alternatively or in any combination, and measured either annually or cumulatively over a period of years, on an absolute basis or relative to a pre-established target, to previous years&#146; results or to a designated comparison group, in each case as specified by the Committee in the Award: (a) cash flow, (b) earnings per share, (c) earnings before interest, taxes and amortization, (d) return on equity, (e) total stockholder return, (f) share price performance, (g) return on capital, (h) return on
+assets or net assets, (i) revenue, (j) income or net income, (k) operating income or net operating income, (l) operating profit or net operating profit, (m) operating margin or profit margin, (n) return on operating revenue, (o) return on invested capital, (p) market segment share, (q) product release schedules, (r) new product innovation, (s) product cost reduction </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse; '>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>9</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in;text-align:left;'><font size=2>through advanced technology, (t) brand recognition/acceptance, (u) product ship targets, or (v) customer satisfaction. The Committee may appropriately adjust any evaluation of performance under a Qualifying Performance Criteria to exclude any of the following events that occurs during a performance period: (i) asset write-downs, (ii) litigation or claim judgments or settlements, (iii) the effect of changes in or provisions under tax law, accounting principles or other such laws or provisions affecting reported results, (iv) accruals for reorganization and restructuring programs and (v) any extraordinary non-recurring items as described in Accounting Principles Board Opinion No. 30 and/or in management&#146;s discussion and analysis of financial condition and results of operations appearing in the Corporation&#146;s annual report to stockholders for the applicable year. Notwithstanding
+satisfaction of any completion of any Qualifying Performance Criteria, to the extent specified at the time of grant of an Award, the number of Shares, Stock Options, SARs, Restricted Stock Units or other benefits granted, issued, retainable and/or vested under an Award on account of satisfaction of such Qualifying Performance Criteria may be reduced by the Committee on the basis of such further considerations as the Committee in its sole discretion shall determine.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Dividends. </font></i><font size=2>Unless otherwise provided by the Committee, no adjustment shall be made in Shares issuable under Awards on account of cash dividends that may be paid or other rights that may be issued to the holders of Shares prior to their issuance under any Award. The Committee shall specify whether dividends or dividend equivalent amounts shall be paid to any Participant with respect to the Shares subject to any Award that have not vested or been issued or that are subject to any restrictions or conditions on the record date for dividends.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Documents Evidencing Awards.</font></i><font size=2> The Committee shall, subject to applicable law, determine the date an Award is deemed to be granted. The Committee or, except to the extent prohibited under applicable law, its delegate(s) may establish the terms of agreements or other documents evidencing Awards under this Plan and may, but need not, require as a condition to any such agreement&#146;s or document&#146;s effectiveness that such agreement or document be executed by the Participant, including by electronic signature or other electronic indication of acceptance, and that such Participant agree to such further terms and conditions as specified in such agreement or document. The grant of an Award under this Plan shall not confer any rights upon the Participant holding such Award other than such terms, and subject to such conditions, as are
+specified in this Plan as being applicable to such type of Award (or to all Awards) or as are expressly set forth in the agreement or other document evidencing such Award.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(e)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Additional Restrictions on Awards.</font></i><font size=2> Either at the time an Award is granted or by subsequent action, the Committee may, but need not, impose such restrictions, conditions or limitations as it determines appropriate as to the timing and manner of any resales by a Participant or other subsequent transfers by a Participant of any Shares issued under an Award, including without limitation (a) restrictions under an insider trading policy, (b) restrictions designed to delay and/or coordinate the timing and manner of sales by the Participant or Participants, and (c) restrictions as to the use of a specified brokerage firm for receipt, resales or other transfers of such Shares.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(f)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Subsidiary Awards.</font></i><font size=2> In the case of a grant of an Award to any Participant employed by a Subsidiary, such grant may, if the Committee so directs, be implemented by Intel issuing any subject Shares to the Subsidiary, for such lawful consideration as the Committee may determine, upon the condition or understanding that the Subsidiary will transfer the Shares to the Participant in accordance with the terms of the Award specified by the Committee pursuant to the provisions of the Plan. Notwithstanding any other provision hereof, such Award may be issued by and in the name of the Subsidiary and shall be deemed granted on such date as the Committee shall determine. </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.4in; text-indent:-0.2in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.4in; text-indent:-0.4in;text-align:left;'><b><font size=2>11. ADJUSTMENT OF AND CHANGES IN THE COMMON STOCK</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>The existence of outstanding Awards shall not affect in any way the right or power of the Corporation or its shareholders to make or authorize any or all adjustments, recapitalizations, reorganizations, exchanges, or other changes in the Corporation&#146;s capital structure or its business, or any merger or consolidation of the Corporation or any issuance of Shares or other securities or </font></p> </td> </tr></table>
+</div>
+
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="316" style='border-collapse:collapse'>
+    <tr >
+        <td width="281" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="35" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>10</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in;text-align:left;'><font size=2>subscription rights thereto, or any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the Shares or other securities of the Corporation or the rights thereof, or the dissolution or liquidation of the Corporation, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. Further, except as expressly provided herein or by the Committee, (i) the issuance by the Corporation of shares of stock or any class of securities convertible into shares of stock of any class, for cash, property, labor or services, upon direct sale, upon the exercise of rights or warrants to subscribe therefor, or upon conversion of shares or obligations of the Corporation convertible into such shares or other securities, (ii) the payment of a dividend in property other than Shares, or
+(iii) the occurrence of any similar transaction, and in any case whether or not for fair value, shall not affect, and no adjustment by reason thereof shall be made with respect to, the number of Shares subject to Stock Options or other Awards theretofore granted or the purchase price per Share, unless the Committee shall determine, in its sole discretion, that an adjustment is necessary or appropriate.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>If the outstanding Shares or other securities of the Corporation, or both, for which the Award is then exercisable or as to which the Award is to be settled shall at any time be changed or exchanged  by declaration of a stock dividend, stock split, combination of shares, extraordinary dividend of cash and/or assets, recapitalization, reorganization or any similar equity restructuring transaction (as that term is used in Statement of Financial Accounting Standards No. 123 (revised)  affecting the Shares or other securities of the Corporation, the Committee shall equitably adjust the number and kind of Shares or other securities that are subject to this Plan and to the limits under Section 6 and that are subject to any Awards theretofore granted, and the exercise or settlement prices of such Awards, so as to maintain the proportionate number of Shares or other
+securities subject to such Awards without changing the aggregate exercise or settlement price, if any. </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>No right to purchase fractional Shares shall result from any adjustment in Stock Options or SARs pursuant to this Section 11. In case of any such adjustment, the Shares subject to the Stock Option or SAR shall be rounded down to the nearest whole share.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Any other provision hereof to the contrary notwithstanding (except Section 11(a)), in the event Intel is a party to a merger or other reorganization, outstanding Awards shall be subject to the agreement of merger or reorganization. Such agreement may provide, without limitation, for the assumption of outstanding Awards by the surviving corporation or its parent, for their continuation by Intel (if Intel is a surviving corporation), for accelerated vesting and accelerated expiration, or for settlement in cash.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.42in; text-indent:-0.22in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>12. LISTING OR QUALIFICATION OF COMMON STOCK</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>In the event that the Committee determines in its discretion that the listing or qualification of the Shares available for issuance under the Plan on any securities exchange or quotation or trading system or under any applicable law or governmental regulation is necessary as a condition to the issuance of such Shares, a Stock Option or SAR may not be exercised in whole or in part and a Restricted Stock or Restricted Stock Unit Award shall not vest or be settled unless such listing, qualification, consent or approval has been unconditionally obtained.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>13. TERMINATION OR AMENDMENT OF THE PLAN</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The Board of Directors may amend, alter or discontinue the Plan and the Board or the Committee may to the extent permitted by the Plan amend any agreement or other document evidencing an Award made under this Plan, provided, however, that the Corporation shall submit for stockholder approval any amendment (other than an amendment pursuant to the adjustment provisions of Section 11) required to be submitted for stockholder approval by NASDAQ or that otherwise would:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Increase the maximum number of Shares for which Awards may be granted under this Plan;</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="316" style='border-collapse:collapse'>
+    <tr >
+        <td width="281" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="35" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>11</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Reduce the price at which Stock Options may be granted below the price provided for in Section 8(a);</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Reduce the option price of outstanding Stock Options; </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Extend the term of this Plan; </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(e)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Change the class of persons eligible to be Participants; or </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(f)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Increase the limits in Section 6. </font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>In addition, no such amendment or alteration shall be made which would impair the rights of any Participant, without such Participant&#146;s consent, under any Award theretofore granted, provided that no such consent shall be required with respect to any amendment or alteration if the Committee determines in its sole discretion that such amendment or alteration either (i) is required or advisable in order for the Corporation, the Plan or the Award to satisfy or conform to any law or regulation or to meet the requirements of any accounting standard, or (ii) is not reasonably likely to significantly diminish the benefits provided under such Award, or that any such diminishment has been adequately compensated.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>14. WITHHOLDING</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>To the extent required by applicable federal, state, local or foreign law, the Committee may and/or a Participant shall make arrangements satisfactory to the Corporation for the satisfaction of any withholding tax obligations that arise with respect to any Stock Option, SAR, Restricted Stock or Restricted Stock Unit Award, or any sale of Shares. The Corporation shall not be required to issue Shares or to recognize the disposition of such Shares until such obligations are satisfied. To the extent permitted or required by the Committee, these obligations may or shall be satisfied by having the Corporation withhold a portion of the Shares of stock that otherwise would be issued to a Participant under such Award or by tendering Shares previously acquired by the Participant.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>15. GENERAL PROVISIONS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(a)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Employment At Will.</font></i><font size=2> Neither the Plan nor the grant of any Award nor any action by the Corporation, any Subsidiary or the Committee shall be held or construed to confer upon any person any right to be continued in the employ of the Corporation or a Subsidiary. The Corporation and each Subsidiary expressly reserve the right to discharge, without liability but subject to his or her rights under this Plan, any Participant whenever in the sole discretion of the Corporation or a Subsidiary, as the case may be, it may determine to do so.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(b)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Governing Law.</font></i><font size=2> This Plan and any agreements or other documents hereunder shall be interpreted and construed in accordance with the laws of the State of Delaware and applicable federal law. The Committee may provide that any dispute as to any Award shall be presented and determined in such forum as the Committee may specify, including through binding arbitration. Any reference in this Plan or in the agreement or other document evidencing any Award to a provision of law or to a rule or regulation shall be deemed to include any successor law, rule or regulation of similar effect or applicability.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="19" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="21" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(c)</font></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><i><font size=2>Unfunded Plan.</font></i><font size=2> Insofar as it provides for Awards, the Plan shall be unfunded. Although bookkeeping accounts may be established with respect to Participants who are granted Awards under this Plan, any such accounts will be used merely as a bookkeeping convenience. The Corporation shall not be required to segregate any assets which may at any time be represented by Awards, nor shall this Plan be construed as providing for such segregation, nor shall the Corporation or the Committee be deemed to be a trustee of stock or cash to be awarded under the Plan.</font></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.41in; text-indent:-0.21in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="316" style='border-collapse:collapse'>
+    <tr >
+        <td width="281" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="35" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>12</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.41in; text-indent:-0.41in;text-align:left;'><b><font size=2>16. NON-EXCLUSIVITY OF PLAN</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Neither the adoption of this Plan by the Board of Directors nor the submission of this Plan to the shareholders of the Corporation for approval shall be construed as creating any limitations on the power of the Board of Directors or the Committee to adopt such other incentive arrangements as either may deem desirable, including, without limitation, the granting of stock options, stock appreciation rights, restricted stock or restricted stock units otherwise than under this Plan, and such arrangements may be either generally applicable or applicable only in specific cases.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>17. COMPLIANCE WITH OTHER LAWS AND REGULATIONS</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>This Plan, the grant and exercise of Awards thereunder, and the obligation of the Corporation to sell, issue or deliver Shares under such Awards, shall be subject to all applicable federal, state and local laws, rules and regulations and to such approvals by any governmental or regulatory agency as may be required. The Corporation shall not be required to register in a Participant&#146;s name or deliver any Shares prior to the completion of any registration or qualification of such Shares under any federal, state or local law or any ruling or regulation of any government body which the Committee shall determine to be necessary or advisable. To the extent the Corporation is unable to or the Committee deems it infeasible to obtain authority from any regulatory body having jurisdiction, which authority is deemed by the Corporation&#146;s counsel to be necessary or advisable for the lawful issuance and sale of any
+Shares hereunder, the Corporation shall be relieved of any liability with respect to the failure to issue or sell such Shares as to which such requisite authority shall not have been obtained. No Stock Option shall be exercisable and no Shares shall be issued and/or transferable under any other Award unless a registration statement with respect to the Shares underlying such Stock Option is effective and current or the Corporation has determined that such registration is unnecessary.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>18. LIABILITY OF CORPORATION</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The Corporation shall not be liable to a Participant or other persons as to: (a) the non-issuance or sale of Shares as to which the Corporation has been unable to obtain from any regulatory body having jurisdiction the authority deemed by the Corporation&#146;s counsel to be necessary to the lawful issuance and sale of any Shares hereunder; and (b) any tax consequence expected, but not realized, by any Participant or other person due to the receipt, exercise or settlement of any Stock Option or other Award granted hereunder.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="316" style='border-collapse:collapse'>
+    <tr >
+        <td width="281" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="35" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>13</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>exh102.htm
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="641" style='border-collapse:collapse'>
+    <tr >
+        <td width="552" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:right;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="89" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:right;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Exhibit 10.2</font></b><font size=2>&nbsp;</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>INTEL CORPORATION </font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>2007 EXECUTIVE OFFICER INCENTIVE PLAN </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2> EFFECTIVE AS OF JANUARY 1, 2007 </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>1. PURPOSE </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The purpose of this 2007 Executive Officer Incentive Plan (the &#147;Incentive Plan&#148;) is to motivate and reward eligible employees by making a portion of their cash compensation (the &#147;Incentive Plan Payments&#148;) dependent on Intel Corporation (the &#147;Company&#148;) performance, and individual performance, as defined herein and determined by the Compensation Committee of the Board of Directors (the &#147;Committee&#148;).  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>2. COVERED INDIVIDUALS </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The individuals to whom Incentive Plan Payments may be made hereunder shall be the executive officers of the Company, and such other officers of the Company as the Committee shall determine in its sole discretion (the &#147;Covered Individuals&#148;). </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>3. THE COMMITTEE </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(a)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Committee shall have the sole discretion and authority to administer and interpret the Incentive Plan. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(b) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subject to the express provisions and limitations of this Incentive Plan, the Committee shall be authorized and empowered to do all things necessary or desirable, in its sole discretion, in connection with the administration of the Incentive Plan, including, without limitation, the following: </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="50" >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p> </td>
+        <td width="31" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(i)</font></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>To prescribe, amend and rescind rules and regulations relating to the Incentive Plan and to define terms not otherwise defined herein; </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="50" >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p> </td>
+        <td width="31" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(ii)</font></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>To designate Covered Individuals and to determine the Incentive Plan Payments, if any, to be made to such Covered Individuals; </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="50" >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p> </td>
+        <td width="31" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iii)</font></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>To prescribe and amend the terms of any agreements or other documents under the Incentive Plan; </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="50" >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p> </td>
+        <td width="31" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(iv)</font></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>To determine whether, and the extent to which, adjustments are required pursuant to Section 4; </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="50" >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p> </td>
+        <td width="31" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(v)</font></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>To interpret and construe the Incentive Plan, any rules and regulations under the Incentive Plan, and the terms and conditions of any Incentive Plan Payment provided hereunder, and to make exceptions to any such provisions in good faith and for the benefit of the Company; and </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="50" >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p> </td>
+        <td width="31" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(vi)</font></p> </td>
+        <td width="543" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>To make all other determinations deemed necessary or advisable for the administration of the Incentive Plan. </font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All decisions, determinations and interpretations by the Committee regarding the Incentive Plan and Incentive Plan Payments shall be final and binding on all Covered Individuals. The Committee shall consider such factors as it deems relevant to making such decisions, determinations and interpretations including, without </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+&nbsp;
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse'>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>1</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>limitation, the recommendations or advice of any director, officer or employee of the Company and such attorneys, consultants and accountants as it may select. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>4. AMOUNT OF INCENTIVE </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Covered Individual&#146;s Incentive Plan Payment shall be the product of (i) the Executive Officer Incentive Plan Multiplier, as described in paragraph (b) below, multiplied by (ii) the Covered Individual&#146;s Incentive Baseline, as described in paragraph (f) below, multiplied by (iii) the Covered Individual&#146;s Performance Adjustment, as described in paragraph (g) below, and subject to a Discretionary Reduction and Maximum Incentive Plan Payment as described in paragraph (h) below. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Executive Officer Incentive Plan Multiplier. The Executive Officer Incentive Plan Multiplier shall be determined by adding the sum of (i), (ii) and (iii), where: </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in;text-align:left;'><font size=2>(i) is the Company&#146;s net income for the performance period divided by the average of the Company&#146;s net income from the previous three fiscal years;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in;text-align:left;'><font size=2>(ii) is the Company&#146;s net income growth for the performance period (plus 1), divided by the average of the net income growth of the Market (plus 1) (the &#147;Market&#148; is the S&amp;P 100 and a group of technology peer companies, as determined by the Committee in its sole discretion with respect to each performance period); and</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in;text-align:left;'><font size=2>(iii) is the percentage of performance against operational goals, not to exceed 125%, (as determined by the Committee in its sole discretion with respect to each performance period).</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:1in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s net income and the Market&#146;s net income may be adjusted based upon qualifying criteria selected by the Committee in its sole discretion. Such criteria may include, but are not limited to asset write-downs; acquisition-related charges; litigation, claim judgments, settlements or tax settlements; the effects of changes in tax law, changes in accounting principles or other such laws or provisions affecting reported results; accruals for reorganization and restructuring programs; unrealized gains or losses on investments; and any extraordinary non-recurring items as described in Accounting Principles Board Opinion No. 30 and/or in management&#146;s discussion and analysis of financial condition and results of operations appearing in the annual report to stockholders for the applicable year. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the event one of the S&amp;P 100 or technology peer companies has an event which significantly alters the value of Section 4(b)(ii) (e.g., large acquisition or divestiture, extra-ordinary event which has significant positive or negative impact on earnings), the Committee may exclude that company from the formula for one or more years. </font></p>
+
+<p style=' margin-bottom:5pt; margin-top:5pt; text-indent:0.5in;text-align:left;'><font size=2>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The operational goals shall include any one or more of the following performance criteria, measured either annually or cumulatively over a period of years, on an absolute basis or relative to a pre-established target, to previous years&#146; results or to a designated comparison group, in each case as specified by the Committee: (i) product release schedules, (ii) new product innovation, (iii) product cost reduction through advanced technology, (iv) brand recognition/acceptance, (v) product ship targets, (vi) customer satisfaction, (vii) initiatives/projects related to improvements in infrastructure/ support systems, including Human Resources, Information Technology and Finance, (viii) performance against cost and productivity goals, (ix) effectiveness of investment strategies towards stated goals, (x) inventory/supply
+chain management initiatives, (xi) cash flow, (xii) earnings per share, (xiii) earnings before interest, taxes and amortization, (xiv) return on equity, (xv) total stockholder return, (xvi) share price performance, (xvii) return on capital, (xviii) return on assets or net assets, (xix) revenue, (xx) income or net income, (xxi) operating income or net operating income, (xxii) operating profit or net operating profit, (xxiii) operating margin or profit margin, (xxiv) return on operating revenue, (xxv) return on invested capital, (xxvi) market segment share, or (xxvii) such other criteria as the Committee may determine are appropriate to measure the performance of a Covered Individual in carrying out his or her assigned duties and responsibilities, as defined within the first 90 days of the performance period. If an unusual or extra-ordinary event makes one or more of the operational goals obsolete, the Committee has the discretion to adjust or eliminate the goal(s) as appropriate.
+</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+&nbsp;
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse'>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>2</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incentive Baseline. The incentive baseline amount for each covered individual shall be determined by the Committee in its sole discretion with respect to each performance period. A performance period shall be a single fiscal year of the Company unless otherwise determined by the Committee. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(g) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Individual Performance Adjustment: The individual performance adjustment percentage can be between 90% and 110%. The Committee reserves the right to apply subjective, discretionary criteria to determine the individual performance adjustment percentage.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.56in;text-align:left;'><font size=2> (h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discretionary Reduction and Maximum Incentive Plan Payment. Upon determining the result of multiplying the Covered Individual&#146;s Incentive Baseline, Executive Officer Incentive Plan Multiplier and Individual Performance Adjustment, the Committee may reduce, but not to increase, the result by applying discretionary criteria. The Incentive Plan Payment payable hereunder shall be paid in lieu of any incentive payable under the Company&#146;s broad-based variable cash incentive program. No Covered Individual shall receive an Incentive Plan Payment for a performance period in excess of $10,000,000. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>5. PAYMENT OF INCENTIVE </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Incentive Plan Payments shall be made in cash, and no Incentive Plan Payment shall be paid to a Covered Individual unless he or she is an employee of the Company as of the last day of the performance period. The Committee may establish rules in its sole discretion regarding the Incentive Plan Payment which shall be made in the case of the retirement, death or disability of a Covered Individual prior to the end of a performance period, and the persons to whom such payments shall be made.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the Company&#146;s financial statements are the subject of a restatement due to error or misconduct, to the extent permitted by governing law, in all appropriate cases, the Company will seek reimbursement of excess incentive cash compensation paid under the Incentive Plan to Covered Individuals for the relevant performance periods. For purposes of this Incentive Plan, excess incentive cash compensation means the positive difference, if any, between (i) the Incentive Plan Payment paid to the Covered Individual and (ii) the Incentive Plan Payment that would have been made to the Covered Individual, not including the effect of any adjustments under Sections 4 (g) and (h), had the multiplier been calculated based on the Company&#146;s financial statements as restated. The Company will not be required to award Covered
+Individuals an additional Incentive Plan Payment should the restated financial statements result in a higher Incentive Plan Payment.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>6. AMENDMENT AND TERMINATION </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The Company reserves the right to amend or terminate this Incentive Plan at any time by action of the Board of Directors or the Committee with respect to future services of Covered Individuals. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>7. TAX WITHHOLDING </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The Company shall have the right to make all payments or distributions pursuant to the Incentive Plan to any person, net of any applicable federal, state and local payroll or withholding taxes, or the applicable taxes of any foreign jurisdiction (collectively, &#147;Taxes&#148;), required to be paid or withheld. The Company shall have the right to withhold from wages or other amounts otherwise payable to such covered individual such Taxes as may be required by law, or if permitted by law, to otherwise require the covered individual to pay such Taxes. If such person shall fail to make such Tax payments as are required, the Company shall, to the extent permitted by law, have the right to deduct any such Taxes from any payment of any kind otherwise due to such covered individual or to take such other action as may be necessary to satisfy such Tax obligations. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>8. SEVERABILITY </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>If any provision of this Incentive Plan shall be held unlawful or otherwise invalid or unenforceable in whole or in part by a court of competent jurisdiction, such provision shall (a) be deemed limited to the extent that such court of competent jurisdiction deems it lawful, valid and/or enforceable and as so limited shall remain in full force and effect, and (b) not affect any other provision of the Incentive Plan or part thereof, each of which shall remain in full force and effect. If the making of any payment or the provision of any other benefit provided for under the Incentive Plan shall be held unlawful or otherwise invalid or unenforceable by a court of competent jurisdiction, such unlawfulness, invalidity or unenforceability shall not prevent any other payment or benefit from being made or provided under the Incentive Plan, and if the making of any payment in full or the provision of
+any other benefit provided for under the Incentive Plan in full would be unlawful or otherwise invalid or unenforceable, then such </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+&nbsp;
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse'>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>3</font></p> </td> </tr></table>
+</div>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>unlawfulness, invalidity or unenforceability shall not prevent such payment or benefit from being made or provided in part, to the extent that it would not be unlawful, invalid or unenforceable, and the maximum payment or benefit that would not be unlawful, invalid or unenforceable shall be made or provided under the Incentive Plan. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>9. NON-ASSIGNABILITY </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>Unless the Committee expressly provides otherwise in writing, no Covered Individual nor any other person may sell, assign, convey, gift, pledge or otherwise hypothecate or alienate any Incentive Plan Payment. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>10. NON-EXCLUSIVITY OF THE INCENTIVE PLAN </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The adoption of the Incentive Plan by the Board of Directors and submission of the Incentive Plan to stockholders for approval do not create any limitation on the power of the Committee or the Board of Directors to adopt other cash or equity-based compensation programs. Neither the adoption of the Incentive Plan by the Board of Directors nor the submission of the Incentive Plan to the stockholders of the Company for approval shall be construed as creating any limitations on the power of the Board of Directors or the Committee to adopt such other incentive arrangements as either may deem desirable, including, without limitation, cash or equity-based compensation arrangements, either tied to performance or otherwise, and any such other arrangements as may be either generally applicable or applicable only in specific cases. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>11. EMPLOYMENT AT WILL </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>Neither the Incentive Plan, the selection of a person as a Covered Individual,  the payment of any Incentive Plan Payment to any Covered Individual, nor any action by the Company or the Committee shall be held or construed to confer upon any person any right to be continued in the employ of the Company. The Company expressly reserves the right to discharge any Covered Individual whenever in the sole discretion of the Company its interest may so require. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>12. NO VESTED INTEREST OR RIGHT </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>At no time before the actual payment of an Incentive Plan Payment to any Covered Individual or other person shall any Covered Individual or other person accrue any vested interest or right whatsoever under the Incentive Plan, and the Company has no obligation to treat Covered Individuals identically under the Incentive Plan. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>13. GOVERNING LAW </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>The Incentive Plan and any agreements and documents hereunder shall be interpreted and construed in accordance with the laws of the State of Delaware and applicable federal law. The Committee may provide that any dispute concerning the Incentive Plan shall be presented and determined in such forum as the Committee may specify, including through binding arbitration. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>14. EFFECTIVE DATE</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.55in;text-align:left;'><font size=2>This Incentive Plan shall be effective as of January 1, 2007 subject to approval by vote of stockholders at the Company&#146;s 2007 annual meeting.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+&nbsp;
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="312" style='border-collapse:collapse'>
+    <tr >
+        <td width="285" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="27" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>4</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

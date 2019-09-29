@@ -1,0 +1,489 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AWu+PWGrq4KL5Ush66+1m2wiD/gsEv5qlNy/rvZGTAYWUybWMEgEpqN9RkHY8GBG
+ B/JHFHRWlo/AXmvPgnzykA==
+
+<SEC-DOCUMENT>/in/edgar/work/0000050863-00-000123/0000050863-00-000123.txt : 20001023
+<SEC-HEADER>0000050863-00-000123.hdr.sgml : 20001023
+ACCESSION NUMBER:		0000050863-00-000123
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20001017
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20001020
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		8-K
+			SEC ACT:		
+			SEC FILE NUMBER:	000-06217
+			FILM NUMBER:		742969
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2200 MISSION COLLEGE BLVD
+				CITY:			SANTA CLARA
+				STATE:			CA
+				ZIP:			95052
+				BUSINESS PHONE:		4087658080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2200 MISSION COLLEGE BLVD
+					STREET 2:		RN6-27
+					CITY:			SANTA CLARA
+					STATE:			CA
+					ZIP:			95052-8119
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C. 20549
+
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+                      Pursuant to Section 13 or 15 (d)
+                   of the Securities Exchange Act of 1934
+
+
+                       Date of Report:  October 17, 2000
+                     (Date of earliest event reported)
+
+
+
+                            INTEL CORPORATION
+       (Exact name of registrant as specified in its charter)
+
+
+
+  Delaware                     0-6217                   94-1672743
+- -----------                  -----------            ------------------
+(State of                   (Commission             (IRS Employer
+incorporation)              File Number)           Identification No.)
+
+
+
+2200 Mission College Blvd., Santa Clara, California            95052-8119
+- ----------------------------------------------------           ----------
+(Address of principal executive offices)                       (Zip Code)
+
+
+                           (408) 765-8080
+                           --------------
+        (Registrant's telephone number, including area code)
+
+
+<PAGE>
+
+
+Item 5.  OTHER EVENTS
+
+    5.1  Attached hereto as Exhibit 99.1 and incorporated by reference
+         herein is financial information for Intel Corporation for the
+         quarter ended September 30, 2000 and forward-looking statements
+         relating to 2000 and the Fourth Quarter of 2000 as presented in
+         a press release of October 17, 2000.
+
+Item 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+    (c)  Exhibits
+
+         99.1  Financial information for Intel Corporation for the
+         quarter ended September 30, 2000 and forward-looking statements
+         relating to 2000 and the Fourth Quarter of 2000.
+
+
+<PAGE>
+
+
+                                    SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                INTEL CORPORATION
+                                                (Registrant)
+
+
+Date: October 17, 2000                          By:/s/ ANDY D. BRYANT
+                                                   ------------------------
+                                                   Andy D. Bryant
+                                                   Senior Vice President,
+                                                   Chief Financial Officer
+                                                   and Principal Accounting
+                                                   Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+                                                             EXHIBIT 99.1
+
+         THIRD QUARTER REVENUE A RECORD $8.7 BILLION, UP 19 PERCENT
+THIRD QUARTER EARNINGS EXCLUDING ACQUISITION-RELATED COSTS* $0.41 PER SHARE
+                   THIRD QUARTER EARNINGS PER SHARE $0.36
+
+
+*Acquisition-related costs consist of one-time write-offs of purchased in-
+process research and development and the ongoing amortization of goodwill
+and other acquisition-related intangibles and costs. Intangibles include,
+for example, the value of the acquired companies' developed technology,
+trademarks and workforce-in-place. Earnings excluding acquisition-related
+costs differ from earnings presented according to generally accepted
+accounting principles because they exclude these costs.
+
+SANTA CLARA, Calif., Oct. 17, 2000 -- Intel Corporation today announced
+third quarter revenue of $8.7 billion, a quarterly record, up 19 percent
+from the third quarter of 1999 and up 5 percent sequentially.
+          For the third quarter, net income excluding acquisition-related
+costs was $2.9 billion, up 52 percent from the third quarter of 1999 and
+down 18 percent sequentially.  Third quarter earnings excluding
+acquisition-related costs were $0.41 per share, an increase of 52 percent
+from $0.27 in
+
+
+<PAGE>
+
+
+the third quarter of 1999, and down 18 percent sequentially. All second
+quarter net income and earnings per share amounts include the previously
+reported charge to cost of sales for approximately $200 million to cover
+costs associated with the MTH motherboard replacement program and $2.3
+billion of interest and other income.
+          Including acquisition-related costs in accordance with generally
+accepted accounting principles, third quarter net income was $2.5 billion,
+up 72 percent from the third quarter of 1999 and down 20 percent
+sequentially.  Earnings per share were $0.36, up 71 percent from $0.21 in
+the third quarter of 1999 and down 20 percent sequentially.
+          Acquisition-related costs in the third quarter consisted of $8
+million in one-time charges for purchased in-process research and
+development and $420 million of amortization of goodwill and other
+acquisition-related intangibles and costs.
+          "We achieved record revenue with 19 percent growth in the third
+quarter.  It was a challenging quarter primarily because PC demand in
+Europe was not as strong as we expected entering the period," said Craig R.
+Barrett, president and chief executive officer.
+          "Looking ahead, we anticipate record revenue in the fourth
+quarter, with growth across most of our product lines," added Barrett. "We
+are especially pleased with the rapid growth in our server business, our
+record flash business, and our networking silicon business which surpassed
+our expectations in the third quarter.  We are also excited by the industry
+enthusiasm for the new low power mobile Pentium (R) III processors
+announced last month, the Pentium (R) 4 processor launching this quarter,
+the Itanium (TM) processor now shipping for pilot systems, and our recently
+introduced Intel (R) XScale (TM) microarchitecture."
+          During the quarter, the company announced the acquisition of
+Ziatech Corporation, and announced and closed the acquisitions of Trillium
+Digital Systems, Inc. and DataKinetics Ltd.  Background on each of these
+acquisitions can be found in the Third Quarter Highlights section of this
+release.
+          In September, the company said it had been notified that the
+investigation by the Federal Trade Commission into Intel's business
+practices has been closed. The investigation began in September 1997 and
+covered all aspects of Intel's business. The FTC also closed its
+investigation
+
+
+<PAGE>
+
+
+of whether Intel's acquisition of Chips and Technologies Inc. and equity in
+Real3D had any anti-competitive effect on any markets for graphics
+components or other computer hardware.
+          During the quarter, the company paid its quarterly cash dividend
+of $0.02 per share.  The dividend was paid on Sept. 1, 2000, to
+stockholders of record on Aug. 7, 2000.  Intel has paid a regular quarterly
+cash dividend for eight years.
+          During the quarter, the company repurchased a total of 14.3
+million shares of common stock at a cost of $1.0 billion, under an ongoing
+program.  Since the program began in 1990, the company has repurchased 1.4
+billion shares at a total cost of $21.2 billion.
+
+
+                              BUSINESS OUTLOOK
+
+
+The following statements are based on current expectations.  These
+statements are forward-looking, and actual results may differ materially.
+These statements do not include the potential impact of any mergers,
+acquisitions or other business combinations that may be completed after
+Sept. 30, 2000.
+
+** The company expects revenue for the fourth quarter of 2000 to be up 4 to
+8 percent from third quarter revenue of $8.7 billion.
+** The company expects gross margin percentage for the fourth quarter to be
+approximately 63 percent plus or minus a point, versus 64 percent in the
+third quarter, primarily due to start-up costs on upcoming 0.18-micron
+fabs. In the short term, Intel's gross margin percentage varies with
+revenue levels, product mix, changes in unit costs and timing of factory
+ramps and associated costs.
+** Expenses (R&D, excluding in-process R&D, plus MG&A) in the fourth
+quarter of 2000 are expected to be up 6 to 8 percent from third quarter
+expenses of $2.3 billion, primarily due to seasonally higher spending on
+marketing programs and higher revenue dependent expenses.  Expenses are
+dependent in part on the level of revenue.
+** R&D spending, excluding in-process R&D, is expected to be approximately
+$1.0 billion in the fourth quarter.
+
+
+<PAGE>
+
+
+** The company expects gains on investments and interest and other income
+for the fourth quarter of 2000 to be approximately $950 million, depending
+on interest rates, cash balances, equity market levels and volatility, the
+realization of expected gains on investments, including gains on
+investments acquired by third parties, and assuming no unanticipated items.
+** The tax rate for 2000 is expected to be approximately 31.8 percent,
+excluding the impact of the previously announced agreement with the
+Internal Revenue Service and acquisition-related costs.
+** Capital spending for 2000 is expected to be approximately $6.0 billion.
+** Depreciation is expected to be approximately $865 million in the fourth
+quarter.
+** Amortization of goodwill and other acquisition-related intangibles and
+costs is expected to be approximately $440 million in the fourth quarter.
+
+         The statements by Craig R. Barrett and the above statements
+contained in this outlook are forward-looking statements that involve a
+number of risks and uncertainties.  In addition to factors discussed above,
+among other factors that could cause actual results to differ materially
+are the following: business and economic conditions and growth in the
+computing industry in various geographic regions; changes in customer order
+patterns; changes in the mixes of microprocessor types and speeds,
+purchased components and other products; competitive factors, such as rival
+chip architectures and manufacturing technologies, competing software-
+compatible microprocessors and acceptance of new products in specific
+market segments; pricing pressures; development and timing of introduction
+of compelling software applications; insufficient, excess or obsolete
+inventory and variations in inventory valuation; continued success in
+technological advances, including development and implementation of new
+processes and strategic products for specific market segments; execution of
+the manufacturing ramp, including the transition to the 0.18-micron process
+technology; shortage of manufacturing capacity; the ability to grow new
+networking, communications, wireless and other Internet-related businesses
+and successfully integrate and operate any acquired businesses;
+unanticipated costs or other adverse effects associated with processors and
+other products containing errata
+
+
+<PAGE>
+
+
+(deviations from published specifications); litigation involving antitrust,
+intellectual property, consumer and other issues; and other risk factors
+listed from time to time in the company's SEC reports, including but not
+limited to the report on Form 10-Q for the quarter ended July 1, 2000 (Part
+I, Item 2, Outlook section).
+
+              INTEL REVISES ITS OUTLOOK PUBLICATION PROCEDURES
+
+          In connection with the recent adoption of new SEC rules on
+corporate disclosure, Intel is changing its procedures for publishing and
+updating its Outlook forward-looking statements and risk factors
+statements. Following the publication of Outlook in its quarterly Earnings
+Release, Intel will continue its current practice of having corporate
+representatives meet privately during the quarter with investors, the
+media, investment analysts and others. At these meetings Intel may
+reiterate the Outlook published in the Earnings Release. At the same time,
+Intel will keep its Earnings Release and Outlook publicly available on its
+Web site (www.intc.com). Prior to the start of the Quiet Period (described
+below), the public can continue to rely on the Outlook on the Web site as
+still being Intel's current expectations on matters covered, unless Intel
+publishes a notice stating otherwise.
+          Towards the end of each fiscal quarter, Intel will have a "Quiet
+Period" when it no longer publishes, or updates, Outlook as its current
+expectations and Intel representatives will not comment concerning Outlook
+or Intel's financial results or expectations. The Quiet Period will extend
+until the day when Intel's next quarterly Earnings Release is published.
+For the fourth quarter, the Quiet Period will be Dec. 16, 2000 through Jan.
+16, 2001.
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+
+                             INTEL CORPORATION
+                 CONSOLIDATED SUMMARY INCOME STATEMENT DATA
+                  (In millions, except per share amounts)
+
+                                             Three Months Ended       Nine Months Ended
+                                             ------------------       -----------------
+                                              Sept. 30 Sept. 25       Sept. 30 Sept. 25
+                                               2000     1999           2000     1999
+                                              -------- --------       -------- --------
+<S>                                          <C>      <C>            <C>      <C>
+NET REVENUE                                   $  8,731 $  7,328       $ 25,024 $ 21,177
+                                              --------  --------       -------- --------
+Cost of sales                                    3,148    3,026          9,420    8,660
+Research and development                           977      840          2,899    2,234
+Marketing, general and administrative            1,321      952          3,668    2,767
+Amortization of goodwill and other
+   acquisition-related intangibles and costs       420      121          1,127      170
+Purchased in-process research and
+   development                                       8      333             91      333
+                                              -------- --------       -------- --------
+Operating costs and expenses                     5,874    5,272         17,205   14,164
+                                              -------- --------       -------- --------
+OPERATING INCOME                                 2,857    2,056          7,819    7,013
+Gains on investments                               716      195          3,309      556
+Interest and other                                 250      121            638      397
+                                              -------- --------       -------- --------
+INCOME BEFORE TAXES                              3,823    2,372         11,766    7,966
+Income taxes                                     1,314      914          3,424    2,760
+                                              -------- --------       -------- --------
+NET INCOME                                    $  2,509 $  1,458       $  8,342 $  5,206
+                                              ======== ========       ======== ========
+
+BASIC EARNINGS PER SHARE                      $   0.37 $   0.22       $   1.24 $   0.78
+                                              ======== ========       ======== ========
+DILUTED EARNINGS PER SHARE                    $   0.36 $   0.21       $   1.19 $   0.75
+                                              ======== ========       ======== ========
+COMMON SHARES OUTSTANDING                        6,719    6,650          6,704    6,639
+COMMON SHARES ASSUMING DILUTION                  7,007    6,943          7,002    6,930
+
+</TABLE>
+
+Note: Certain prior period amounts have been reclassified to conform with
+the current presentation.
+
+
+- -------------------------------------------------------------------------
+
+
+PRO FORMA INFORMATION EXCLUDING
+ACQUISITION-RELATED COSTS
+
+The following pro forma supplemental information excludes the effect of
+amortization of goodwill and other acquisition-related intangibles and
+costs as well as in-process research and development. This pro forma
+information is not prepared in accordance with generally accepted
+accounting principles.
+
+<TABLE>
+<CAPTION>
+
+                                           Three Months Ended        Nine Months Ended
+                                           ------------------       ------------------
+                                           Sept. 30  Sept. 25       Sept. 30  Sept. 25
+                                             2000      1999           2000      1999
+                                           --------  --------       --------  --------
+<S>                                       <C>       <C>            <C>       <C>
+Pro forma operating costs and expenses     $  5,446  $  4,818       $ 15,987  $ 13,661
+Pro forma operating income                 $  3,285  $  2,510       $  9,037  $  7,516
+Net income excluding acquisition-related
+   costs                                   $  2,899  $  1,904       $  9,455  $  5,701
+Basic earnings per share excluding
+   acquisition-related costs               $   0.43  $   0.29       $   1.41  $   0.86
+Diluted earnings per share excluding
+   acquisition-related costs               $   0.41  $   0.27       $   1.35  $   0.82
+
+</TABLE>
+
+
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+                             INTEL CORPORATION
+                  CONSOLIDATED SUMMARY BALANCE SHEET DATA
+                               (In millions)
+
+
+                                                      Sept. 30,     July 1,     Dec. 25,
+                                                        2000         2000         1999
+                                                      --------     --------     --------
+<S>                                                  <C>          <C>          <C>
+CURRENT ASSETS
+Cash and short-term investments                       $ 14,007     $ 13,644     $ 11,788
+Accounts receivable                                      4,574        4,333        3,700
+Inventories:
+     Raw materials                                         334          232          183
+     Work in process                                       926          863          755
+     Finished goods                                        676          512          540
+                                                      --------     --------     --------
+                                                         1,936        1,607        1,478
+Deferred tax assets and other                              993          966          853
+                                                      --------     --------     --------
+     Total current assets                               21,510       20,550       17,819
+
+Property, plant and equipment, net                      13,414       12,324       11,715
+Marketable strategic equity securities                   4,548        6,201        7,121
+Other long-term investments                              1,770        1,574          790
+Goodwill and other acquisition-related
+     intangibles                                         6,163        6,240        4,934
+Other assets                                             1,608        1,631        1,470
+                                                      --------     --------     --------
+        TOTAL ASSETS                                  $ 49,013     $ 48,520     $ 43,849
+                                                      ========     ========     ========
+
+CURRENT LIABILITIES
+Short-term debt                                       $    336     $    385     $    230
+Accounts payable and accrued liabilities                 6,087        5,602        4,565
+Deferred income on shipments to
+        distributors                                       716          726          609
+Income taxes payable                                     1,386        1,623        1,695
+                                                      --------     --------     --------
+        Total current liabilities                        8,525        8,336        7,099
+LONG-TERM DEBT                                             610          870          955
+DEFERRED TAX LIABILITIES                                 2,173        2,694        3,130
+PUT WARRANTS                                                 -            -          130
+
+STOCKHOLDERS' EQUITY
+Common stock and capital in excess
+     of par value                                        8,643        7,941        7,316
+Other stockholders' equity                              29,062       28,679       25,219
+                                                      --------     --------     --------
+     Total stockholders' equity                         37,705       36,620       32,535
+                                                      --------     --------     --------
+     TOTAL LIABILITIES AND
+          STOCKHOLDERS' EQUITY                        $ 49,013     $ 48,520     $ 43,849
+                                                      ========     ========     ========
+
+Note: Certain prior period amounts have been reclassified to conform with the current
+presentation.
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

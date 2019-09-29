@@ -1,0 +1,571 @@
+<SEC-DOCUMENT>0001193125-19-142117.txt : 20190509
+<SEC-HEADER>0001193125-19-142117.hdr.sgml : 20190509
+<ACCEPTANCE-DATETIME>20190509061510
+ACCESSION NUMBER:		0001193125-19-142117
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		165
+CONFORMED PERIOD OF REPORT:	20190508
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20190509
+DATE AS OF CHANGE:		20190509
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		19808653
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d741646d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>of the
+Securities Exchange Act of 1934 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Date of Report (Date of earliest event reported): May&nbsp;8, 2019 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g741646g0509100343302.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>INTEL CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">000-06217</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-1672743</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>2200 Mission College Blvd., Santa Clara, California</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>95054-1549</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: <FONT STYLE="white-space:nowrap">(408)&nbsp;765-8080</FONT>
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Not Applicable </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Former name or
+former address, if changed since last report.) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Check the appropriate box below if the
+Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT
+STYLE="white-space:nowrap">240.14a-12)</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule
+<FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule
+<FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Indicate by
+check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Securities Exchange Act of 1934 <FONT
+STYLE="white-space:nowrap">(&#167;240.12b-2</FONT> of this chapter). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right">Emerging growth company&nbsp;&nbsp;&nbsp;&nbsp;<FONT
+STYLE="font-family:Times New Roman">&#9744;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&nbsp;&nbsp;<FONT
+STYLE="font-family:Times New Roman">&#9744;</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Securities registered pursuant to Section&nbsp;12(b) of the Act: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Title of each class</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Trading Symbol(s)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Name of each exchange on which</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>registered</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">Common stock, $0.001 par value</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">INTC</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">The Nasdaq Global Select Market</TD></TR>
+</TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.01</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left"><B>Regulation FD Disclosure. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">On May&nbsp;8, 2019, Intel Corporation (&#147;Intel&#148;) held a publicly available webcast meeting for investors and the general public (the
+&#147;Investor Meeting&#148;). At the Investor Meeting, presentations discussing Intel&#146;s strategy, financial performance, and product roadmap, among other topics, were given by (1)&nbsp;Robert H. Swan, Chief Executive Officer; (2)&nbsp;Venkata
+S.M. (&#147;Murthy&#148;) Renduchintala, Executive Vice President; Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer; (3)&nbsp;Navin Shenoy, Executive Vice President; General Manager, Data Center
+Group; (4)&nbsp;Gregory M. Bryant, Senior Vice President; General Manager, Client Computing Group; and (5)&nbsp;George S. Davis, Executive Vice President; Chief Financial Officer. These presentations are attached as exhibits to this report. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">These presentations and a recording of the webcast may also be found on Intel&#146;s Investor Relations website, www.intc.com. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">The presentations contain forward-looking statements relating to Intel&#146;s financial plan as well as other statements that refer to future plans and
+expectations, including with respect to Intel&#146;s future technologies and the expected benefits of such technologies. Such statements involve a number of risks and uncertainties. Words such as &#147;anticipates,&#148; &#147;expects,&#148;
+&#147;intends,&#148; &#147;goals,&#148; &#147;plans,&#148; &#147;believes,&#148; &#147;seeks,&#148; &#147;estimates,&#148; &#147;continues,&#148; &#147;may,&#148; &#147;will,&#148; &#147;would,&#148; &#147;should,&#148; &#147;could,&#148; and
+variations of such words and similar expressions are intended to identify forward-looking statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions, including statements relating to total
+addressable market (TAM) or market opportunity, future products and the expected availability and benefits of such products, and anticipated trends in our businesses or the markets relevant to them, also identify forward-looking statements. Such
+statements are based on current expectations and involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied in these forward-looking statements. Important factors that could cause actual
+results to differ materially from the company&#146;s expectations are set forth in Intel&#146;s most recent earnings release dated April&nbsp;25, 2019, which is included as an exhibit to Intel&#146;s Form <FONT STYLE="white-space:nowrap">8-K</FONT>
+furnished to the Securities and Exchange Commission (&#147;SEC&#148;) on such date. Additional information regarding these and other factors that could affect Intel&#146;s results is included in Intel&#146;s Annual Report on Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> for the year ended&nbsp;December&nbsp;29, 2018, filed with the SEC on February&nbsp;1, 2019. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">The information
+in Item 7.01 of this report is furnished and shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left"><B>Financial Statements and Exhibits. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>(d) Exhibits. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The following exhibits are furnished as part of this report:
+</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:10pt; font-family:ARIAL; " ALIGN="center">Exhibit<BR>Number</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:10pt; font-family:ARIAL; " ALIGN="center">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d741646dex991.htm">Investor Meeting Presentation on May&nbsp;8, 2019 by Robert H. Swan </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d741646dex992.htm">Investor Meeting Presentation on May&nbsp;8, 2019 by Venkata&nbsp;S.M. (&#147;Murthy&#148;) Renduchintala </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d741646dex993.htm">Investor Meeting Presentation on May&nbsp;8, 2019 by Navin Shenoy </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d741646dex994.htm">Investor Meeting Presentation on May&nbsp;8, 2019 by Gregory M. Bryant </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d741646dex995.htm">Investor Meeting Presentation on May&nbsp;8, 2019 by George S. Davis </A></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:ARIAL">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="21%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="21%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"><B>INTEL CORPORATION</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3">(Registrant)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top">Date: May&nbsp;9, 2019</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL">/s/ Steven R. Rodgers</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3">Steven R. Rodgers</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3">Executive Vice President and General Counsel</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d741646dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+<body>
+  <p align="center">
+<img src="g741646ex99_1p1g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Exhibit 99.1 CHIEF EXECUTIVE OFFICERExhibit 99.1 CHIEF EXECUTIVE
+OFFICER</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p2g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">This presentation contains non-GAAP financial measures. You can find the
+reconciliation of these measures to the most directly comparable GAAP financial measure in the Appendix at the end of this presentation. The non-GAAP financial measures disclosed by Intel should not be considered a substitute for, or superior to,
+the financial measures prepared in accordance with GAAP. Please refer to &#8220;Explanation of Non-GAAP Measures&#8221; in Intel's quarterly earnings release for a detailed explanation of the adjustments made to the comparable GAAP measures, the
+ways management uses the non-GAAP measures and the reasons why management believes the non-GAAP measures provide investors with useful supplemental information. Statements in this presentation that refer to business outlook, future plans and
+expectations are forward-looking statements that involve a number of risks and uncertainties. Words such as anticipates, expects, intends, goals, plans, believes, seeks, estimates, continues, may, will, &#8220;would,&#8221; should,
+&#8220;could,&#8221; and variations of such words and similar expressions are intended to identify such forward-looking statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions,
+including statements relating to total addressable market (TAM) or market opportunity, future products and the expected availability and benefits of such products, and anticipated trends in our businesses or the markets relevant to them, also
+identify forward-looking statements. Such statements are based on management's expectations as of May 8, 2019, unless an earlier date is indicated, and involve many risks and uncertainties that could cause actual results to differ materially from
+those expressed or implied in these forward-looking statements. Important factors that could cause actual results to differ materially from the company's expectations are set forth in Intel's earnings release dated April 25, 2019, which is included
+as an exhibit to Intel&#8217;s Form 8-K furnished to the SEC on such date. Additional information regarding these and other factors that could affect Intel's results is included in Intel's SEC filings, including the company's most recent reports on
+Forms 10-K and 10-Q. Copies of Intel's Form 10- K, 10-Q and 8-K reports may be obtained by visiting our Investor Relations website at www.intc.com or the SEC's website at www.sec.gov. All information in this presentation reflects management&#8217;s
+views as of May 8, 2019, unless an earlier date is indicated. Intel does not undertake, and expressly disclaims any duty, to update any statement made in this presentation, whether as a result of new information, new developments or otherwise,
+except to the extent that disclosure may be required by law.This presentation contains non-GAAP financial measures. You can find the reconciliation of these measures to the most directly comparable GAAP financial measure in the Appendix at the end
+of this presentation. The non-GAAP financial measures disclosed by Intel should not be considered a substitute for, or superior to, the financial measures prepared in accordance with GAAP. Please refer to &#8220;Explanation of Non-GAAP
+Measures&#8221; in Intel's quarterly earnings release for a detailed explanation of the adjustments made to the comparable GAAP measures, the ways management uses the non-GAAP measures and the reasons why management believes the non-GAAP measures
+provide investors with useful supplemental information. Statements in this presentation that refer to business outlook, future plans and expectations are forward-looking statements that involve a number of risks and uncertainties. Words such as
+anticipates, expects, intends, goals, plans, believes, seeks, estimates, continues, may, will, &#8220;would,&#8221; should, &#8220;could,&#8221; and variations of such words and similar expressions are intended to identify such forward-looking
+statements. Statements that refer to or are based on estimates, forecasts, projections, uncertain events or assumptions, including statements relating to total addressable market (TAM) or market opportunity, future products and the expected
+availability and benefits of such products, and anticipated trends in our businesses or the markets relevant to them, also identify forward-looking statements. Such statements are based on management's expectations as of May 8, 2019, unless an
+earlier date is indicated, and involve many risks and uncertainties that could cause actual results to differ materially from those expressed or implied in these forward-looking statements. Important factors that could cause actual results to differ
+materially from the company's expectations are set forth in Intel's earnings release dated April 25, 2019, which is included as an exhibit to Intel&#8217;s Form 8-K furnished to the SEC on such date. Additional information regarding these and other
+factors that could affect Intel's results is included in Intel's SEC filings, including the company's most recent reports on Forms 10-K and 10-Q. Copies of Intel's Form 10- K, 10-Q and 8-K reports may be obtained by visiting our Investor Relations
+website at www.intc.com or the SEC's website at www.sec.gov. All information in this presentation reflects management&#8217;s views as of May 8, 2019, unless an earlier date is indicated. Intel does not undertake, and expressly disclaims any duty,
+to update any statement made in this presentation, whether as a result of new information, new developments or otherwise, except to the extent that disclosure may be required by law.</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p3g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">We&#8217;ve expanded our TAM&#8230; ACCELERATING TRANSFORMATION TO A
+DATA-CENTRIC COMPANY Extend product leadership advantage&#8230; FROM CPU TO XPU Improve execution&#8230; accelerate innovation&#8230; evolve culture Disciplined investment... Profitable growth... Attractive capital returnsWe&#8217;ve expanded our
+TAM&#8230; ACCELERATING TRANSFORMATION TO A DATA-CENTRIC COMPANY Extend product leadership advantage&#8230; FROM CPU TO XPU Improve execution&#8230; accelerate innovation&#8230; evolve culture Disciplined investment... Profitable growth...
+Attractive capital returns</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p4g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">We exceeded Q1 expectations&#8230; but lowered outlook 1 1 Revenue
+Operating Margin EPS Down Down Down $2.5B 2pts $0.25 1 Non-GAAP. Refer to the Appendix for a reconciliation of these non-GAAP measures.We exceeded Q1 expectations&#8230; but lowered outlook 1 1 Revenue Operating Margin EPS Down Down Down $2.5B 2pts
+$0.25 1 Non-GAAP. Refer to the Appendix for a reconciliation of these non-GAAP measures.</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p5g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Top Priorities for 2017 Growth in Data strong &amp; healthy Client
+growth flawlessly execute in Center &amp; Adjacencies business in IoT &amp; devices Memory &amp; FPGAS 29Top Priorities for 2017 Growth in Data strong &amp; healthy Client growth flawlessly execute in Center &amp; Adjacencies business in IoT &amp;
+devices Memory &amp; FPGAS 29</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p6g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Data-centric Increased revenue by $9B since &#8216;16 PC-Centric Record
+profitability in declining market Significant FCF Vs 3-yr guide Beat revenue by $6.7B and EPS by $1.27 Over the 3 years&#8230; added ~$12B in revenue&#8230; on lower spending&#8230; with ~64% increase in EPS 1 Data-centric businesses include DCG,
+IOTG, Mobileye, NSG, PSG and All Other. Growth from 2016 to 2019 outlook excludes $2.5B of revenue from McAfee and Wind River which have been divested in 2017 and 2018, respectively. EPS is non-GAAPData-centric Increased revenue by $9B since
+&#8216;16 PC-Centric Record profitability in declining market Significant FCF Vs 3-yr guide Beat revenue by $6.7B and EPS by $1.27 Over the 3 years&#8230; added ~$12B in revenue&#8230; on lower spending&#8230; with ~64% increase in EPS 1
+Data-centric businesses include DCG, IOTG, Mobileye, NSG, PSG and All Other. Growth from 2016 to 2019 outlook excludes $2.5B of revenue from McAfee and Wind River which have been divested in 2017 and 2018, respectively. EPS is non-GAAP</font></p>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p7g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">transformations &#8230;but it won&#8217;t be easytransformations
+&#8230;but it won&#8217;t be easy</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p8g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Make the world&#8217;s best semiconductors Lead the AI, 5g, and
+Autonomous revolution Be the leading end to end platform provider for the new data world Relentless focus on operational excellence &amp; efficiency Continue to hire, develop and retain the best, most diverse &amp; inclusive talentMake the
+world&#8217;s best semiconductors Lead the AI, 5g, and Autonomous revolution Be the leading end to end platform provider for the new data world Relentless focus on operational excellence &amp; efficiency Continue to hire, develop and retain the
+best, most diverse &amp; inclusive talent</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p9g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">2021 &amp; beyond Middle of a Journey Intel Powers the World 2017-2021
+Data-Centric 2013 A PC-Centric Company2021 &amp; beyond Middle of a Journey Intel Powers the World 2017-2021 Data-Centric 2013 A PC-Centric Company</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p10g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Data-Centric Businesses PC-centric Business Growth Cash Flow/
+ScaleData-Centric Businesses PC-centric Business Growth Cash Flow/ Scale</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p11g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Data is growing exponentially Global Digital Data Created Data Centers
+Edge/Endpoints Real-time Source: IDC Data Age 2025 (2018) Data Created (ZB)Data is growing exponentially Global Digital Data Created Data Centers Edge/Endpoints Real-time Source: IDC Data Age 2025 (2018) Data Created (ZB)</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p12g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">process everything store more Move faster Sources: Global Internet
+Traffic, Cisco VNI Forecasts (2016, 2017, 2018); Stored Data, IDC Data Age 2025 (2018); Compute demand, Intel analysisprocess everything store more Move faster Sources: Global Internet Traffic, Cisco VNI Forecasts (2016, 2017, 2018); Stored Data,
+IDC Data Age 2025 (2018); Compute demand, Intel analysis</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p13g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Source: 2018 Intel Revenue is based on Intel financials. 2018 Si TAM is
+based on amalgamation of analyst data and Intel analysis. PC and Server include CPU and Chipsets revenue. Source: 2018 Intel Revenue is based on Intel financials. 2018 Si TAM is based on amalgamation of analyst data and Intel analysis. PC and Server
+include CPU and Chipsets revenue. </font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p14g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">2023F TAM is based on an amalgamation of analyst data and Intel
+analysis, based upon current expectations and available information and is subject to change without notice. PC-Centric includes CPU &amp; Chipsets, Connectivity (including modems other than 5G smartphone), Gateways, Gaming Consoles, Memory and
+Discrete Graphics. Data-Centric includes Data Center and Networking Compute, Memory, Storage and Connectivity, and IOT addressable Logic ASIC/ASSP, MPU, MCU, DSP for Industrial, Transportation, Automated Driving, Retail, Video Surveillance,
+Healthcare, Public Sector, Office Automation, Gaming and Smart Home. IOT also includes MaaS and intelligent transportation enabled data opportunities. 2023F TAM is based on an amalgamation of analyst data and Intel analysis, based upon current
+expectations and available information and is subject to change without notice. PC-Centric includes CPU &amp; Chipsets, Connectivity (including modems other than 5G smartphone), Gateways, Gaming Consoles, Memory and Discrete Graphics. Data-Centric
+includes Data Center and Networking Compute, Memory, Storage and Connectivity, and IOT addressable Logic ASIC/ASSP, MPU, MCU, DSP for Industrial, Transportation, Automated Driving, Retail, Video Surveillance, Healthcare, Public Sector, Office
+Automation, Gaming and Smart Home. IOT also includes MaaS and intelligent transportation enabled data opportunities. </font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p15g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">&#8226; Lead technology inflections &#8226; Extend product
+leadership&#8230; redefine Intel Inside &#8226; Make big bets&#8230; with attractive returns &#8226; Focus on execution &#8226; Evolve our culture &#8226; Lead CSR and D&amp;I&#8226; Lead technology inflections &#8226; Extend product
+leadership&#8230; redefine Intel Inside &#8226; Make big bets&#8230; with attractive returns &#8226; Focus on execution &#8226; Evolve our culture &#8226; Lead CSR and D&amp;I</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p16g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Artificial intelligence 5G Autonomous systems Autonomous systems AI
+unlocks value from 5G transforms the require real-time data, enables new network, increases analysis of data flows, business models and consumption of data- drive new compute, experiences rich experiences network architecturesArtificial intelligence
+5G Autonomous systems Autonomous systems AI unlocks value from 5G transforms the require real-time data, enables new network, increases analysis of data flows, business models and consumption of data- drive new compute, experiences rich experiences
+network architectures</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p17g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">WORKLOAD-OPTIMIZED PLATFORMS, EFFORTLESS CUSTOMER &amp; DEVELOPER
+INNOVATIONWORKLOAD-OPTIMIZED PLATFORMS, EFFORTLESS CUSTOMER &amp; DEVELOPER INNOVATION</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p18g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Intel Inside = Intel Inside = CPU inside a PC and server XPU platforms
+inside everything Security Wi-Fi CPU XPU siph Software Nand SSD Modem ethernet Optane&#8482; MemoryIntel Inside = Intel Inside = CPU inside a PC and server XPU platforms inside everything Security Wi-Fi CPU XPU siph Software Nand SSD Modem ethernet
+Optane&#8482; Memory</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p19g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">extend 14nm ramp 10nm Accelerate to 7nm Client Systems on Build
+Capacity Shelf for 2019 Production and to Support Holiday Season Launch in 2021 Customer Growth Server in 1H&#8217;20 vs. tsmc 10nm vs. tsmc 7nm vs. tsmc 5nm world class packaging technology complements process leadershipextend 14nm ramp 10nm
+Accelerate to 7nm Client Systems on Build Capacity Shelf for 2019 Production and to Support Holiday Season Launch in 2021 Customer Growth Server in 1H&#8217;20 vs. tsmc 10nm vs. tsmc 7nm vs. tsmc 5nm world class packaging technology complements
+process leadership</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p20g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">our investments must&#8230; &#8230;Address the leading edge of a
+technology inflection&#8230; &#8230;Allow us to play a larger role in the success of our customers&#8230; &#8230;Offer a clear path to profitability/attractive returns&#8230; &#8230;with regular evaluationour investments must&#8230; &#8230;Address
+the leading edge of a technology inflection&#8230; &#8230;Allow us to play a larger role in the success of our customers&#8230; &#8230;Offer a clear path to profitability/attractive returns&#8230; &#8230;with regular evaluation</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p21g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Influencing and shaping 5G standards Inflections World class 5G modem
+IP ready for 2020 industry ramp Customer Built momentum and won share at 4G/LTE High customer concentration Impact Unprofitable despite share and scale Profit Evaluating options to maintain modem capabilities for PC/IOT Significant outside interest
+in our modem team, technology, and IP and ReturnInfluencing and shaping 5G standards Inflections World class 5G modem IP ready for 2020 industry ramp Customer Built momentum and won share at 4G/LTE High customer concentration Impact Unprofitable
+despite share and scale Profit Evaluating options to maintain modem capabilities for PC/IOT Significant outside interest in our modem team, technology, and IP and Return</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p22g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Memory storage High-density 3D NAND for Optane&#8482; offers
+~performance of storage transition to NVM Inflections DRAM, persistence of NAND Industry leading density #2 DC SSD provider 3+ years Customer Optane&#8482; + Xeon&#174; = breakthrough Challenging tech transitions platform-level innovation impacted
+execution Impact Aggressive capacity build + Profit Significant potential for Optane&#8482; market conditions slowed Systems challenges slow ramp progress &amp; limited returns and ReturnMemory storage High-density 3D NAND for Optane&#8482; offers
+~performance of storage transition to NVM Inflections DRAM, persistence of NAND Industry leading density #2 DC SSD provider 3+ years Customer Optane&#8482; + Xeon&#174; = breakthrough Challenging tech transitions platform-level innovation impacted
+execution Impact Aggressive capacity build + Profit Significant potential for Optane&#8482; market conditions slowed Systems challenges slow ramp progress &amp; limited returns and Return</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p23g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">1 ADAS penetration rising globally, growing from 30% to 70% by
+&#8216;23 L4/5 AV designs on track for 2021, enabling a MaaS opportunity Inflections Data services such as REM present new adjacent opportunities &gt;60% global ADAS market segment share Customer L2+ designs w OEMs representing &gt;50% of global
+vehicle production Real-time crowdsourced map tech, customers launching new data svcs Impact Profit 2 Revenue up ~2x in 2 yrs ; positive OM contribution, in line w/deal thesis and Return 1 Internal analysis 2 2017 revenue compared to 2019 revenue;
+2017 revenue includes revenue prior to acquisition in Aug'17.1 ADAS penetration rising globally, growing from 30% to 70% by &#8216;23 L4/5 AV designs on track for 2021, enabling a MaaS opportunity Inflections Data services such as REM present new
+adjacent opportunities &gt;60% global ADAS market segment share Customer L2+ designs w OEMs representing &gt;50% of global vehicle production Real-time crowdsourced map tech, customers launching new data svcs Impact Profit 2 Revenue up ~2x in 2 yrs
+; positive OM contribution, in line w/deal thesis and Return 1 Internal analysis 2 2017 revenue compared to 2019 revenue; 2017 revenue includes revenue prior to acquisition in Aug'17.</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p24g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Recoup Process Leadership deliver with predictability Meet Customer
+Demand Leadership products 10nm products Ensure Supply on schedule on shelves Investing to ensure we don&#8217;t On track to full-year 10nm Ice Lake and Lakefield for client constrain growth shipment goals Cascade Lake, AgileX&#8482;, Teton Glacier
+for data-centricRecoup Process Leadership deliver with predictability Meet Customer Demand Leadership products 10nm products Ensure Supply on schedule on shelves Investing to ensure we don&#8217;t On track to full-year 10nm Ice Lake and Lakefield
+for client constrain growth shipment goals Cascade Lake, AgileX&#8482;, Teton Glacier for data-centric</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p25g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Relentless focus on things that matter mostRelentless focus on things
+that matter most</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p26g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">From To Build the best products&#8230; customers will come Listen to
+customers &amp; enable their growth Nearly $300B TAM&#8230; Low MSS... growth mode $52B TAM&#8230; MSS &gt;90%&#8230; protect &amp; defend Very capable competition has high MSS Competition has &lt;10% MSS&#8230; compete internally Product leadership
+trumps all IDM advantage/process lead trumps all AN INCREDIBLE 50 YEARS AN INCREDIBLE OPPORTUNITYFrom To Build the best products&#8230; customers will come Listen to customers &amp; enable their growth Nearly $300B TAM&#8230; Low MSS... growth mode
+$52B TAM&#8230; MSS &gt;90%&#8230; protect &amp; defend Very capable competition has high MSS Competition has &lt;10% MSS&#8230; compete internally Product leadership trumps all IDM advantage/process lead trumps all AN INCREDIBLE 50 YEARS AN
+INCREDIBLE OPPORTUNITY</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p27g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">2727</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p28g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">We are a recognized leader in corporate responsibility and take action
+to advance progress in environmental sustainability, supply chain responsibility, and social impact. #1 Scores 4B KWH ENERGY SAVED &gt;20 years For our environmental &amp; since 2012, resulting in Of TRANSPARENCY &amp; PROACTIVE social disclosure
+quality by &gt;$500M in cost SAVINGS ENGAGEMENT WITH INVESTORS ON ESG ISS Ethix ISSUES +500 SUPPLIER AUDITS 90% recycle RATE 17.4M square feet Completed since 2014 as part of for NON-HAZARDOUS WASTE in OF LEED CERTIFIED SPACE in our supply chain
+responsibility our global operations support of our green programs buildings goal www.intel.com/responsibility We are a recognized leader in corporate responsibility and take action to advance progress in environmental sustainability, supply chain
+responsibility, and social impact. #1 Scores 4B KWH ENERGY SAVED &gt;20 years For our environmental &amp; since 2012, resulting in Of TRANSPARENCY &amp; PROACTIVE social disclosure quality by &gt;$500M in cost SAVINGS ENGAGEMENT WITH INVESTORS ON
+ESG ISS Ethix ISSUES +500 SUPPLIER AUDITS 90% recycle RATE 17.4M square feet Completed since 2014 as part of for NON-HAZARDOUS WASTE in OF LEED CERTIFIED SPACE in our supply chain responsibility our global operations support of our green programs
+buildings goal www.intel.com/responsibility </font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p29g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">INNOVATIVE &amp; INCLUSIVE TALENT Innovative supply chain Comprehensive
+workforce pay $1B annually 2 years Early Equity for global gender pay global initiative to spend with met our 2020 U.S. worKforce CLOSED THE GAP OF Average PAY BETWEEN Diverse-owned businesses by 2020 to diversity goal EMPLOYEES OF DIFFERENT GENDERS
+IN SIMILAR generate an Inclusive supply chain ROLES creating inclusive workplace www.intel.com/diversityINNOVATIVE &amp; INCLUSIVE TALENT Innovative supply chain Comprehensive workforce pay $1B annually 2 years Early Equity for global gender pay
+global initiative to spend with met our 2020 U.S. worKforce CLOSED THE GAP OF Average PAY BETWEEN Diverse-owned businesses by 2020 to diversity goal EMPLOYEES OF DIFFERENT GENDERS IN SIMILAR generate an Inclusive supply chain ROLES creating
+inclusive workplace www.intel.com/diversity</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p30g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Revenue growth Operating efficiency Earnings/FCF Low-single digit
+growth, $76B-$78B Operating Margin ~32% EPS growth in line with revenue Data-Centric businesses Gross Margins declines high-single digit growth offset by spending FCF growing faster leverage and 5G than earnings PC-Centric business smartphone modem
+exit ~flat to slightly down Closing FCF/Earnings gap (&gt;80%)&#8230; ATTRACTIVE capital RETURNS Operating margin, gross margin, EPS, and FCF are non-GAAP. Forecasts are Intel estimates, based upon current expectations and available information and
+are subject to change without notice.Revenue growth Operating efficiency Earnings/FCF Low-single digit growth, $76B-$78B Operating Margin ~32% EPS growth in line with revenue Data-Centric businesses Gross Margins declines high-single digit growth
+offset by spending FCF growing faster leverage and 5G than earnings PC-Centric business smartphone modem exit ~flat to slightly down Closing FCF/Earnings gap (&gt;80%)&#8230; ATTRACTIVE capital RETURNS Operating margin, gross margin, EPS, and FCF
+are non-GAAP. Forecasts are Intel estimates, based upon current expectations and available information and are subject to change without notice.</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p31g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">EPS presented on a non-GAAP basis. Refer to the Appendix for a
+reconciliation of this non-GAAP measure Forecasts are Intel estimates, based upon current expectations and available information and are subject to change without noticeEPS presented on a non-GAAP basis. Refer to the Appendix for a reconciliation of
+this non-GAAP measure Forecasts are Intel estimates, based upon current expectations and available information and are subject to change without notice</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p32g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Speaker Topic Murthy Renduchintala Product Leadership Walk-on: Raja
+Koduri Navin Shenoy The Data-Centric Opportunity Walk-On: Sandra Rivera Gregory Bryant The Transformation of the PC Sector George Davis A Focus on PerformanceSpeaker Topic Murthy Renduchintala Product Leadership Walk-on: Raja Koduri Navin Shenoy The
+Data-Centric Opportunity Walk-On: Sandra Rivera Gregory Bryant The Transformation of the PC Sector George Davis A Focus on Performance</font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p33g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;"></font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p34g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;"></font></p>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+  <p align="center">
+<img src="g741646ex99_1p35g1.jpg"></p> <p style="margin-top:0pt;margin-bottom:0pt;font-size:1pt;line-height:0pt;color:#FFFFFF;"><font style="font-family:Times New Roman;font-size:1pt;">Full-year 2019 2018 Outlook Approximately GAAP OPERATING MARGIN 33% 30%
+Amortization of acquisition-related intangible assets 2% 2% NON-GAAP OPERATING MARGIN 35% 32% GAAP EARNINGS PER SHARE $4.48 $4.14 Inventory valuation adjustments &#8212; &#8212; Amortization of acquisition-related intangible assets 0.28 0.29 Other
+acquisition-related charges &#8212; &#8212; Restructuring and other charges (0.02) &#8212; (Gains) losses from divestitures (0.11) &#8212; Ongoing mark-to-market on marketable equity securities 0.03 (0.06) Tax reform (0.06) &#8212; Income tax effect
+(0.02) (0.02) NON-GAAP EARNINGS PER SHARE 4.58 $4.35 Forward-looking non-GAAP measures relating to fiscal years 2020 and beyond represent targets and are based on internal forecasts subject to significant uncertainty. We are unable to provide a full
+reconciliation of such measures to GAAP measures without unreasonable efforts as we cannot predict the amount or timing of certain elements that are included in reported GAAP results and that may significantly affect GAAP results, including
+acquisition-related adjustments, ongoing mark-to-market adjustments on marketable equity securities, and other non-recurring events or transactions. In addition, certain comparable GAAP measures such as net cash provided by operating activities are
+difficult to accurately estimate for such time frames and are dependent on future events. We believe such a reconciliation would also imply a degree of precision that could be confusing or inappropriate for these forward-looking measures. Full-year
+2019 2018 Outlook Approximately GAAP OPERATING MARGIN 33% 30% Amortization of acquisition-related intangible assets 2% 2% NON-GAAP OPERATING MARGIN 35% 32% GAAP EARNINGS PER SHARE $4.48 $4.14 Inventory valuation adjustments &#8212; &#8212;
+Amortization of acquisition-related intangible assets 0.28 0.29 Other acquisition-related charges &#8212; &#8212; Restructuring and other charges (0.02) &#8212; (Gains) losses from divestitures (0.11) &#8212; Ongoing mark-to-market on marketable
+equity securities 0.03 (0.06) Tax reform (0.06) &#8212; Income tax effect (0.02) (0.02) NON-GAAP EARNINGS PER SHARE 4.58 $4.35 Forward-looking non-GAAP measures relating to fiscal years 2020 and beyond represent targets and are based on internal
+forecasts subject to significant uncertainty. We are unable to provide a full reconciliation of such measures to GAAP measures without unreasonable efforts as we cannot predict the amount or timing of certain elements that are included in reported
+GAAP results and that may significantly affect GAAP results, including acquisition-related adjustments, ongoing mark-to-market adjustments on marketable equity securities, and other non-recurring events or transactions. In addition, certain
+comparable GAAP measures such as net cash provided by operating activities are difficult to accurately estimate for such time frames and are dependent on future events. We believe such a reconciliation would also imply a degree of precision that
+could be confusing or inappropriate for these forward-looking measures. </font></p> </BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

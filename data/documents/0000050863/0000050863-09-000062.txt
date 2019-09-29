@@ -1,0 +1,262 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JLFyaOhxByJiOxN4y99AfCbRTNxVMlIBSeYOBoqXyscpgSNeBajso4MyjVMsyDq5
+ YfUOQ9MyMl4rmT7VsQ9fgg==
+
+<SEC-DOCUMENT>0000050863-09-000062.txt : 20090402
+<SEC-HEADER>0000050863-09-000062.hdr.sgml : 20090402
+<ACCEPTANCE-DATETIME>20090401193535
+ACCESSION NUMBER:		0000050863-09-000062
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090327
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20090402
+DATE AS OF CHANGE:		20090401
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		09724914
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>8K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'><p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Pursuant to Section 13 OR 15(d) of the</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported):  March 27, 2009</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="638" style='border-collapse:collapse'>
+    <tr >
+        <td width="201" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="210" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="227" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><u><b><font size=2>94-1672743</font></b></u></p> </td> </tr>
+    <tr >
+        <td width="201" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:.25in;text-indent:0in;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(State or other jurisdiction of incorporation)</font></p> </td>
+        <td width="210" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="227" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(IRS Employer Identification No.)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="339" style='border-collapse:collapse; '>
+    <tr >
+        <td width="72" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1.01</font></b></p> </td>
+        <td width="267" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Entry into a Material Definitive Agreement</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.42in;text-align:left;'><font size=2>On March 27, 2009, the Compensation Committee of the Board of Directors of Intel Corporation (the &#147;Corporation&#148;) approved the terms and conditions of performance based restricted stock units, called Outperformance Share Units (&#147;OSUs&#148;), which are to be granted to the Corporation&#146;s executive officers.  OSUs generally follow the terms and conditions of standard restricted stock units previously approved by the Compensation Committee, with the differences as follows.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>OSUs will vest three years and one month after the grant date.  One OSU converts into the right to receive at least 33% of one share of Intel stock, but no more than two shares of Intel stock, depending on Intel&#146;s performance relative to the performance of the comparison group.  Intel&#146;s and the comparison group's performance is measured by share price appreciation over the performance period, plus any dividends paid during the performance period (&#147;TSR&#148;).  TSR is defined as the difference between the closing stock price on the day of grant and the average closing price of the stock during the 6 months prior to the end of the performance period, divided by the closing stock price on the day of grant.  The performance period ends 3 years from the date of grant.  The performance of the comparison group is measured by the median 3-year TSR for the Tech 15 companies, averaged
+with the median 3-year TSR for the S&amp;P 100.  Tech 15 means the fifteen technology companies included in Intel&#146;s peer group for determining executive compensation, as of the beginning of the performance period, regardless of any subsequent change in its make-up after the beginning of the performance period.  S&amp;P 100 means the constituent companies of the Standard &amp; Poor&#146;s 100 as of the beginning of the performance period, regardless of any subsequent change in its make-up after the beginning of the performance period.  Any companies in the Tech 15 or S&amp;P 100 which are do not have publicly quoted stock prices at the end of the performance period will be factored into the median calculation at their final aggregate TSR for as long as they were publicly quoted during the performance period.  The target conversion rate is 1 OSU converts into the right to receive 1 share of Intel stock.  If Intel&#146;s TSR is less than the TSR of the comparison group, then the
+conversion rate is the target conversion rate decreased by a two to one margin.  For example, if Intel underperforms the comparison group by 10 percentage points, the target rate would be decreased by 20% so that 1 OSU converts into the right to receive 0.8 of a share of Intel stock.  If Intel outperforms the comparison group, then the conversion rate is the target conversion rate increased by a three to one margin, but in no case will more than two shares be issued for each OSU.  For example, if Intel outperforms the comparison group by 5 percentage points, the target rate would be increased by 15% so that 1 OSU converts into the right to receive 1.15 shares of Intel stock.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.42in;text-align:left;'><font size=2>Dividend equivalents will accrue over the performance period but will be paid only to the extent that shares are earned based upon the final number of shares from converted OSUs at the end of the performance period.  These dividend equivalents will be paid in the form of shares of Intel stock.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.42in;text-align:left;'><font size=2>Except in the event of retirement, disability or death, termination of service before the vesting date results in the forfeiture of all unvested OSUs.  In the event of retirement, disability or death, OSUs will vest and will convert to the right to receive shares of Intel stock on the original vesting date (three years and one month following the grant date).  Retirement means attaining age 60 or the Rule of 75, where the employee&#146;s age and years of service equal at least 75.  Disability means a physical condition that renders the employee incapable of working in any occupation, as determined by Intel or, if the employee is a participant, the long term disability plan sponsored by Intel or an Intel subsidiary.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1> </font></p>
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'>
+<font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom: solid black 1.0pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: April 02, 2009</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1> </font></p>
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

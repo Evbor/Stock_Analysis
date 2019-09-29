@@ -1,0 +1,259 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UFMHpP5HnuuJKY5uFPMSpl5+jKN8SR48vGGUpZaVzvwrGdyfAjyMfpj0WTPrExQO
+ qI/EJS8glR3BoaOQiPqJdA==
+
+<SEC-DOCUMENT>0000050863-07-000351.txt : 20071026
+<SEC-HEADER>0000050863-07-000351.hdr.sgml : 20071026
+<ACCEPTANCE-DATETIME>20071026160709
+ACCESSION NUMBER:		0000050863-07-000351
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20071022
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20071026
+DATE AS OF CHANGE:		20071026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		071193598
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'><p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Pursuant to Section 13 OR 15(d) of the</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>October 22, 2007</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="565" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="85" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>94-1672743 </font></b><font size=2>&nbsp;</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="635" style='border-collapse:collapse; '>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="203" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.)</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="111" style='border-collapse:collapse'>
+    <tr >
+        <td width="111" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:.0001pt;line-height:129.6%'><font size=2>of incorporation)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><b><font size=2>Item 2.02 Results of Operations and Financial Condition</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><b><font size=2>Item 7.01 Regulation FD</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>On October 22, 2007, Intel and Transmeta Corporation entered into a settlement agreement that resolves the patent infringement cases between the parties and provides certain rights for Intel and its customers.&nbsp; Pursuant to the agreement, Intel and its customers will receive a broad license to all Transmeta patents and patent applications now existing or as may be filed during the next ten years, including any patent rights acquired by Transmeta.&nbsp;Transmeta will also transfer technology and grant to Intel a non-exclusive license to Transmeta&#146;s LongRun and LongRun2 technologies and future improvements. In addition, Intel will receive a general release from all claims of any type.&nbsp; In exchange, Intel will make an initial payment of $150 million to Transmeta and five annual payments of $20 million each beginning one year from the date of the settlement, for total payments of $250 million.&nbsp;
+The settlement also includes a covenant by Intel not to sue Transmeta for certain licensing to third parties and Intel and Transmeta agreed to dismiss all litigation between the parties.&nbsp; Intel expects to finalize the accounting treatment related to the settlement by the time of the filing of its third-quarter Form 10-Q.&nbsp; However, Intel expects some portion of the $250 million, expected to be in the range of $100 million to $150 million, to be recorded as a third-quarter expense to cost of sales, reducing previously announced earnings for the third quarter of 2007, with the remainder to be reflected as an intangible asset that will be amortized over future periods.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>The information contained in this Report on Form 8-K is furnished pursuant to Items 2.02 and 7.01. The information in this report shall be deemed incorporated by reference into any registration statement heretofore or hereafter filed under the Securities Act of 1933, as amended, except to the extent that such information is superseded by information as of a subsequent date that is included in or incorporated by reference into such registration statement. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom:solid black 1.0pt; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: October 26, 2007</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,476 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RGPowd5QduUKCMNTA2EGkfL8w/wEkwHq1hR4apcY6snh4pHIvPNcXCeqctfQlsUX
+ EkNIwgu6GZt7swiMDU/6Lg==
+
+<SEC-DOCUMENT>/in/edgar/work/20000720/0000050863-00-000106/0000050863-00-000106.txt : 20000920
+<SEC-HEADER>0000050863-00-000106.hdr.sgml : 20000920
+ACCESSION NUMBER:		0000050863-00-000106
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000718
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000720
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		8-K
+			SEC ACT:		
+			SEC FILE NUMBER:	000-06217
+			FILM NUMBER:		675617
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2200 MISSION COLLEGE BLVD
+				CITY:			SANTA CLARA
+				STATE:			CA
+				ZIP:			95052
+				BUSINESS PHONE:		4087658080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2200 MISSION COLLEGE BLVD
+					STREET 2:		RN6-27
+					CITY:			SANTA CLARA
+					STATE:			CA
+					ZIP:			95052-8119
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+                                    UNITED STATES
+                          SECURITIES AND EXCHANGE COMMISSION
+
+                                Washington, D.C. 20549
+
+
+
+                                       FORM 8-K
+
+
+                                     CURRENT REPORT
+                           Pursuant to Section 13 or 15 (d)
+                        of the Securities Exchange Act of 1934
+
+
+                          Date of Report: July 18, 2000
+                         (Date of earliest event reported)
+
+
+
+                                 INTEL CORPORATION
+               (Exact name of registrant as specified in its charter)
+
+
+
+        Delaware                     0-6217                 94-1672743
+       ----------                   ---------             --------------
+       (State of                  (Commission             (IRS Employer
+     incorporation)               File Number)           Identification No.)
+
+
+
+
+  2200 Mission College Blvd., Santa Clara, California            95052-8119
+  ---------------------------------------------------            ----------
+      (Address of principal executive offices)                   (Zip Code)
+
+
+
+                                   (408) 765-8080
+                                   --------------
+                (Registrant's telephone number, including area code)
+
+<PAGE>
+
+Item 5.       OTHER EVENTS
+
+     5.1       Attached hereto as Exhibit 99.1 and incorporated by reference
+               herein is financial information for Intel Corporation for the
+               quarter ended July 1, 2000 and forward-looking statements
+               relating to 2000, the third quarter of 2000 and the second
+               half of 2000 as presented in a press release of July 18, 2000.
+
+Item 7.        FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND
+               EXHIBITS
+
+    (c)        Exhibits
+
+     99.1  Financial information for Intel Corporation for the quarter
+           ended July 1, 2000 and forward-looking statements relating
+           to 2000, the third quarter of 2000 and the second half of 2000.
+
+
+<PAGE>
+
+
+                              SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                              INTEL CORPORATION
+                                                (Registrant)
+
+
+
+
+
+Date: July 18, 2000                            By:  /s/ Andy D. Bryant
+                                                    -----------------------
+                                                    Andy D. Bryant
+                                                    Senior Vice President,
+                                                    Chief Financial Officer
+                                                    and Principal Accounting
+                                                    Officer
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+
+                                                                 EXHIBIT 99.1
+
+               Q2 REVENUE A RECORD $8.3 BILLION, UP 23 PERCENT
+       Q2 EARNINGS EXCLUDING ACQUISITION-RELATED COSTS* $0.50 PER SHARE
+                             ($1.00 PRE-SPLIT)
+          Q2 EARNINGS PER SHARE $0.45, POST SPLIT ($0.90 PRE-SPLIT)
+
+All of the share and per share amounts in this release have been adjusted to
+reflect the 2:1 stock split (to be effected as a special stock distribution)
+payable July 30 to stockholders of record on July 2.
+
+
+
+*Acquisition-related costs consist of one-time write-offs of purchased in-
+process research and development and the ongoing amortization of goodwill and
+other acquisition-related intangibles. Other acquisition-related intangibles
+include, for example, the value of the acquired companies' developed
+technology, trademarks and workforce-in-place. Earnings excluding
+acquisition-related costs differ from earnings presented according to
+generally accepted accounting principles because they exclude these costs.
+
+SANTA CLARA, Calif., July 18, 2000 -- Intel Corporation today announced
+second quarter revenue of $8.3 billion, a new quarterly record, up 23 percent
+from the second quarter of 1999 and 4 percent sequentially.  The company also
+had record unit shipments of microprocessors and flash memory in the second
+quarter.
+
+
+<PAGE>
+
+
+     For the second quarter, net income excluding acquisition-related costs
+was $3.5 billion, up 98 percent from the second quarter of 1999 and up 16
+percent sequentially.  Second quarter earnings excluding acquisition-related
+costs were $0.50 per share, an increase of 92 percent from $0.26 in the
+second quarter of 1999, and up 16 percent sequentially.
+     Including acquisition-related costs in accordance with generally
+accepted accounting principles, second quarter net income was $3.1 billion,
+up 79 percent from the second quarter of 1999 and up 16 percent sequentially.
+Earnings per share were $0.45, up 80 percent from $0.25 in the second quarter
+of 1999 and up 15 percent sequentially.
+     Acquisition-related costs in the second quarter consisted of $21 million
+in one-time charges for purchased in-process research and development and
+$394 million of amortization of goodwill and other acquisition-related
+intangibles.
+     All of the share and per share amounts in this release have been
+adjusted to reflect the 2-for-1 stock split (to be effected as a special
+stock distribution) payable July 30 to stockholders of record on July 2.  The
+company expects that its shares will begin to trade on a post-split basis on
+July 31. All second quarter net income and earnings per share amounts include
+the previously announced charge to cost of sales for approximately $200
+million to cover costs associated with the MTH motherboard replacement
+program and $2.3 billion of interest and other income.
+     "We are very pleased with our record quarterly results in what is
+normally a seasonally slow quarter," said Craig R. Barrett, president and
+chief executive officer.  "Strong worldwide PC and server demand and better
+than expected manufacturing performance helped lead the company to greater
+than 20 percent revenue growth versus the second quarter of last year.  We
+saw strong demand in all business groups, especially for microprocessors,
+flash memory and networking silicon.
+     "Looking forward, we expect to see strong demand continue into the
+second half. Our recent investments in 0.18-micron process technology will
+allow us to substantially increase second half supply to help us meet this
+anticipated strong demand."
+     In June, the company announced the Intel(R) Pentium(R) 4 processor brand
+name for its new generation of desktop microprocessors.  Scheduled to be
+introduced in the second half of 2000, the new Pentium 4 processor is based
+on revolutionary technology designed for consumers
+
+
+<PAGE>
+
+
+who want to take advantage of the latest Web technologies like broadband,
+interactive 3-D and streaming audio and video.
+     Today, the company said that it would soon begin shipments of its
+Intel(R) Itanium(TM) processor for systems used by IT end-users in pilot
+installations, and that the company now expects to begin recording revenue
+for Itanium processor shipments during the fourth quarter, rather than the
+third. Pilot systems will be followed by release of generally available
+system hardware, operating systems environments, and application solutions,
+following industry practice for enterprise computing systems.  Thousands of
+Itanium processor based development systems have already been shipped to OEM
+customers, operating systems vendors, independent software vendors, and IT
+end-users using them for the qualification of systems and development of
+software.
+     During the quarter, the company announced and closed the acquisition of
+Picazo Communications and Kuck & Associates, Inc. and closed two previously
+announced acquisitions, Basis Communications Corporation and Voice
+Technologies Group, Inc.  During the quarter, Intel also announced that
+Visteon Corporation's Ford Microelectronics Inc. design team had joined the
+company.  Background on acquisitions can be found in the Second Quarter
+Highlights section of this release.
+     During the quarter, the company paid its quarterly cash dividend of
+$0.015 per share (as calculated on a post-split basis).  The dividend was
+paid on June 1, 2000, to stockholders of record on May 7, 2000.  During the
+quarter, Intel's Board of Directors approved an increase in the company's
+quarterly cash dividend from $0.015 to $0.02, beginning with the dividend
+payable on September 1, 2000, to stockholders of record on August 7, 2000.
+Intel has paid a regular quarterly cash dividend for over seven years.
+     During the quarter, the company repurchased a total of 16.8 million
+shares (as calculated on a post-split basis), of common stock, at a cost of
+$1.0 billion, under an ongoing program.  Since the program began in 1990, the
+company has repurchased 1.4 billion shares at a total cost of $20.2 billion.
+
+
+<PAGE>
+
+
+                              BUSINESS OUTLOOK
+                              ----------------
+
+The following statements are based on current expectations.  These statements
+are forward-looking, and actual results may differ materially.  These
+statements do not include the potential impact of any mergers or acquisitions
+that may be completed after July 1, 2000.
+
+** The company expects revenue for the third quarter of 2000 to be up from
+second quarter revenue of $8.3 billion.
+** The company expects gross margin percentage for the third quarter to be
+approximately 63 to 64 percent. Based on first half results and current
+expectations, gross margin percentage for 2000 is now expected to be 63
+percent, plus or minus a few points, including the impact of all costs
+associated with the MTH motherboard replacement program.  In the short term,
+Intel's gross margin percentage varies primarily with revenue levels and
+product mix as well as changes in unit costs.
+** Expenses (R&D, excluding in-process R&D, plus MG&A) in the third quarter
+of 2000 are expected to be up 7 to 9 percent from second quarter expenses of
+$2.2 billion, primarily due to higher spending on marketing programs and R&D
+initiatives in new business areas.  Expenses are dependent in part on the
+level of revenue.
+** R&D spending, excluding in-process R&D, is expected to be approximately
+$4.0 billion for 2000, up from previous guidance of $3.9 billion.
+** The company expects interest and other income for the third quarter of
+2000 to be approximately $800 million, depending on interest rates, cash
+balances, equity market levels and volatility, the realization of expected
+gains on investments, including gains on investments acquired by third
+parties, and assuming no unanticipated items.
+** The tax rate for 2000 is expected to be approximately 31.8 percent,
+excluding the impact of the previously announced agreement with the Internal
+Revenue Service and acquisition-related costs, up slightly from previous
+guidance of 31.7 percent, due primarily to higher than expected realized
+gains on the sale of equity investments.
+** Capital spending for 2000 is expected to be approximately $6.0 billion.
+
+
+<PAGE>
+
+
+** Depreciation is expected to be approximately $790 million in the third
+quarter and $3.4 billion for the full year 2000, down from previous guidance
+of $3.5 billion.
+** Amortization of goodwill and other acquisition-related intangibles is
+expected to be approximately $400 million in the third quarter and $1.5
+billion for the full year 2000, up from previous guidance of $1.4 billion.
+
+     The statements by Craig R. Barrett and the above statements contained in
+this outlook are forward-looking statements that involve a number of risks
+and uncertainties.  In addition to factors discussed above, among other
+factors that could cause actual results to differ materially are the
+following: business and economic conditions and growth in the computing
+industry in various geographic regions; changes in customer order patterns;
+changes in the mixes of microprocessor types and speeds, purchased components
+and other products; competitive factors, such as rival chip architectures and
+manufacturing technologies, competing software-compatible microprocessors and
+acceptance of new products in specific market segments; pricing pressures;
+development and timing of introduction of compelling software applications;
+insufficient, excess or obsolete inventory and variations in inventory
+valuation; continued success in technological advances, including development
+and implementation of new processes and strategic products for specific
+market segments; execution of the manufacturing ramp, including the
+transition to the 0.18-micron process technology; shortage of manufacturing
+capacity; the ability to grow new networking, communications, wireless and
+other Internet-related businesses and successfully integrate and operate any
+acquired businesses; unanticipated costs or other adverse effects associated
+with processors and other products containing errata (deviations from
+published specifications); litigation involving antitrust, intellectual
+property, consumer and other issues; and other risk factors listed from time
+to time in the company's SEC reports, including but not limited to the report
+on Form 10-Q for the quarter ended April 1, 2000 (Part I, Item 2, Outlook
+section).
+
+
+<PAGE>
+
+
+                              INTEL CORPORATION
+                  CONSOLIDATED SUMMARY INCOME STATEMENT DATA
+                   (In millions, except per share amounts)
+
+                                     Three Months Ended     Six Months Ended
+                                     ------------------     ----------------
+                                     July 1,    June 26,    July 1,  June 26,
+                                      2000       1999        2000      1999
+                                    --------  --------    --------  --------
+NET REVENUE                         $  8,300  $  6,746    $ 16,293  $ 13,849
+                                    --------  --------    --------  --------
+Cost of sales                          3,283     2,740       6,272     5,634
+Research and development                 971       731       1,922     1,394
+Marketing, general and administrative  1,223       924       2,347     1,815
+Amortization of goodwill and other
+  acquisition-related intangibles        394        31         707        49
+Purchased in-process research and
+  development                             21         -          83         -
+                                    --------  --------    --------  --------
+Operating costs and expenses           5,892     4,426      11,331     8,892
+                                    --------  --------    --------  --------
+OPERATING INCOME                       2,408     2,320       4,962     4,957
+Interest and other                     2,341       290       2,981       637
+                                    --------  --------    --------  --------
+INCOME BEFORE TAXES                    4,749     2,610       7,943     5,594
+Income taxes                           1,612       861       2,110     1,846
+                                    --------  --------    --------  --------
+NET INCOME                          $  3,137  $  1,749    $  5,833  $  3,748
+                                    ========  ========    ========  ========
+
+BASIC EARNINGS PER SHARE            $   0.47  $   0.26    $   0.87  $   0.56
+                                    ========  ========    ========  ========
+DILUTED EARNINGS PER SHARE          $   0.45  $   0.25    $   0.83  $   0.54
+                                    ========  ========    ========  ========
+COMMON SHARES OUTSTANDING              6,710     6,620       6,697     6,634
+COMMON SHARES ASSUMING DILUTION        7,005     6,892       7,000     6,924
+
+Note: Certain prior period amounts have been reclassified to conform with the
+current presentation.
+
+PRO FORMA INFORMATION EXCLUDING
+ACQUISITION-RELATED COSTS
+
+The following pro forma supplemental information excludes the effect of
+amortization of goodwill and other acquisition-related intangibles as well
+as in-process research and development. This pro forma information is not
+prepared in accordance with generally accepted accounting principles.
+
+
+                                       Three Months Ended   Six Months Ended
+                                       ------------------  ------------------
+                                        July 1,  June 26,   July 1,  June 26,
+                                         2000     1999       2000     1999
+                                        -------  --------  -------- --------
+Pro forma operating costs and expenses  $ 5,477  $ 4,395   $10,541  $ 8,843
+Pro forma operating income              $ 2,823  $ 2,351   $ 5,752  $ 5,006
+Net income excluding acquisition-related
+  costs                                 $ 3,518  $ 1,780   $ 6,556  $ 3,797
+Basic earnings per share excluding
+  acquisition-related costs             $  0.52  $  0.27   $  0.98  $  0.57
+Diluted earnings per share excluding
+  acquisition-related costs             $  0.50  $  0.26   $  0.94  $  0.55
+
+
+<PAGE>
+
+
+                              INTEL CORPORATION
+                    CONSOLIDATED SUMMARY BALANCE SHEET DATA
+                    (In millions, except per share amounts)
+
+
+                                            July 1,   Apr. 1,   Dec. 25,
+                                             2000      2000      1999
+                                         ---------  ---------  ---------
+CURRENT ASSETS
+Cash and short-term investments          $ 13,644   $ 11,216   $ 11,788
+Accounts receivable                         4,333      3,678      3,700
+Inventories:
+  Raw materials                               232        224        183
+  Work in process                             863        796        755
+  Finished goods                              512        517        540
+                                         ---------  ---------  ---------
+                                            1,607      1,537      1,478
+Deferred tax assets and other                 966        977        853
+                                         ---------  ---------  ---------
+  Total current assets                     20,550     17,408     17,819
+
+Property, plant and equipment, net         12,324     11,879     11,715
+Marketable strategic equity securities      6,201      9,809      7,121
+Other long-term investments                 1,574      1,163        790
+Goodwill and other acquisition-related
+  intangibles                               6,240      5,978      4,934
+Other assets                                1,631      1,574      1,470
+                                         ---------  ---------  ---------
+  TOTAL ASSETS                           $ 48,520   $ 47,811   $ 43,849
+                                         =========  =========  =========
+
+CURRENT LIABILITIES
+Short-term debt                          $    385   $    373   $    230
+Accounts payable and accrued liabilities    5,602      4,638      4,565
+Deferred income on shipments to
+  distributors                                726        548        609
+Income taxes payable                        1,623      1,531      1,695
+                                         ---------  ---------  ---------
+  Total current liabilities                 8,336      7,090      7,099
+LONG-TERM DEBT                                870        868        955
+DEFERRED TAX LIABILITIES                    2,694      3,750      3,130
+PUT WARRANTS                                    -          -        130
+
+STOCKHOLDERS' EQUITY
+Common stock and capital in excess
+  of par value                               7,941      7,748     7,316
+Other stockholders' equity                  28,679     28,355    25,219
+                                         ---------  ---------  ---------
+  Total stockholders' equity                36,620     36,103    32,535
+                                         ---------  ---------  ---------
+  TOTAL LIABILITIES AND
+    STOCKHOLDERS' EQUITY                  $ 48,520   $ 47,811  $ 43,849
+                                         =========  =========  =========
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

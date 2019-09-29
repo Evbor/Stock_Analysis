@@ -1,0 +1,422 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OT+CtDWUP38AySt+mXdns8vaSq8jYOAORAL+jk6Wl5EH5Qdb6Z8Qu7hOJlaPgeG3
+ in/9yykmdkpteGV5H2sThg==
+
+<SEC-DOCUMENT>0000050863-02-000054.txt : 20020607
+<SEC-HEADER>0000050863-02-000054.hdr.sgml : 20020607
+<ACCEPTANCE-DATETIME>20020606172540
+ACCESSION NUMBER:		0000050863-02-000054
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20020307
+ITEM INFORMATION:		Acquisition or disposition of assets
+FILED AS OF DATE:		20020606
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		02672676
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>q2028kshell.htm
+<DESCRIPTION>Q2 02 MID QUARTER UPDATE REGISTRATION PAGE
+<TEXT>
+<html>
+
+<head>
+<title> UNITED STATES</title>
+</head>
+
+<body LINK="#0000ff">
+<div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="643">
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><font SIZE="4"><b><p ALIGN="CENTER">UNITED STATES</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><font SIZE="4"><b><p ALIGN="CENTER">SECURITIES AND EXCHANGE
+    COMMISSION</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">&nbsp;<b>&nbsp;&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">Washington, D.C. 20549</td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b><font SIZE="4"><p ALIGN="CENTER">&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><font SIZE="4"><b><p ALIGN="CENTER">FORM 8-K</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b><font SIZE="4"><p ALIGN="CENTER"></font>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b><p ALIGN="CENTER">CURRENT REPORT</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">Pursuant to Section 13 or 15 (d)</td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">of the Securities Exchange Act of 1934</td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b><p ALIGN="CENTER">Date of Report: June 6, 2002</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">(Date of earliest event reported)</td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><font SIZE="4"><b><p ALIGN="CENTER">INTEL CORPORATION</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">(Exact name of registrant as specified in
+    its charter)</td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><u><b><p ALIGN="CENTER">Delaware</b></u></td>
+    <td WIDTH="33%" VALIGN="TOP" COLSPAN="3"><u><b><p ALIGN="CENTER">0-6217</b></u></td>
+    <td WIDTH="34%" VALIGN="TOP"><u><b><p ALIGN="CENTER">94-1672743</b></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">(State of</td>
+    <td WIDTH="33%" VALIGN="TOP" COLSPAN="3"><p ALIGN="CENTER">(Commission</td>
+    <td WIDTH="34%" VALIGN="TOP"><p ALIGN="CENTER">(IRS Employer</td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><p ALIGN="CENTER">incorporation)</td>
+    <td WIDTH="33%" VALIGN="TOP" COLSPAN="3"><p ALIGN="CENTER">File Number)</td>
+    <td WIDTH="34%" VALIGN="TOP"><p ALIGN="CENTER">Identification No.)</td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="33%" VALIGN="TOP" COLSPAN="3"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="34%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="33%" VALIGN="TOP" COLSPAN="3"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="34%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="61%" VALIGN="TOP" COLSPAN="3"><u><b><p ALIGN="CENTER">2200 Mission College
+    Blvd., Santa Clara, California</b></u></td>
+    <td WIDTH="39%" VALIGN="TOP" COLSPAN="2"><u><b><p ALIGN="CENTER">95052-8119</b></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="61%" VALIGN="TOP" COLSPAN="3"><p ALIGN="CENTER">(Address of principal executive
+    offices)</td>
+    <td WIDTH="39%" VALIGN="TOP" COLSPAN="2"><p ALIGN="CENTER">(Zip Code)</td>
+  </tr>
+  <tr>
+    <td WIDTH="61%" VALIGN="TOP" COLSPAN="2"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="39%" VALIGN="TOP" COLSPAN="3"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="61%" VALIGN="TOP" COLSPAN="2"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="39%" VALIGN="TOP" COLSPAN="3"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><u><b><p ALIGN="CENTER">(408) 765-8080</b></u></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="5"><p ALIGN="CENTER">(Registrant's telephone number, including
+    area code)</td>
+  </tr>
+</table>
+</center></div><font SIZE="2">
+
+<p ALIGN="CENTER"></font><b>&nbsp;&nbsp;</b><font SIZE="2"></p>
+
+<hr noshade size="4">
+
+<p ALIGN="CENTER"></font><b>&nbsp;&nbsp;</b><font SIZE="2"></p>
+</font>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="666">
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">Item 5.</b></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><b>OTHER EVENTS</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">5.1</b></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP">Attached hereto as Exhibit 99.1 and incorporated by reference
+    herein is the text of Intel Corporation's announcement regarding an update to
+    forward-looking statements relating to 2002 and the second quarter of 2002 as presented in
+    a press release of June 6, 2002.</td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">Item 7.</b></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><b>FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND
+    EXHIBITS</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><dir>
+      <b><p ALIGN="RIGHT">(c)</b></p>
+    </dir>
+    </td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><b>Exhibits</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"></td>
+    <td WIDTH="4%" VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><b><p ALIGN="RIGHT">99.1</b></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP">Press release of June 6, 2002 with an announcement regarding
+    an update to forward-looking statements relating to 2002 and the second quarter of 2002.</td>
+  </tr>
+</table>
+
+<p><b>&nbsp;&nbsp;</b></p>
+
+<hr noshade size="4">
+
+<p><b>&nbsp;&nbsp;</b></p>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638">
+  <tr>
+    <td VALIGN="TOP"><font SIZE="4"><b><p ALIGN="CENTER">SIGNATURES</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP">Pursuant to the requirements of the Securities Exchange Act of 1934, the
+    Registrant has duly caused this report to be signed on its behalf by the undersigned
+    hereunto duly authorized.</td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><b>&nbsp;&nbsp;</b></td>
+  </tr>
+</table>
+
+<p><b>&nbsp;&nbsp;</b></p>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="636">
+  <tr>
+    <td WIDTH="56%" VALIGN="TOP"></td>
+    <td WIDTH="44%" VALIGN="TOP"><b>INTEL CORPORATION</b></td>
+  </tr>
+  <tr>
+    <td WIDTH="56%" VALIGN="TOP"></td>
+    <td WIDTH="44%" VALIGN="TOP">(Registrant)</td>
+  </tr>
+</table>
+
+<p><b>&nbsp;&nbsp;</b></p>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638">
+  <tr>
+    <td WIDTH="50%" VALIGN="TOP">Date: June 6, 2002</td>
+    <td WIDTH="50%" VALIGN="TOP" COLSPAN="2">By:&nbsp;&nbsp;<u>/s/&nbsp;Andy D.
+    Bryant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Andy D. Bryant</td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Executive Vice President,</td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Chief Financial Officer and</td>
+  </tr>
+  <tr>
+    <td WIDTH="55%" VALIGN="TOP" COLSPAN="2"></td>
+    <td WIDTH="45%" VALIGN="TOP">Principal Accounting Officer</td>
+  </tr>
+</table>
+<font FACE="Courier New" SIZE="2">
+
+<p>&nbsp;</p>
+
+<p ALIGN="RIGHT">&nbsp;</p>
+</font>
+
+<p ALIGN="RIGHT">&nbsp;</p>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>q202updateexh99.htm
+<DESCRIPTION>Q2 02 MID QUARTER UPDATE EXHIBIT 99
+<TEXT>
+<html>
+
+<head>
+<title>q202updateexhibit99</title>
+</head>
+
+<body LINK="#0000FF" VLINK="#800080">
+
+<p ALIGN="RIGHT">Exhibit 99.1</p>
+<b>
+
+<p ALIGN="CENTER">&nbsp;</p>
+
+<p ALIGN="CENTER">INTEL UPDATES SECOND-QUARTER BUSINESS EXPECTATIONS</p>
+</b>
+
+<p>SANTA CLARA, Calif., June 6, 2002 -- Intel Corporation today provided a planned update
+to the company's Business Outlook for the second quarter, which ends June 29.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel expects second-quarter revenue to be between $6.2
+billion and $6.5 billion, compared to the previous range of $6.4 billion to $7.0 billion.
+The lower revenue expectation is primarily due to softer than expected demand in Europe.
+Microprocessor units are at the low end of the normal seasonal pattern, with a weaker than
+expected mix. Intel's enterprise, mobile and communications businesses are in line with
+expectations. The company continues to expect a seasonally stronger second half.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second-quarter gross margin percentage is expected to
+be approximately 49 percent, plus or minus a couple of points, compared to the previous
+range of 53 percent, plus or minus a couple of points, primarily due to the lower than
+expected revenue and product mix.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amortization of acquisition-related intangibles and costs
+is expected to be approximately $230 million in the second quarter, compared to the
+previous expectation of $115 million, primarily due to a write-off of acquired intangibles
+related to Xircom PC cards for wireline networking. The full year amount is expected to be
+approximately $530 million, compared to the previous expectation of $440 million. All
+other expectations are unchanged. </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel's second-quarter 2002 Business Outlook was
+originally published in the company's </p>
+
+<p>&nbsp;</p>
+
+<hr noshade size="4">
+
+<p>Intel/Page 2</p>
+
+<p>first-quarter 2002 earnings release, available on the Intel Investor Relations Web site
+at <u>www.intc.com</u>.<u></p>
+</u>
+
+<p>&nbsp;&nbsp;<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The statements contained in this Business
+Update and in the April 16 Business Outlook are forward-looking statements that involve a
+number of risks and uncertainties. Gross margin percentage varies primarily with revenue
+levels, product mix, product pricing, changes in unit costs, capacity utilization, and
+timing of factory ramps and associated costs. Expenses, particularly certain marketing-
+and compensation-related expenses, vary depending on the level of revenue and profits. The
+expectation as to gains or losses from equity investments and interest and other will vary
+depending on equity market levels and volatility, gains or losses realized on the sale or
+exchange of investments, determination of impairment charges, including potential
+impairment of non-marketable investments, interest rates, cash balances, mark-to-market of
+derivative instruments, and assuming no unanticipated items. Other factors that could
+cause actual results to differ materially include the following: business and economic
+conditions and trends in the computing and communications industries in various geographic
+regions; factors associated with doing business outside the United States, including
+currency controls and fluctuations, and tariff, import and other related restrictions and
+regulations; possible disruption in commercial activities related to terrorist activity or
+armed conflict in the United States, Israel and other locations, such as changes in
+logistics and security arrangements and communications infrastructure, and reduced
+end-user purchases relative to expectations; civil or military unrest or political
+instability in a locale; changes in customer order patterns; changes in the mixes of
+microprocessor types and speeds sold as well as the mix of related chipsets, motherboards,
+purchased components and other semiconductor and non-semiconductor products; competitive
+factors, such as competing chip architectures and manufacturing technologies, competing
+software-compatible microprocessors and acceptance of new products in specific market
+segments; pricing pressures; development and timing of introduction of compelling software
+applications; excess or obsolete inventory and variations in inventory valuation;
+continued success in technological advances, including development and implementation of
+new processes and strategic products for specific market segments; execution of the
+manufacturing ramp, including the transition to 0.13-micron manufacturing process
+technology; excess manufacturing capacity; the ability to sustain and grow networking,
+communications, wireless and other businesses, and successfully integrate and operate any
+acquired businesses; unanticipated costs or other adverse effects associated with
+processors and other products containing errata (deviations from published
+specifications); litigation involving intellectual property, stockholder and other issues;
+and other risk factors listed from time to time in the company's SEC reports, including
+but not limited to Form 10-Q for the quarter ended March 30, 2002.</i></p>
+<font SIZE="2">
+
+<p>Intel is a registered trademark of Intel Corporation or its subsidiaries in the United
+States and other countries.</p>
+</font>
+
+<hr noshade size="4" width="50%">
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

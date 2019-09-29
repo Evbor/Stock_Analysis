@@ -1,0 +1,2825 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CrkMGVUN3ZJho+qS8dgSqCAMCMjWm60mIj0t5MQBLGXfO0VHmXeEE8IrXoyvJacK
+ gp7deudrsTTLT1oCWzNhuA==
+
+<SEC-DOCUMENT>0000050863-03-000205.txt : 20030716
+<SEC-HEADER>0000050863-03-000205.hdr.sgml : 20030716
+<ACCEPTANCE-DATETIME>20030715190559
+ACCESSION NUMBER:		0000050863-03-000205
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030628
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20030716
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		03788141
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>q203earningsshell.htm
+<DESCRIPTION>Q2 03 EARNINGS RELEASE COVER LIVE
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft FrontPage 5.0">
+<TITLE>                                    UNITED STATES</TITLE>
+<META NAME="_AdHocReviewCycleID" CONTENT="2071787304">
+<META NAME="_AuthorEmail" CONTENT="jeff.m.bodner@intel.com">
+<META NAME="_AuthorEmailDisplayName" CONTENT="Bodner, Jeff M">
+<META NAME="_PreviousAdHocReviewCycleID" CONTENT="1695435160">
+</HEAD>
+<BODY LINK="#0000ff">
+
+<P ALIGN="CENTER"><CENTER>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624 cellpadding="0" height="529">
+<TR><TD VALIGN="TOP" COLSPAN=3 height="21">
+<FONT FACE="Arial" size="4">
+<B><P ALIGN="CENTER">UNITED STATES</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="21">
+<FONT FACE="Arial" size="4">
+<B><P ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">Washington, D.C. 20549</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="21">
+<FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="21">
+<FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="21">
+<FONT FACE="Arial" size="4">
+<B><P ALIGN="CENTER">FORM 8-K</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="21">
+<FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">CURRENT REPORT</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">Pursuant to Section 13 or 15(d)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">of the Securities Exchange Act of 1934</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="19">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;<B>&nbsp;</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">Date of Report:  July 15, 2003</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Date of earliest event reported)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">INTEL CORPORATION</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Exact name of registrant as specified in its charter)</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3 height="18">
+<FONT FACE="Arial"><P ALIGN="CENTER">&nbsp;</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" height="19">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">Delaware</B></U></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" height="19">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">0-6217</B></U></FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" height="19">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">94-1672743</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">(State of</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Commission</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">(IRS Employer</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">incorporation)</FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">File Number)</FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" height="16">
+<FONT FACE="Arial"><P ALIGN="CENTER">Identification No.)</FONT></TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" height="19">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="33%" VALIGN="TOP" height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="33%" VALIGN="TOP" height="19">
+<FONT FACE="Arial">
+<B><P ALIGN="CENTER">&nbsp;</B></FONT></TD>
+<TD WIDTH="34%" VALIGN="TOP" height="19">&nbsp;</TD>
+</TR>
+</TABLE>
+</CENTER></P>
+
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">2200 Mission College Blvd., Santa Clara, California</B></U></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">95052-8119</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Address of principal executive offices)</FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Zip Code)</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624 style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><U>
+<B><P ALIGN="CENTER">(408) 765-8080</B></U></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="CENTER">(Registrant's telephone number, including area code)</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial"><P ALIGN="CENTER"></P>
+</FONT><FONT FACE="Arial" SIZE=2><hr noshade color="#000000" size="3">
+<P>&nbsp;</P></FONT>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=628>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial">
+<P ALIGN="RIGHT">Item 12.</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P><b>RESULTS OF OPERATIONS AND FINANCIAL CONDITION</b></FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Attached hereto as Exhibit 99.1 and incorporated by reference herein is financial information for Intel Corporation for the quarter ended June 28, 2003 and forward-looking statements relating to 2003 and the third
+and fourth quarters of 2003 as presented in a press release of July 15, 2003. The information in this report shall be deemed incorporated by reference into any registration statement heretofore or hereafter filed under the Securities Act of 1933, as amended, except to the extent that such information is superceded by information as of a subsequent date that is included in or incorporated by reference into such registration statement.&nbsp; The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P>&nbsp;</FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial">
+<P>&nbsp;</P>
+<FONT FACE="Arial" SIZE=2><hr noshade color="#000000" size="3"></FONT>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624 style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial" SIZE=4>
+<B><P ALIGN="CENTER">SIGNATURES</B></FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial" SIZE=4><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial" SIZE=2><P>&nbsp;</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">
+<FONT FACE="Arial"><P>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP">&nbsp;</TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2><P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624 style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+<TR><TD WIDTH="55%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial">
+<B><P>INTEL CORPORATION</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="55%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>(Registrant)</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2><P>&nbsp;</P>
+<P>&nbsp;</P></FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=624 style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+<TR><TD WIDTH="49%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Date: July 15, 2003</FONT></TD>
+<TD WIDTH="51%" VALIGN="TOP" COLSPAN=3>
+<FONT FACE="Arial"><P>&nbsp;&nbsp;By:&nbsp;&nbsp;<U>/s/ Andy D. Bryant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Andy D. Bryant</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Executive Vice President,</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Chief Financial Officer and</FONT></TD>
+</TR>
+<TR><TD WIDTH="49%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="45%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Principal Accounting Officer</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"></P>
+<hr noshade color="#000000" size="3">
+</FONT>
+
+<FONT FACE="Arial">
+<P ALIGN="CENTER">Exhibit Index</P>
+</FONT>
+<div align="center">
+  <center>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=628 style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">Index Number</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Description</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="82%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial"><P ALIGN="RIGHT">99.1</FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>Financial information for Intel Corporation for the quarter ended June 28, 2003 and forward-looking statements relating to 2003 and the third
+and fourth quarters of 2003 as presented in a press release of July 15, 2003.</FONT></TD>
+</TR>
+<TR><TD WIDTH="14%" VALIGN="TOP">
+<FONT FACE="Arial">
+<B><P ALIGN="RIGHT">&nbsp;</B></FONT></TD>
+<TD WIDTH="4%" VALIGN="TOP">
+<FONT FACE="Arial">
+<B><P>&nbsp;</B></FONT></TD>
+<TD WIDTH="82%" VALIGN="TOP">
+<FONT FACE="Arial"><P>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+
+  </center>
+</div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<FONT FACE="Arial" SIZE=2><hr noshade color="#000000" size="3" width="60%"></FONT>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>q203exhibit99_1.htm
+<DESCRIPTION>Q2 03 EARNINGS PRESS RELEASE AND EXHIBITS LIVE
+<TEXT>
+<HTML>
+<HEAD>
+
+<META NAME="Generator" CONTENT="Microsoft FrontPage 5.0">
+<TITLE>INTEL CORPORATION</TITLE>
+
+<!--
+span.emailstyle16
+	{font-family:Arial;
+	color:black}
+- -->
+
+</HEAD>
+<BODY topmargin="10" leftmargin="10" style="border-bottom: 1px solid #000000">
+
+<FONT FACE="Arial" SIZE=1></FONT>
+
+<FONT FACE="Arial" SIZE=1></FONT>
+
+<FONT FACE="Arial">
+<b>
+<p align="center">INTEL SECOND-QUARTER REVENUE $6.8 BILLION,</p>
+<p align="center">EARNINGS PER SHARE $0.14</p>
+<p align="justify">&nbsp;</p>
+</b>
+<p>SANTA CLARA, Calif., July 15, 2003 -- Intel Corporation today announced
+second-quarter revenue of $6.8 billion, up 1 percent sequentially and up 8
+percent year-over-year.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second-quarter net income was $896 million, down 2 percent sequentially
+and up 101 percent year-over-year. Earnings per share were $0.14, flat
+sequentially and up 100 percent from $0.07 in the second quarter of 2002.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;Overall, the quarter came in slightly better than we expected led by
+good demand in our computing-related business, which posted solid year-over-year
+results,&quot; said Craig R. Barrett, Intel chief executive officer. &quot;We continued to
+see strength in emerging markets, and our Asia-Pacific region set an all-time
+revenue record.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;Our investment<font color="#000080">s</font> in R&amp;D and manufacturing
+continued to generate strong products,&quot; Barrett said. &quot;We saw excellent market
+acceptance for new, more powerful versions of the Pentium<sup>(R)</sup> 4
+processor for desktops and for Intel<sup>(R)</sup> Centrino<sup>TM </sup>mobile technology
+for notebooks. In addition, we recently launched our latest Itanium<sup>(R)</sup>
+2 processor for high-end enterprise computing with broad industry support. On a
+day when Intel celebrates its 35<sup>th</sup> anniversary, our continued focus
+on product and technology leadership remains the right strategy for long-term
+success.&quot;</p>
+<hr noshade color="#000000" size="4">
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last year's second-quarter results included a $106-million charge to
+cost of sales related to winding down the online services business, along with a
+$112-million write-off of acquired intangibles.</p>
+<p>BUSINESS OUTLOOK</p>
+<i>
+<p>The following statements are based on current expectations. These statements
+are forward-looking, and actual results may differ materially. These statements
+do not include the potential impact of any mergers, acquisitions, divestitures
+or other business combinations that may be completed after July 14, 2003, with
+the exception of an anticipated closing affecting the third-quarter tax rate as
+discussed below.</p>
+</i>
+<p>Continuing uncertainty in global economic conditions makes it particularly
+difficult to predict product demand and other related matters.</p>
+<p>** Revenue in the third quarter is expected to be between $6.9 billion and
+$7.5 billion.</p>
+<p>** Gross margin percentage in the third quarter is expected to be
+approximately 54 percent, plus or minus a couple of points, higher than 50.9
+percent in the second quarter primarily due to higher expected revenue, lower
+start-up costs and lower unit costs. Intel's gross margin percentage varies
+primarily with revenue levels, product mix and pricing, changes in unit costs
+and inventory valuation, capacity utilization, and the timing of factory ramps
+and associated costs.</p>
+<p>** Gross margin percentage for 2003 is expected to be approximately 54
+percent, plus or minus a few points, higher than the previous expectation of 51
+percent, plus or minus a few points. The increase is primarily due to higher
+expected revenue along with lower start-up costs as resources are transferred to
+next-generation process development.</p>
+<p>** R&amp;D spending for 2003 is expected to be approximately $4.2 billion, higher
+than the previous expectation of $4.0 billion, primarily due to the transfer of
+resources from 90-nm start-up activities to 65-nm process development.</p>
+<p>** Expenses (R&amp;D plus MG&amp;A) in the third quarter are expected to be
+approximately $2.2 billion. Expenses, particularly certain marketing- and
+compensation-related expenses, vary depending on the level of revenue and
+profits.</p>
+<p>** The capital spending expectation for 2003 is unchanged at $3.5 billion to
+$3.9 billion.</p>
+<hr noshade color="#000000" size="4">
+<p>** Gains or losses from equity investments and interest and other in the
+third quarter is expected to be a net loss of $25 million due to the expectation
+of a net loss on equity investments of approximately $60 million, primarily as a
+result of impairment charges on private equity investments.</p>
+<p>** The tax rate is expected to be approximately 24 percent for the third
+quarter and 30.5 percent for the fourth quarter. The lower rate for the third
+quarter as compared to the second and fourth quarters is due to an expected tax
+benefit related to a divestiture that is anticipated to close shortly. This
+divestiture is not expected to have a material impact on income before taxes.
+The tax rate may be affected by many factors including changes in law, the
+closing of acquisitions or divestitures, the jurisdictions in which products are
+manufactured and sold and profits are determined to be earned and taxed, and the
+ability to realize deferred tax assets.</p>
+<p>** Depreciation is expected to be approximately $1.2 billion for the third
+quarter and $4.7 billion for the year, slightly lower than the previous
+expectation of $4.8 billion for the year.</p>
+<p>** Amortization of acquisition-related intangibles and costs is expected to
+be approximately $70 million in the third quarter and approximately $300 million
+for the year.</p>
+<i>
+<p>The statements in this document that refer to plans and expectations for the
+third and fourth quarters, the year and the future are forward-looking
+statements that involve a number of risks and uncertainties. A number of factors
+in addition to those discussed above could cause actual results to differ
+materially from expectations. Demand for Intel's products, which impacts revenue
+and the gross margin percentage, is affected by business and economic
+conditions, as well as computing and communications industry trends, and changes
+in customer order patterns. Intel conducts much of its manufacturing, assembly
+and test, and sales activities<b> </b>outside the United States and is thus
+subject to a number of other factors, including currency controls and
+fluctuations, and tariff and import regulations. If terrorist activity, armed
+conflict, civil or military unrest or political instability occurs in the United
+States, Israel or other locations, such events may disrupt logistics, security
+and communications, and could also result in reduced demand for Intel's
+products. The impacts of major health concerns, such as the SARS illness, could
+also adversely affect our business and our customer order patterns. Revenue and
+the gross margin percentage are affected by competing chip architectures and
+manufacturing technologies, competing software-compatible microprocessors,
+pricing pressures and other competitive factors, as well as market acceptance of
+Intel's new products, the availability of sufficient inventory to meet demand,
+and the development and timing of compelling software applications and operating
+systems that take advantage of the features of our products. Future revenue is
+also dependent on continuing technological advancement, including developing and
+implementing new processes and strategic products, as well as the timing of new
+product introductions, sustaining and growing new businesses and integrating and
+operating any </p>
+<hr noshade color="#000000" size="4">
+<p>acquired businesses. The gross margin percentage could also be affected by
+the execution of the manufacturing ramp, excess manufacturing capacity, excess
+or obsolete inventory, variations in inventory valuation and impairment of
+manufacturing assets. The expectation regarding gains or losses from equity
+securities and interest and other assumes no unanticipated events and varies
+depending on equity market levels and volatility, gains or losses realized on
+the sale or exchange of securities, impairment charges related to non-marketable
+and other investments, interest rates, cash balances, and changes in fair value
+of derivative instruments. Expectations of impairment charges on investments are
+based on experience, and it is not possible to know which specific investments
+are likely to be impaired or the extent or timing of individual impairments.
+Results could also be affected by adverse effects associated with product
+defects and errata (deviations from published specifications), and by
+litigation, such as that described in Intel's SEC reports, as well as other risk
+factors listed in Intel's SEC reports, including the report on Form 10-Q for the
+quarter ended March 29, 2003.</p>
+</i><u>
+<p>Status of Business Outlook and Mid-Quarter Business Update</p>
+</u>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the quarter, Intel's corporate representatives may reiterate the
+Business Outlook during private meetings with investors, investment analysts,
+the media and others. Intel intends to publish a Mid-Quarter Business Update on
+Sept. 4. From the close of business on Aug. 29 until publication of the Update,
+Intel will observe a &quot;Quiet Period&quot; during which the Outlook and the company's
+filings with the SEC on Forms 10-K and 10-Q should be considered to be
+historical, speaking as of prior to the Quiet Period only and not subject to
+update by the company. For more information about the Outlook, Update and
+related Quiet Periods, please refer to the Outlook section of the Web site at www.intc.com.</p>
+<p>SECOND-QUARTER REVIEW AND RECENT HIGHLIGHTS</p>
+<u>
+<p>Financial Review</p>
+</u>
+<p>** Gains or losses on equity investments and interest and other resulted in a
+net loss of $5 million, lower than the expectation of a net loss of $20 million.
+The net loss on equity investments was $58 million, including the impact of
+impairment charges of approximately $64 million.</p>
+<p>** The tax rate was 29.5 percent in the second quarter, lower than the
+company's expectation of 30.5 percent, due to a tax benefit related to a
+divestiture of a prior acquisition that closed during the quarter.</p>
+<b>
+<p>&nbsp;</p>
+<hr noshade color="#000000" size="4"></b><u>
+<p>Key Product Trends (Sequential)</p>
+</u>
+<p>** Intel Architecture microprocessor units and average selling prices were
+approximately flat.</p>
+<p>** Chipset units were approximately flat<i>.</p>
+</i>
+<p>** Motherboard units were higher.</p>
+<p>** Flash memory units were lower.</p>
+<p>** Ethernet connectivity product units were slightly higher.</p>
+<u>
+<p>Intel Architecture Business</p>
+</u>
+<p>Intel extended its desktop performance leadership with the introduction of
+the 3.2 GHz Pentium 4 processor with Intel's performance-enhancing
+Hyper-Threading (HT) Technology. The company also launched the Intel<sup>(R)</sup>
+865 chipset along with new Pentium 4 processors at 2.4, 2.5 and 2.8 GHz.
+Together, these products bring a number of platform advancements to mainstream
+corporate and consumer PCs, including HT Technology, an 800 MHz system bus, and 400 MHz DDR memory
+support. The company also expanded its value desktop lineup with Intel Celeron<sup>(R)</sup>
+processors at 2.4 and 2.5 GHz.</p>
+<p>The company broadened the Intel Centrino mobile technology product line with
+a high-performance 1.7-GHz processor, a low-voltage 1.2-GHz processor, and an
+ultra-low-voltage 1-GHz processor. Intel also introduced new mobile Pentium 4
+processors, Intel Celeron processors and chipsets designed to optimize the
+thermal characteristics of transportable notebook PCs running at near-desktop
+performance levels.</p>
+<p>Intel increased its enterprise performance and price-performance by
+introducing a new generation of Itanium 2 processors, faster versions of the
+Intel<sup>(R)</sup> XeonTM processor for multiprocessor systems, and a new Intel
+Xeon processor for dual-processor servers and workstations with double the
+on-die cache of previous generations. In April, Microsoft introduced Windows*
+Server 2003 and SQL Server 2000, Enterprise Edition, further expanding the
+availability of enterprise software optimized for the Itanium processor family.
+In conjunction with the launch, Intel, Hewlett-Packard and Microsoft announced
+the world's highest single-system transaction processing performance result,
+obtained on a 64-way HP server based on the new Itanium 2 processor. Also in
+April, Intel, NEC and Microsoft announced the world's best</p>
+<b><hr noshade color="#000000" size="4">
+<p>&nbsp;</p>
+</b>
+<p>transaction processing performance result for a non-clustered, 32-way server
+based on the Itanium 2 processor.</p>
+<u>
+<p>Intel Communications Group</p>
+</u>
+<p>In wireless networking, Intel announced plans to develop silicon products
+based on the 802.16a standard, a new technology that provides a wireless
+broadband alternative to cable and DSL. Networks based on the 802.16a standard
+are expected to transfer data over a range of up to 30 miles and, depending on
+the distance, at speeds up to 70 megabits per second.</p>
+<p>In network processing, the company announced support for Advanced Switching,
+a standards-based extension of the PCI Express technology designed for the
+computing industry. In addition, Avici, Samsung and U.S. Robotics introduced new
+products based on Intel network processors during the quarter.</p>
+<p>Intel advanced its optical strategy with the July acquisition of West Bay
+Semiconductor of Vancouver, which designs chips for transporting voice and data
+over SONET/SDH-based optical networks. Intel plans to combine the technology
+with its 90-nm manufacturing process to reduce the cost, power and complexity of
+optical networking equipment.</p>
+<u>
+<p>Wireless Communications and Computing Group</p>
+</u>
+<p>During the quarter, the company began shipping the Intel<sup>(R)</sup>
+StrataFlashTM Wireless Memory, which brings higher storage densities, faster
+performance, and 1.8-volt operation to today's most advanced data phone designs.
+In addition, customer acceptance of Intel<sup>(R)</sup> PCA cellular processors
+continued to grow, with more than 60 cumulative design wins in cellular phones
+and communications-enabled PDAs.</p>
+<p>Intel and Sun Microsystems announced plans to optimize Java* technology for
+use on cell phones and PDAs powered by the Intel<sup>(R)</sup> XScale<sup>TM</sup> microarchitecture. The collaboration is expected to make it easier for device
+manufacturers to integrate Java applications into their devices and optimize the
+application performance. Intel also announced it is working with mmO2, one of Europe's leading wireless carriers, to optimize business and
+consumer applications for use on Intel PCA processor-based wireless devices.</p>
+<u><hr noshade color="#000000" size="4">
+<p>Technology and Manufacturing Group</p>
+</u>
+<p>Intel opened its newest development fab, D1D, in Hillsboro, Ore. The $2
+billion, 300-mm facility will initially develop Intel's 65-nm process
+technology, which will be used to manufacture Intel's highest performance
+processors in the 2005 timeframe.</p>
+<p>The company revealed improvements on its advanced &quot;tri-gate&quot; transistor
+design and said the technology is moving from research to the development phase.
+The design of this novel three-dimensional (3-D) transistor will allow the
+company to continue to drive Moore</FONT>'<FONT FACE="Arial">s Law and deliver higher performance, lower
+power processors in the future. </p>
+<b>
+<p>EARNINGS WEBCAST</p>
+</b>
+<p>Intel will hold a public webcast at 2:30 p.m. PDT today on its Investor
+Relations Web site at <u>www.intc.com</u>. A replay of the webcast will be available
+until Oct. 14.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel, the world</FONT>'<FONT FACE="Arial">s largest chip maker, is also a leading manufacturer of
+computer, networking and communications products. Additional information about
+Intel is available at <u>www.intel.com/pressroom.</u></p>
+<b>
+<p align="center">----</p>
+</b>
+<p>Intel, Pentium, Celeron, Intel Centrino, Itanium, Intel Xeon, Intel
+StrataFlash and XScale are trademarks or registered trademarks of Intel
+Corporation or its subsidiaries in the United States and other countries.</p>
+<p>*Other names and brands may be claimed as the property of others.</p>
+<hr noshade color="#000000" size="4">
+<p>&nbsp;</p>
+<table CELLSPACING="0" BORDER="0" WIDTH="618">
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">INTEL CORPORATION</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">CONSOLIDATED SUMMARY INCOME STATEMENT DATA</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">(In millions, except per share amounts)</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17">&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</table>
+<table CELLSPACING="0" BORDER="0" WIDTH="614" height="542">
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="25%" VALIGN="BOTTOM" COLSPAN="5" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#800000" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Three Months Ended</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="25%" VALIGN="BOTTOM" COLSPAN="7" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Six Months Ended</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="20">&nbsp;</td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="2" align="center" height="20">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">June 28,</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="20">&nbsp;</td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="3" align="center" height="20">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">June 29,</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="20">&nbsp;</td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="2" align="center" height="20">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">June 28,</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="20">&nbsp;</td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="3" align="center" height="20">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">June 29,</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="2" align="center" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">2003</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="3" align="center" height="18" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">2002</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="2" align="center" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">2003</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" COLSPAN="3" align="center" height="18" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">2002</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">NET
+    REVENUE </font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,816&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,319&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">13,567&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">13,100&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">Cost
+    of sales</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">&nbsp;</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">3,348&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">&nbsp;</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">3,350&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,587&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,651&nbsp;</font></FONT></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Gross margin</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">&nbsp;</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">3,468&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="3">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,969&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,980&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,449&nbsp;</font></FONT></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Research and development</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,029&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,024&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,048&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,006&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Marketing, general and administrative</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,079&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,063&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,097&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,135&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Amortization and impairment of acquisition- </font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;related intangibles and costs</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">84&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">229&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">168&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">340&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Purchased in-process research and</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;development</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">-&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="3">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">14&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">-&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">14&nbsp;</font></FONT></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Operating expenses</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,192&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="3">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="right">&nbsp;</font><FONT FACE="Arial"><font FACE="Arial" SIZE="2">2,330&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">4,313&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">4,495&nbsp;</font></FONT></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    OPERATING INCOME </font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,276&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">639&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,667&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,954&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Losses on equity securities, net</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(58)</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(59)</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(185)</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(105)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Interest and other, net </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">53&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">&nbsp;</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">43&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">105&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" colspan="2" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">91&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    INCOME BEFORE TAXES </font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,271&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">623&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,587&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,940&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    Income taxes </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">375&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="3">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">177&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">776&nbsp;</font></FONT></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="2">
+
+<FONT FACE="Arial">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">558&nbsp;</font></FONT></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">NET
+    INCOME </font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">896&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">446&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,811&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,382&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    BASIC EARNINGS PER SHARE</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.14&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.07&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.28&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.21&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    DILUTED EARNINGS PER SHARE </font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.14&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.07&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.27&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">$</font></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 3px double #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">0.20&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    COMMON SHARES OUTSTANDING</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,525&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,677&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,540&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,681&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    COMMON SHARES ASSUMING DILUTION</font></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,580&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,803&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,595</font><font FACE="Arial" SIZE="1">&nbsp;</font></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,832&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="47%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="3%" VALIGN="BOTTOM" COLSPAN="2" height="18"></td>
+    <td WIDTH="2%" VALIGN="BOTTOM" height="18"></td>
+    <td WIDTH="9%" VALIGN="BOTTOM" height="18"></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<hr noshade color="#000000" size="4">
+</FONT><FONT FACE="Arial" SIZE=1></FONT>
+<P ALIGN="LEFT"><TABLE CELLSPACING=0 BORDER=0 WIDTH=604 height="850">
+<TR><TD VALIGN="BOTTOM" COLSPAN=10 HEIGHT=16>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">INTEL CORPORATION</FONT></TD>
+</TR>
+<TR><TD VALIGN="BOTTOM" COLSPAN=10 HEIGHT=16>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">CONSOLIDATED SUMMARY BALANCE SHEET DATA</FONT></TD>
+</TR>
+<TR><TD VALIGN="BOTTOM" COLSPAN=10 HEIGHT=16>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">(In millions)</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">June 28,</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">March 29,</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">Dec. 28,</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=19 bordercolor="#000000">
+<div style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">2003</FONT></div>
+  </TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=19 bordercolor="#000000">
+<div style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">2003</FONT></div>
+  </TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" COLSPAN=2 HEIGHT=19 bordercolor="#000000">
+<div style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">2002</FONT></div>
+  </TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>CURRENT ASSETS</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Cash and short-term investments</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">11,202</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">10,511</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">10,786</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Trading assets</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2,434</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,924</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,801</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Accounts receivable  </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2,850</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2,964</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 2,574</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Inventories:</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;Raw materials</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">245</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">248</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 223</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;Work in process</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,315</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,355</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,365</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;Finished goods</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="13%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000" colspan="2">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">592</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">561</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 688</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2,152</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">2,164</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 2,276</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Deferred tax assets and other  </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,464</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,513</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,488</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Total current assets  </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 20,102</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">  19,076</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">18,925</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Property, plant and equipment, net</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">17,292</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">17,589</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">17,847</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Long-term investments</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,282</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,188</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,234</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Goodwill</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">4,314</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">4,328</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 4,330</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Other assets</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,475</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,625</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,888</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=17>
+<FONT FACE="Arial" SIZE=2><P>TOTAL ASSETS</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=17 style="border-bottom: 3px double #000000; ">
+<FONT FACE="Arial" SIZE=2><P ALIGN="left">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=17 style="border-bottom: 3px double #000000; ">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 44,465</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=17 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=17 style="border-bottom: 3px double #000000; ">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">  43,806</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=17><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=17 style="border-bottom: 3px double #000000; ">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=17 style="border-bottom: 3px double #000000; ">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">44,224</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>CURRENT LIABILITIES </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Short-term debt</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">385</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">393</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 436</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Accounts payable and accrued liabilities </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">4,254</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">4,061</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 4,527</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Deferred income on shipments to </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;distributors</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">598</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">532</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 475</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>Income taxes payable </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,462</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,293</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,157</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;Total current liabilities </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">6,699</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">6,279</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 6,595</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>LONG-TERM DEBT</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">914</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">829</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 929</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>DEFERRED TAX LIABILITIES </FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,362</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">1,297</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 1,232</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>STOCKHOLDERS' EQUITY</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 35,490</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">  35,401</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">&nbsp;</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 1px solid #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">35,468</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;TOTAL LIABILITIES AND</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19>
+<FONT FACE="Arial" SIZE=2><P>&nbsp;&nbsp;&nbsp;&nbsp;STOCKHOLDERS' EQUITY</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT"> 44,465</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">  43,806</FONT></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="CENTER">$</FONT></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19 style="border-bottom: 3px double #000000">
+<FONT FACE="Arial" SIZE=2><P ALIGN="RIGHT">44,224</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="3%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="2%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+<TD WIDTH="11%" VALIGN="BOTTOM" HEIGHT=19><P></P></TD>
+</TR>
+</TABLE>
+<FONT FACE="Arial" SIZE=1>
+
+<FONT FACE="Arial">
+<hr noshade color="#000000" size="4">
+<p>&nbsp;</p>
+<table CELLSPACING="0" BORDER="0" WIDTH="566" height="1083">
+  <tr>
+    <td VALIGN="BOTTOM" COLSPAN="6" HEIGHT="16" width="564">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">INTEL CORPORATION</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" COLSPAN="6" HEIGHT="16" width="564">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">SUPPLEMENTAL FINANCIAL AND OTHER INFORMATION</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" COLSPAN="6" HEIGHT="16" width="564">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">(In millions)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="17"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Q2 2003</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="17"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Q1 2003</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="17"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="17" style="border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Q2 2002</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    GEOGRAPHIC REVENUE:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Americas</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,955 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,924 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$2,183 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">28%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">29%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">35%</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Asia-Pacific</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$2,778 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$2,642 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$2,373 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">41%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">39%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">38%</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Europe</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,418 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,641 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,294 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">21%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">24%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">20%</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Japan</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$665 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$544 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$469 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">10%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">8%</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">7%</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">CASH
+    INVESTMENTS:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">Cash
+    and short-term investments</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$11,202 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$10,511 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$8,957 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    Trading assets - fixed income (1)</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$2,162 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    </td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,675 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    </td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,185 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Total cash investments</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$13,364 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$12,186 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$10,142 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    INTEL CAPITAL PORTFOLIO:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Trading assets - equity securities (2)</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$14 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$187 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Marketable strategic equity securities</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$63 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$44 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$96 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Other strategic investments</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$735 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$812 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,177 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="12"><font FACE="Arial" SIZE="2">
+    Total Intel capital portfolio</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="12" style="border-left-width:1; border-right-width:1; border-top-style:solid; border-top-width:1; border-bottom-width:1" bgcolor="#FFFFFF" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$798 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="12" style="border-left-width:1; border-right-width:1; border-top-style:solid; border-top-width:1; border-bottom-width:1" bgcolor="#FFFFFF" bordercolor="#000000">
+    </td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="12" style="border-left-width:1; border-right-width:1; border-top-style:solid; border-top-width:1; border-bottom-width:1" bgcolor="#FFFFFF" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$870 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="12" style="border-left-width:1; border-right-width:1; border-top-style:solid; border-top-width:1; border-bottom-width:1" bgcolor="#FFFFFF" bordercolor="#000000">
+    </td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="12" style="border-left-width:1; border-right-width:1; border-top-style:solid; border-top-width:1; border-bottom-width:1" bgcolor="#FFFFFF" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,460 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    TRADING ASSETS:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Trading assets - equity securities </font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;offsetting deferred compensation (3)</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$272 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$235 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$278 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Total trading assets - sum of 1+2+3</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$2,434 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,924 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,650 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    SELECTED CASH FLOW INFORMATION: </font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Depreciation</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,162 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,145 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$1,135 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Amortization and impairment of acquisition-related </font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT"></font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;intangibles &amp; costs</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$84</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$84 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$229 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Purchased in-process research &amp; development</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$14 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Capital spending</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($923)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($954)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($1,115)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Stock repurchase program</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($1,006)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($1,003)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($1,002)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Proceeds from sales of shares to</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;employees, tax benefit &amp; other</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$166 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$272 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$239 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Dividends paid</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($131)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($131)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($134)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">Net
+    cash used for acquisitions </font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">$0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">($50)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="14"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="14"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="14"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="14"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="14"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="14"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    SHARE INFORMATION:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Average common shares outstanding</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,525 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,556 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,677 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Dilutive effect of stock options</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">55 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">54 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">126 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Common shares assuming dilution</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,580 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,610 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,803 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="12"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="12"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="12"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="12"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="12"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="12"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    STOCK BUYBACK:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;BUYBACK ACTIVITY:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Shares repurchased</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">51.8 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">62.6 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">37.2 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Cumulative shares repurchased</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,824.6 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,772.8 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,594.8 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="12"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="12"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="12"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="12"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="12"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="12"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;BUYBACK SUMMARY:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Shares authorized for buyback</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,300.0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,300.0 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,820.0 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Cumulative shares repurchased</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(1,824.6)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(1,772.8)</font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(1,594.8)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Shares available for buyback</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">475.4 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">527.2 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">225.2 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="13"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    OTHER INFORMATION:</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Employees (in thousands)</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">78.7 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">79.2 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">83.2 </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="358" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">Days
+    sales outstanding</font></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">36 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="55" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">36 </font></td>
+    <td WIDTH="15" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="56" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">37 </font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+<FONT FACE="Arial" SIZE="1">
+<hr noshade color="#000000" size="4">
+</FONT>
+<p>&nbsp;</p>
+</FONT>
+<table CELLSPACING="0" BORDER="0" WIDTH="594">
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">INTEL CORPORATION</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">SUPPLEMENTAL FINANCIAL AND OTHER INFORMATION</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">($ in millions)</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" HEIGHT="17">&nbsp;</td>
+  </tr>
+</table>
+<table CELLSPACING="0" BORDER="0" WIDTH="595" height="443">
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">YTD</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">YTD</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-left-width: 1; border-right-color: #000000; border-right-width: 1; border-top-color: #000000; border-top-width: 1; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">&nbsp;</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-left-width: 1; border-right-color: #000000; border-right-width: 1; border-top-color: #000000; border-top-width: 1; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Q2 2003</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-left-width: 1; border-right-color: #000000; border-right-width: 1; border-top-color: #000000; border-top-width: 1; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Q1 2003</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-left-width: 1; border-right-color: #000000; border-right-width: 1; border-top-color: #000000; border-top-width: 1; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">2003</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-left-width: 1; border-right-color: #000000; border-right-width: 1; border-top-color: #000000; border-top-width: 1; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">Q2 2002</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-color: #000000; border-left-width: 1; border-right-color: #000000; border-right-width: 1; border-top-color: #000000; border-top-width: 1; border-bottom: 1px solid #000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="CENTER">2002</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    OPERATING SEGMENT INFORMATION:</font></td>
+    <td WIDTH="11%" VALIGN="TOP" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Intel Architecture Business</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Revenue</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">5,833&nbsp;&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">5,760<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">11,593<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">5,213<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">10,981<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Operating income</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,843<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,923<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">3,766<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,370<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">3,180<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">&nbsp;</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">&nbsp;</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">&nbsp;</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">&nbsp;</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">&nbsp;</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="17" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bordercolor="#000000">
+    <font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Wireless Communications and </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Computing Group</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Revenue</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">465<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">473<font FACE="Arial" SIZE="2">&nbsp;</font> </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">938<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">532<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">991<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Operating loss</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(123)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(94)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(217)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(98)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(166)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="99%" VALIGN="BOTTOM" HEIGHT="19" style="border-left-width: 1; border-right-width: 1; border-top-width: 1; border-bottom-style: solid; border-bottom-width: 1" bgcolor="#FFFFFF" colspan="6" bordercolor="#000000">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    Intel Communications Group</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Revenue</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">508<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">503<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,011<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">536<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,054<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Operating loss</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(143)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(140)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(283)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(127)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(277)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="99%" VALIGN="BOTTOM" HEIGHT="19" style="border-left-color: #000000; border-right-color: #000000; border-top-color: #000000; border-bottom: 1px solid #000000" colspan="6" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">All
+    Other</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Revenue</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">10<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">15<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">25<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">38<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">74<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Operating loss</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(301)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(298)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(599)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(506)</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">(783)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="99%" VALIGN="BOTTOM" HEIGHT="19" style="border-bottom-style:solid; border-bottom-width:1" bgcolor="#FFFFFF" colspan="6" bordercolor="#000000">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="13"><font FACE="Arial" SIZE="2">
+    Total</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="13"></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="13"></td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Revenue</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,816<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,751<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">13,567<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">6,319<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">13,100<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+  </tr>
+  <tr>
+    <td WIDTH="44%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Operating income</font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,276<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,391<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">2,667<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">639<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font></td>
+    <td WIDTH="11%" VALIGN="BOTTOM" HEIGHT="16"><font FACE="Arial" SIZE="2">
+    <p ALIGN="RIGHT">1,954<font FACE="Arial" SIZE="2">&nbsp;</font>&nbsp; </font>
+    </td>
+  </tr>
+  <tr>
+    <td WIDTH="99%" VALIGN="BOTTOM" HEIGHT="19" style="border-left-width: 1; border-right-width: 1; border-top-style: solid; border-top-width: 1; border-bottom-width: 1" bgcolor="#FFFFFF" colspan="6" bordercolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</FONT>
+
+<FONT FACE="Arial" SIZE=1></FONT>
+
+<FONT FACE="Arial"></FONT>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=684>
+<TR><TD VALIGN="BOTTOM" HEIGHT=92>
+<FONT FACE="Arial" SIZE=2><P>The Intel Architecture operating segment's products include microprocessors, chipsets and motherboards. The Wireless Communications and Computing Group's products include flash memory, application processors and cellular baseband chipsets for cellular handsets and handheld devices.  The Intel Communications Group's products include Ethernet connectivity products, network processing components, embedded control chips and optical products. </FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial"></FONT>
+<TABLE CELLSPACING=0 BORDER=0 WIDTH=684>
+<TR><TD VALIGN="BOTTOM" HEIGHT=126>
+<FONT FACE="Arial" SIZE=2><P>The &quot;all other&quot; category includes acquisition-related costs, including amortization and impairment of acquisition-related intangibles and in-process research and development. Acquisition-related costs for the second quarter of 2002 included a $112 million charge for impairment of identified intangibles.
+&quot;All other&quot; also includes the results of operations of seed businesses that support the company's initiatives and for the second quarter of 2002 included a $106 million charge related to winding down the online services business. In addition,
+&quot;all other&quot; includes certain corporate-level operating expenses, including a portion of profit-dependent bonus and other expenses that are not allocated to the operating segments.</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT FACE="Arial"></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

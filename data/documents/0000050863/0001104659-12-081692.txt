@@ -1,0 +1,511 @@
+<SEC-DOCUMENT>0001104659-12-081692.txt : 20121204
+<SEC-HEADER>0001104659-12-081692.hdr.sgml : 20121204
+<ACCEPTANCE-DATETIME>20121204093327
+ACCESSION NUMBER:		0001104659-12-081692
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20121204
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20121204
+DATE AS OF CHANGE:		20121204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		121239271
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a12-27786_58k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">WASHINGTON, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">PURSUANT TO SECTION&nbsp;13 OR 15(d)&nbsp;OF THE</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported):&#160; <b>December 4, 2012</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">INTEL CORPORATION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">000-06217</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">94-1672743</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other jurisdiction of<br>   incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS Employer Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices) (Zip Code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(408) 765-8080</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant&#146;s telephone number, including area code)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former Name or Former Address, if Changed Since Last Report)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<i>see</i> General Instruction A.2. below):</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:8.5pt;">&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:8.5pt;">&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="1" face="Times New Roman" style="font-size:8.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:8.5pt;">&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="1" face="Times New Roman" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:8.5pt;">&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:9.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:9.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\dschwar\12-27786-5\task5693700\27786-5-ba.htm',USER='dschwar',CD='Dec  3 14:49 2012' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 7.01</font></b><b><font size="1" style="font-size:8.5pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Regulation FD Disclosure.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Attached hereto as Exhibit&nbsp;99.1 and incorporated by reference herein is a press release describing a proposed public offering of notes pursuant to an effective shelf registration statement previously filed with the Securities and Exchange Commission.&#160; The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01</font></b><b><font size="1" style="font-size:8.5pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Financial Statements and Exhibits.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-.3in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(d)</font><font size="1" style="font-size:8.5pt;">&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Exhibits.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.7in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The following exhibit is filed as part of this Report.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="86%" style="border-collapse:collapse;margin-left:1.0in;width:86.66%;">
+<tr>
+<td width="15%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:15.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;Number</font></b></p>    </td>
+<td width="5%" valign="bottom" style="padding:0in 0in 0in 0in;width:5.1%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="79%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:79.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>    </td>   </tr>
+<tr>
+<td width="15%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:15.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="5%" valign="bottom" style="padding:0in 0in 0in 0in;width:5.1%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="79%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:79.9%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press   release dated December&nbsp;4, 2012</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_154214_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\dschwar\12-27786-5\task5693700\27786-5-ba.htm',USER='dschwar',CD='Dec  3 14:49 2012' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">INTEL   CORPORATION</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant)</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="48%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/   Cary I. Klafter</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="48%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cary   I. Klafter</font></p>    </td>   </tr>
+<tr>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date:   December 4, 2012</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Corporate   Secretary</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_154346_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\dschwar\12-27786-5\task5693700\27786-5-ba.htm',USER='dschwar',CD='Dec  3 14:49 2012' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a12-27786_5ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit 99.1</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="16%" valign="top" style="padding:0in 0in 0in 0in;width:16.42%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman"><img width="97" height="66" src="g277865moi001.jpg"></font></p>    </td>
+<td width="33%" valign="top" style="padding:0in 0in 0in 0in;width:33.58%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Intel Corporation<br>    </font></b><font size="2" style="font-size:10.0pt;">2200   Mission College Blvd.<br>   Santa Clara, CA 95054-1549</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman"><img width="293" height="48" src="g277865moi002.jpg"></font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Intel Announces Senior Notes Offering</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">SANTA CLARA, Calif., Dec.4, 2012 &#151; Intel Corporation today announced that it intends to offer, subject to market and other conditions, senior unsecured notes under an automatic shelf registration statement on file with the Securities and Exchange Commission. The offering and the final terms of the notes, including principal amount, interest rate and maturity will depend on market and other conditions at the time of pricing.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Intel intends to use the net proceeds from the offering for general corporate purposes and to repurchase shares of its common stock under the company&#146;s existing share repurchase authorization.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">J.P. Morgan Securities LLC and Merrill Lynch, Pierce, Fenner&nbsp;&amp; Smith Incorporated are acting as joint book-running managers for the offering.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This news release shall not constitute an offer to sell or a solicitation of an offer to buy any securities, nor shall there be any sale of these securities in any state or jurisdiction in which such an offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction. The offering of securities may be made only by means of a prospectus supplement and accompanying prospectus. Copies of the prospectus supplement and the accompanying prospectus can be obtained from:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">J.P. Morgan   Securities LLC</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Merrill Lynch,   Pierce, Fenner&nbsp;&amp; Smith</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">383 Madison   Avenue, 3rd Floor</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;text-indent:.75in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Incorporated</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">New York, New   York 10179</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">222 Broadway,   11th Floor</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Attention: High   Grade Syndicate Desk</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">New York, New   York 10038</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Call collect:   1-212-834-4533</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Attention:   Prospectus Department</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">E-mail:   dg.prospectus_requests@baml.com</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Toll-free: 1-800-294-1322</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This news release contains certain forward-looking statements that are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements.&#160; Such risks and uncertainties include, but are not limited to, whether or not Intel will offer the notes or consummate the offering, the anticipated terms of the notes and the offering, and the anticipated use of the proceeds of the offering.&#160; Intel does not undertake any obligation to update any forward-looking statements to reflect events or circumstances occurring after the date of this press release.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world&#146;s computing devices. Additional information about Intel is available at newsroom.intel.com and blogs.intel.com.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="1" width="25%" noshade color="black" align="left"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">* Other names and brands may be claimed as the property of others.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.26%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">CONTACTS:</font></p>    </td>
+<td width="27%" valign="top" style="padding:0in 0in 0in 0in;width:27.74%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chuck Mulloy</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mark Henninger</font></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.26%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" valign="top" style="padding:0in 0in 0in 0in;width:27.74%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Media Relations</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Investor Relations</font></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.26%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" valign="top" style="padding:0in 0in 0in 0in;width:27.74%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">408-765-3484</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">408-653-9944</font></p>    </td>   </tr>
+<tr>
+<td width="12%" valign="top" style="padding:0in 0in 0in 0in;width:12.26%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" valign="top" style="padding:0in 0in 0in 0in;width:27.74%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">cmulloy@intel.com</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">mark.h.henninger@intel.com</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105918\12-27786-5\task5694154\27786-5-mo.htm',USER='105918',CD='Dec  4 08:04 2012' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g277865moi001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g277865moi001.jpg
+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
+=3"9EZ33#S'_`MT_#%='11111111111111117_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g277865moi002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g277865moi002.jpg
+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
+%#L*__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

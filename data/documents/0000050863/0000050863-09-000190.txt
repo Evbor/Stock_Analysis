@@ -1,0 +1,566 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Kb603Y09fxYHs6jEoBOlNDDjD7sdrAwGvfXtriOLmezqMBhuzt9sM02zlOmDpHk5
+ YOr7Tste12NlQEQTmX2iNg==
+
+<SEC-DOCUMENT>0000050863-09-000190.txt : 20091013
+<SEC-HEADER>0000050863-09-000190.hdr.sgml : 20091012
+<ACCEPTANCE-DATETIME>20091013095940
+ACCESSION NUMBER:		0000050863-09-000190
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20091012
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20091013
+DATE AS OF CHANGE:		20091013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		091115643
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'><p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Pursuant to Section 13 OR 15(d) of the</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported):  October 12, 2009</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="638" style='border-collapse:collapse'>
+    <tr >
+        <td width="213" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="213" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="213" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><u><b><font size=2>94-1672743</font></b></u></p> </td> </tr>
+    <tr >
+        <td width="213" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:.25in;text-indent:0in;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(State or other jurisdiction of incorporation)</font></p> </td>
+        <td width="213" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="213" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0in;text-indent:0in;text-align:center;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=2>(IRS Employer Identification No.)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:justify;'><b><font size=2>Item 7.01 Regulation FD Disclosure.</font></b></p>
+
+<p style=' margin-bottom:12pt; margin-top:5pt;text-align:left;'><font size=2>The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended. </font></p>
+
+<p style=' margin-bottom:12pt; margin-top:5pt;text-align:left;'><font size=2>Attached hereto as Exhibit 99.1 and incorporated by reference herein is a press release of Intel Corporation (&#147;Intel&#148;) regarding its plan to publish CFO commentary prior to the quarterly earnings conference call as presented in a press release of October 12, 2009.   </font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="353" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 9.01</font></b></p> </td>
+        <td width="257" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Financial Statements and Exhibits.</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="173" style='border-collapse:collapse'>
+    <tr >
+        <td width="52" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="44" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td width="77" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Exhibits.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:1in;text-align:left;'><font size=2>The following exhibit is filed as part of this Report:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; margin-left:1in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="638" style='margin-left:77.4pt;border-collapse:collapse'>
+    <tr >
+        <td width="86" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Exhibit Number</font></p> </td>
+        <td width="553" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Description</font></p> </td> </tr>
+    <tr >
+        <td width="86" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=2>99.1</font></p> </td>
+        <td width="553" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=2>Press release dated October 12, 2009</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom:solid black 1.0pt; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: October 13, 2009</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh99.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><b><font size=2>Exhibit 99.1</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><b><font size=2>Intel Corporation</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>2200 Mission College Blvd.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Santa Clara, CA 95054</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="644" style='border-collapse:collapse'>
+    <tr >
+        <td width="336" nowrap valign=top style='padding:12.0pt 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><img src="img1.jpg"><br> </p> </td>
+        <td width="308" nowrap valign=top style='padding:12.0pt 0in 12.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><img src="img2.gif"><br> </p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="461" style='border-collapse:collapse; '>
+    <tr >
+        <td width="144" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CONTACTS:</font></p> </td>
+        <td width="192" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Amy Kirco</font><font color="#000080"><font size=2>s</font></font></p> </td>
+        <td width="125" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Mark Henninger</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="473" style='border-collapse:collapse'>
+    <tr >
+        <td width="144" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="192" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Media Relations</font></p> </td>
+        <td width="137" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Investor Relations</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="445" style='border-collapse:collapse; '>
+    <tr >
+        <td width="144" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="192" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>480-552-8803</font></p> </td>
+        <td width="109" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>408-653-9944</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="543" style='border-collapse:collapse; '>
+    <tr >
+        <td width="144" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="192" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#0000FF"><u><font size=2>amy.kircos@intel.com</font></u></font></p> </td>
+        <td width="207" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#0000FF"><u><font size=2>mark.h.henninger@intel.com</font></u></font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Intel to Publish CFO Commentary Prior to Quarterly </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Earnings Conference Call</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>SANTA CLARA, Calif., Oct. 12, 2009 &#150; As a supplement to its earnings report, Intel Corporation will publish a commentary about its quarterly results by Stacy J. Smith, vice president and chief financial officer. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>The commentary will provide detail that has previously been disclosed during the conference call, reducing the time spent on prepared remarks and allowing for more interactive questions and answers with senior management. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>The commentary will be posted at 1:30 p.m. PDT on Oct. 13, after the earnings press release, and will be available at </font><font color="#0000FF"><u><font size=2>www.intc.com</font></u></font><font size=2>. Intel&#146;s earnings conference call will be publicly webcast at 2:30 p.m. PDT on Oct. 13 and can be viewed at </font><font color="#0000FF"><u><font size=2>www.intc.com</font></u></font><font size=2>.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;line-height: 150%;'><font size=2>Intel [NASDAQ: INTC], the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Additional information about Intel is available at </font><font color="#0000FF"><u><font size=2>www.intel.com/pressroom</font></u></font><font size=2> and blogs.intel.com. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;line-height: 150%;'><b><font size=2>&#150; 30 &#150;</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>*Other names and brands may be claimed as the property of others.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>img1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img1.jpg
+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
+L0`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`?_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>img2.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img2.gif
+M1TE&.#EA(`%@`'<`,2'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E`"'Y
+M!`$`````+`$`&@`?`28`@`````````+_A(^IR^T/HYRTVHNSWC``[U$@1Y;F
+M$:3JJGZGL[[RW+#I%-/ZCMA^S@/RAB5?A$5,GGY,X0NIC%Y^$J?T*FHV=5:L
+M=V'L=+_D!!3\L<W.Y78Z_!B[RW(4>]F:NYGQNOYZQQ!8E/?WA>3W%F*X5]CG
+M:)+(N,,'(SD9=/FVIHF)US+8`XD6:O;TV`DV*N@'9WF#NBI6JF"T."N74TJK
+MZ&H&R]&E!9PEJWIKJE73N@73JX9<.QRK)EJX:SQ,;&=<'*V]7=5M'?Y<>1S-
+MK<P*GFY.Q;ZN;KTLVYZ^Z^+>^XOX;,&+GK1VZ-S=JZ<M'JAJ_<"INY5K%<.'
+MW[)-;$BNW":`_^,>#AQUT8"P0:$T_FNXKUQ(?B*!D!QI$5+)E2RY<>I8,R/"
+MBBHCXOR(+&!!A"UEV@-9)U#,,4Z$<C1)$>@K?$C'I9JGLP(MEU6'9MV)LB#,
+M;3^UYCKY56%8C*@P-$W%"Y&5L1]QU:U+-VVD>Q(3S:VZS^-3LG`[ZGIK-#'4
+MHCRI+NH;SBD.OI`7*UHK^%$&P)8SO\KI^;)>KUAU_N7<>3)!HG;9DL,5&&S&
+MU!O;BK[+.*A+%/IJ"^QG<^!.VE,3%N_]&/0=?R)[%XVC[\9+YF"3CW@^DW!D
+MRMJ[EV9<O"QKS`KYNJ:X&N4TH$FYAY@.;+E[=%^%Q(4W96QL]XW5I_^?+4\M
+MYKC`'D'87*,89;@]]]UMPXEWWF@`.A3A.\:A1V"#8E5VD(-WR7<-;\V-B-D9
+M)FKBBSA+I11#<B0ZUMUU&;I(WC%'#&B:B#.&YMII)#B"&$3$X6B620?&UMIK
+MFW4CV462\>@1B$-*Q2!PN>4'X9$:/5DCEQ+^IF*,12XFUW93XL89>%A.V5Y,
+M&YR&Y'AJ>:,;FX;A=^6;"#H6W)IQ?@FEESQ>!268JL57V)TI"JHD78QZ>(2B
+M/9VI(:/,0.@AE_>E")H@]70J&J:%RA8+?=#U1R5T@%;I3:K."(7GJ)!>Z69$
+MI+8*FUB?+AA5/*Y6N!^<1B*:&J>V1*?E49QRTHHLIK#J)UVS"6Z(7$C0\";E
+M"-I"J^V`3BUKWH,LTM3A8&'">*&2!0:('KO_^=<,J`6*NRR&X8V[WIA_@OIN
+MGAO&.N$Y`5^:;Y.2Q$M-PJ\"7.28]Y(IJ<'L#KROP(=,@;$(&7JB(PTR`N2<
+(5F]NG$`!`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

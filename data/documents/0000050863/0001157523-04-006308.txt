@@ -1,0 +1,908 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U0LuusvVFkwAqmHYxLT7vTjhemqvJDPm8RhzG0V8VD6QbBkizVTembGE/Wh39N+U
+ Blsre4ovVggRpZTMq8AWYg==
+
+<SEC-DOCUMENT>0001157523-04-006308.txt : 20040713
+<SEC-HEADER>0001157523-04-006308.hdr.sgml : 20040713
+<ACCEPTANCE-DATETIME>20040713171035
+ACCESSION NUMBER:		0001157523-04-006308
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20040713
+ITEM INFORMATION:		
+FILED AS OF DATE:		20040713
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		04912513
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a4678568.txt
+<DESCRIPTION>INTEL CORP. 8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+
+                             Washington, D.C. 20549
+
+
+                                    FORM 8-K
+
+
+                                 CURRENT REPORT
+                         Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+
+                          Date of Report: July 13, 2004
+                        (Date of earliest event reported)
+
+
+
+                                INTEL CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+    Delaware                        0-06217                     94-1672743
+    --------                        -------                     ----------
+   (State of                      (Commission                  (IRS Employer
+  incorporation)                  File Number)               Identification No.)
+
+
+ 2200 Mission College Blvd., Santa Clara, California               95052-8119
+ ---------------------------------------------------               ----------
+     (Address of principal executive offices)                      (Zip Code)
+
+
+                                 (408) 765-8080
+                                 --------------
+              (Registrant's telephone number, including area code)
+
+
+
+
+
+
+<PAGE>
+
+Item 12.  RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+          1) Attached hereto as Exhibit 99.1 and incorporated by reference
+          herein is financial information for Intel Corporation for the quarter
+          ended June 26, 2004 and forward-looking statements relating to 2004
+          and the third quarter of 2004 as presented in a press release of July
+          13, 2004.
+
+          2) Attached hereto as Exhibits 99.2 and 99.3 and incorporated by
+          reference herein is certain unaudited annual and quarterly financial
+          information for the Intel Architecture and Intel Communications Group
+          operating segments, presented on a basis that reflects the reorganized
+          operating segments of the company effective as of January 2004 and
+          certain additional minor reorganizations effected through the second
+          quarter of 2004. Exhibits 99.2 and 99.3 do not in any way restate or
+          revise the financial position, results of operations or cash flows of
+          Intel Corporation as set forth in any previously reported consolidated
+          balance sheet, consolidated statement of income or consolidated
+          statement of cash flows of the company. The information in Exhibits
+          99.2 and 99.3 is provided as supplemental financial information that
+          may be of interest to Intel Corporation stockholders.
+
+          During the first quarter of 2004, the Wireless Communications and
+          Computing Group operating segment was merged with the former Intel
+          Communications Group operating segment, and they now represent one
+          segment called the Intel Communications Group. In addition, Intel's
+          consumer electronics business, which was previously part of the former
+          Intel Communications Group operating segment, was moved into the Intel
+          Architecture operating segment. As required by Statement of Financial
+          Accounting Standards No. 131, "Disclosures about Segments of an
+          Enterprise and Related Information," consolidated financial statements
+          issued by Intel in the future will conform to our reportable segments
+          resulting from these and any subsequent organizational changes,
+          including reclassifications of all comparative prior period segment
+          information. Accordingly, in Exhibits 99.2 and 99.3, we are providing
+          reclassified information about reorganizations effected in the first
+          half of 2004 as it relates to prior periods.
+
+          3) The information in this report on Form 8-K shall be deemed
+          incorporated by reference into any registration statement heretofore
+          or hereafter filed under the Securities Act of 1933, as amended,
+          except to the extent that such information is superseded by
+          information as of a subsequent date that is included in or
+          incorporated by reference into such registration statement. The
+          information in this report shall not be treated as filed for purposes
+          of the Securities Exchange Act of 1934, as amended.
+
+
+
+
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                               INTEL CORPORATION
+                                               (Registrant)
+
+
+Date: July 13, 2004                            By: /s/ Andy D. Bryant
+                                                   -----------------------------
+                                                   Andy D. Bryant
+                                                   Executive Vice President,
+                                                   Chief Financial Officer and
+                                                   Principal Accounting Officer
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a4678568ex991.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+                                                                    Exhibit 99.1
+
+ Intel Second-Quarter Revenue $8.05 Billion; Earnings Per Share 27 Cents
+
+    SANTA CLARA, Calif.--(BUSINESS WIRE)--July 13, 2004--Intel
+Corporation today announced second-quarter revenue of $8.05 billion,
+approximately flat sequentially and up 18 percent year-over-year.
+    Second-quarter net income was $1.8 billion, flat sequentially and
+up 96 percent year-over-year. Earnings per share were 27 cents, up 4
+percent sequentially and up 93 percent from 14 cents in the second
+quarter of 2003.
+    "Intel continued to post strong year-over-year results in the
+second quarter as our microprocessor business followed seasonal trends
+and our communications business grew nicely, led by flash memory,"
+said Intel CEO Craig R. Barrett. "We had a notable quarter with
+respect to new product launches with the introduction of 90 nm
+processors for mobile and the enterprise market segment along with
+our Grantsdale chipset for the desktop which delivers some of the most
+significant PC platform enhancements in a decade. Looking to the
+second half, we will use our investments in leading-edge capacity to
+drive growth in our core microprocessor business and expand our
+presence in chipsets, flash and other communications products."
+    Intel's second-quarter results included a previously disclosed
+$62-million reversal of previously accrued taxes primarily related to
+the closing of a state income tax audit, as well as an adjustment to
+the effective tax rate. These items increased second-quarter
+earnings-per-share by 1.7 cents. Intel's first-quarter results
+included a legal settlement charge that reduced earnings per share by
+1.7 cents.
+
+    BUSINESS OUTLOOK
+
+    The following statements are based on current expectations. These
+statements are forward-looking, and actual results may differ
+materially. Please see the Risk Factors Regarding Forward-Looking
+Statements in this release for a description of certain risk factors
+that could cause actual results to differ, and refer to Intel's annual
+and quarterly reports on file with the Securities and Exchange
+Commission (SEC) for a more complete description of the risks. These
+statements do not include the potential impact of any mergers,
+acquisitions, divestitures or other business combinations that may be
+completed after July 12.
+
+    -- Revenue in the third quarter is expected to be between $8.6
+billion and $9.2 billion.
+    -- Gross margin percentage in the third quarter is expected to be
+approximately 60 percent, plus or minus a couple of points. Intel's
+gross margin percentage varies primarily with revenue levels, product
+mix and pricing, changes in unit costs and inventory valuation,
+capacity utilization, and the timing of factory ramps and associated
+costs.
+    -- The gross margin percentage for 2004 is now expected to be 60
+percent, plus or minus a couple of points, as compared to the previous
+expectation of 62 percent, plus or minus a few points. The company
+expects faster growth in products such as flash memories, chipsets and
+motherboards that have lower margins. In addition, Intel expects
+microprocessor margins to increase at a rate slower than previously
+expected due to a slight reduction in microprocessor average selling
+prices and a slower than expected reduction in microprocessor unit
+costs.
+    -- Expenses (R&D plus MG&A) in the third quarter are expected to
+be approximately $2.5 billion. Expenses, particularly certain
+marketing- and compensation-related expenses, vary depending on the
+level of revenue and profits.
+    -- The R&D spending expectation for 2004 is unchanged at
+approximately $4.8 billion.
+    -- The capital spending expectation for 2004 is unchanged at
+between $3.6 billion and $4.0 billion.
+    -- Gains from equity investments and interest and other in the
+third quarter are expected to be approximately $50 million.
+    -- The tax rate for the third quarter is now expected to be
+approximately 31 percent, as compared to the previous expectation of
+approximately 32 percent, primarily due to an increase in the
+estimated tax benefit for export sales. The tax rate expectation is
+based on current expected income and assumes Intel continues to
+receive tax benefits for export sales. The tax rate may be affected by
+changes in tax law, the closing of acquisitions or divestitures, the
+jurisdiction in which profits are determined to be earned and taxed,
+the resolution of issues arising from tax audits with various tax
+authorities, and the ability to realize deferred tax assets.
+    -- Depreciation is expected to be between $1.1 billion and $1.2
+billion in the third quarter and approximately $4.6 billion for the
+year.
+    -- Amortization of acquisition-related intangibles and costs is
+expected to be approximately $40 million in the third quarter and
+approximately $175 million for the full year.
+
+    SECOND-QUARTER REVIEW AND RECENT HIGHLIGHTS
+
+    Financial Review
+
+    -- The gross margin percentage for the second quarter was 59.4
+percent, below the revised expectation of between 60 percent and 61
+percent due to an unanticipated $38-million charge for a chipset
+manufacturing excursion that occurred late in the quarter and revenue
+being slightly below the midpoint of the updated range.
+    -- Gains from equity investments and interest and other in the
+quarter were $39 million, below the previous expectation of
+approximately $60 million, primarily due to higher than expected
+impairments.
+    -- The effective tax rate for the quarter was 27.4 percent
+including the $62-million reversal of previously accrued taxes and an
+adjustment for an increase in the estimated tax benefit for export
+sales.
+    -- Inventory levels grew by approximately $427 million during the
+quarter, with approximately half of the increase coming from
+microprocessor inventories, and the balance primarily from flash
+memory and chipset inventories.
+
+    Key Product Trends (Sequential)
+
+    -- Intel Architecture microprocessor units were lower. The average
+selling price was just below the first-quarter level.
+    -- Chipset units were higher.
+    -- Motherboard units set a record.
+    -- Flash memory units were significantly higher.
+    -- Connectivity product units set a record.
+
+    Intel Architecture Business
+
+    During the quarter, Intel introduced 22 microprocessors built on
+90 nm lithography and 300 mm wafers, as well as the first chipsets
+using the company's 130 nm technology. The introductions bring new
+microprocessor and platform technology to a wide range of desktop,
+notebook, workstation and server systems.
+    For the desktop, Intel introduced a new family of chipsets
+designed to help make home PCs more entertaining and business PCs more
+productive and secure. Formerly code-named Grantsdale and Alderwood,
+the Intel(R) 915 G/P and 925X Express chipsets deliver some of the
+most significant PC platform enhancements in a decade, including
+support for high-definition video, 7.1 surround sound audio and dual
+displays. Intel also introduced six Pentium(R) 4 processors with
+Hyper-Threading (HT) technology that can be used with the new chipsets
+to help users better enjoy digital music, photos, videos and games on
+the PC. The company also introduced four Celeron(R) D processors for
+value desktop systems.
+    In mobile, the company launched new Intel(R) Pentium(R) M
+processors designed to boost the performance of wireless-enabled
+notebooks based on Intel(R) Centrino(TM) mobile technology. Formerly
+code-named Dothan, the processors include new design features such as
+increased on-die cache memory that enhance the way wireless notebook
+users work, learn, play and communicate. The company also introduced
+several Mobile Intel(R) Pentium(R) 4 processors for desktop-equivalent
+notebooks and a Celeron(R) M processor for value notebooks.
+    For the enterprise, Intel introduced new Intel(R) Xeon(R)
+processors, formerly code-named Nocona, which together with the
+Intel(R) E7525 chipset bring new capabilities and performance levels
+to workstations. The platforms support HT Technology, an 800 MHz
+system bus, PCI Express graphics and I/O, DDR2 memory, 64-bit memory
+extension technology for working with data sets greater than 4 GB, and
+Demand Based Switching with enhanced Intel(R) SpeedStep(R) technology
+for lower power consumption. Server platforms based on the new Intel
+Xeon processors are expected to be introduced during the third
+quarter.
+    The Itanium(R) 2 processor continued to gain acceptance in
+commercial IT deployments at companies including The Body Shop,
+Procter & Gamble and Volvo. Software availability for the Itanium
+processor grew with the commercial release of SAS(1) 9 business
+intelligence software optimized for Itanium 2-based servers. Intel
+showed the first wafers of a next-generation Itanium processor
+code-named Montecito that contains 1.7 billion transistors. Montecito
+is expected to deliver up to twice the performance of current Itanium
+processors and is scheduled to be the company's first dual-core
+processor when introduced in 2005.
+    In high-performance computing, the Top500(1) ranking for June
+reported that more than half of the world's 500 fastest supercomputers
+are based on Intel Xeon and Itanium 2 processors, up from just one
+Intel-based system in the June 2001 ranking. The Itanium-based
+"Thunder" system at the Lawrence Livermore National Laboratory was
+ranked second fastest in the world.
+
+    Intel Communications Group
+
+    In flash, the company increased shipments of its 1.8-volt Intel(R)
+StrataFlash(R) wireless memory optimized for cellular devices and
+expanded its product offerings into the "broad market" segment for
+flash in products such as set-top boxes, communications equipment and
+many other embedded systems.
+    In communications infrastructure, Huawei Technologies and Korea
+Telecom adopted Intel-based modular communications solutions in
+forthcoming products. The new equipment will use standards-based
+AdvancedTCA(1) system technology along with carrier grade Linux(1).
+Intel also introduced a 1U carrier grade server and announced new
+versions of its Pentium M, Ultra Low Voltage Celeron M, and Intel(R)
+PXA270 processors for use in communications infrastructure and other
+embedded applications.
+    In wireless networking, Intel and Proxim announced plans to
+develop WiMAX base stations and customer premise equipment for fixed
+and portable access. Intel announced agreements with the
+municipalities of Dalian and Chengdu to help bring WiMAX connectivity
+to Internet users in these Chinese cities. In wireline networking,
+Intel introduced a server adapter that provides the low cost, small
+form factor and multimode fiber capabilities needed to bring
+10-gigabit Ethernet connectivity to the data center.
+    In applications processing, customers including Dell Computer and
+palmOne introduced personal digital assistants based on the recently
+announced Intel(R) PXA27X processor family, formerly code-named
+Bulverde.
+
+    Technology and Manufacturing Group
+
+    Intel's transition to 90 nm, 300 mm silicon technology made
+continued progress during the quarter, with further yield increases
+and a crossover with 130 nm microprocessor fabrication volumes. The
+company expects a crossover in total microprocessor shipments during
+the third quarter and anticipates that the vast majority of its
+microprocessor shipments will be converted to 90 nm technology by the
+end of the year. Intel also plans to begin production of the company's
+first 90 nm flash products on 200 mm technology during the third
+quarter.
+    Intel announced the start of production at Fab 24 in Ireland, the
+company's third factory capable of producing 90 nm processors on 300
+mm wafers. The company also announced plans to invest an additional $2
+billion in its Irish facilities to expand clean room capacity and
+enable 65 nm manufacturing at Fab 24 along with a planned expansion
+called Fab 24-2.
+    Intel announced that it has begun a $2 billion construction
+project to convert Fab 12, a 200 mm wafer fabrication facility in
+Chandler, Ariz., to a 300 mm facility for initial use in 65 nm
+production. The project is scheduled to be completed in late 2005.
+
+    EARNINGS WEBCAST
+
+    Intel will hold a public webcast at 2:30 p.m. PDT today on its
+Investor Relations Web site at www.intc.com. A replay of the webcast
+will be available until Oct. 12.
+
+    STATUS OF BUSINESS OUTLOOK AND MID-QUARTER BUSINESS UPDATE
+
+    During the quarter, Intel's corporate representatives may
+reiterate the Business Outlook during private meetings with investors,
+investment analysts, the media and others. Intel intends to publish a
+Mid-Quarter Business Update on Sept. 2. From the close of business on
+Aug. 27 until publication of the Update, Intel will observe a "Quiet
+Period" during which the Business Outlook disclosed in the company's
+press releases and filings with the SEC on Forms 10-K and 10-Q should
+be considered to be historical, speaking as of prior to the Quiet
+Period only and not subject to update by the company. For more
+information about the Business Outlook, Update and related Quiet
+Periods, please refer to the Business Outlook section of Intel's Web
+site at www.intc.com.
+
+    RISK FACTORS REGARDING FORWARD-LOOKING STATEMENTS
+
+    The statements in this document that refer to plans and
+expectations for the third quarter, the year and the future are
+forward-looking statements that involve a number of risks and
+uncertainties. A number of factors in addition to those discussed
+above could cause actual results to differ materially from
+expectations. Demand for Intel's products, which impacts revenue and
+the gross margin percentage, is affected by business and economic
+conditions, as well as computing and communications industry trends,
+and changes in customer order patterns. Revenue and the gross margin
+percentage are affected by competing chip architectures and
+manufacturing technologies, competing software-compatible
+microprocessors, pricing pressures and other competitive factors, as
+well as market acceptance of Intel's new products, the availability of
+sufficient inventory to meet demand, the availability of externally
+purchased components or materials, and the development and timing of
+introduction of compelling software applications and operating systems
+that take advantage of the features of Intel's products. Future
+revenue is also dependent on continuing technological advancement,
+including developing and implementing new processes and strategic
+products, as well as the timing of new product introductions,
+sustaining and growing new businesses and integrating and operating
+any acquired businesses. The gross margin percentage could also be
+affected by the execution of the manufacturing ramp, including the
+ramp of 90 nm process technology on 300 mm wafers, excess
+manufacturing capacity, excess or obsolete inventory, variations in
+inventory valuation and impairment of manufacturing or assembly and
+test assets. Intel conducts much of its manufacturing, assembly and
+test, and sales activities outside the United States and is thus
+subject to a number of other factors, including currency controls and
+fluctuations, tariff and import regulations, and regulatory
+requirements which may limit Intel's or its customers' ability to
+manufacture, assemble and test, design, develop or sell products in
+particular countries. If terrorist activity, armed conflict, civil or
+military unrest or political instability occurs in the United States,
+Israel or other locations, such events may disrupt manufacturing,
+assembly and test, logistics, security and communications, and could
+also result in reduced demand for Intel's products. The impacts of
+major health concerns or of large-scale outages or interruptions of
+service from utility or other infrastructure providers, on Intel, its
+suppliers, customers or other third parties could also adversely
+affect Intel's business and impact customer order patterns. The
+expectation regarding gains or losses from equity securities and
+interest and other assumes no unanticipated events and varies
+depending on equity market levels and volatility, gains or losses
+realized on the sale or exchange of securities, impairment charges
+related to non-marketable and other investments, interest rates, cash
+balances, and changes in fair value of derivative instruments.
+Expectations of impairment charges on investments are based on
+experience, and it is not possible to know which specific investments
+are likely to be impaired or the extent or timing of individual
+impairments. Results could also be affected by adverse effects
+associated with product defects and errata (deviations from published
+specifications), and by litigation or regulatory matters involving
+intellectual property, stockholder, consumer, antitrust and other
+issues, such as the litigation and/or regulatory matters described in
+Intel's SEC reports, as well as other risk factors listed in Intel's
+SEC reports, including the report on Form 10-Q for the quarter ended
+March 27.
+    Intel, the world's largest chip maker, is also a leading
+manufacturer of computer, networking and communications products.
+Additional information about Intel is available at
+www.intel.com/pressroom.
+
+    Intel, Pentium, Celeron, Intel Centrino, Intel Xeon, Intel
+SpeedStep, Itanium and Intel StrataFlash are marks or registered
+trademarks of Intel Corporation or its subsidiaries in the United
+States and other countries.
+
+    (1) Other names and brands may be claimed as the property of
+others.
+
+
+                          INTEL CORPORATION
+              CONSOLIDATED SUMMARY INCOME STATEMENT DATA
+               (In millions, except per share amounts)
+
+                               Three Months Ended   Six Months Ended
+                               ------------------- -------------------
+                               June 26,  June 28,  June 26,  June 28,
+                                 2004      2003      2004      2003
+                               --------- --------- --------- ---------
+NET REVENUE                    $  8,049  $  6,816  $ 16,140  $ 13,567
+Cost of sales                     3,269     3,348     6,490     6,587
+                               --------- --------- --------- ---------
+GROSS MARGIN                      4,780     3,468     9,650     6,980
+                               --------- --------- --------- ---------
+
+Research and development          1,186     1,029     2,381     2,048
+Marketing, general and
+ administrative                   1,170     1,073     2,311     2,091
+Impairment of goodwill                -         6         -         6
+Amortization of acquisition-
+ related intangibles and costs       43        84       101       168
+                               --------- --------- --------- ---------
+OPERATING EXPENSES                2,399     2,192     4,793     4,313
+                               --------- --------- --------- ---------
+OPERATING INCOME                  2,381     1,276     4,857     2,667
+Gains (losses) on equity
+ securities, net                     (8)      (58)       11      (185)
+Interest and other, net              47        53        96       105
+                               --------- --------- --------- ---------
+INCOME BEFORE TAXES               2,420     1,271     4,964     2,587
+Income taxes                        663       375     1,477       776
+                               --------- --------- --------- ---------
+NET INCOME                     $  1,757  $    896  $  3,487  $  1,811
+                               ========= ========= ========= =========
+
+BASIC EARNINGS PER SHARE       $   0.27  $   0.14  $   0.54  $   0.28
+                               ========= ========= ========= =========
+DILUTED EARNINGS PER SHARE     $   0.27  $   0.14  $   0.53  $   0.27
+                               ========= ========= ========= =========
+
+COMMON SHARES OUTSTANDING         6,449     6,525     6,464     6,540
+COMMON SHARES ASSUMING DILUTION   6,558     6,580     6,591     6,595
+
+
+                          INTEL CORPORATION
+               CONSOLIDATED SUMMARY BALANCE SHEET DATA
+                            (In millions)
+
+                                    June 26,    March 27,   Dec. 27,
+                                      2004        2004        2003
+                                   ----------- ----------- -----------
+CURRENT ASSETS
+Cash and short-term investments    $   14,264  $   13,146  $   13,539
+Trading assets                          2,708       2,572       2,625
+Accounts receivable                     3,183       3,374       2,960
+Inventories:
+  Raw materials                           395         355         333
+  Work in process                       1,912       1,682       1,490
+  Finished goods                          916         759         696
+                                   ----------- ----------- -----------
+                                        3,223       2,796       2,519
+
+Deferred tax assets and other           1,380       1,203       1,239
+                                   ----------- ----------- -----------
+  Total current assets                 24,758      23,091      22,882
+
+Property, plant and equipment,
+ net                                   16,007      16,192      16,661
+Marketable strategic equity
+ securities                               582         608         514
+Other long-term investments             2,238       2,043       1,866
+Goodwill                                3,730       3,705       3,705
+Other assets                            1,357       1,449       1,515
+                                   ----------- ----------- -----------
+
+  TOTAL ASSETS                     $   48,672  $   47,088  $   47,143
+                                   =========== =========== ===========
+CURRENT LIABILITIES
+Short-term debt                    $      216  $      296  $      224
+Accounts payable and accrued
+ liabilities                            5,253       4,928       5,237
+Deferred income on shipments to
+ distributors                             640         701         633
+Income taxes payable                    1,429         491         785
+                                   ----------- ----------- -----------
+  Total current liabilities             7,538       6,416       6,879
+
+LONG-TERM DEBT                            898         927         936
+DEFERRED TAX LIABILITIES                1,643       1,635       1,482
+
+STOCKHOLDERS' EQUITY                   38,593      38,110      37,846
+                                   ----------- ----------- -----------
+  TOTAL LIABILITIES AND
+   STOCKHOLDERS' EQUITY            $   48,672  $   47,088  $   47,143
+                                   =========== =========== ===========
+
+
+                          INTEL CORPORATION
+             SUPPLEMENTAL FINANCIAL AND OTHER INFORMATION
+                            (In millions)
+
+                                         Q2 2004   Q1 2004   Q2 2003
+                                        --------- --------- ----------
+GEOGRAPHIC REVENUE:
+   Americas                               $1,956    $2,163     $1,955
+                                              24%       27%        28%
+   Asia-Pacific                           $3,661    $3,284     $2,778
+                                              45%       40%        41%
+   Europe                                 $1,665    $1,927     $1,418
+                                              21%       24%        21%
+   Japan                                    $767      $717       $665
+                                              10%        9%        10%
+ADDITIONAL REVENUE-RELATED INFORMATION:
+Intel Architecture business
+ microprocessor revenue                   $5,751    $5,980     $4,844
+Intel Architecture business chipset,
+ motherboard and other revenue            $1,023    $1,045     $1,006
+Flash revenue                               $587      $417       $411
+
+CASH INVESTMENTS:
+Cash and short-term investments          $14,264   $13,146    $11,202
+Trading assets - fixed income (1)         $2,390    $2,265     $2,162
+                                        ------------------------------
+Total cash investments                   $16,654   $15,411    $13,364
+INTEL CAPITAL PORTFOLIO:
+Marketable strategic equity securities      $582      $608        $63
+Other strategic investments                 $640      $680       $735
+                                        ------------------------------
+Total Intel Capital portfolio             $1,222    $1,288       $798
+TRADING ASSETS:
+Trading assets - equity securities
+ offsetting deferred compensation (2)       $318      $307       $272
+Total trading assets - sum of 1+2         $2,708    $2,572     $2,434
+
+SELECTED CASH FLOW INFORMATION:
+Depreciation                              $1,151    $1,140     $1,162
+Impairment of goodwill                        $0        $0         $6
+Amortization of acquisition-related
+ intangibles & costs                         $43       $58        $84
+Capital spending                         ($1,026)    ($680)     ($923)
+Stock repurchase program                 ($1,511)  ($1,505)   ($1,006)
+Proceeds from sales of shares to
+ employees, tax benefit & other             $258      $490       $166
+Dividends paid                             ($258)    ($259)     ($131)
+Net cash used for acquisitions              ($33)       $0         $0
+
+SHARE INFORMATION:
+Average common shares outstanding          6,449     6,480      6,525
+Dilutive effect of stock options             109       144         55
+Common shares assuming dilution            6,558     6,624      6,580
+
+STOCK BUYBACK:
+   Shares repurchased                       56.0      49.2       51.8
+   Shares authorized for buyback         2,300.0   2,300.0    2,300.0
+   Cumulative shares repurchased        (1,991.2) (1,935.2)  (1,824.6)
+   Shares available for buyback            308.8     364.8      475.4
+
+OTHER INFORMATION:
+Employees (in thousands)                    81.7      80.5       78.7
+Days sales outstanding                        36        36         36
+
+
+
+                           INTEL CORPORATION
+              SUPPLEMENTAL FINANCIAL AND OTHER INFORMATION
+                            ($ in millions)
+
+                          Q2 2004  Q1 2004  YTD 2004  Q2 2003 YTD 2003
+- ----------------------------------------------------------------------
+OPERATING SEGMENT
+INFORMATION:
+
+Intel Architecture Business
+  Revenue                   6,774    7,025    13,799    5,850  11,622
+  Operating income          2,788    3,008     5,796    1,829   3,734
+- ----------------------------------------------------------------------
+Intel Communications Group
+  Revenue                   1,271    1,065     2,336      957   1,920
+  Operating loss             (126)    (219)     (345)    (255)   (473)
+- ----------------------------------------------------------------------
+All Other
+  Revenue                       4        1         5        9      25
+  Operating loss             (281)    (313)     (594)    (298)   (594)
+- ----------------------------------------------------------------------
+Total
+  Revenue                   8,049    8,091    16,140    6,816  13,567
+  Operating income          2,381    2,476     4,857    1,276   2,667
+- ----------------------------------------------------------------------
+
+Beginning in 2004, the company combined its communications-related
+businesses into a single organization, the Intel Communications Group
+(ICG). Previously, these communications businesses were in two
+separate product line operating segments: the former Intel
+Communications Group and the Wireless Communications and Computing
+Group. The company now consists of two reportable product-line
+operating segments: the Intel Architecture business, which is
+composed of the Desktop Platforms Group, the Mobile Platforms Group
+and the Enterprise Platforms Group; and ICG. All prior period amounts
+have been restated to reflect the new presentation as well as certain
+minor reorganizations effected through the second quarter of 2004.
+
+The Intel Architecture operating segment's products include
+microprocessors and related chipsets and motherboards. ICG's products
+include flash memory; wired Ethernet and wireless connectivity
+products; communications infrastructure components such as network
+and embedded processors and optical components; microcontrollers;
+application and cellular processors used in cellular handsets and
+handheld computing devices; and cellular baseband chipsets.
+
+The "all other" category includes acquisition-related costs, including
+amortization and any impairments of acquisition-related intangibles
+and goodwill. "All other" also includes the results of operations of
+seed businesses that support the company's initiatives. Finally, "all
+other" includes certain corporate-level operating expenses, including
+a portion of profit-dependent bonus and other expenses not allocated
+to the operating segments.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>a4678568ex992.txt
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+                                                                    Exhibit 99.2
+
+                                Intel Corporation
+      Unaudited operating segment results for 2003, 2002 and 2001 conformed
+             to reflect the company's new basis of segment reporting
+
+
+     The company designs, develops, manufactures and markets computing and
+communications products at various levels of integration. In December 2003, the
+company announced that in 2004 it would be consolidating its
+communications-related businesses into a single organization, the Intel
+Communications Group (ICG). Previously, these communications businesses were in
+two separate product line operating segments: the former Intel Communications
+Group and the Wireless Communications and Computing Group (WCCG). Beginning in
+the first quarter of 2004, the company is presenting operating segment results
+under the new organizational structure. The company now reports two product-line
+operating segments: the Intel Architecture business, which is composed of the
+Desktop Platforms Group, the Mobile Platforms Group and the Enterprise Platforms
+Group; and ICG. Prior to the combining of the communications-related businesses,
+the consumer electronics business, which was previously part of ICG, was moved
+into the Intel Architecture business. As a result of the changes discussed
+above, 2003, 2002 and 2001 amounts have been restated to reflect the new
+operating segment presentation as well as certain additional minor
+reorganizations effected through the second quarter of 2004.
+
+     The company's Executive Office consists of Chief Executive Officer (CEO)
+Craig R. Barrett and President and Chief Operating Officer (COO) Paul S.
+Otellini. The CEO and COO have joint responsibility as the Chief Operating
+Decision Maker (CODM), as defined by SFAS No. 131, "Disclosures about Segments
+of an Enterprise and Related Information." The CODM allocates resources to and
+assesses the performance of each operating segment using information about their
+revenue and operating profit before interest and taxes.
+
+     The Intel Architecture operating segment's products include microprocessors
+and related chipsets and motherboards. Net revenue for the Intel Architecture
+operating segment made up approximately 87% of the company's consolidated net
+revenue in 2003 (83% in 2002 and 81% in 2001). Revenue from sales of
+microprocessors within the Intel Architecture operating segment represented 73%
+of consolidated net revenue in 2003 (70% in 2002 and 67% in 2001). ICG's
+products include flash memory; wired Ethernet and wireless connectivity
+products, communications infrastructure components such as network and embedded
+processors and optical components; microcontrollers; application and cellular
+processors used in cellular handsets and handheld computing devices; and
+cellular baseband chipsets. The company's products in each operating segment are
+sold directly to original equipment manufacturers, and through retail and
+industrial distributors as well as reseller channels throughout the world.
+
+     In addition to these operating segments, the company has sales and
+marketing, manufacturing, finance and administration groups. Expenses of these
+groups are allocated to the operating segments and are included in the operating
+results reported below.
+
+<PAGE>
+
+     The "all other" category includes acquisition-related costs, including
+amortization of acquisition-related intangibles and charges for purchased
+in-process research and development. In 2003, acquisition-related costs also
+included a goodwill impairment charge of $611 million taken in the fourth
+quarter for the remaining goodwill balance related to WCCG, and in 2002 included
+a $127 million impairment of acquisition-related identified intangibles related
+to prior-year acquisitions. "All other" also includes the results of operations
+of seed businesses that support the company's initiatives, and the results for
+2002 included a charge of $106 million related to the wind-down of the Intel
+Online Services web hosting business. Finally, "all other" includes certain
+corporate-level operating expenses, including a portion of profit-dependent
+bonus and other expenses not allocated to the operating segments. For 2001, "all
+other" also included goodwill amortization; however, beginning in 2002, goodwill
+is no longer amortized.
+
+     The company does not identify or allocate assets by operating segment, and
+does not allocate depreciation as such to the operating segments, nor does the
+CODM evaluate operating segments on these criteria. Operating segments do not
+record intersegment revenue, and, accordingly, there is none to be reported. The
+company does not allocate interest and other income, interest expense or taxes
+to operating segments. Except as discussed above, the accounting policies for
+segment reporting are the same as for the company as a whole.
+
+     Net revenue and operating income or loss for reportable segments for the
+three years ended December 27, 2003 were as follows:
+
+     (In Millions)                       2003           2002           2001
+     -------------                       ----           ----           ----
+
+     Intel Architecture Business
+
+     Net revenue                    $    26,178    $    22,347    $    21,446
+
+     Operating income               $    10,354    $     6,498    $     6,277
+
+     Intel Communications Group
+
+     Net revenue                    $     3,928    $     4,288    $     4,812
+
+     Operating loss                 $      (824)   $      (817)   $      (984)
+
+     All Other
+
+     Net revenue                    $        35    $       129    $       281
+
+     Operating loss                 $    (1,997)   $    (1,299)   $    (3,037)
+
+     Total
+
+     Net revenue                    $    30,141    $    26,764    $    26,539
+
+     Operating income               $     7,533    $     4,382    $     2,256
+
+     In 2003, one customer accounted for approximately 19% of the company's
+revenue (16% in 2002) while another customer accounted for approximately 15% in
+both 2003 and 2002. These customers each accounted for approximately 14% of the
+company's revenue in 2001. A substantial majority of the sales to these
+customers were Intel Architecture business products.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>a4678568ex993.txt
+<DESCRIPTION>EXHIBIT 99.3
+<TEXT>
+                                                                    Exhibit 99.3
+
+                                Intel Corporation
+   Unaudited operating segment results for 2003 and 2002 by quarter conformed
+             to reflect the company's new basis of segment reporting
+
+
+     Revenue and operating income or loss of the company's segments for the four
+quarters of 2003 and 2002 are summarized below. All amounts presented have been
+reclassified to conform to the changes in the organization through the second
+quarter of 2004.
+<TABLE>
+<CAPTION>
+       (In Millions)
+       -------------
+       2003 For Quarter Ended         December 27    September 27     June 28       March 29
+       ----------------------         -----------    ------------     -------       --------
+       <S>                           <C>            <C>            <C>            <C>
+       Intel Architecture Business
+         Net revenue                 $     7,697    $     6,859    $     5,850    $     5,772
+         Operating income            $     3,721    $     2,899    $     1,829    $     1,905
+
+       Intel Communications Group
+         Net revenue                 $     1,035    $       973    $       957    $       963
+         Operating loss              $      (143)   $      (208)   $      (255)   $      (218)
+
+       All Other
+         Net revenue                 $         9    $         1    $         9    $        16
+         Operating loss              $    (1,016)   $      (387)   $      (298)   $      (296)
+
+       Total
+         Net revenue                 $     8,741    $     7,833    $     6,816    $     6,751
+         Operating income            $     2,562    $     2,304    $     1,276    $     1,391
+
+
+       (In Millions)
+       -------------
+       2002 For Quarter Ended         December 28    September 28     June 29       March 30
+       ----------------------         -----------    ------------     -------       --------
+       Intel Architecture Business
+         Net revenue                 $     5,939    $     5,412    $     5,217    $     5,779
+         Operating income            $     1,980    $     1,390    $     1,341    $     1,787
+
+       Intel Communications Group
+         Net revenue                 $     1,195    $     1,063    $     1,064    $       966
+         Operating loss              $      (244)   $      (184)   $      (196)   $      (193)
+
+       All Other
+         Net revenue                 $        26    $        29    $        38    $        36
+         Operating loss              $      (272)   $      (242)   $      (506)   $      (279)
+
+       Total
+         Net revenue                 $     7,160    $     6,504    $     6,319    $     6,781
+         Operating income            $     1,464    $       964    $       639    $     1,315
+
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

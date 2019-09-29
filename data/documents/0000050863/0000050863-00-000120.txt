@@ -1,0 +1,244 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HUNKb2LjIl0TNbHB/FkoA48WSqEzypfrGdKHKxN7f69/0iABFWc6N4qSfoxKpJhs
+ zgwZMaeyDxQVpreagx706g==
+
+<SEC-DOCUMENT>/in/edgar/work/0000050863-00-000120/0000050863-00-000120.txt : 20000928
+<SEC-HEADER>0000050863-00-000120.hdr.sgml : 20000928
+ACCESSION NUMBER:		0000050863-00-000120
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000921
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000926
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		8-K
+			SEC ACT:		
+			SEC FILE NUMBER:	000-06217
+			FILM NUMBER:		728956
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2200 MISSION COLLEGE BLVD
+				CITY:			SANTA CLARA
+				STATE:			CA
+				ZIP:			95052
+				BUSINESS PHONE:		4087658080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2200 MISSION COLLEGE BLVD
+					STREET 2:		RN6-27
+					CITY:			SANTA CLARA
+					STATE:			CA
+					ZIP:			95052-8119
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C. 20549
+
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+                      Pursuant to Section 13 or 15 (d)
+                   of the Securities Exchange Act of 1934
+
+
+                       Date of Report:  September 21, 2000
+                     (Date of earliest event reported)
+
+
+
+                            INTEL CORPORATION
+       (Exact name of registrant as specified in its charter)
+
+
+
+  Delaware                     0-6217                   94-1672743
+- -----------                  -----------            ------------------
+(State of                   (Commission             (IRS Employer
+incorporation)              File Number)           Identification No.)
+
+
+
+2200 Mission College Blvd., Santa Clara, California            95052-8119
+- ----------------------------------------------------           ----------
+(Address of principal executive offices)                       (Zip Code)
+
+
+                           (408) 765-8080
+                           --------------
+        (Registrant's telephone number, including area code)
+
+
+<PAGE>
+
+
+Item 5.  OTHER EVENTS
+
+    5.1  Attached hereto as Exhibit 99.1 and incorporated by reference
+         herein is the text of Intel Corporation's announcement regarding
+         an update to forward-looking statements relating to 2000 and the
+         3rd Quarter of 2000 as presented in a press release of
+         September 21, 2000.
+
+Item 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+    (c)  Exhibits
+
+         99.1 Press release of September 21, 2000 with an announcement
+              regarding an update to forward-looking statements relating
+              to 2000 and the 3rd Quarter of 2000
+
+
+<PAGE>
+
+
+                               SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                INTEL CORPORATION
+                                                (Registrant)
+
+
+Date: September 21, 2000                        By:/s/ ANDY D. BRYANT
+                                                   ------------------------
+                                                   Andy D. Bryant
+                                                   Senior Vice President,
+                                                   Chief Financial Officer
+                                                   and Principal Accounting
+                                                   Officer
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+
+
+                                                             EXHIBIT 99.1
+
+             INTEL THIRD QUARTER REVENUE TO BE BELOW EXPECTATIONS
+
+                 Demand in Europe weaker than expected
+
+SANTA CLARA, Calif., Sept. 21, 2000 -- Intel's third quarter revenue is
+anticipated to be below the company's previous expectations, primarily
+due to weaker demand in Europe, the company said today.  The company now
+expects revenue for the third quarter to be approximately 3 to 5 percent
+higher than second quarter revenue of $8.3 billion.
+The company expects gross margin percentage for the third quarter to be
+62 percent, plus or minus a point, lower than the company's previous
+expectations of approximately 63 to 64 percent.  Interest and other is
+expected to be approximately $900 million for the third quarter, up from
+the company's previous expectations of $800 million.
+
+                           BUSINESS OUTLOOK
+
+The following statements are based on current expectations.  These
+statements are forward-looking, and actual results may differ
+materially.  These statements do not reflect the potential impact of any
+mergers or acquisitions that may be completed after the date of this
+release.
+
+**  The company expects revenue for the third quarter of 2000 to be
+approximately 3 to 5 percent higher than second quarter revenue of $8.3
+billion.
+**  The company expects gross margin percentage for the third quarter to be
+62 percent, plus or minus a point. Gross margin percentage for 2000 is
+expected to be 63 percent, plus or minus a few points.  In the short term,
+Intel's gross margin percentage varies primarily with revenue levels and
+product mix as well as changes in unit costs.
+**  Expenses (R&D, excluding in-process R&D, plus MG&A) in the third
+quarter of 2000 are expected to be up 7 to 9 percent from second quarter
+expenses of $2.2 billion, primarily due to higher spending on marketing
+programs and R&D initiatives in new business areas.  Expenses are dependent
+in part on the level of revenue.
+**  R&D spending, excluding in-process R&D, is expected to be approximately
+$4.0 billion for 2000.
+**  The company expects interest and other income for the third quarter of
+2000 to be approximately $900 million.  Interest and other is dependent in
+part on interest rates, cash balances, equity market levels and volatility,
+the realization of expected gains on investments, including gains on
+investments acquired by third parties, and assuming no unanticipated items.
+**  The tax rate for 2000 is expected to be approximately 31.8 percent,
+excluding the impact of the previously announced agreement with the
+Internal Revenue Service and acquisition-related costs.
+**  Capital spending for 2000 is expected to be approximately $6.0 billion.
+**  Depreciation is expected to be approximately $790 million in the third
+quarter and $3.4 billion for the full year 2000.
+**  Amortization of goodwill and other acquisition-related intangibles is
+expected to be approximately $400 million in the third quarter and $1.5
+billion for the full year 2000.
+
+The above statements contained in this outlook are forward-looking
+statements that involve a number of risks and uncertainties.  In addition
+to factors discussed above, among other factors that could cause actual
+results to differ materially are the following: business and economic
+conditions and growth in the computing industry in various geographic
+regions; changes in customer order patterns; changes in the mixes of
+microprocessor types and speeds, purchased components and other products;
+competitive factors, such as rival chip architectures and manufacturing
+technologies, competing software-compatible microprocessors and acceptance
+of new products in specific market segments; pricing pressures; development
+and timing of introduction of compelling software applications;
+insufficient, excess or obsolete inventory and variations in inventory
+valuation; continued success in technological advances, including
+development and implementation of new processes and strategic products for
+specific market segments; execution of the manufacturing ramp, including
+the transition to the 0.18-micron process technology; shortage of
+manufacturing capacity; the ability to grow new networking, communications,
+wireless and other Internet-related businesses and successfully integrate
+and operate any acquired businesses; unanticipated costs or other adverse
+effects associated with processors and other products containing errata
+(deviations from published specifications); litigation involving antitrust,
+intellectual property, consumer and other issues; and other risk factors
+listed from time to time in the company's SEC reports, including but not
+limited to the report on Form 10-Q for the quarter ended July 1, 2000 (Part
+I, Item 2, Outlook section).
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,270 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P7QckWhbpbNcYvplQbLpXq9CFvTN5njFwlBRS3mdzI3CZrUCD9ODIsd6kqxXqi3f
+ wxH8PMmsy7xHJUYEtUJtPg==
+
+<SEC-DOCUMENT>0001157523-03-007093.txt : 20031204
+<SEC-HEADER>0001157523-03-007093.hdr.sgml : 20031204
+<ACCEPTANCE-DATETIME>20031204170638
+ACCESSION NUMBER:		0001157523-03-007093
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20031204
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20031204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		031038439
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a4528458.txt
+<DESCRIPTION>INTEL CORP.   8-K
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+
+                             Washington, D.C. 20549
+
+
+                                    FORM 8-K
+
+
+                                 CURRENT REPORT
+                         Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+
+                        Date of Report: December 4, 2003
+                        (Date of earliest event reported)
+
+
+
+                                INTEL CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+
+        Delaware                     0-6217                   94-1672743
+      -------------                ------------           ------------------
+       (State of                   (Commission              (IRS Employer
+      incorporation)               File Number)           Identification No.)
+
+
+
+
+   2200 Mission College Blvd., Santa Clara, California         95052-8119
+   ---------------------------------------------------         ----------
+        (Address of principal executive offices)               (Zip Code)
+
+
+
+                                 (408) 765-8080
+                                 --------------
+              (Registrant's telephone number, including area code)
+
+<PAGE>
+
+
+Item 9. REGULATION FD DISCLOSURE
+
+        Attached hereto as Exhibit 99.1 and incorporated by reference herein
+        is the text of Intel Corporation's announcement regarding an update to
+        forward-looking statements relating to the fourth quarter of 2003 as
+        presented in a press release of December 4, 2003. The information in
+        this report shall be deemed incorporated by reference into any
+        registration statement heretofore or hereafter filed under the
+        Securities Act of 1933, as amended, except to the extent that such
+        information is superceded by information as of a subsequent date that
+        is included in or incorporated by reference into such registration
+        statement. The information in this report shall not be treated as
+        filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                           INTEL CORPORATION
+                                           (Registrant)
+
+
+Date: December 4, 2003                     By: /s/ Andy D. Bryant
+                                               ---------------------------------
+                                                   Andy D. Bryant
+                                                   Executive Vice President,
+                                                   Chief Financial Officer and
+                                                   Principal Accounting Officer
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>a4528458_ex991.txt
+<DESCRIPTION>INTEL    EXHIBIT 99.1
+<TEXT>
+                                                                   Exhibit 99.1
+
+          INTEL UPDATES FOURTH-QUARTER BUSINESS EXPECTATIONS
+
+    Company Narrows Revenue Range to $8.5 Billion to $8.7 Billion;
+       Goodwill Impairment Charge of Approximately $600 Million
+                     Likely in the Fourth Quarter
+
+    SANTA CLARA, Calif.--(BUSINESS WIRE)--Dec. 4, 2003-- Intel Corporation
+today provided a scheduled update to the company's Business Outlook for
+the fourth quarter, which ends Dec. 27.
+    Intel expects revenue to be between $8.5 billion and $8.7 billion,
+as compared to the previous range of $8.1 billion to $8.7 billion. The
+gross margin percentage is expected to be 62 percent, plus or minus a
+point, as compared to the previous expectation of 60 percent, plus or
+minus a couple of points. The company's Intel Architecture business is
+experiencing solid seasonal growth while demand for communications
+products remains on track with the company's expectations for the
+quarter.
+    Intel anticipates taking a fourth-quarter goodwill impairment
+charge related to the Wireless Communications and Computing Group
+(WCCG). The long-term growth expectations for this business are no
+longer projected to be as high as previously expected. The impairment
+charge is likely to be approximately $600 million. The amount of the
+charge will be reported in the company's fourth-quarter earnings
+release following completion of the valuation analysis required under
+accounting rules.
+    R&D spending is expected to be $4.4 billion for the year, as
+compared to the previous expectation of $4.3 billion. Expenses are
+expected to be approximately $2.3 billion, at the high end of the
+previous expectation of $2.2 billion to $2.3 billion.
+    The tax rate for the fourth quarter is expected to be
+approximately 32 percent, as compared to the previous expectation of
+31.5 percent. The revised tax rate expectation assumes the impact of a
+$600 million goodwill impairment charge related to WCCG, which would
+not be deductible for tax purposes, and includes other anticipated
+tax-related items.
+    The net earnings-per-share impact of the assumed $600 million
+goodwill impairment charge and the other anticipated tax-related items
+is $.06 per share.
+    All other expectations are unchanged.
+    Intel's fourth-quarter Business Outlook was originally published
+in the company's third-quarter earnings release, available at
+www.intc.com. The company will hold a public webcast at 2:30 p.m. PST
+today at www.intc.com, with a replay available until Jan. 14.
+    Intel, the world's largest chip maker, is also a leading
+manufacturer of computer, networking and communications products.
+Additional information about Intel is available at
+www.intel.com/pressroom.
+
+    This Business Update and the Oct. 14 Business Outlook are forward
+looking and involve a number of risks and uncertainties. Demand for
+Intel's products, which impacts revenue and the gross margin
+percentage, is affected by business and economic conditions as well as
+computing and communications industry trends and changes in customer
+ordering patterns. Revenue and the gross margin percentage are
+affected by competing chip architectures and manufacturing
+technologies, competing software-compatible microprocessors, pricing
+pressures and other competitive factors, as well as market acceptance
+of Intel's new products, the availability of sufficient inventory to
+meet demand, the availability of externally purchased components and
+the development and timing of introduction of compelling software
+applications and operating systems that take advantage of the features
+of our products. Future revenue is also dependent on continuing
+technological advancement, including developing and implementing new
+processes and strategic products, as well as the timing of new product
+introductions, sustaining and growing new businesses and integrating
+and operating any acquired businesses. In addition to the impact of
+changes in revenue, the gross margin percentage varies with product
+mix and pricing, changes in unit costs, capacity utilization and the
+existence of excess capacity, and the timing and execution of the
+manufacturing ramp and associated costs. The gross margin percentage
+could also be affected by excess or obsolete inventory, variations in
+inventory valuation and impairment of manufacturing assets. Intel
+conducts much of its manufacturing, assembly and test and sales
+activities outside the United States and is thus subject to a number
+of other factors, including currency controls and fluctuations, tariff
+and import regulations and regulatory requirements which may limit our
+or our customers' ability to manufacture, assemble and test or sell
+products in particular countries. If terrorist activity, armed
+conflict, civil or military unrest or political instability occurs in
+the United States, Israel or other locations, such events may disrupt
+manufacturing, assembly and test, logistics, security and
+communications, and could also result in reduced demand for Intel's
+products. The impacts of major health concerns, such as the SARS
+illness, or of large-scale outages or interruptions of service from
+utility or other infrastructure providers, on Intel, its suppliers,
+customers or other third parties could also adversely affect our
+business and impact our customer order patterns. Expenses,
+particularly certain marketing and compensation expenses, vary
+depending on the level of revenue and profits. The expectation
+regarding gains or losses from equity securities and interest and
+other assumes no unanticipated events and varies depending on equity
+market levels and volatility, gains or losses realized on the sale or
+exchange of securities, impairment charges related to non-marketable
+and other investments, interest rates, cash balances, and changes in
+fair value of derivative instruments. Expectations of impairment
+charges on investments are based on experience, and it is not possible
+to know which specific investments are likely to be impaired or the
+extent or timing of individual impairments. The tax rate expectation
+is based on current tax law and current expected income, and assumes
+Intel continues to receive tax benefits for export sales. The tax rate
+may be affected by the closing of acquisitions or divestitures, the
+jurisdiction in which profits are determined to be earned and taxed,
+and the ability to realize deferred tax assets. Results could also be
+affected by adverse effects associated with product defects and errata
+(deviations from published specifications) and by litigation, such as
+that described in Intel's SEC reports, as well as other risk factors
+listed in Intel's SEC reports, including the report on Form 10-Q for
+the quarter ended Sept. 27. The statements in this release are based
+on current expectations and do not include the potential impact of any
+mergers, acquisitions, divestitures or other business combinations
+that have not been completed by Dec. 3 or are not expected to be
+completed shortly.
+
+    * Intel is a registered trademark of Intel Corporation or its
+subsidiaries in the United States and other countries.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

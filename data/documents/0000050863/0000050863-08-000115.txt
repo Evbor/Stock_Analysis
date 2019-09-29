@@ -1,0 +1,533 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UrT/1aJu9CvfOUVColr9rUr9+mkVw0FADEko5AG7DP9yhDDLN3uCdFbHHsRfivJV
+ NWcQeCsXhX/aXxuHeCWxRg==
+
+<SEC-DOCUMENT>0000050863-08-000115.txt : 20080331
+<SEC-HEADER>0000050863-08-000115.hdr.sgml : 20080331
+<ACCEPTANCE-DATETIME>20080331085348
+ACCESSION NUMBER:		0000050863-08-000115
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20080330
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Cost Associated with Exit or Disposal Activities
+ITEM INFORMATION:		Material Impairments
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20080331
+DATE AS OF CHANGE:		20080331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		08721684
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k33008.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Pursuant to Section 13 OR 15(d) of the</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported):  March 30, 2008</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="565" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="85" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>94-1672743 </font></b><font size=2>&nbsp;</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="635" style='border-collapse:collapse; '>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="203" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.)</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="111" style='border-collapse:collapse'>
+    <tr >
+        <td width="111" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:.0001pt;line-height:129.6%'><font size=2>of incorporation)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 1.01</font></b></p> </td>
+        <td  valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Entry into a Material Definitive Agreement.</font></b></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in;text-align:left;'><font size=2>On March 30, 2008, Intel Corporation (&#147;Intel&#148;), STMicroelectronics NV (&#147;STMicroelectronics&#148;), and certain affiliates of Francisco Partners L.P. (&#147;Francisco Partners&#148; and collectively, the &#147;Parties&#148;) entered into an Amended and Restated Master Agreement (the &#147;Master Agreement&#148;) regarding the formation of a private, independent semiconductor company, Numonyx B.V. (&#147;Numonyx&#148;) that will design, develop and manufacture NOR and NAND flash memory products. The Master Agreement amends and restates the agreement among the Parties dated as of May 22, 2007, and extended on December 22, 2007.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in;text-align:left;'><font size=2>Also on March 30, 2008, the Parties consummated the transactions contemplated by the Master Agreement, including the execution by Intel, certain subsidiaries of Intel, Numonyx, and certain subsidiaries of Numonyx, of an asset transfer agreement (the &#147;Intel Asset Transfer Agreement&#148;), pursuant to which Intel and its subsidiaries transferred assets related to Intel&#146;s NOR flash memory business and certain assets related to its phase change memory initiatives in exchange for an equity interest in Numonyx, a note receivable and a license to all transferred patents, trade secrets and copyrights. The equity interest held by Intel and its subsidiaries constitutes a 45.1% ownership interest in Numonyx. The note receivable held by Intel will have a contractual amount of approximately $144.4 million. The notes receivable are subordinated to the senior loan and Francisco Partners&#146;
+preferential payout (see below), and will be deemed extinguished in liquidation events that generate proceeds insufficient to repay the senior loan and Francisco Partners&#146; preferential payout.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in;text-align:left;'><font size=2>STMicroelectronics entered into a substantially similar asset contribution agreement, pursuant to which it contributed assets related to its NOR and NAND flash memory business in exchange for a 48.6% ownership interest in Numonyx and a note receivable with a contractual amount of approximately $155.6 million. Francisco Partners acquired the remaining 6.3% ownership interest in Numonyx in exchange for a cash investment of $150 million and a note receivable with a contractual amount of $20 million. In addition, Francisco Partners has a preferential payout right of 1.85x on its cash investment that is senior to the investments of Intel and STMicroelectronics in the event of an initial public offering, change in control, bankruptcy or liquidation of Numonyx.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in;text-align:left;'><font size=2>Intel&#146;s investment in Numonyx will be recorded within other long-term assets on Intel&#146;s balance sheet. Intel&#146;s proportionate share of Numonyx&#146;s income or loss will be recognized on a one quarter lag using the equity method of accounting.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in;text-align:left;'><font size=2>As part of the transactions, Intel entered into supply agreements with Numonyx involving the manufacture and the assembly and test of NOR flash memory products for Numonyx through the end of the year. Intel entered into a transition services agreement with Numonyx to provide certain services such as supply chain, information technology, finance support and other services for up to one year. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>The above description of the  terms of the Master Agreement and Intel Asset Transfer Agreement are qualified in their entireties by reference to the full text of the agreements which will be filed as exhibits to our quarterly report on Form 10-Q for the first quarter of 2008. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><b><font size=2>Item 2.03     Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>Intesa Sanpaolo S.p.A and Unicredit Banca d&#146;Impresa S.p.A, as lenders,</font><font size=2> </font><font size=2>and Numonyx, as borrower, have entered into an unsecured, senior credit facility of up to $550 million, including a $450 million term loan and a $100 million revolving loan. Numonyx will fully draw down the term loan of $450 million at closing. The loan has a four year term. Intel and STMicroelectronics have each provided the lenders with a several guarantee of 50% of Numonyx&#146;s payment obligations under the credit facility. Intel&#146;s guarantee is effective as of March 31, 2008 and the maximum amount of Intel&#146;s obligation under this guarantee is $275 million in principal, plus any accrued unpaid interest, expenses of the lenders and penalties. Intel&#146;s guarantee can be triggered by a monetary default of Numonyx or, in certain circumstances, can be triggered by
+events affecting the creditworthiness of</font><b><font size=2> </font></b><font size=2>STMicroelectronics.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>Item 1.01 is incorporated herein by reference.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 2.05</font></b></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Costs Associated with Exit or Disposal Activities</font></b></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><B><font SIZE=2>A</font></B><font size=2>pproximately 2,500 employees of Intel&#146;s NOR flash memory business will become employees of Numonyx as part of the transactions discussed above.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>We estimate that we will record an additional non-cash impairment charge of approximately $300 million related to the assets of our NOR flash memory business in the first quarter of 2008. We recorded a non-cash impairment charge of $85 million in the fourth quarter of 2007.  Our consolidated results for the first quarter of 2008 will include the results of the NOR flash business.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>Item 1.01 is incorporated herein by reference.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in; text-indent:-0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 2.06</font></b></p> </td>
+        <td  valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Material Impairments.</font></b></p> </td> </tr></table>
+</div>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>Item 1.01 and Item 2.05 are incorporated herein by reference.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>This Form 8-K contains forward-looking statements regarding Numonyx&#146;s future operations and future impairments and charges that Intel may incur. Actual events or results may differ materially from those contained in these forward-looking statements. Among the important factors that could cause future events or results to vary from those addressed in the forward-looking statements are risks arising from the ability of Intel and Numonyx to retain key employees and customer and supplier relationships; the potential for unexpected liabilities related to the disposition of the assets; and litigation or regulatory matters involving intellectual property, antitrust and other issues that could affect the future operation of Numonyx and/or Intel&#146;s or other entities&#146; dealings with Numonyx. In addition, the amount of impairment charges Intel recognizes could vary from the above
+estimates based on the final accounting and valuations of the assets involved in the transactions.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.75in;text-align:left;'><font size=2>Please refer to the documents that Intel files with the Securities and Exchange Commission on Forms 10-K, 10-Q and 8-K. The filings by Intel identify and address other important factors that could affect its relationship with Numonyx and could cause its financial and operational results to differ materially from those contained in the forward-looking statements set forth in this Form 8-K and in Intel&#146;s other filings. Intel is under no duty to update any of the forward-looking statements after the date of this Form 8-K to conform to actual results.</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="16" valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:12pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="65" valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 9.01</font></b></p> </td>
+        <td  valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Financial Statements and Exhibits.</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="164" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:8pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="24" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(d)</font></p> </td>
+        <td width="68" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Exhibits.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:1in;text-align:left;'><font size=2>The following exhibit is filed as part of this Report:</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="179" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Exhibit Number</font></p> </td>
+        <td width="83" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Description</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="539" style='border-collapse:collapse'>
+    <tr >
+        <td width="96" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>99.1  </font></p> </td>
+        <td width="443" nowrap valign=top style='padding:8.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Press release dated March 31, 2008 announcing the closing of the transactions.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom: solid black 1.0pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: March 31, 2008</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit99-1.htm
+<DESCRIPTION>EXHIBIT 99.1 NEWS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'><B><font SIZE=3>EXHIBIT 99.1</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><B><font SIZE=5>INTEL NEWS RELEASE</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="209" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><B><font SIZE=2>CONTACT:</font></B></p> </td>
+        <td width="113" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Chuck Mulloy</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="208" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="112" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>408-765-3484</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="281" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="185" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#0000FF"><u><font size=2>Chuck.mulloy@intel.com</font></u></font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.5in;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>INTEL, STMicroelectronics AND FRANCISCO PARTNERS CLOSE TRANSACTION TO CREATE NUMONYX</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>New Company to Deliver Innovative, Cost-Effective Non-Volatile Memory Solutions;</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Intel to Take Impairment Charge for First Quarter 2008</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>SANTA CLARA, Calif., March 31, 2008 &#150; Intel Corporation today announced that the company has finalized and closed its transaction with STMicroelectronics and Francisco Partners to create a new independent semiconductor company Numonyx B.V. that will design, develop and manufacture NOR and NAND flash memory products. As part of the transaction, Intel has transferred the assets associated with its NOR flash memory business and certain assets related to the company&#146;s phase change memory initiatives to Numonyx in exchange for 45.1 percent ownership in Numonyx. &nbsp;ST Microelectronics acquired a 48.6 percent ownership interest in Numonyx.&nbsp;&nbsp;Francisco Partners acquired a 6.3 percent ownership interest in exchange for a cash investment of $150 million. As part of the overall transaction, Numonyx will receive $450 million of debt financing at closing from Intesa Sanpaolo S.p.A
+and Unicredit Banca d&#146;Impresa S.p.A in addition to a $100 million committed revolving credit facility. The loan has a 4-year term and Intel and STMicroelectronics have each provided Numonyx and the banks with a guarantee of 50 percent of the indebtedness. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;line-height: 150%;'><b><font size=2>-- more --</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="136" style='border-collapse:collapse'>
+    <tr >
+        <td width="136" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:162%'><b><font size=2>Numonyx/Page 2</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.55in;text-align:left;line-height: 150%;'><font size=2>Intel estimates that it will record additional non-cash impairment of approximately $300 million related to the assets transferred to Numonyx and other costs associated with this transaction in the first quarter of 2008. Approximately 2,500 Intel employees are joining Numonyx as part of this transaction.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.55in;text-align:left;line-height: 150%;'><font size=2>Intel, the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Additional information about Intel is available at www.intel.com/pressroom. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;line-height: 150%;'><b><font size=2>&#150; 30 &#150;</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>* Other names and brands may be claimed as the property of others.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

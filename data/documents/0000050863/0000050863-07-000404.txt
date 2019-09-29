@@ -1,0 +1,484 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AKzY6RNDFWgiP+0tvlioXD4tqy/5URtltCQ7jUyzBFxedRWq6wU3jAtsoQd3K+eA
+ O79oYvCnJ47oIMu7GaL/eg==
+
+<SEC-DOCUMENT>0000050863-07-000404.txt : 20071116
+<SEC-HEADER>0000050863-07-000404.hdr.sgml : 20071116
+<ACCEPTANCE-DATETIME>20071116110825
+ACCESSION NUMBER:		0000050863-07-000404
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20071114
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20071116
+DATE AS OF CHANGE:		20071116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		071251921
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		SC4-203
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8knewdir.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Washington, D.C. 20549</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Pursuant to Section 13 OR 15(d) of the</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Securities Exchange Act of 1934</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>Date of Report (Date of earliest event reported):  November 14, 2007</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="565" style='border-collapse:collapse'>
+    <tr >
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt;line-height:129.6%'><font size=1>&nbsp;</font></p> </td>
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+        <td width="85" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>94-1672743 </font></b><font size=2>&nbsp;</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="635" style='border-collapse:collapse; '>
+    <tr >
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+        <td width="203" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.)</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="111" style='border-collapse:collapse'>
+    <tr >
+        <td width="111" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:.0001pt;line-height:129.6%'><font size=2>of incorporation)</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:3pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>(Former Name or Former Address, if Changed Since Last Report)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><i><font size=2>see</font></i><font size=2> General Instruction A.2. below):</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 5.02</font></b></p> </td>
+        <td  valign=top style='padding:12.0pt 0in 0in 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></b></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="229" style='border-collapse:collapse; '>
+    <tr >
+        <td width="72" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>(</font></b><font size=2>d)</font></p> </td>
+        <td width="157" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Election of New Director.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in; text-indent:0.29in;text-align:left;'><font size=2>On November 14, 2007, the company's Board of Directors elected Carol Bartz as a member of the Board of Directors, effective January 16, 2008.  </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in; text-indent:0.25in;text-align:left;'><font size=2>Ms. Bartz will receive the standard compensation amounts payable to non-employee directors of the company, as described in the company&#146;s Form 8-K (and its exhibits) dated July 14, 2006.&nbsp; Her annual retainer and committee fees (if any) will be pro-rated to reflect the remainder of the July to June year in which director cash compensation is paid.&nbsp; Also pursuant to these arrangements, Ms. Bartz will receive a grant of restricted stock units in January 2008 for a number of shares equal to $72,500, which is one-half of the annual retainer, divided by the average of the high and low sales prices of one share of the company's common stock on the date of grant, which shares will vest ratably on each of the first three anniversaries of the grant date.&nbsp;  Ms. Bartz and the company will also enter into&nbsp;the company's standard form of directors'
+indemnification agreement, as set forth at Exhibit 10.15 to the company's Form 10-K&nbsp;filed on&nbsp;February 2, 2005, pursuant to which the company agrees to indemnify its directors to the fullest extent permitted by applicable law and subject to certain conditions to advance expenses in connection with proceedings as described in the indemnification agreement.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in; text-indent:0.25in;text-align:left;'><font size=2>Ms.&nbsp;Bartz has served as Executive Chairman of the Board of Autodesk, Inc. since April&nbsp;30, 2006. From April 1992 to April 2006, Ms. Bartz served as Chairman of the Board, Chief Executive Officer and President of Autodesk. Ms. Bartz is also a director of Cisco Systems, Inc. and Network Appliance, Inc. </font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="241" style='border-collapse:collapse'>
+    <tr >
+        <td width="72" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Item 7.01</font></b></p> </td>
+        <td width="169" nowrap valign=top style='padding:12.0pt 0in 0in 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><b><font size=2>Regulation FD Disclosure.</font></b></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in; text-indent:0.29in;text-align:left;'><font size=2>As disclosed under Item 5.02, on November 14, 2007, the Board of Directors elected Carol Bartz as a member of the Board, effective January 16, 2008. The company's press release announcing Ms. Bartz' election is furnished as Exhibit 99.1 to this Current Report on Form 8-K. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt; margin-left:0.75in; text-indent:0.32in;text-align:left;'><font size=2>The information referenced in this Item 7.01 shall be deemed incorporated by reference into any registration statement heretofore or hereafter filed under the Securities Act of 1933, as amended, except to the extent that such information is superseded by information as of a subsequent date that is included in or incorporated by reference into such registration statement. The information referenced in this Item 7.01 shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="336" valign=top style='border-bottom: solid black 1.0pt'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+        <td width="288" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: November 16, 2007</font></p> </td>
+        <td width="336" valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=1>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="579" style='border-collapse:collapse'>
+    <tr >
+        <td width="480" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="99" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><font size=2>Exhibit 99.1</font></u></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>2200 Mission College Blvd.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>P.O. Box 58119</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Santa Clara, CA 95052-8119</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="645" style='border-collapse:collapse'>
+    <tr >
+        <td width="355" nowrap valign=top style='padding:24.0pt 0in 24.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><img src="wyimg1.jpg"><br> </p> </td>
+        <td width="291" nowrap valign=top style='padding:24.0pt 0in 24.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=6>News Release</font></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="215" style='border-collapse:collapse; '>
+    <tr >
+        <td width="96" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>CONTACT:</font></p> </td>
+        <td width="119" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>Tom Beermann</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.5in; text-indent:0.5in;text-align:left;'><font size=2>(408) 765-6855</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;line-height: 150%;'><b><font size=2>INTEL NAMES CAROL BARTZ OF AUTODESK TO BOARD OF DIRECTORS </font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;line-height: 150%;'><font size=2>SANTA CLARA, Calif., Nov. 16, 2007 &#150; Intel Corporation today announced that Carol Bartz, executive chairman of the board of Autodesk, Inc. has been elected to serve on Intel&#146;s board of directors. At the same time, the Intel board of directors expanded the size of the board from 11 to 12. Both actions are effective as of the next Intel board meeting in January.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.58in;text-align:left;line-height: 150%;'><font size=2> &#147;Carol Bartz brings significant industry experience, knowledge and insight to Intel&#146;s board,&#148; said Craig Barrett, Intel chairman. &#147;We&#146;re extremely pleased to have Carol on our board and look forward to working with her and benefiting from her contributions.&#148;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.54in;text-align:left;line-height: 150%;'><font size=2>Bartz, 59, served as chairman, president and CEO of Autodesk for 14 years.  During her tenure, the company diversified its product line and grew revenues from $285 million to $1.5 billion in 2006.  She previously held positions at Sun Microsystems, Digital Equipment Corporation and 3M Corporation.  In addition to serving on the board of directors at Autodesk, Bartz also serves on the boards of Cisco Systems, Network Appliance, and the Foundation for the National Medals of Science and Technology.  </font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="609" style='border-collapse:collapse; '>
+    <tr >
+        <td width="48" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:162%'><font size=1>&nbsp;</font></p> </td>
+        <td width="561" nowrap valign=top >
+            <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt;line-height:162%'><font size=2>Bartz holds an honors degree in computer science from the University of Wisconsin.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; text-indent:0.54in;text-align:left;line-height: 150%;'><font size=2>Intel, the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Additional information about Intel is available at </font><u><font size=2>www.intel.com/pressroom</font></u><font size=2> and </font><u><font size=2>blogs.intel.com</font></u><font size=2>. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>-- 30 --</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<HR noshade align="center" width="100%" size="2">
+<p style='page-break-before:always'></p>
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>Intel is a registered trademark of Intel Corporation or its subsidiaries in the United States and other countries. </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+<!-- EEDocs PBStart-->
+<!-- EEDocs PBEnd-->
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>wyimg1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 wyimg1.jpg
+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
+L0`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`?_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,841 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UixLYeJA+DSbJ1/w4STYb+YORtR/o9+2clEu4rEM2LpKChO/j4nAkNKBWvZE2WQr
+ rFAMVRbVUSZj5G2Ng3A2lw==
+
+<SEC-DOCUMENT>0000050863-09-000162.txt : 20090828
+<SEC-HEADER>0000050863-09-000162.hdr.sgml : 20090828
+<ACCEPTANCE-DATETIME>20090828091331
+ACCESSION NUMBER:		0000050863-09-000162
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20090828
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20090828
+DATE AS OF CHANGE:		20090828
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		091041261
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE> </TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+<div style='width:600;'>
+
+
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'><p>&nbsp;</p> </div> </div> <BR>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>UNITED STATES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=4>SECURITIES AND EXCHANGE COMMISSION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><B><font SIZE=2>WASHINGTON, D.C. 20549</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=4>FORM 8-K</font></B></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><B><font SIZE=2>CURRENT REPORT</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt;text-align:center;'><b><font size=2>PURSUANT TO SECTION 13 OR 15(d) OF THE</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><B><font SIZE=2>SECURITIES EXCHANGE ACT OF 1934</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><font size=1>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>Date of Report:  August 28, 2009</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=2>(Date of earliest event reported)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:center;'><B><font SIZE=5>INTEL CORPORATION</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Exact name of registrant as specified in its charter)</font></b></p>
+
+
+<p style='margin-top:12pt;margin-bottom:0pt;'>
+<HR noshade align="center" Width="120" >
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="567" style='margin-left:0pt;border-collapse:collapse; '>
+    <tr >
+
+        <td width="48" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+
+        <td width="240" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>Delaware</font></b></u></p> </td>
+
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>000-06217</font></b></u></p> </td>
+
+        <td width="87" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><u><b><font size=2>94-1672743 </font></b><font size=2>&nbsp;</font></u></p> </td> </tr></table>
+</div>
+
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="642" style='margin-left:0pt;border-collapse:collapse; '>
+    <tr >
+
+        <td width="16" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:3pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+
+        <td width="237" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(State or other jurisdiction</font></p> </td>
+
+        <td width="192" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(Commission File Number)</font></p> </td>
+
+        <td width="197" nowrap valign=top style='padding:3.0pt 0in 0in 0in; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=2>(IRS Employer Identification No.</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><font size=2>of incorporation)</font><font size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size=2>
+</font><b><font size=2>2200 Mission College Blvd., Santa Clara, California 95054-1549</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Address of principal executive offices) (Zip Code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:12pt;text-align:center;'><b><font size=2>(408) 765-8080</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=1>(Registrant&#146;s telephone number, including area code)</font></b></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt;text-align:left;'><font face=Wingdings>o</font><font size=2> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+<div style='border:none;border-bottom:solid .25em;padding:0in 0in 1.0pt 0in'>
+
+<div style='border:none;border-bottom:solid .05em;padding:0in 0in 1.0pt 0in'>
+<p>&nbsp;</p> </div> </div> <BR>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+</DIV>
+
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:justify;'><font size=2>Item 7.01 Regulation FD Disclosure.</font></p>
+
+<p style=' margin-bottom:12pt; margin-top:5pt;text-align:left;'><font size=2>The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended. </font></p>
+
+<p style=' margin-bottom:12pt; margin-top:5pt;text-align:left;'><font size=2>Attached hereto as Exhibit 99.1 and incorporated by reference herein is a press release of Intel Corporation (&#147;Intel&#148;) regarding an update to forward-looking statements relating to the third quarter of 2009 as presented in a press release of August 28, 2009.   </font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+</DIV>
+</DIV>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'>
+</p>
+
+<p style=' margin-bottom:0pt; margin-top:16pt; margin-left:1.12in; text-indent:-1.12in;text-align:center;'><B><font SIZE=2>SIGNATURES</font></B></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:8pt; text-indent:0.5in;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+<div align=left>
+
+<table border="0" cellspacing=0 cellpadding=0 width="624" style='border-collapse:collapse'>
+    <tr >
+
+        <td width="288" valign=top >
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+
+        <td width="336" valign=top >
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font SIZE=2>INTEL CORPORATION</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>(Registrant)</font></p> </td> </tr>
+    <tr >
+
+        <td width="288" valign=top >
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:1.0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p> </td>
+
+        <td width="336" valign=top style='border-bottom:solid black 1.0pt; '>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p
+style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>/s/ Cary I. Klafter</font></p> </td> </tr>
+    <tr >
+
+        <td width="288" valign=top >
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=1>&nbsp;</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Date: August 28, 2009</font></p> </td>
+
+        <td width="336" valign=top >
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Cary I. Klafter</font></p>
+<p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Corporate Secretary</font></p> </td> </tr></table>
+</div>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<div TITLE="EE+ Page Footer">
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2> </font></p>
+</DIV>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exh99.htm
+<DESCRIPTION>EXHIBIT 99.1 NEWS RELEASE
+<TEXT>
+<html>
+    <head>
+        <title></title>
+    </head>
+
+    <body style="FONT-FAMILY: 'Times New Roman'" bgcolor="#ffffff">
+        <div style="WIDTH: 600px">
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: right"><b><font size="2">Exhibit 99.1</font></b></p>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="109" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="109">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><b><font size="2">Intel Corporation</font></b></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="155" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="155">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">2200 Mission College Blvd.</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><font size="2">Santa Clara, CA 95054-1549</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="644" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="336">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><img src="img1.jpg"><br>
+                            </p>
+                        </td>
+
+                        <td valign="top" nowrap width="308">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+                            <img height="93" src="news.gif" width="288"></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="453" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="101">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">CONTACTS:</font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="235">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Mark Henninger</font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="117">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Tom Beermann</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="460" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="101">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0in; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" nowrap width="235">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Investor Relations </font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="124">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Media Relations</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="445" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="101">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0in; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" nowrap width="235">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">408-653-9944</font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="109">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">408-765-6855</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="521" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="101">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0in; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" nowrap width="235">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">mark.h.henninger@intel.com</font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="185">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">tom.beermann@intel.com</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><b><font size="3">Intel Raises Third-Quarter Revenue and Gross Margin Expectations</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">SANTA CLARA, Calif., Aug. 28, 2009 &ndash; As a result of stronger than expected demand for microprocessors and chipsets, Intel Corporation now expects revenue for the third quarter to be $9.0 billion, plus or minus $200 million, as compared to the previous range of $8.5 billion, plus or minus $400 million.
+            </font><font size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">The gross margin percentage for the third quarter is expected to be in the upper half of the previous range of 53 percent, plus or minus two percentage points. All other expectations are unchanged.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.08in; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel&rsquo;s third-quarter Business Outlook was originally published in the company&rsquo;s second-quarter 2009 earnings release, available at intc.com. The company is scheduled to report its third-quarter financial results on Oct. 13.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><u><font size="2">Status of Business Outlook</font></u></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.08in; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through Aug. 31, Intel&rsquo;s corporate representatives may reiterate the Business Outlook during private meetings with investors, investment analysts, the media and others. From the close of business on Aug. 31 until publication of the company&rsquo;s third-quarter earnings release, Intel will observe a
+            &ldquo;Quiet Period&rdquo; during which the Business Outlook disclosed in the company&rsquo;s press releases and filings with the SEC should be considered to be historical, speaking as of prior to the Quiet Period only and not subject to an update by the company.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div title="EE+ Page Break" style="FONT-SIZE: 1pt; PAGE-BREAK-AFTER: always; WIDTH: 100%; HEIGHT: 1px">
+            </div>
+
+            <div title="EE+ Page Header">
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><b><font size="2">Intel/Page 2</font></b></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><u><font size="2">Risk Factors </font></u><font size="2">&nbsp;</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">The above statements and any others in this document that refer to plans and expectations for the third quarter, the year and the future are forward-looking statements that involve a number of risks and uncertainties. Many factors could affect Intel&rsquo;s actual results, and variances from Intel&rsquo;s current expectations regarding such factors could cause
+            actual results to differ materially from those expressed in these forward-looking statements. Intel presently considers the following to be the important factors that could cause actual results to differ materially from the corporation&rsquo;s expectations.</font></p>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Ongoing uncertainty in global economic conditions poses a risk to the overall economy as consumers and businesses may defer purchases in response to tighter credit and negative financial news, which could negatively affect product demand and other related matters. Consequently, demand could be different from Intel's expectations due to factors including
+                            changes in business and economic conditions, including conditions in the credit market that could affect consumer confidence; customer acceptance of Intel&rsquo;s and competitors&rsquo; products; changes in customer order patterns including order cancellations; and changes in the level of inventory at customers. </font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Intel operates in intensely competitive industries that are characterized by a high percentage of costs that are fixed or difficult to reduce in the short term and product demand that is highly variable and difficult to forecast. Additionally, Intel is in the process of transitioning to its next generation of products on 32nm process technology, and
+                            there could be execution issues associated with these changes, including product defects and errata along with lower than anticipated manufacturing yields</font><i><font size="2">. </font></i><font size="2">Revenue and the gross margin percentage are affected by the timing of new Intel product introductions and the demand for and market acceptance of Intel's products; actions taken by Intel's competitors, including product offerings and introductions, marketing
+                            programs and pricing pressures and Intel&rsquo;s response to such actions; and Intel&rsquo;s ability to respond quickly to technological developments and to incorporate new features into its products. </font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">The gross margin percentage could vary significantly from expectations based on changes in revenue levels; capacity utilization; start-up costs, including costs associated with the new 32nm process technology; variations in inventory valuation, including variations related to the timing of qualifying products for sale; excess or obsolete inventory;
+                            product mix and pricing; manufacturing yields; changes in unit costs; impairments of long-lived assets, including manufacturing, assembly/test and intangible assets; and the timing and execution of the manufacturing ramp and associated costs. </font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Expenses, particularly certain marketing and compensation expenses, as well as restructuring and asset impairment charges, vary depending on the level of demand for Intel's products and the level of revenue and profits. </font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">The tax rate expectation is based on current tax law and current expected income. The tax rate may be affected by the jurisdictions in which profits are determined to be earned and taxed; changes in the estimates of credits, benefits and deductions; the resolution of issues arising from tax audits with various tax authorities, including payment of
+                            interest and penalties; and the ability to realize deferred tax assets.</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div title="EE+ Page Footer">
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><a name="PAGENUM"><b><font size="2">&ndash;more&ndash;</font></b></a></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+                <div title="EE+ Page Break" style="FONT-SIZE: 1pt; PAGE-BREAK-AFTER: always; WIDTH: 100%; HEIGHT: 1px">
+                </div>
+            </div>
+
+            <div title="EE+ Page Header">
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><b><font size="2">Intel/Page 3</font></b></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">The current financial stress affecting the banking system and financial markets and the going concern threats to investment banks and other financial institutions have resulted in a tightening in the credit markets, a reduced level of liquidity in many financial markets, and heightened volatility in fixed income, credit and equity markets. There could
+                            be a number of follow-on effects from the credit crisis on Intel&rsquo;s business, including insolvency of key suppliers resulting in product delays; inability of customers to obtain credit to finance purchases of our products and/or customer insolvencies; counterparty failures negatively impacting our treasury operations; increased expense or inability to obtain short-term financing of Intel&rsquo;s operations from the issuance of commercial paper; and increased
+                            impairments from the inability of investee companies to obtain financing. Gains or losses from equity securities and interest and other could also vary from expectations depending on gains or losses realized on the sale or exchange of securities; gains or losses from equity method investments; impairment charges related to debt securities as well as equity and other investments; interest rates; cash balances; and changes in fair value of derivative instruments. The
+                            current volatility in the financial markets and overall economic uncertainty increases the risk that the actual amounts realized in the future on our debt and equity investments will differ significantly from the fair values currently assigned to them. </font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">The majority of our non-marketable equity investment portfolio balance is concentrated in companies in the flash memory market segment, and declines in this market segment or changes in management&rsquo;s plans with respect to our investments in this market segment could result in significant impairment charges, impacting restructuring charges as well
+                            as gains/losses on equity investments and interest and other.</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Intel's results could be impacted by adverse economic, social, political and physical/infrastructure conditions in countries where Intel, its customers or its suppliers operate, including military conflict and other security risks, natural disasters, infrastructure disruptions, health concerns and fluctuations in currency exchange rates. </font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="24">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="4"><b>&bull;</b></font></p>
+                        </td>
+
+                        <td valign="top">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Intel's results could be affected by adverse effects associated with product defects and errata (deviations from published specifications), and by litigation or regulatory matters involving intellectual property, stockholder, consumer, antitrust and other issues, such as the litigation and regulatory matters described in Intel's SEC reports.</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.25in; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.25in; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">A detailed discussion of these and other factors that could affect Intel&rsquo;s results is included in Intel&rsquo;s SEC filings, including the report on Form 10-Q for the fiscal quarter ended June 27, 2009. </font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.25in; LINE-HEIGHT: 150%; TEXT-ALIGN: left"><font size="2">Intel [NASDAQ: INTC], the world leader in silicon innovation, develops technologies, products and initiatives to continually advance how people work and live. Additional information about Intel is available at </font><font color="#0000ff"><u><font size="2">www.intel.com/pressroom</font></u></font> <font size="2">and</font>
+            <font color="#0000ff"><u><font size="2">blogs.intel.com</font></u></font></p>
+
+            <div align="left">
+                <table style="MARGIN-LEFT: 0pt; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="352" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="293">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 162%; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" nowrap width="59">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 162%; TEXT-ALIGN: left"><b><font size="2">&ndash; 30 &ndash;</font></b></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><font size="2">Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"><font size="2">* Other names and brands may be claimed as the property of others.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div title="EE+ Page Footer">
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><a name="PAGENUM"></a></p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+                <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left"></p>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+        </div>
+    </body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>img1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img1.jpg
+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
+#`?_9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>news.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 news.gif
+M1TE&.#EA(`%=`/<``````(````"``("`````@(``@`"`@,#`P,#<P*;*\```
+M``@("!`0$!<7%Q\?'RHJ*C$Q,3DY.4)"0DI*2E%145I:6F-C8VQL;')R<GIZ
+M>H2$A(N+BY.3DYN;FZ2DI*VMK;6UM;R\O,?'Q\[.SM;6UMW=W>?GY_#P\/?W
+M]_[^_@``````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````````````````````````````````````/_[\*"@H']_?_\```#_
+M`/__````__\`_P#______R'Y!```````+``````@`5T`AP```(````"``("`
+M````@(``@`"`@,#`P,#<P*;*\`````@("!`0$!<7%Q\?'RHJ*C$Q,3DY.4)"
+M0DI*2E%145I:6F-C8VQL;')R<GIZ>H2$A(N+BY.3DYN;FZ2DI*VMK;6UM;R\
+MO,?'Q\[.SM;6UMW=W>?GY_#P\/?W]_[^_@``````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````/_[\*"@H']_?_\```#_`/__````__\`_P#______PC^`%,('$BP
+MH,&#"!,J7,BPH<.'$"-*G$BQHL6+&#-JW,BQH\>/($.*'$FRI,F3*%.J7,FR
+MI<N7,&/*G$FSILV;.'/JW,FSI\^?0(,*'4JTJ-&C2),J7<JTJ=.G4*-*G4JU
+MJM6K6+-JW<JUJ]>O8,.*'4NVK-FS:-.J7<NVK=NW<./*G6L5Q0D3)4CHW4O"
+M!`J4(PX<&$$6Q(4($A+?<RA"0H0(%_Z6+4$!P@,'#19HWLS`080*'`B/+.$`
+M```&HL-.,,V:`8F&&UJ;,'N/M>W;MAE4$"%RQ`+6(<:NOGVA(0?6#F:7K8V[
+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
+&F&`9$``[
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,619 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E6bbRqMqtX+BSTgJcBy+TAHS3bizK0Lax9TpTSZA1vVe3OTYGsLo+pxLcfnS1Nf9
+ laXBWVnkL8DNVKhkXiDMCw==
+
+<SEC-DOCUMENT>0000050863-02-000082.txt : 20020808
+<SEC-HEADER>0000050863-02-000082.hdr.sgml : 20020808
+<ACCEPTANCE-DATETIME>20020807201041
+ACCESSION NUMBER:		0000050863-02-000082
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20020807
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20020808
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		02722263
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ceo_cfocert8k.htm
+<DESCRIPTION>CEO_CFO CERTIFICATION 8-K LIVE
+<TEXT>
+<html>
+
+<head>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<title> UNITED STATES</title>
+</head>
+
+<body LINK="#0000ff" VLINK="#800080">
+<div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638">
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial" SIZE="4"><b><p ALIGN="CENTER">UNITED STATES</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial" SIZE="4"><b><p ALIGN="CENTER">SECURITIES AND EXCHANGE
+    COMMISSION</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">Washington, D.C. 20549</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial" SIZE="4"><b><p ALIGN="CENTER"></b></font><font
+    FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial" SIZE="4"><b><p ALIGN="CENTER">FORM 8-K</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><b><font FACE="Arial" SIZE="4"><p ALIGN="CENTER">&nbsp;</font></b><font
+    FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="CENTER">CURRENT REPORT</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">Pursuant to Section 13 or 15 (d)</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">of the Securities Exchange Act of
+    1934</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b>&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="CENTER">Date of Report: August 7, 2002</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">(Date of earliest event reported)</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638">
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial" SIZE="4"><b><p ALIGN="CENTER">INTEL CORPORATION</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">(Exact name of registrant as
+    specified in its charter)</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="637">
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><u><b><p ALIGN="CENTER">Delaware</b></u></font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><u><b><p ALIGN="CENTER">0-6217</b></u></font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><u><b><p ALIGN="CENTER">94-1672743</b></u></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">(State of</font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">(Commission</font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">(IRS Employer</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">incorporation)</font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">File Number)</font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">Identification No.)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="33%" VALIGN="TOP"></td>
+    <td WIDTH="33%" VALIGN="TOP"></td>
+  </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="637">
+  <tr>
+    <td WIDTH="67%" VALIGN="TOP" COLSPAN="2"><font FACE="Arial"><u><b><p ALIGN="CENTER">2200
+    Mission College Blvd., Santa Clara, California</b></u></font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><u><b><p ALIGN="CENTER">95052-8119</b></u></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" VALIGN="TOP" COLSPAN="2"><font FACE="Arial"><p ALIGN="CENTER">(Address of
+    principal executive offices)</font></td>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="CENTER">(Zip Code)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP"><font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="33%" VALIGN="TOP"></td>
+    <td WIDTH="33%" VALIGN="TOP">&nbsp;&nbsp;</td>
+  </tr>
+</table>
+</center></div><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="637">
+  <tr>
+    <td VALIGN="TOP" COLSPAN="3"><font FACE="Arial"><u><b><p ALIGN="CENTER">(408) 765-8080</b></u></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP" COLSPAN="3"><font FACE="Arial"><p ALIGN="CENTER">(Registrant's telephone
+    number, including area code)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="33%" VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="33%" VALIGN="TOP"></td>
+    <td WIDTH="33%" VALIGN="TOP"></td>
+  </tr>
+</table>
+</center></div><font FACE="Arial" SIZE="2">
+
+<p>&nbsp;</p>
+
+<p ALIGN="CENTER">&nbsp;</p>
+
+<hr noshade size="4">
+
+<p ALIGN="CENTER">&nbsp;</p>
+</font>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="666">
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="RIGHT">Item 5.</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><font FACE="Arial"><b>OTHER EVENTS</b></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="RIGHT">5.1</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><font FACE="Arial" SIZE="3">In accord with Commission Order
+    No. 4-460 (June 27, 2002), and the published Statement of the Commission Staff (July 29,
+    2002), the Registrant is attaching hereto (Exhibits 7(c)) copies of the sworn statements
+    of Craig R. Barrett, Chief Executive Officer, and Andy D. Bryant, Chief Financial Officer.
+    The originals of these documents are being submitted to the Secretary of the Commission in
+    accord with said Order on or about August 8, 2002. The filing of these documents with this
+    Form 8-K should not be considered as implying that the Registrant considers these
+    documents to be material in nature. The Registrant notes that the documents are to be
+    published by the Commission on the www.sec.gov website, and that the Registrant is
+    publishing a press release dated as of August 8, 2002 stating that such documents have
+    been filed, without exceptions, with the Commission.</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="RIGHT">Item 7.</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><font FACE="Arial"><b>FINANCIAL STATEMENTS, PRO FORMA
+    FINANCIAL INFORMATION AND EXHIBITS</b></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><dir>
+      <font FACE="Arial"><b><p ALIGN="RIGHT">(c)</b></font></p>
+    </dir>
+    </td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><font FACE="Arial"><b>Exhibits</b></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="RIGHT">99.1</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><font FACE="Arial" SIZE="3">Craig R. Barrett Statement Under
+    Oath of Principal Executive Officer Regarding Facts and Circumstances Relating to Exchange
+    Act Filings.</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="14%" VALIGN="TOP"><font FACE="Arial"><b><p ALIGN="RIGHT">99.2</b></font></td>
+    <td WIDTH="4%" VALIGN="TOP"></td>
+    <td WIDTH="82%" VALIGN="TOP"><font FACE="Arial" SIZE="3">Andy D. Bryant Statement Under
+    Oath of Principal Financial Officer Regarding Facts and Circumstances Relating to Exchange
+    Act Filings.</font></td>
+  </tr>
+</table>
+<font FACE="Arial">
+
+<p>&nbsp;</p>
+
+<hr noshade size="4">
+
+<p>&nbsp;</p>
+</font>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="638">
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial" SIZE="4"><b><p ALIGN="CENTER">SIGNATURES</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP"><font FACE="Arial">Pursuant to the requirements of the Securities
+    Exchange Act of 1934, the Registrant has duly caused this report to be signed on its
+    behalf by the undersigned hereunto duly authorized.</font></td>
+  </tr>
+  <tr>
+    <td VALIGN="TOP">&nbsp;&nbsp;<font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+  </tr>
+</table>
+<font FACE="Arial">
+
+<p>&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+</font>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="636">
+  <tr>
+    <td WIDTH="56%" VALIGN="TOP"></td>
+    <td WIDTH="44%" VALIGN="TOP"><font FACE="Arial"><b>INTEL CORPORATION</b></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="56%" VALIGN="TOP"></td>
+    <td WIDTH="44%" VALIGN="TOP"><font FACE="Arial">(Registrant)</font></td>
+  </tr>
+</table>
+<font FACE="Arial">
+
+<p>&nbsp;&nbsp;&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></p>
+</font>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="630" cellpadding="0">
+  <tr>
+    <td WIDTH="51%" VALIGN="TOP"><font FACE="Arial">Date: August 7, 2002</font></td>
+    <td WIDTH="5%" VALIGN="TOP"><font FACE="Arial"><p ALIGN="RIGHT">By:</font></td>
+    <td WIDTH="45%" VALIGN="TOP"><font FACE="Arial"><u>/s/ Andy D. Bryant&nbsp;</u></font></td>
+  </tr>
+</table>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="630" cellpadding="0">
+  <tr>
+    <td WIDTH="51%" VALIGN="TOP"><font FACE="Arial">&nbsp;<b>&nbsp;&nbsp;&nbsp;&nbsp;</b></font></td>
+    <td WIDTH="5%" VALIGN="TOP"></td>
+    <td WIDTH="45%" VALIGN="TOP"><font face="Arial"></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="51%" VALIGN="TOP"></td>
+    <td WIDTH="5%" VALIGN="TOP"></td>
+    <td WIDTH="45%" VALIGN="TOP"><font FACE="Arial">Andy D. Bryant</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="51%" VALIGN="TOP"></td>
+    <td WIDTH="5%" VALIGN="TOP"></td>
+    <td WIDTH="45%" VALIGN="TOP"><font FACE="Arial">Executive Vice President,</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="51%" VALIGN="TOP"></td>
+    <td WIDTH="5%" VALIGN="TOP"></td>
+    <td WIDTH="45%" VALIGN="TOP"><font FACE="Arial">Chief Financial Officer and</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="51%" VALIGN="TOP"></td>
+    <td WIDTH="5%" VALIGN="TOP"></td>
+    <td WIDTH="45%" VALIGN="TOP"><font FACE="Arial">Principal Accounting Officer</font></td>
+  </tr>
+</table>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>3
+<FILENAME>exhibit99crb.htm
+<DESCRIPTION>EXHIBIT 99.1 CRB ATTEST LIVE
+<TEXT>
+<html>
+
+<head>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<title>Statement Under Oath of Principal Executive Officer and Principal Financial Officer
+Regarding Facts and Circumstances Relating</title>
+</head>
+
+<body>
+<font FACE="Helvetica"><b>
+
+<p ALIGN="RIGHT">Exhibit 99.1</p>
+
+<p ALIGN="JUSTIFY">&nbsp;</p>
+
+<p ALIGN="JUSTIFY">Statement Under Oath of Principal Executive Officer and Principal
+Financial Officer Regarding Facts and Circumstances Relating to Exchange Act Filings</b> </p>
+
+<p>I, Craig R. Barrett, state and attest that:</p>
+
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;&nbsp;To the best of my
+knowledge, based upon a review of the covered reports of Intel Corporation, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and, except as
+corrected or supplemented in a subsequent covered report: </p>
+
+<blockquote>
+  <ul>
+    <li>no covered report contained an untrue statement of a material fact as of the end of the
+      period covered by such report (or in the case of a report on Form 8-K or definitive proxy
+      materials, as of the date on which it was filed); and<br>
+      &nbsp;&nbsp; </li>
+    <li>no covered report omitted to state a material fact necessary to make the statements in
+      the covered report, in light of the circumstances under which they were made, not
+      misleading as of the end of the period covered by such report (or in the case of a report
+      on Form 8-K or definitive proxy materials, as of the date on which it was filed). </li>
+  </ul>
+</blockquote>
+
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) &nbsp;I have reviewed the contents of
+this statement with the Company's audit committee.</p>
+
+<p ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp;&nbsp;In this statement under
+oath, each of the following, if filed on or before the date of this <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;statement,&nbsp;is a
+&quot;covered report&quot;:</p>
+
+<blockquote>
+  <ul>
+    <li>annual report on Form 10-K filed with the Commission of Intel Corporation for the fiscal
+      year ended December 29, 2001<br>
+      &nbsp;&nbsp;&nbsp;</li>
+    <li>all reports on Form 10-Q, all reports on Form 8-K and all definitive proxy materials of
+      Intel Corporation filed with the Commission subsequent to the filing of the Form 10-K
+      identified above; and <br>
+      &nbsp;&nbsp;&nbsp;</li>
+    <li>any amendments to any of the foregoing. </li>
+  </ul>
+</blockquote>
+</font><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="739" height="159">
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="21"><font FACE="Helvetica">Signature:</font></td>
+    <td WIDTH="26%" VALIGN="TOP" height="21"><font FACE="Helvetica"><u>/s/ C.R.
+    Barrett&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="21"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="18">&nbsp;&nbsp;</td>
+    <td WIDTH="26%" VALIGN="TOP" height="18"></td>
+    <td WIDTH="1%" VALIGN="TOP" height="18"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="18"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="22"><font FACE="Helvetica">Name:</font></td>
+    <td WIDTH="26%" VALIGN="TOP" height="22"><font FACE="Helvetica"><u>Craig R.
+    Barrett&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP" height="22"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="22"><font FACE="Helvetica">Subscribed and sworn to
+    before me this <u>30</u> day of <u>July</u> 2002.</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="21">&nbsp;&nbsp;</td>
+    <td WIDTH="26%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="1%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="21"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="21"><font FACE="Helvetica">Title:</font></td>
+    <td WIDTH="26%" VALIGN="TOP" height="21"><font FACE="Helvetica"><u>Chief Executive
+    Officer&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="21"><u><font FACE="Helvetica">/s/ T.
+    Smith&nbsp;&nbsp;</font></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="21">&nbsp;&nbsp;</td>
+    <td WIDTH="26%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="1%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="21"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP" height="21"><font FACE="Helvetica">Date:</font></td>
+    <td WIDTH="26%" VALIGN="TOP" height="21"><font FACE="Helvetica"><u>July 30,
+    2002&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP" height="21"></td>
+    <td WIDTH="62%" VALIGN="TOP" height="21"><font FACE="Helvetica">Notary Public My
+    Commission Expires:&nbsp;&nbsp;July 15, 2004</font></td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<FILENAME>exhibit99adb.htm
+<DESCRIPTION>EXHIBIT 99.2 ADB ATTEST LIVE
+<TEXT>
+<html>
+
+<head>
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 3.0">
+<title>Statement Under Oath of Principal Executive Officer and Principal Financial Officer
+Regarding Facts and Circumstances Relating</title>
+</head>
+
+<body>
+<font FACE="Helvetica"><b>
+
+<p ALIGN="RIGHT">Exhibit 99.2</p>
+</b></font>
+
+<p>&nbsp;</p>
+<font FACE="Helvetica"><b>
+
+<p ALIGN="JUSTIFY">Statement Under Oath of Principal Executive Officer and Principal
+Financial Officer Regarding Facts and Circumstances Relating to Exchange Act Filings</b> </p>
+
+<p>I, Andy D. Bryant, state and attest that:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;&nbsp;To the best of my knowledge, based upon a
+review of the covered reports of Intel Corporation, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and, except as
+corrected or supplemented in a subsequent covered report: </p>
+
+<blockquote>
+  <ul>
+    <li>no covered report contained an untrue statement of a material fact as of the end of the
+      period covered by such report (or in the case of a report on Form 8-K or definitive proxy
+      materials, as of the date on which it was filed); and<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li>no covered report omitted to state a material fact necessary to make the statements in
+      the covered report, in light of the circumstances under which they were made, not
+      misleading as of the end of the period covered by such report (or in the case of a report
+      on Form 8-K or definitive proxy materials, as of the date on which it was filed). </li>
+  </ul>
+</blockquote>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;&nbsp;I have reviewed the contents of this
+statement with the Company's audit committee.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp;&nbsp;In this statement under oath, each of the
+following, if filed on or before the date of this <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;statement, is a
+&quot;covered report&quot;:</p>
+
+<blockquote>
+  <ul>
+    <li>annual report on Form 10-K filed with the Commission of Intel Corporation for the fiscal
+      year ended December 29, 2001<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li>all reports on Form 10-Q, all reports on Form 8-K and all definitive proxy materials of
+      Intel Corporation filed with the Commission subsequent to the filing of the Form 10-K
+      identified above; and <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;</li>
+    <li>any amendments to any of the foregoing. </li>
+  </ul>
+</blockquote>
+
+<p>&nbsp;</p>
+</font><div align="center"><center>
+
+<table CELLSPACING="0" BORDER="0" WIDTH="739">
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP"><font FACE="Helvetica">Signature:</font></td>
+    <td WIDTH="26%" VALIGN="TOP"><font FACE="Helvetica"><u>/s/ Andy D.
+    Bryant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP">&nbsp;&nbsp;</td>
+    <td WIDTH="26%" VALIGN="TOP">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP"><font FACE="Helvetica">Name:</font></td>
+    <td WIDTH="26%" VALIGN="TOP"><font FACE="Helvetica"><u>Andy D.
+    Bryant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"><font FACE="Helvetica">Subscribed and sworn to before me this
+    <u>7<sup>th</sup></u> day of <u>August</u> 2002.</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td WIDTH="26%" VALIGN="TOP"></td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP"><font FACE="Helvetica">Title:</font></td>
+    <td WIDTH="26%" VALIGN="TOP"><font FACE="Helvetica"><u>Executive Vice
+    President&nbsp;&nbsp;&nbsp;<br>
+    Chief Financial Officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"><font FACE="Helvetica"><u>/s/ T. Smith&nbsp;&nbsp;</u><br>
+    Notary Public My Commission Expires:&nbsp;&nbsp;July 15, 2004</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td WIDTH="26%" VALIGN="TOP"></td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"></td>
+  </tr>
+  <tr>
+    <td WIDTH="10%" VALIGN="TOP"><font FACE="Helvetica">Date:</font></td>
+    <td WIDTH="26%" VALIGN="TOP"><font FACE="Helvetica"><u>August 7,
+    2002&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="1%" VALIGN="TOP"></td>
+    <td WIDTH="62%" VALIGN="TOP"></td>
+  </tr>
+</table>
+</center></div><font FACE="Helvetica">
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</font>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

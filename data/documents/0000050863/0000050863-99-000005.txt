@@ -1,0 +1,327 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M1JaRnKuDk2KAAO+OTKje1KyPn8QSF3xttoofKWjhRtq+z2oRWKbwgM08igZ0eBw
+ LyZ172DPNqlpYXSddAqgCg==
+
+<SEC-DOCUMENT>0000050863-99-000005.txt : 19990115
+<SEC-HEADER>0000050863-99-000005.hdr.sgml : 19990115
+ACCESSION NUMBER:		0000050863-99-000005
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980112
+ITEM INFORMATION:		
+FILED AS OF DATE:		19990114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	333-45395
+		FILM NUMBER:		99506226
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+               SECURITIES AND EXCHANGE COMMISSION
+                     Washington, D.C. 20549
+                                
+                                
+                                
+                            FORM 8-K
+
+                         CURRENT REPORT
+                 Pursuant to Section 13 or 15(d)
+             of the Securities Exchange Act of 1934
+                                
+                                
+                                
+                Date of Report:  January 12, 1999
+                (Date of earliest event reported)
+                                
+                                
+                                
+                        INTEL CORPORATION
+     (Exact name of registrant as specified in its charter)
+                                
+                                
+                                
+      Delaware               0-6217              94-1672743
+     (State of          (Commission File        (IRS Employer
+   incorporation)           Number)          Identification No.)
+                                
+                                
+                                
+     2200 Mission College Blvd., Santa Clara, CA 95052-8119
+            (Address of principal executive offices)
+                                
+                                
+                                
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+<PAGE>
+
+Item 5.        OTHER EVENTS
+               
+         5.1   Attached  hereto as Exhibit 99.1 and incorporated
+               by  reference herein is financial information for
+               Intel  Corporation for the quarter and  the  year
+               ended   December  26,  1998  and  forward-looking
+               statements relating to 1999 and the 1st   Quarter
+               of  1999,  as  presented in a  press  release  of
+               January 12, 1999.
+               
+Item 7.        FINANCIAL STATEMENTS, PRO FORMA FINANCIAL
+               INFORMATION AND EXHIBITS
+               
+         (c)   Exhibits
+               
+               99.1  Financial information for Intel Corporation
+               for  the quarter and the year ended December  26,
+               1998  and forward-looking statements relating  to
+               1999 and the 1st Quarter of 1999.
+
+
+<PAGE>
+      
+                            SIGNATURES
+Pursuant  to  the requirements of the Securities Exchange  Act  of
+1934,  the registrant has duly caused this report to be signed  on
+its behalf by the undersigned hereunto duly authorized.
+
+                                INTEL CORPORATION
+                                (Registrant)
+                                
+Date: January 12, 1999     By:  /s/Andy D. Bryant
+                                ---------------------------
+                                Andy D. Bryant
+                                Vice President, Chief Financial
+                                Officer and Principal Accounting
+                                Officer
+
+<PAGE>
+
+EXHIBIT 99.1
+                                 
+                                 
+              INTEL REPORTS RECORD QUARTERLY REVENUE,
+                        NET INCOME AND EPS
+            Twelfth Consecutive Year of Revenue Growth
+                                 
+SANTA  CLARA,  Calif., Jan.12, 1999 - Intel  Corporation  set  new
+quarterly records for revenue, net income, earnings per share  and
+microprocessor unit shipments, the company said today.  Seasonally
+strong  demand for Intel's P6 micro architecture products  in  the
+second  half  lifted the company's total 1998  revenue  to  a  new
+annual record.
+
+      Revenue totaled $26.3 billion in 1998, up 5 percent from the
+prior  record  of  $25.1 billion in 1997.   Net  income  was  $6.1
+billion, down 13 percent from $6.9 billion in 1997.  Earnings  per
+share of $3.45 declined 11 percent from $3.87 per share in 1997.
+
+      Record  fourth  quarter revenue of $7.6 billion  was  up  17
+percent from fourth quarter 1997 revenue of $6.5 billion.   Fourth
+quarter  revenue was up 13 percent from third quarter 1998 revenue
+of $6.7 billion.
+
+      Record fourth quarter net income of $2.1 billion was  up  18
+percent from fourth quarter 1997 net income of $1.7 billion.   Net
+income  in the fourth quarter was up 32 percent from third quarter
+1998 net income of $1.6 billion.
+
+      Record  fourth quarter earnings per share of $1.19 increased
+21  percent from $0.98 in the fourth quarter of 1997 and  rose  34
+percent from $0.89 in the third quarter of 1998.
+
+      "Intel achieved its 12th consecutive year of revenue  growth
+in  spite  of the challenges of a turbulent market in 1998,"  said
+Dr.  Craig  R.  Barrett,  president and chief  executive  officer.
+"During  the  fourth  quarter we achieved record  revenue  in  the
+Americas, Europe and Asia-Pacific.
+
+      "Intel enters 1999 with a first quarter roadmap offering new
+products in every segment of the computer market.  This quarter we
+will  launch  Pentium(R) III and Pentium III Xeon(TM)  processors,
+the  first  products in the next generation of Intel  Architecture
+microprocessors.  On the manufacturing front we  will  soon  begin
+the  transition  to  0.18 micron, the next generation  of  process
+technology.
+
+      "The investments of the last year in new product development
+and  productivity improvement have strengthened  the  company  and
+positioned  it  well  for  a  market  that  will  continue  to  be
+competitive and dynamic," Barrett said.
+
+      During  the quarter, the company paid its regular  quarterly
+cash  dividend of $0.04 per share.  The dividend was paid on  Dec.
+1, 1998, to stockholders of record on Nov. 7, 1998.
+
+<PAGE>
+
+This  is  an increase from the previous $0.03 per share  quarterly
+dividend.   Intel has paid a regular quarterly cash  dividend  for
+six years, and the dividend has been increased in each of the past
+five years.
+
+      In  the  fourth quarter, the company repurchased a total  of
+16.5  million  shares of common stock at a cost of  $1.5  billion.
+For the full year, the company repurchased 80.9 million shares  at
+a  cost  of  $6.7 billion.  Since the program began in  1990,  the
+company  has repurchased 294.3 million shares at a total  cost  of
+$13.6 billion.
+
+<PAGE>
+
+<TABLE>
+                         INTEL CORPORATION
+             CONSOLIDATED SUMMARY FINANCIAL STATEMENTS
+              (In millions, except per share amounts)
+                                                           
+INCOME                         Three Months         Twelve Months
+                                  Ended                 Ended
+                            -----------------     -----------------
+                            Dec.26,    Dec.27,    Dec.26,   Dec.27,
+                              1998      1997       1998       1997
+                            -------    -------    -------   -------
+<S>                         <C>        <C>        <C>       <C>
+                                                            
+NET REVENUE                  $ 7,614   $ 6,507    $26,273    $25,070
+                             -------   -------    -------    -------
+Cost of sales                  3,176     2,691     12,144      9,945
+                                                                    
+Research and development         674       605      2,509      2,347
+                                                                    
+Marketing, general and                                              
+ administrative                  928       818      3,076      2,891
+                                                                    
+Purchased in-process                                                
+ research and development        ---       ---        165        ---
+                             -------   -------    -------    -------
+Operating costs and                                                 
+ expenses                      4,778     4,114     17,894     15,183
+                             -------   -------    -------    -------
+OPERATING INCOME               2,836     2,393      8,379      9,887
+                                                                    
+Interest and other               244       201        758        772
+                             -------   -------    -------    -------
+INCOME BEFORE TAXES            3,080     2,594      9,137     10,659
+                                                                    
+Income taxes                   1,016       851      3,069      3,714
+                             -------   -------    -------    -------
+NET INCOME                   $ 2,064   $ 1,743    $ 6,068    $ 6,945
+                             =======   =======    =======    =======
+BASIC EARNINGS PER SHARE     $  1.24   $  1.07    $  3.64    $  4.25
+                             =======   =======    =======    =======
+DILUTED EARNINGS PER SHARE   $  1.19   $  0.98    $  3.45    $  3.87
+                             =======   =======    =======    =======
+COMMON SHARES OUTSTANDING      1,663     1,633      1,668      1,635
+                                                                    
+COMMON SHARES                                                       
+ ASSUMING DILUTION             1,739     1,785      1,759      1,795
+</TABLE>
+- ------------------------------------------------------------------
+<TABLE>                                                     
+                                                            
+BALANCE SHEET                            At         At         At
+                                       Dec.26,    Sep.26,   Dec.27,
+                                        1998       1998       1997
+                                       -------    -------   -------
+<S>                                    <C>        <C>       <C>
+CURRENT ASSETS                                              
+                                                            
+Cash and short-term                                         
+ investments                           $ 7,626    $ 8,687    $ 9,927
+                                                                    
+Accounts receivable                      3,527      3,636      3,438
+                                                                    
+Inventories:                                                        
+ Raw materials                             206        258        255
+ Work in process                           795        879        928
+ Finished goods                            581        441        514
+                                       -------    -------    -------
+                                         1,582      1,578      1,697
+                                       -------    -------    -------
+Deferred tax assets and other              740        812        805
+                                       -------    -------    -------
+ Total current assets                   13,475     14,713     15,867
+                                                                    
+Property, plant and                                                 
+ equipment, net                         11,609     11,863     10,666
+                                                                    
+Long-term investments                    5,365      1,789      1,839
+                                                                    
+Other assets                             1,022      1,023        508
+                                       -------    -------    -------
+ TOTAL ASSETS                          $31,471    $29,388    $28,880
+                                       =======    =======    =======
+CURRENT LIABILITIES                                                 
+                                                            
+Short-term debt                        $   159    $   192    $   322
+                                                                    
+Accounts payable and                                                
+ accrued liabilities                     4,081      3,795      4,017
+                                                                    
+Deferred income on                                                  
+ shipments to distributors                 606        471        516
+                                                                    
+Income taxes payable                       958        798      1,165
+                                       -------    -------    -------
+ Total current liabilities               5,804      5,256      6,020
+                                                                    
+LONG-TERM DEBT                             702        583        448
+                                                                    
+DEFERRED TAX LIABILITIES                 1,387      1,162      1,076
+                                                                    
+PUT WARRANTS                               201        588      2,041
+                                                                    
+STOCKHOLDERS' EQUITY                                                
+                                                                    
+Common Stock and capital                                            
+ in excess of par value                  4,822      4,775      3,311
+                                                                    
+Retained earnings                       18,555     17,024     15,984
+                                       -------    -------    -------
+ Total stockholders' equity             23,377     21,799     19,295
+                                       -------    -------    -------
+ TOTAL LIABILITIES AND                                      
+  STOCKHOLDERS' EQUITY                 $31,471    $29,388    $28,880
+                                       =======    =======    =======
+</TABLE>                                                            
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,214 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HOaPZ2JITSQnfNntjCa85LDTNR4mEqDHgPcrq2cmjjV8X9rYAJlmEK/rlocmWpi2
+ 4vftHiNTLMuILAPNY6+jrQ==
+
+<SEC-DOCUMENT>/in/edgar/work/20000622/0000050863-00-000098/0000050863-00-000098.txt : 20000920
+<SEC-HEADER>0000050863-00-000098.hdr.sgml : 20000920
+ACCESSION NUMBER:		0000050863-00-000098
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000620
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000622
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		8-K
+			SEC ACT:		
+			SEC FILE NUMBER:	000-06217
+			FILM NUMBER:		658724
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2200 MISSION COLLEGE BLVD
+				CITY:			SANTA CLARA
+				STATE:			CA
+				ZIP:			95052
+				BUSINESS PHONE:		4087658080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2200 MISSION COLLEGE BLVD
+					STREET 2:		RN6-27
+					CITY:			SANTA CLARA
+					STATE:			CA
+					ZIP:			95052-8119
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C. 20549
+
+
+
+                                 FORM 8-K
+
+
+                              CURRENT REPORT
+                      Pursuant to Section 13 or 15 (d)
+                   of the Securities Exchange Act of 1934
+
+
+                       Date of Report:  June 20, 2000
+                     (Date of earliest event reported)
+
+
+
+                            INTEL CORPORATION
+       (Exact name of registrant as specified in its charter)
+
+
+
+  Delaware                     0-6217                   94-1672743
+- -----------                  -----------            ------------------
+(State of                   (Commission             (IRS Employer
+incorporation)              File Number)           Identification No.)
+
+
+
+2200 Mission College Blvd., Santa Clara, California            95052-8119
+- ----------------------------------------------------           ----------
+(Address of principal executive offices)                       (Zip Code)
+
+
+                           (408) 765-8080
+                           --------------
+        (Registrant's telephone number, including area code)
+
+                                   Page 1
+
+<PAGE>
+
+Item 5.  OTHER EVENTS
+
+    5.1  Attached hereto as Exhibit 99.1 and incorporated by reference
+         herein is the text of Intel Corporation's announcement regarding
+         an update to Q2 2000 interest and other income and the estimated
+         remaining charge for the replacement of motherboards with a
+         defective memory translator hub component as presented in a press
+         release of June 20, 2000.
+
+Item 7.  FINANCIAL STATEMENTS, PRO FORMA FINANCIAL INFORMATION AND EXHIBITS
+
+    (c)  Exhibits
+
+         99.1 Press release of June 20, 2000 with an announcement regarding
+         an update to Q2 2000 interest and other income and the estimated
+         remaining charge for the replacement of motherboards with a
+         defective memory translator hub component.
+
+
+                                   Page 2
+
+<PAGE>
+
+                                  SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                           INTEL CORPORATION
+                                           (Registrant)
+
+
+Date: June 20, 2000                     By: /s/ ANDY D. BRYANT
+                                           -----------------------
+                                           Andy D. Bryant
+                                           Senior Vice President,
+                                           Chief Financial Officer
+                                           and Principal Accounting
+                                           Officer
+
+
+                                   Page 3
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+                                                            EXHIBIT 99.1
+
+
+Q2 INTEREST AND OTHER INCOME EXPECTED TO BE APPROXIMATELY $2.3 BILLION
+
+            CHARGE BE TAKEN IN Q2 FOR ESTIMATED MTH MOTHERBOARD
+            REPLACEMENT COSTS TO BE APPROXIMATELY $200 MILLION
+
+SANTA CLARA, Calif. -- June 20, 2000 -- Intel announced today that it
+expects interest and other income for the second quarter to be
+approximately $2.3 billion, up from previous guidance of $725 million,
+primarily due to higher than expected realized gains on the sale of equity
+investments.  This revised estimate depends on equity market levels and
+volatility, the realization of expected gains on investments, including
+gains on investments acquired by third parties, and assuming no
+unanticipated items.
+
+In addition, the company announced it will take a charge to cost of sales
+in the second quarter of approximately $200 million, or $0.02 per share on
+a post split basis, to cover the estimated remaining costs associated with
+the memory translator hub (MTH) motherboard replacement program announced
+on May 10.  The estimated cost of the replacement program is based upon
+current expectations regarding the number of motherboards that will be
+replaced (the user replacement rate) and the actual cost to replace.  These
+estimates may change in the future.
+
+This second quarter charge is in addition to the revenue and inventory
+reserves related to the MTH issue that the company took in the first
+quarter and disclosed in the company's Form 10-Q filed May 16, 2000.  In
+this filing the company adjusted first quarter revenues for product sold
+prior to the end of the first quarter that may be returned from customers
+due to the MTH issue.  The company also recorded additional inventory
+reserves related to such products that may be returned and the company's
+inventory of these products as of the end of the first quarter. The
+revision of first quarter's earnings from these reserves had a gross margin
+impact of $53 million, or less than $0.01 per share on a post-split basis.
+The company's second quarter results, scheduled to be announced July 18,
+and results for prior periods will be adjusted to reflect the impact of the
+2-for-1 stock split (to be effected as a special stock distribution)
+announced May 17 and payable July 30 to shareholders of record on July 2.
+
+Excluding the impact of the change in interest and other income and the MTH
+motherboard replacement cost charge, all other guidance provided in the
+Business Outlook section of the company's first quarter Form 10-Q and
+earnings release remains unchanged.
+
+Intel, the world's largest chip maker, is also a leading manufacturer of
+computer, networking and communications products. Additional information
+about Intel is available at www.intel.com/pressroom.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

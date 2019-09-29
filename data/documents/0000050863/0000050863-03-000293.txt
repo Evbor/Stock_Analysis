@@ -1,0 +1,210 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UQfgVriuJpToHkPxH4YALZP1kxaLKrq8tpLQit3jJo8ff+Xnp7Uqfx9irvywzazK
+ 03KdPld0GkG1ELmNRJ7ELw==
+
+<SEC-DOCUMENT>0000050863-03-000293.txt : 20031210
+<SEC-HEADER>0000050863-03-000293.hdr.sgml : 20031210
+<ACCEPTANCE-DATETIME>20031210140243
+ACCESSION NUMBER:		0000050863-03-000293
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031210
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20031210
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		031046876
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>reorgtest.txt
+<DESCRIPTION>REGULATION FD DISCLOSURE
+<TEXT>
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+
+
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+                 PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+               Date of report:  December 10, 2003
+                (Date of earliest event reported)
+
+
+
+                        INTEL CORPORATION
+       (Exact Name of Registrant as Specified in Charter)
+
+
+
+      Delaware               0-6217              94-1672743
+     (State of          (Commission File        (IRS Employer
+   Incorporation)           Number)          Identification No.)
+
+
+
+        2200 Mission College Blvd., Santa Clara, CA 95052
+      (Address of Principal Executive Offices and Zip Code)
+
+
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+<PAGE>
+
+
+Item 9.     REGULATION FD DISCLOSURE
+
+            Attached hereto as Exhibit 99.1 and incorporated  by
+            reference  herein is the text of Intel Corporation's
+            announcement regarding a reorganization  of  certain
+            business  units as presented in a press  release  on
+            December  10, 2003.  The information in this  report
+            shall  be deemed incorporated by reference into  any
+            registration statement heretofore or hereafter filed
+            under the Securities Act of 1933, as amended, except
+            to the extent that such information is superceded by
+            information as of a subsequent date that is included
+            in   or   incorporated   by  reference   into   such
+            registration  statement.  The  information  in  this
+            report shall not be treated as filed for purposes of
+            the Securities Exchange Act of 1934, as amended.
+
+
+                             SIGNATURE
+Pursuant  to  the requirements of the Securities Exchange  Act  of
+1934,  the registrant has duly caused this report to be signed  on
+its behalf by the undersigned hereunto duly authorized.
+
+Date: December 10, 2003            INTEL CORPORATION
+                                   (Registrant)
+
+                                   By:  /s/F. Thomas Dunlap, Jr.
+                                        ------------------------
+                                        F. Thomas Dunlap, Jr.
+                                        Senior Vice President,
+                                        General Counsel
+
+
+
+<PAGE>
+
+                           EXHIBIT 99.1
+
+                          PRESS RELEASE
+
+
+CONTACT:  Bill Calder
+(503) 264-5669
+bill.calder@intel.com
+
+
+              INTEL TO COMBINE COMMUNICATIONS GROUPS
+
+SANTA  CLARA,  Calif.,  Dec.10, 2003  -  Intel  Corporation  today
+announced   that   it   is  combining  its  communications-related
+businesses  into  a single organization, the Intel  Communications
+Group (ICG).
+
+      Intel's communications efforts -- providing building  blocks
+for   the  communications  infrastructure  and  the  cellular  and
+handheld  computing market segments -- have been  divided  between
+two  groups,  ICG  and the Wireless Communications  and  Computing
+Group  (WCCG). The newly combined organization will be  headed  by
+Sean  Maloney, Intel executive vice president and general  manager
+of ICG.
+
+Separately,  the  company announced that Ron Smith,  Intel  senior
+vice  president  and general manager of Intel's  WCCG  unit,  will
+retire early next year.
+
+      "We  continue  to  drive the convergence  of  computing  and
+communications through our product line-up, and with this  we  see
+wireless local area networking and wide area cellular technologies
+coming  together,"  said  Intel CEO Craig Barrett.  "Consolidation
+gives  us  better  product planning and customer  focus  in  these
+strategically critical areas going forward."
+
+      ICG will assume WCCG's product portfolio in addition to  its
+current  focus  on  network  processors,  wireless  LAN  chipsets,
+gigabit   networking   solutions,  network   cards   and   related
+infrastructure  technologies.  WCCG  products  include  processors
+based  on  Intel XScale technology; along with chipsets, reference
+designs, software and other technologies built around
+
+<PAGE>
+
+the Intel(R) Personal Internet Client Architecture (Intel(R) PCA).
+It  also includes Intel's flash memory business and digital signal
+processing activities.
+
+      Smith,  53,  is  a 26-year veteran of the  company  who  led
+Intel's movement into CMOS with the development of the process for
+manufacturing Intel's 80386 processor. He went on to lead  Intel's
+embedded processor and PCI components divisions. More recently, as
+general  manager of WCCG, he led Intel's efforts in  flash  memory
+and  processors  based on Intel(R) XScale(R)  technology  for  the
+cellular and handheld computing market segments.
+
+      "Ron has played an instrumental role at this company and had
+many  successes in a number of diverse areas over the years," said
+Barrett. "He's been a key contributor to our success, and he  will
+be missed. We wish him well in his retirement."
+
+      Intel,  the  world's largest chip maker, is also  a  leading
+manufacturer of computer, networking and communications  products.
+Additional    information   about   Intel    is    available    at
+www.intel.com/pressroom.
+
+                               -30-
+
+Intel  is a trademark of Intel Corporation or its subsidiaries  in
+the United States and other countries.
+* Other names and brands may be claimed as the property of others.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

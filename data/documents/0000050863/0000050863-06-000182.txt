@@ -1,0 +1,252 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QQ/l0vdRi+zB4ut2KnWKDswFeu2Dh0k/gGoeVlOyT3kFfsi9gnjDv5T2PRB5C+3w
+ Ok2D2bEQ6spEo95ycIvcXQ==
+
+<SEC-DOCUMENT>0000050863-06-000182.txt : 20061116
+<SEC-HEADER>0000050863-06-000182.hdr.sgml : 20061116
+<ACCEPTANCE-DATETIME>20061116120556
+ACCESSION NUMBER:		0000050863-06-000182
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20061115
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20061116
+DATE AS OF CHANGE:		20061116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		061222172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+                      ____________________
+
+                            FORM 8-K
+
+                         CURRENT REPORT
+             Pursuant to Section 13 OR 15(d) of the
+                 Securities Exchange Act of 1934
+
+               Date of Report:  November 15, 2006
+                (Date of earliest event reported)
+
+                        INTEL CORPORATION
+     (Exact name of registrant as specified in its charter)
+
+
+      Delaware               000-06217             94-1672743
+   (State or other          (Commission          (IRS Employer
+    jurisdiction
+  of incorporation)         File Number)      Identification No.)
+
+  2200 Mission College Blvd., Santa Clara,         95054-1549
+                 California
+  (Address of principal executive offices)         (Zip Code)
+
+                         (408) 765-8080
+      (Registrant's telephone number, including area code)
+
+Check  the  appropriate  box below if  the  Form  8-K  filing  is
+intended to simultaneously satisfy the filing obligation  of  the
+registrant  under  any of the following provisions  (see  General
+Instruction A.2. below):
+
+[  ]  Written  communications pursuant  to  Rule  425  under  the
+Securities Act (17 CFR 230.425)
+
+[  ]  Soliciting  material  pursuant to  Rule  14a-12  under  the
+Exchange Act (17 CFR 240.14a-12)
+
+[  ]  Pre-commencement communications pursuant to  Rule  14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+[  ]  Pre-commencement communications pursuant to  Rule  13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+Item 5.02 Departure of Directors or Certain Officers; Election of
+          Directors;    Appointment    of    Certain    Officers;
+          Compensatory Arrangements of Certain Officers.
+
+(b)            Resignation of Director
+
+           On  November  15,  2006, Director E.  John  P.  Browne
+resigned  from  the  Board  of Directors  and  from  the  Board's
+Compensation  Committee and Corporate Governance  and  Nominating
+Committee.
+
+ (d)           Election of New Director.
+
+          On  November 15, 2006, the Company's Board of Directors
+elected  Susan  L. Decker as a member of the Board of  Directors,
+effective that day.
+
+
+           Ms.  Decker  will  receive the  standard  compensation
+amounts  payable  to non-employee directors of  the  Company,  as
+described in the Company's Form 8-K (and its exhibits) dated July
+14,  2006.  Her annual retainer and committee fees (if any)  will
+be pro-rated to reflect the remainder of the July to June year in
+which director cash compensation is paid.  Also pursuant to these
+arrangements, Ms. Decker will receive a grant of Restricted Stock
+Units  in  January 2007 for a number of shares equal  to  $72,500
+divided  by the average of the high and low sales prices  of  one
+share  of the Company's common stock on the date of grant,  which
+shares will vest ratably on each of the first three anniversaries
+of  the grant date.   Ms. Decker and the Company will also  enter
+into  the  Company's standard form of directors'  indemnification
+agreement, as set forth at Exhibit 10.15 to the Company's Form 10-
+K filed on February 2, 2005, pursuant to which the Company agrees
+to  indemnify  its directors to the fullest extent  permitted  by
+applicable  law  and  subject to certain  conditions  to  advance
+expenses  in  connection with proceedings  as  described  in  the
+indemnification agreement.
+
+
+Item 7.01 Regulation FD Disclosure.
+
+                As  disclosed  under Item 5.02, on  November  15,
+2006,  Director  E.  John P. Browne resigned from  the  Board  of
+Directors, and the Board elected Susan L. Decker as a  member  of
+the  Board of Directors, effective that day. The Company's  press
+release  announcing Mr. Browne's resignation   and  Ms.  Decker's
+election  is furnished as Exhibit 99.1 to this Current Report  on
+Form  8-K.   The  information  in this  report  shall  be  deemed
+incorporated   by  reference  into  any  registration   statement
+heretofore or hereafter filed under the Securities Act  of  1933,
+as  amended,  except  to  the extent  that  such  information  is
+superseded  by  information  as of  a  subsequent  date  that  is
+included  in  or incorporated by reference into such registration
+statement. The information in this report shall not be treated as
+filed  for  purposes of the Securities Exchange Act of  1934,  as
+amended.
+
+<PAGE>
+
+
+                           SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned hereunto duly authorized.
+
+                                 INTEL CORPORATION
+                                 (Registrant)
+
+
+                                 By:  /s/ Cary I. Klafter
+                                      ----------------------
+                                      Cary I. Klafter
+Date:  November 16, 2006              Corporate Secretary
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit99.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+                                                Exhibit 99.1
+
+Intel News Release
+
+Intel Elects Yahoo! Executive Susan Decker to Board of
+Directors
+John Browne to Retire
+
+SANTA CLARA, Calif., Nov. 16, 2006 - Intel Corporation today
+announced that Susan Decker, chief financial officer and
+executive vice president, finance and administration at
+Yahoo!, has been elected to serve on Intel's board of
+directors. The company also announced that John Browne, an
+Intel director since 1997, is retiring from the board.
+
+"We're extremely pleased to have Susan Decker join the Intel
+board," said Craig Barrett, Intel chairman. "Susan's
+extensive business background, leadership and understanding
+of the technology industry will be valuable assets to Intel.
+
+"At the same time, we want to thank John Browne for his
+years of service on the Intel board. John has been an
+important contributor to the board for nearly 10 years. His
+unique insights and perspectives as one of the most
+successful international business leaders in the world were
+always highly valued. At a time when Intel was rapidly
+expanding its international operations John's counsel was
+especially important. We wish him well in the future."
+
+Decker is a key participant in determining Yahoo!'s business
+strategy, has operational responsibilities for Yahoo!'s
+Marketplaces business unit, and is also responsible for
+managing and setting all aspects of the company's financial
+and administrative direction within key functional areas
+including finance, human resources, legal and investor
+relations. Prior to joining Yahoo! in 2000, Decker held a
+number of positions with Donaldson, Lufkin and Jenrette
+during her 14-year career with the investment banking firm.
+
+Decker received her bachelor's degree from Tufts University
+with a double major in computer science and economics. She
+received a master's degree in business administration from
+Harvard Business School.
+
+Intel, the world leader in silicon innovation, develops
+technologies, products and initiatives to continually
+advance how people work and live. Additional information
+about Intel is available at www.intel.com/pressroom.
+
+Intel is a trademark or registered trademark of Intel
+Corporation or its subsidiaries in the United States and
+other countries.
+
+* Other names and brands may be claimed as the property of
+others.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

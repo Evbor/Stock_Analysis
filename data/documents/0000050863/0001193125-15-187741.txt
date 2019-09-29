@@ -1,0 +1,784 @@
+<SEC-DOCUMENT>0001193125-15-187741.txt : 20150514
+<SEC-HEADER>0001193125-15-187741.hdr.sgml : 20150514
+<ACCEPTANCE-DATETIME>20150514144404
+ACCESSION NUMBER:		0001193125-15-187741
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20150514
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20150514
+DATE AS OF CHANGE:		20150514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		15862174
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RNB-4-151
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d926784d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 OR 15(d) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of The Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report:&nbsp;May 14, 2015 (Date of earliest event reported) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>INTEL CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>000-06217</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>94-1672743</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>2200 Mission College Blvd., Santa Clara, California</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>95054-1549</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(408) 765-8080 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Former Name or Former Address, if Changed Since Last Report) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (<I>see</I>&nbsp;General Instruction A.2. below): </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Regulation FD Disclosure </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As part of its ongoing engagement program with stockholders, Intel Corporation
+has sent a letter to stockholders, dated May&nbsp;14, 2015, discussing matters related to the 2015 Annual Stockholders&#146; Meeting. A copy of the letter is filed as Exhibit 99.1 hereto. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) Exhibits. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The following exhibits are filed as part of this Report. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD WIDTH="85%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:55.75pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit&nbsp;Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Letter to Stockholders dated May 14, 2015</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>INTEL CORPORATION</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">(Registrant)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May 14, 2015</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" ALIGN="right">By:</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Suzan A. Miller</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Suzan A. Miller</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">Corporate Secretary</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d926784dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><U>Exhibit 99.1 </U></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="right">
+
+
+<IMG SRC="g926784g82v58.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dear Stockholder &#150; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">By
+now you should have received our Notice of the 2015 Annual Stockholders&#146; Meeting and Proxy Statement (&#147;Proxy Statement&#148;) and as Intel&#146;s Board of Directors we are again asking for your support by voting in accordance with our
+recommendations on all proposals. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We believe our corporate governance practices and programs are effective and operate for the benefit of our
+stockholders, and our voting recommendations are one aspect of that work. We are well aware that corporate governance is not a steady-state but instead is always a work-in-progress that requires our continuing review and refreshing of what we do on
+your behalf. Our early adoption of practices such as a vote on say-on-pay and the use of the majority-vote standard for director elections are examples of our steps taken in that regard. As part of that effort we regularly reach out to our
+stockholders to ensure that we receive input on their goals and concerns regarding our governance practices, our business and our future. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on this
+feedback, we want to provide you with additional information and insight regarding two matters we take very seriously: attendance and engagement of directors, and exercising appropriate discretion in selecting the Board&#146;s chairman. Here are our
+thoughts on both of these issues. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">In 2014, the attendance of Mr.&nbsp;John Donahoe fell below expectations of Intel directors. However, it is our strongly held view that Mr.&nbsp;Donahoe should be re-elected. Mr.&nbsp;Donahoe is a valuable member of the
+Board and our decision to re-nominate him this year was based on our careful evaluation of the circumstances that led to his missing a few meetings last year, his historical track record of attendance, a discussion with him regarding the likelihood
+of his attendance resuming his normal historical pattern going forward and the unique strengths that he brings to our Board on behalf of stockholders. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE="font-family:Times New Roman; font-size:10pt">In addition, we have a long history of separating the roles of Chairman and CEO, and the Board has used the discretion stockholders have given us to
+determine the right leader for the Board in a judicious manner and one that has been highly stockholder focused and has delivered great success within the boardroom and in the leadership of our business overall. We believe that the Board is in the
+best position to decide whether our Chairman should be an independent director or a non-CEO member of the company&#146;s management team and that different circumstances may warrant different outcomes from time to time. We have had a
+</P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+fully independent Chairman in the past and we have no opposition to having one again in the future. However, we believe our reasonable exercise of discretion on this front historically should
+give investors comfort in relying on the Board&#146;s judgement to select the right outcome based on the circumstances as they exist at the time of the Board&#146;s decision each year. We ask for your support, in particular, on the re-election of
+John Donahoe to our Board and for our position on giving the Board discretion to select the right candidate for Chairman going forward. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>John Donahoe is an important member our Board and our Compensation, and Corporate Governance and Nominating Committees, and we ask that you vote to
+re-elect him</U></B><U>. <B> </B></U></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Donahoe is the President, CEO and director of eBay Inc., a global commerce and payments platform leader, and
+his expertise has been especially valuable to our new CEO and our leadership team. During his Board service, Mr.&nbsp;Donahoe has provided guidance to our management team on technology and innovation, and has provided important insights on
+Intel&#146;s global online presence and the online experiences of our customers, which are critical aspects of Intel&#146;s strategy for creating long-term stockholder value. Mr.&nbsp;Donahoe also brings vital technical and brand marketing
+expertise, as well as over 15 years of senior leadership experience, to our Board. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on extenuating and extraordinary business circumstances at eBay
+Inc., Mr.&nbsp;Donahoe&#146;s attendance was below the 75% level of the 19 Board and Board committee meetings during 2014. 2014 was an extraordinary year for Mr.&nbsp;Donahoe, culminating in a decision to split eBay into two public-traded
+enterprises. As CEO, Mr.&nbsp;Donahoe was deeply involved in that work and his time in 2014 was constrained on account of that special circumstance. We strive for 100% attendance from members of our Board and have enjoyed consistently high levels of
+participation. Prior to 2014, Mr.&nbsp;Donahoe had a strong attendance record. Even when events at eBay conflicted with some of Intel&#146;s Board and Board committee meetings in 2014, he was a productive and active Board member and made himself
+available for ad hoc engagements. Mr.&nbsp;Donahoe&#146;s attendance record in 2015 at formal meetings has already returned to historic levels. We believe it is contrary to the interests of the stockholders and Intel to reject his re-election on
+account of one year&#146;s special circumstances. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our Board conducts an annual evaluation of each director, and we would not continue to nominate someone
+for the position of director if we thought that individual was not doing his or her work as an active and engaged director. Mr.&nbsp;Donahoe brings both unique insight into emerging global technologies that impact our business and is one of the few
+CEOs of a global company to sit on our Board. His guidance to our management team, his oversight capabilities and his insight are critical skills to our Board and we believe stockholders would be well served by Mr.&nbsp;Donahoe&#146;s re-election.
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>We believe that it best serves the interests of the stockholders for the Board to retain the flexibility
+and discretion to determine the right person to serve as our Chairman of the Board based on the circumstances as they evolve over time</U></B><U>.<B> </B></U></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our Board&#146;s published policy is that the positions of Chairman of the Board and CEO should be held by separate persons and our bylaws require that, when
+the Chairman is not an independent director, the Board will appoint an independent director to serve as Lead Director. Over the years we have had independent directors and members of the management team as Chairman, with the Board choosing the
+person that is considered as the best person at the time and based on the existing business circumstances as Chairman. We have a stockholder proposal on the ballot at the upcoming annual meeting that asks us to require an independent director as
+Chairman. Much of the proponent&#146;s arguments focus on concern over a single individual holding both the Chairman and CEO positions, which is a situation that does not exist at Intel and which would be counter to our years of practice and our
+stated policy. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Today, nine out of 11 Intel Board members are independent directors and the Board&#146;s policy allows these independent directors to
+implement the Board leadership structure that they believe is best suited for the Board at any particular time. Andy Bryant, our former Chief Financial Officer and Chief Administrative Officer, is currently our Chairman and his predecessor as
+Chairman, Jane Shaw, was an independent director. Susan Decker currently serves as our Lead Director, and she has specific authority and responsibility in that position in accord with our published Lead Director Charter. This Charter includes the
+following key duties: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Serve as Chairman of the Executive Committee and as Chairman or co-Chairman of the Corporate Governance and Nominating Committee; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Set Board meeting agendas; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Call meetings of the non-employee directors; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Serve as principal liaison between the non-employee directors and the Chairman on sensitive issues; and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Serve as a liaison for consultation and direct communication with stockholders. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We believe as your Board that
+it best serves the interests of the stockholders for the Board to retain the flexibility and discretion to choose the right person at the time to be our Chairman. The Board does not believe that it or the interests of stockholders suffer on account
+of having chosen Andy Bryant as Chairman. When the time comes to choose Mr.&nbsp;Bryant&#146;s successor we will, as always, act with the goal of advancing the interests of the stockholders and the company as our foremost tasks. We ask you to
+support your Board in continuing to use its reasonable judgment and discretion on this question going forward. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>For the foregoing reasons, we urge you
+to vote FOR the election of John J. Donahoe, AGAINST the proposal that Intel adopt a policy that the Chairman of the </B></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>
+Board be an independent director, and on all other matters as recommended by the Board in the Proxy Statement</B>. <B>Thank you for your consideration of our perspective on these matters.
+</B></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sincerely yours, </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Andy D. Bryant</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Susan L. Decker</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"><FONT STYLE="font-size:10pt"><I>Chairman of the Board</I></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:10pt"><I>Independent Lead Director of the Board</I></FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g926784g82v58.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g926784g82v58.jpg
+M_]C_X``02D9)1@`!`@$`8`!@``#_[1!J4&AO=&]S:&]P(#,N,``X0DE-`^T`
+M`````!``8`````$``0!@`````0`!.$))300-```````$````'CA"24T$&0``
+M````!````!XX0DE-`_,```````D```````````$`.$))300*```````!```X
+M0DE-)Q````````H``0`````````".$))30/U``````!(`"]F9@`!`&QF9@`&
+M```````!`"]F9@`!`*&9F@`&```````!`#(````!`%H````&```````!`#4`
+M```!`"T````&```````!.$))30/X``````!P``#_____________________
+M________`^@`````_____________________________P/H`````/______
+M______________________\#Z`````#_____________________________
+M`^@``#A"24T$"```````$`````$```)````"0``````X0DE-!!X```````0`
+M````.$))300:``````!M````!@``````````````5````(`````&`&<`.``R
+M`'8`-0`X`````0`````````````````````````!``````````````"`````
+M5``````````````````````````````````````````````X0DE-!!$`````
+M``$!`#A"24T$%```````!`````(X0DE-!`P`````#<T````!````<````$H`
+M``%0``!A(```#;$`&``!_]C_X``02D9)1@`!`@$`2`!(``#_[@`.061O8F4`
+M9(`````!_]L`A``,"`@("0@,"0D,$0L*"Q$5#PP,#Q48$Q,5$Q,8$0P,#`P,
+M#!$,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,`0T+"PT.#1`.#A`4#@X.
+M%!0.#@X.%!$,#`P,#!$1#`P,#`P,$0P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`S_P``1"`!*`'`#`2(``A$!`Q$!_]T`!``'_\0!/P```04!`0$!`0$`
+M`````````P`!`@0%!@<("0H+`0`!!0$!`0$!`0`````````!``(#!`4&!P@)
+M"@L0``$$`0,"!`(%!P8(!0,,,P$``A$#!"$2,05!46$3(G&!,@84D:&Q0B,D
+M%5+!8C,T<H+10P<EDE/PX?%C<S46HK*#)D235&1%PJ-T-A?25>)E\K.$P]-U
+MX_-&)Y2DA;25Q-3D]*6UQ=7E]59F=H:6IK;&UN;V-T=79W>'EZ>WQ]?G]Q$`
+M`@(!`@0$`P0%!@<'!@4U`0`"$0,A,1($05%A<2(3!3*!D12AL4(CP5+1\#,D
+M8N%R@I)#4Q5C<S3Q)086HK*#!R8UPM)$DU2C%V1%539T9>+RLX3#TW7C\T:4
+MI(6TE<34Y/2EM<75Y?569G:&EJ:VQM;F]B<W1U=G=X>7I[?'_]H`#`,!``(1
+M`Q$`/P#U5))))2DDES5F5]9^LN<S`J_9.#)'VJ\?IGB8W54_F;F_1_\`/Z?#
+M&97J(@;RD5F3((5H9$[1B'9S^K=-Z:S=FY#*9U#29<1_)J;NL=_FKGK_`*^M
+MN>:>D8-N5;V+@?PJI]6QRN87U)Z32\W9ALZAD.,OLO<8+OWMC?I?]==8MVFB
+MC'K%=%;:JQPQC0UO^:U2@\O#I+,?']7#[/F82.9G^E'#'M']9D_QOD>1]7_&
+M#U#5C&8-;O)C-//U?M&0W_,3?\T_K1D?TKJQ$_FBRUX_S9I8NS22^]2'R0A#
+M^['_`+Y'W.)^>>2?]Z>GV1>+_P#&\L=)MZC+NQ]*=/[5JB[_`!=W-,U=0$C@
+MNJ(U_LV+MDD?OO,?O_\`-BC_`$?RW[G_`#I?]\\,[ZK_`%NPA.'G&QK>&5W6
+M,)_ZW;^A_P`YZ%_SH^M/2+17U2GU&S`%[`PNCGTLBC]$_P#\%7?*%M-5];JK
+MF-MK=HYCP'-/]9KD1S?%IEQPF.]<,_\`&0>2X=<.6>,]KXX?XKD=&^M?3.JN
+M%()QLH\46Q[O^)L^C9_Y\_X-;2X/ZT?5!N%6[J'3`XX[/==1))K`_P`+2[Z?
+MIM_/_P!'_.+3^IOUDMSVGIV:[?E5-W4VGFQ@T.__`(:O][_",_ZXCEY>!Q^]
+MA),!\T3\T$8>9R1R>QS``F?DF/DR/__0]55:GJ&+?FWX53]]V,UCK@.&[]VQ
+MI/[_`.C67]:^ONZ3B-JQM<[*EM(B=HX=;M_M?HO^$1_JWT1O2<&+/?FY'Z3+
+MM.I+SKLW_G-KW?\`HS\]2^V!B]R6G%IC'[U?-+^ZQ>[>7VXB^$7DE^[?R1_O
+M/,]#^LW7<OK>/BY%^ZBRQS7M])K9`#X&X,W?FKO%Q'1OK;UG,ZS1AWFKT;+'
+M-=M9!@!\:[OY*M_6SZR=3Z3U*O&Q#6*G4-L.]NX[B^QG[S?S6*QGP2GEC",(
+MXR8W43Z?^C%J<OS$,>&6262>6(G5R'J']7YI/6)+ST_7/ZS;/4]-FR)W^BZ(
+M_>W2MOZK_6VWJF0<'.8UF06E]5E<AKPV-['-=NVV?GJ.?)Y81,C1$=^$LN/G
+M\,YB`X@9?+Q"K9]8^NE'2\^["?BOM=2&DO:X`'<UMG?^LND7F7URU^L>9\*_
+M_/5:Z?ZL=>ZGG69AZJ&TTX];7AQ8:P`39ZCG.?\`NM8I,W+`8<>2`KTB4]?F
+M,N'Y6/E^;,L^7%,W4S''II&,>+YB],DN$ZA]>>I9.3Z/2*PRLF*W%ALM?_*%
+M?T6?U=JC@_7CJN+D^EU:L6U`Q;[/3M8/WMFC7?U=J9]QS<-T+J^"_6O_`-(X
+M.+ALU=<=>C[7>^NF5DXO1A;BVOHL]9@WUG:8.[VR%4^I>9U#-Z=G&[(LNN#]
+MM3K'21+/S7.#MON_DHOUYL9;]7V65D.8^ZIS7#@@AQ:57_Q=_P!"S/\`CA_U
+M(3X@#DY&A8GV\6.4B>?C&SPF'?39U/J[C]8KQK6=7+G%VV&V.;89C]-]#?\`
+MHW?\9^_^CI9[%Q%[/V#]9R*Y;7B9#7-@_P""?ML].3_W7M])>H+S'ZT.&5]9
+MLIM)W%UE=+?ZP974X?\`;OL3N2F9Y<E@",X>H#Y?W5GQ"`QX<7"29PGZ#+6?
+M[S__T=[#)ZU]>;+K/=1@%QK:>(I/HU;?_0E_VE=NN#_Q?.GJ>87&7NI!\S[_
+M`'?E7>*USHK((#:$8Q#4Y`\6(Y#\V2<I2?,/JU_XI<7_`(U_Y+%>_P`8/_+-
+M7_A5O_GRY4_J_6^GZUT4V"+*K[&/'@0+%<_Q@_\`+-7_`(5;_P"?+E>/^ZX?
+M[-S8BN2R`_YU[/H@!Z+@`Z@XU4_YC5P/U-_\4>)\+?\`J'KONB?\BX'_`(6I
+M_P"H:N!^IO\`XH\7X6_]0]5N7^3F_(_^I&US/S\EYC_U&Q^N?_BBS?A7_P">
+MJUV7USM?7]7LG88-A8PD>!>W=_G-]JY+Z[XUM77[;7B&9+&.J=V.UK:GC^LQ
+MS%OMZJWZV],SNGTT.HN94Q[2YP(+]Q>Q@=^[OIV;T_(+ARN3>&,1XS^[\BS$
+M:R<YBVR9#+VX_O?.\U]7OK!7T-UUGV09-MT-%F_86M'Y@_1V?3<F^L'7V=;M
+MHN^RC&LI:YKG;]Y<TD.8WZ%?\V[?_P!N(OU<Z^[H61?3E4.?380+JHBRM[);
+M.U^W^J^MZU\S_&!2'U_8L.:PX&TWPUQ;^<RIM3GM:_\`X1S_`/K2FF)#-QQP
+M\<JTR<=#;]U@QF,N7&.?,"$;UQ>W<@;_`'OF:V9:ZWZ@81<22RX5B?!C[:V?
+M]!JT/\7?]"S/^.'_`%(5GZW-?F_5@9%%3VM:ZN]U;VEKVL_/WU_FNKW_`*19
+M_P!2KWX_0^J9-8#GU%UC`=02VO>V8_-5<GCY;)0HRR_+^[Q2V;0C[?.8[-B.
+M'YOWN&.[T'UAZW5T?`=<8=DV2W&J/YS_`-X_\'7]*Q<5]4.FV]2ZVW(ME]>(
+M[[1=829=9.ZD%W[[K?TW_6U6Q,3K/UFSC;)M>8%N0_2NMO[@CV_U**__`#->
+MB])Z5C=)PFXF,)`]SWGZ3WGZ5CTI\/*XI8P>+-D^:OT0J`GS>:.243'!B/H!
+M_3D__]*YA90^KWUJM]6645VOIM_XFP[J[-)^BWT+UZ0US7-#FD.:X2"-005R
+MGUU^KUN6T=3PV%]]3=M]31J]@U:]G[UE7_3K_J+&^KGUONZ6QN+E-.1A#Z!:
+M9LK'\B?YRK_@_P#U6M#)C^\XXY<>N2(X9Q\G-Q9?NF66')IBF>+'/IZGN[.E
+M]/MS*\Y]##EU?0NB'<;=7-^G[?WU#-Z+TK/M%V9C,OM:W8'O$D-!+MO^<Y/@
+M=8Z9U%H=AY#+2>63#Q_6J=%C?\U7%2)R1.IE&4=.H,0WP,<Q8$91D;Z2$CW8
+M4U5TU,IJ:&5UM#&-'`:T;6M5+%Z!T;#O;DXN)75<R=MC1J-PVN6@DFB4A=$C
+MB^;7YO-)A$U<0>'Y=/E_NH,O"P\VKT<NEE]<SML:'`']YL_1<A8/2.F]/<]^
+M%CLH=8`'E@B0V=O_`%2N))<4JX;/#VO17!&^+A'%^]7J:.?T/I/47;\S%9;9
+MQZD%KX\/4KVV(>']7.B85HNQL1C;6F6O=+W`^+'6E^S^RK&5U3IV&"<K)JIC
+MD/>`?\WZ2P\[Z^])HEN&RS,>."!Z=?\`VY8-_P#F4O4V./,3'##C,?,\'_>L
+M.2?+0/%/VQ+O4>/_`+YZ99M0Z%7DW=+H;2V_(8Y^1CUM&K8]-QN],;6_2V^]
+M<+U+ZW=:Z@"P6C%I/^#HEI(_E7?SO^;L5SZ@TW'JUF0VMQI%3FNN@[=Q<SV^
+MI^^ICR<L>*4YSJA?#'OTXBUQS\,N:&/'#BLT9R'Z/Z5![VFFFBIM-#&U5,$-
+M8P`-`\FA3225)T-G_]/U5<WUWZEXG4'.R<)PQ,IQEPC]$\_RV-_FWN_TE?\`
+MVVND24W+^]Q_J;XOPK^LP<U['MGWZX?'YK_J/E6?]7>L]/<77XKRUO\`AJO>
+MV/ZU?O9_;4,;K_6<>!1G7`-T#7.W@1_(MWM7K"YSZQ?SO_>1Q_WH?SG'YJU;
+MG7ZX8O/B_9.+BUCXOZ/+,/`1O\8S>6;]<OK&T:Y0=\:Z_P#OK&I_^>GUB_[D
+M-_[;9_Y%9_4/I?\`:7G_`+2\<?\`4JHF_P!$Z^U_S%W]/Z>]]>-UW_6[ZQO!
+M!S2`?W:ZQ^(KW*CD=7ZG>",C-N>T\M=8[;_FSM1,#EO]#[_TKCG\Y=?T+^>;
+M_P`B<C^A_P`[_P"=)T3A_P`F,1\C&/\`T8K9#/\`Y8YAYQE+_I2B\3C=/S<L
+MSBXUMY/YS&$C_MSZ/_26UA_4?KF1!N%>(P\^H[<Z/ZE6[_I/7HH3H9#S5>@8
+MQ]3*7_.C&*<0Y*Q[ARGS$8Q_YLIO.=.^HW2,4A^479M@[6>VN?\`B6_2_P"N
+MOM70UUUU,;76T,8T0UK1``\&M"DDLO/[]_KN+Z_+_@_HNSRWW?A_4<-?U?F_
+MPOTU)))*%G?_V0`X0DE-!"$``````%4````!`0````\`00!D`&\`8@!E`"``
+M4`!H`&\`=`!O`',`:`!O`'`````3`$$`9`!O`&(`90`@`%``:`!O`'0`;P!S
+M`&@`;P!P`"``-@`N`#`````!`#A"24T$!@``````!P`(``$``0$`_^X`#D%D
+M;V)E`&1``````?_;`(0``0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0("`@("`@("`@("`P,#`P,#`P,#`P$!`0$!`0$!`0$!
+M`@(!`@(#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#
+M`P,#`P,#`P,#_\``$0@`5`"``P$1``(1`0,1`?_=``0`$/_$`,(```("`P$!
+M`0$```````````D*``<%!@@$`0,+`0`"`P`#`0$`````````````"`8'"0,$
+M!0$"$```!@$"!`,""@@%!0$````!`@,$!08'``@1$A,)(105(A8Q(R2V%W>W
+M.#D*05$R-+5V&!E",R4W>$,FEM8G6!$``@$"!0(#!`0)"08&`P```0(#$00`
+M$@4&!R$(,4$346$B%#(C%3=Q0K*S=+1U%AB!D:%28G(V=CB"<Y/3)!>QDJ(S
+M0]245E?_V@`,`P$``A$#$0`_`'^-&#$T8,31@Q-&#$T8,<WYUW>;:MM3<RF:
+MLPT^E/NAYE&MK/5)>XO$!*4Q%F5,@$)2TND#]0O!4C04@Y@XF`/'4UVIQUO;
+M>SA=L;<N;J*M#(%"0@^QII"L0/N+U]V*[WORSQSQS&6WENZTLY\M1"6,EPP]
+MJV\0>9@:CX@F7KU.`[9?[_V.63Q:!V\8-N&1Y-9<&,=.WF10J$6X<F.)4W$=
+M6H1"S6&:07$"E3154BUS<_$0*)>4S'[<[1-:EC6[WENJVLH`,S1P*9G`\PTC
+MF*-"/,@2KT\ZU"B[M[\=O0S/8\?[)N]1N2V5);EQ`A/D4AC$TL@/@%8PL:]0
+M*4-`+[L^^%N1$IL686G\60DAS$:+U_$3"F1CMLH80(HA;\[+21#\H>R9RT=H
+M%YP'@)?$`EZ<?=K6RNFO;GAO[I/$27;3,#[X;$+_`.5T8T]N(&_*O>KR+0[8
+MV;/I=E)]$Q6"VZ,#X$3ZF7_E=)%%:^'AC$J=OSO09D^,R1N`F*PDZY>M%7'<
+M?:!B4.KSF4XPF,R6N#3Y!'E/T4AXAP`.8H!P[`Y?[9]M]-%VA'.R^#PZ=%G-
+M/[=SZ3_@J?;X8ZK<"]XN[_BW%OV:V5O%+C5YL@KX_5V?KQBG@<J^RE0,>(O8
+M.W4659-S?-Q.*EW/156.N5YD:VK$?.%$SN$TUIF`A%#HK#S&,L/*<YBAQ3\>
+M)>4]VVPK)2FD[-U`)4"F6WA&45IT21^H\AU`Z]?;PCL5Y/U)UDUWD'2VDH37
+M-=SD,2"0#)%&:'J2W0D@57KT_-]^7KSHFW$T;GW$SMUS%`$7T+<(]N)!'VS"
+MY;LI-0#%#X`Z0@/ZPU]B[PMJ%Z3[1U!8_:KPL?YBRC^G'YG[!-[K'6VWWI3R
+MU\&CN$'\X5S_`.G^7&G.^S#W&,5@#K%^4J/)^4%08]''>7KM3I0A`7.Z+RDG
+M*_48]HLJX#J"4CLY`4-QY^/$0]*/N7X9U_ZO7=!NDS?2-Q:03)X4_$DF8@#I
+MU0&G2F/(E[/.X3:_UNV=SV4F2N46E_<6[TKF\)(H$4D]:"0BIK7SQIDODSO5
+M[,4CR%T?YZ/68KE%_)W!K%9[I2+5,!Y4G]N6+?F,4U.3P`2R#4X`'`I@$/#T
+M[?0^V/DMA#ID.D_/2?16$O83$GS6$?+LY_#&P]H./'N]R=Y7#R&XUB?73IL7
+MTGN%34[<*/)IS\TJ+^"5#["*8ZOV]?F!9(CAG"[H,0,W#-0R:*U\P\HLU=-2
+M\QB`N_H=FDG2+[F`Q3+*MI=OR`0PIMCB8I"U_O'M"@*27.Q=QLL@ZB"\H0?<
+ML\2@KY@!H6K45<4)-I;`[]+A9(;/DO:2-$2`;FP)5E\JM;3.P;R+,DZ4H<L9
+MJ`&",%;B\*[E:>E>,*9`@KS"#TB/TX]<R$U`.U2=0(ZRUYZ1O-5Z1Y?$$G:"
+M0J$X')S)B4PJ!NO9FY]D:BVE[GT>6UNNN4L*I(!^-%(M4D7WHQH>AH01A]MD
+M<A;-Y'TA=;V9KT%[9=`P4TDB8BN2:)J21/\`V75:CJM5()NS48Q,\?_0?XT8
+M,31@Q-&#')&[3>Q@G9E5XZ>R[-R!YJQIR/N91:TP&6MUO7C/*@\)&-3JM8]D
+MT;*/D2J.GKALV**@%`YCB!!L/CWC#=?)=_-:;=M4%M"5]:>1LD,(:M,QH68G
+M*:*BLQI6@'7%4<J\S;'X>TRWOMV7LAO+@/\`+VT*YYYRF7-D6JJJ@LH+R.B"
+MH`):@(I9:[]VON!\4<7U1'8]@&8`Q$;'99)]!Y`G(A=,%`=!+!&?2$JHY:G`
+M[56(C(5BKS@0SQ0H"H%_6^E]O7$'Q:[J!W3NZ/QCC57MT<&E,F;Y<4/1A-+,
+MXI41@],*Y=:UW5\]53;.E#96PYN@EF=H[J2,BN;/D^:)*FJ&"&WC:M#,PJPM
+M7#/8NVVU=X2RY[N=^W#W!RJ+R7"4DW=,J3Y^H<%E7*S&$D'%Q?+BMQYCN)PY
+M%@\3I>(AKP-R]U6];^,V.TM-M-&TY11,JB:95'0`,ZB%13P"P`KY-B4[/[(^
+M.M,F&I;ZUB_W!JS'-)G=K>!F/4DK&QN&-?$M<D-YKUI@K>+=OF#,(LTF6(\1
+MX]QX1)'H&=5:JP\7*NR"'*8TE-H-0F)58Y?`RCE=50P>`F$-4!KV\-U;HE:7
+M<6X;R\)-:2RNR#^ZA.1![E4`>S#1[8V#LG9<*P[4VII^G@"F:&"-'8?VY`OJ
+M.?:79B?,XN'4<Q+L31@Q-&#$T8,31@Q-&#`X]V/:YVL;JF4K)O*@RQ=E%Z"B
+M[;*..XUG$2B\@<P'\S:X)N#6#NB:YRE*L=VF5^*0<B3M']H+HX^YWW[L&6W@
+MCU%K_05Z&UN&9U"^R*0U>&GXH0^G7JT;>&%YY3[9>,.4(;JYFTE-,W,]2+VT
+M18W+^-9XAECN`>@8R#U<O1)4\<*MY,QANU[4NXF+?1\^]K$V0%GE,R!63.5Z
+M+D^JI.41>1SUF\3*TE6@'Z19.&?IF4:+"FH`"46KD[[Z'KO'O/\`LV>*:T6>
+MU-!-;RT$]K*0:,I!JA\3%-&0'7,/'U$&8&Y-M<K=KG(-M-!?O;7HJUO=0U-M
+M>P`C,C*PRNOT1-;R@E&RM2ABD9M38+OEI6^+$I[7&-$:SD>HJ,8C*%$!QU@A
+M9ATW.HTF8510YG+JIV$&ZQV2BOQJ9T5FZ@F.B*BF>W+?%>J<6[A&GSR&?1;@
+M,]K/2F=`:%''@)8Z@.!T(*N*!J#57@GFS1N:]J'5+:(6VXK0K'>VU:^G(PJL
+MD9)JT$M&,9/Q`J\;5*9F_]%_C1@Q-&#`C=XW=PQULYS4^PK9<176Y2C&O0%A
+M/-P<Y!L&!T9]NJX1;E;OR&<`JW*EP,(^`B/AIA^-NWC6>2-L1;GLMQ6MM`\T
+MD>1T=FK&0":KTH:],*CR]W7;?XBWE/LW4=IWEY<I;Q2^I')&JD2@D"C=:BG7
+M':6%97%&ZFD82W6N<81!+(_J;J5H+RV,(N=LM#9S;XGJ"4/(F150C)!VK$I]
+M1RT!-8Q"@3GY1$HUEN>WW!L'5-T;`379#9)<!+@1,T<4Y1?A+K4%E`<T5ZBO
+M6E>N+CV;=;6Y0T79G*4FVHAJ,EJSVK3JDLULLC?&(WH0C,4%72C$"E:5&.H-
+M07%EXFC!B:,&*>F-P^`*[*R$%8,Y8>@YN)=K,)6'F,F4J,E8Q\V.*;AE(1[V
+M;0=LG:"A1*=-0A3E,'`0`=22VV;N^\MX;NSVKJ4MK(H9'2VF9&4]0RLJ$,#Y
+M$$@XB-WO_8>GW4]C?[VTB"]B<J\<EY;HZ,.A5D:0,K`]""`1YXN'4;Q+L31@
+MQ-&#$T8,+F[JN]GE+;WN(RUA:&PE0+#%XZM;BNLIJ3L%B:OY%%%LU7!RZ;M2
+M"W25,+@0X$\.`:<W8/;!H.\-F[>W-<[HNX9[VW$C(L<952210$]2.GGC/;E#
+MO-W/L'D#=6S;/9=A<6VGW1B61Y959P%4U8**`]?+!/=S^\2=P%MXQ;EV'I$9
+M9;+E"0QM$-(9Y(R:4?&O+ZC&&/Y"/B(^2L=OD6KF2*",6Q3*\<-2+KE,86_1
+M6HS8O&]IN[>6O;=N=4D@L;!+ERZJI9A`6^DSLL<*D*:RN2BL40@9\RLKR7R[
+M?;$X_P!L;LM-%BN=2U.2TC6-G<*C703Z*1H\T[J7&6&,"1D#N"3'D?2LBX[K
+MG<\V+'2LM8B*S;[#'STG17[>4962/J&4*A(S$%'S,!960`@_K\H_CU&KL4AX
+MBQ=+MS&ZI.</3T;6;W@SE4-8WTD^G0O&LZE6C::UF5)&22)NJR*K!DK^.J.!
+ME-,>-N';^G=RO")74M,BMM6N(Y7MF#K,L%[`\D2R13+T:)V4I)3_`.-WC)S+
+MF"N';3SQ8-K.]C'*DHLXAH.VV<F&,HQ+OBDDG$VF7;0AE9),>(HGJ5J3:2!C
+M%#J%!F<@<2G.4SW\W;3L]^\8:T(%$MU;P?.VKCJ2\2%Z+[?5B+Q@>'Q@^(!&
+M97;EOF_XQYFV\UR[0V5W<C3[V-N@"32".KCR,$XCE)'4>F5\&(/_TGV+9:ZW
+M1:Q/W.X34?7*K5HA_/6&=E5RMHZ)B(QLH[?OW:QO`B+=ND8P\`$P\.``(B`:
+M[FGZ?>ZK?6FF:;;/-?W$BQQQH*L[L:*H'M)..AJNJ:=H>FW^L:O>1V^EVL32
+MRRN:(D:`LS,?8`"?;[.N`E;5L^9W[AV]AEG>K*R%%V6[8I*Y1E6@'I'+5;)E
+MQM=$LM.92,TBBJ5!]96\99O4SIG%5O!,Q0;$*+AXHY5:#?VTMI\.<82[3OU2
+M[Y-UU(6ED6A%M#%/%,RH2*K$6B]($4:=\SDY(PBICQ?OO?'<!S-#OC3'DL>'
+M-M27"01-53>7$]M-;J\@!HTP2;UB#F2VCR1@&29I&U_N&X-[8%]W(2=AW5[F
+MLGXMRVI4JJU>5.JKM$XA&":M%RPCXA5L,7<_7>H&,8_R\WB'[!/@UW.'=T\Z
+MZ3LJ"SV!L>PO]O"XE*RR@YRY(SKTO8.BFE/J_P"4XZ'/^R>VG7>1+F_Y1Y)U
+M/3-UFT@5H("HC$2J?3;KI]R:L*U^M/X!@I>WEY@?#6T.D3&.K[(SNWG&V,)*
+MPQ61+&15S(+T&MMY2:E;!*IQ]=@G"YF;1JX.<J,8BH8J?`J0FX<:%WC%NS<O
+M(NJ6VLZ2D6\;V^6-[>.@47$A5$C0M)(!4E0"96%3U:F&<V!-L;9_$^BW>W]=
+MDGV!IVF/*EW-4N;6$/(\KA8HB<JJQ(6%20.BU\:<_NN=OC_]*UG_`,8R'_Z?
+MJ2?P_P#,'_Z3/_Q;?_G8B'\4G`?_`/1K;_@W?_U\>AKW5.WX[<(-4MR]1(JX
+M5(BF9U!7IDW*=0P%**[Q[5&[1LD`CXG4.0A0\1$`U^9.`^7XT>1MD7!4"O22
+M!C_(%E))]P!)QR1=T'`LLB1+R/:!F-!FBN5'7VLT`4#WD@#S..YJM:ZQ>:]$
+M6ZF6&%ME6GV:<A!V.N2;.9A)=BJ)BD=QTG'K.&;Q`3%$.9,Y@`P"`^("&JJO
+M]/OM*O+C3M3LY;>_A;*\<BLCHP\F5@&!]Q&+LTS5--UO3[35M'U"&ZTR=`\<
+ML3K)'(I\&1T)5A[P3UZ802[@7WW=U7UYY#^<+S6N'$/W7;!_95O^;7&$O/7W
+MT\H?MN[_`#K8=DP?O:VM[DK9(4;".78>_6N*KKNV2$/'P]JCUFU>8R43#NY,
+MRTY`Q;0R2,E.M$A*505!%8!`HE`PAF%NGB_?FRM/AU7=&W9+33Y)A$KL\3`R
+M,KN%HDC&I6-S4BGP^-:8V:V5S/QER+JMQHFR]V0W^J16[3O&D<Z$1*\<;/62
+M)%H'E1:`U^(=*`D;_FK<9@W;I!(6/-N3ZICJ->=<(TDZ_P",O,F:@0SHD#7F
+M*;RP3ZK8JI14(R:KF3`P<P!Q#7D;8V9NK>=V]EM?0KB]G6F;(OP)7P]21B(X
+MP:&A=E!H:8]W>7(6R>/;%-0WIN6UT^V>N02M]9)EIF$42AI92*BHC1B*BOCC
+MCNK]WSM\VN?)7FN>48E=PX%LSD[11\A5F`=&ZAB%5/.3-6:1T4W.4.?J/SM"
+M@40YA`W$NK'ONW3F#3[0WDFTS(@%66*>WED'NR)*6<^5(PY]E1UQ4>F=V?`>
+MJ7ZZ?%OD1.S45YK:ZAB;KXF22%40>=92@IXT/3!'8J6BYZ,CIN#DH^9AI=DU
+MDHF7BGC>1C)..>HD<LG\<_9J+-'K)VW4*HDJF<R:A#`8HB`@.J7N+>XM)YK6
+MZ@>*YC8JZ.I5E931E92`58$4((!!Z'##VMU:WUM;WME<QS6<J*Z2(P='1A56
+M1E)5E8$%6!((-0:80I[EWW\MS_UFO_X=&ZUGX0^Z?8OZ"OY38PO[C_ORY+_:
+M3?D)AW7']-J%\P%BFO7BJUNYP"V.<=.EH.UP<98H=5RSK42LT<*1DNU>,CKM
+M5B@=,XD$Q#!Q*(#K+O6-2U'2=W;@O-*OY[:[%[<`/$[1N`97!`9"&H1T(KU'
+MCC:+0='TG7-B;6T_6M+M[RP.GVC&.>-)8R5AC*DI(K*2IZ@TJ#U&+?AX:'KL
+M5'P5?BHV#A(EHBPBH>'8M8R*C&+8@)MV4?'LDD&C)H@F4"D33(4A2AP``#4=
+MN;FYO+B:[O+AY;J1BSN[%G9CU+,S$EB?,DDG$MM+.TT^U@L;"UC@LHD"I'&J
+MHB*.@544!54#H```/+'\_P`WQMF];WM;GR0!2QZ<?N!R4^8E:\I2,W9[E)2)
+MQ;E#B1$J#U4PD(``5,``H````:UWXL=[WB_8INSG+Z/;*U?,>BJ]?;51U/B?
+M'&#7-<<>G<S\EBP`C6/7[QER_BL;AWZ>0HQ-!X#P`H,?_],V?>PW)6J^7K&/
+M;_PZZ6>SURF:G(9)81BZI5Y>?M,FT:8PQX[Z!N8$3K.4YAVB<ARJ"M&J%$.F
+M<#.KVP[)L-)TK7.7=R(%M+:*5;9F`HD<2DW5P*^=`848$4RS`^((SM[S.1=4
+MUS7-M<#;1E+WUY-`UVJ$UDEF=5LK1J>52+B12"#FMV'T2"<K;#@&K;8<%X[P
+MI4TFYFM.@6S>8E4&Y6ZMEM+HH.K/9W@``*&<3<RJJL`'$PI)"1(!Y$R@"K[Z
+MW=?[ZW7K.Y]09O4N9240FHBB'2*(>Y$`'3Q-6/4G#L<:;$TSC79&W]FZ4J^E
+M9P`2.!0S3-\4TS>=9)"S=:Y5RJ.B@84N[XOW\K!]6>./X:[UH1VL_=-9_IUS
+M^4,95=ZWWY7_`.S;3\AL',Q)^")*_P#!G-?V?7W2K[A_U16_^:K+]8@P[6U/
+M]%UU_DG4?U6ZPK7L>VS,=WFXRI8*D;<[HS2S1=KD3V-E#HSKAH:MUN2GB)$C
+M5Y"+36!V=@"0B*Q>0#<W`>'`7QY2WQ+QULS4=UPZ<MU)!)$OILYC!]218ZY@
+MK$4S5^B:TIC,?A7C:#EGD+2MD7&K/917,4[F98Q*5]&%Y0,A=`<V6GTA2M>N
+M"$;[^SRVV@X$D\Z5S.3B_-:[/5^*GJY,T9*N+G9663;PK1_%R;*S3)#N&<DZ
+M2!1NJ@4JB*AC@J4R0)JT]Q1W'OR-NV#:E[M46DDT4CQR).9!FC4N596B3H5!
+MHP;H0`5(:JW[SCVCQ\2[%N=[Z?O9K^*WGB26&2V$)*S.(U9'6:3JKLM590"I
+M)#`KE;J'\O;E2W.GF?\`#+Z2=/J5&1E6R!7XYRY440KTV[D)"$GQC$#<2(I6
+M%`[0[@`$"]1D0P!S'4$8)WA:!IT<>T=RQ0JFIR22V\C`"LB!5>/,?,QG.%]S
+MD$T`Q9G8+N?5I9M^;/GN6?1HHH;J)"21%(SO'+D'D)1D+^58P0*EB0O=P+[[
+MNZKZ\\A_.%YIF>(?NNV#^RK?\VN$ZYZ^^GE#]MW?YUL,U;7^W70^V%*YAW4R
+M.:IG(4/7<#7N/FX1[3&%8!*)8R%:OCMXT?HV29,N_/[CE:HM^D'5.Y#@/,`%
+M,CN^^9=6YTM]N;!AVQ%9W,VK0,CK,TM799(`I4QI1?K\S-7H%\*=1I)QGV^Z
+M'VTW6[N4+C>4VH6EOH5RDD;6ZPT17AN696$TE6/RV15R]2_C4`%<ZKQ&>>Z?
+MO)2CYBR(DM^1Y"5DG<I)F?.JOC*@P:#F148Q$:54548.O1Q0;,FA#)F>/52=
+M54%5U5].;?W&T^!.-FFMK(G3K)$4*N42W,[D*&=J4+R-\3N:Y$!RKE14QGKI
+MEIOGN>Y?6WN]1`U;49'=G?,T-G:Q@N5C2M1'$GP1H"#)(PSMFD:3!"MX'9!'
+M`6`K9F7&&89?(,CC6$4LUTK-@JK.&]2K<:FFI89FO.HV3?>24@V957JC5R"H
+M':)*<%^H0I5:>XY[H_WNW=I^VM=VW'9PWLHBAECE+Y9&J(TD#*N;.:(&6E'(
+M^"A)6_N6^RP[$V)JN\-M;NEO[C3H3-<0RP+'GA0`RR1,CME,:YI"CYJHK4?,
+M`&WSL*;J[(C<;?M*M4L[D:K)P,ED'%R+U8RY:W.1+EN-OKL9S@=5&-L,<^]2
+M!`#%;H.6*ZA2@J[5,?R>[38%DVFZ=R%86ZI?I,MO=%13U$<'T9&\BT;+Z>;Z
+M3+(@)RQJ![G8ORCJ*:OJW%.J73R:7+`]U9!C7T94(]>)*]0DJ-ZV6H57CD8#
+M-*Q(INY=]_+<_P#6:_\`X=&ZO[A#[I]B_H*_E-A7>X_[\N2_VDWY"8>9PI_L
+MUB3ZLJ%\U8K65VY_\2[A_3I_SKXVSV;_`(0VI^S;;\PF/5EK)]4PMC*]98O#
+MSR-4Q_69:T32Q1)UU6T6U.N1@Q3.8@.).3<`1LU1`>99RJ1,OM&#7'M[0M0W
+M-KFE;?TN//J%Y.D2#R!8TS-[%459S^*H)/08Y-U[ETO9NV];W5K4V32["V>:
+M0^9"*2%4'Q=S1$7Q9V51U.$(\/5RR[P-YE0C)%F5_/9VSJ:QVY))([ENDRLM
+MJ<VZ^R!T3`H=5C%0IG[I4#`/Q*)N/Z=:U;DO;'CGC349X9,EII.E>G"2:$M'
+M$(8%KY,[^FH_M$8PMVCI^I<M\PZ3;7$0>^US7/6G`%0%FG,]T].M52/U7-?Q
+M5-<?_]3OC8?(#NQ[PL_F">.,LPC[9EO++`BAP.FE$P39Y6,=(%/U#F,C722<
+M3T.4QOW0GPEXZT9Y8A_[?=N-IMRT'IRO;VEHWO>0B6X/X9,LN;^^?/&2G!T_
+M_=3NXO\`=M\?5@CNKZ^4$U`2)6AM!XGI$'@RT)^@OE7#@&LYL:UX2S[XOW\K
+M!]6>./X:[UIKVL_=-9_IUS^4,8X=ZWWY7_[-M/R&P<S$GX(DK_P9S7]GU]TJ
+M^X?]45O_`)JLOUB##M;4_P!%UU_DG4?U6ZP`WLL?B#XJ_EG*7V>6'3;=S?W/
+MZ_\`[^U_6(\(IV;_`'^;7_1KW]4EPPSWI_P^,J_S-BW[0Z]I.NV3[X-`_P!Q
+M=?J\F'][R/N#W1^DV7ZW%@4OY>C_`'EW#_5E5_G4IJ_^\3_#6SOTZ7\UA7.P
+M+_%_('[-A_/G`INX%]]W=5]>>0_G"\U?W$/W7;!_95O^;7"N<]??3RA^V[O\
+MZV',>Y"V>N]B>Z))@151<F)YYRH5$W(<&3(S9Y)'$>8O%)*.05,<./M$`0X#
+MQX:S4X5>*/E;8C3$!/M",=?ZS5"_REB`/?C8+N(CFEX0Y-6!27&E2DT_JK1G
+M/X`@8GW5PEAM"Q/GS-67TZ'MMM;FH9->5J;?MWS.]/\`'SI["QHLW,M'(SD<
+MNW<+"<@$6,VYN50B`F$/8UIMR+N#:.V-N-JV]M/6YT-9T4J8%N`KM4(Q1@0/
+M-<WD6IYXQOXFVKOO>6[5T/CK5&M-R/;2,&6Y:U+1IE,B"1"">E&*5H0I/XN"
+MA2G;&[NTY&2,+-96F)>&EV+N+EHF4W+660C)2,D&ZC1_'2+!W(+-7K%ZU6.D
+MLBJ0R:B9A*8!`1#5$P<Y=NUK/#=6NWXH[F-PR.NFQJRLIJK*P4%64@$$$$$5
+M'7#,7/;7W87MM<6=YNF::SF1D='UB9D=&!5D=6<JRLI(92"""013%[=NOM:[
+MO=LV[_%69,D1E(8T.LH7UM9E86[,9:0.WG\<6V`BTDHY)L11R4;#),S'X"'(
+M4HF^`HAJ*<R\\\=;XXYU_;>BSW3ZM.;<Q!X&1:QW,,C$L30?5J]/:>GGB<=O
+MO;'RSQORUM?=^XK:R30[9;I9C'<+(Y$MI/$@"``GZUXR?8!7RP(ON7??RW/_
+M`%FO_P"'1NF(X0^Z?8OZ"OY384_N/^_+DO\`:3?D)AX;%TU#UO`>-[!896.@
+MX*%Q'3)28F9=XWCHN+C65/C'#Q_(/W:B35FS:H)F.HHH8I"%`1$0#66NO6MS
+M>[MUJSL[=Y;N749E1$!9F9IF`55%223T``J3C:K;-Y::=L7;M_J%U'!8PZ3;
+MO))(P1$18$+,[,0JJH!))(`'4X5,[L?<R:[HI(N",(2+LN!JQ*D>V&PBBJQ5
+MRI:8MRL#-TBF90%O<2&,4BS!)9-)1V[^4JIATFW(_O;[P>^Q(#NS=,*_O9/'
+MECCJ&%K$P&8$TIZ[]5D*DA$^!3\3URX[I^Y"+DVY&Q]EW#_N-;2AI9:%3>S(
+M3E8"M?EH^C1!@I>3ZQE^&.G;O8UV/R52C7N\3)<.JQE+7#N*_A*)D$.DZ;56
+M0Y?7\A&15(*J/O,D0K&*/\68\?YI7@=!X@?57=T_*4&HSQ<;Z'<AX+>027KJ
+M:@RK_P"W;U'0^D?CE'4"3TUZ-&XQ=/9/PK<Z5;3<N[CM"EU=0F+3D<480/\`
+M^[=4/4>L*1PGH3%ZKT9)8VQ__]7K?L<S[*N;\XV%E1%K(6S%^2*M%MEP,BL>
+M78HQEL<M12.7GZR455'9S$'@(`F/'X.&M,>Z:TEO>)IKJW^*&WO[:5B.HR,6
+MB!K["\J"OOQCMV4WT.G\YV]G='+<76F7<*`]#ZBA)RM/:$@D)'N/LPZ#K,[&
+MQ.%+>_)MYR#%Y\@-Q#"OS$KC.W4.OUJ7LC-DN[C*Q;JV[D6814RY;(F2B4I>
+M)<-%F1W!B^:5!P1,1%(0#0CM.WCH\^TKO9LUY''KEO=R2I&6`:6&0*<Z`FKE
+M'#APH^$9"?I5QE5WR[`U^UWU8<@06$TNV[NQBADF52R0SPLZY)"!1!(A1HRY
+M&=O4"UR$8*EB3\$25_X,YK^SZ^ZH3</^J*W_`,U67ZQ!AH-J?Z+KK_).H_JM
+MU@!O98_$'Q5_+.4OL\L.FV[F_N?U_P#W]K^L1X13LW^_S:_Z->_JDN&&>]/^
+M'QE7^9L6_:'7M)UVR??!H'^XNOU>3#^]Y'W![H_2;+];BP*7\O1_O+N'^K*K
+M_.I35_\`>)_AK9WZ=+^:PKG8%_B_D#]FP_GSCE/N];3,F89W2Y*RXK7I:2Q'
+MF2R*W:OWEHS<.8=C.3Q$'%AJL\[1*HA#3#.?4<"T26.4'C(R:B0F,"R:,_[=
+M>0=#W-L/1-NK>1IN+38!!)`6`=DCJ(Y8P:%T,>7.5!R.&#4&4M5W=EQ7N39_
+M)VX]V/I\LFT]8N#<17*J3&LDH!E@E85$<BREL@8CU(RK+4AU0D7:RWSY_P![
+MV3\C;<=QDK6[IC<=M5P6DDD:RQB)N=4-8\?49V:9E8\R0NO48"VOBN`*FF"B
+MJ@'\!`-4KSUQ7M'B[0M%WILRWGM=:^VX0I,K.D8].XG&1&K3+)$A6I-`*>>&
+M([8N;=^<T[EW#QYR%=6]YMW]W+@N!"L<DI]6UMF]1UIFSQ3R!J`58UZ4P(3<
+M-MDW.=L[<$PN5?/9(B.K%F<RN&\Y0S%)U!S<<<7#9HC(K=!Y$,IU>*<G:2T*
+M_)RK$.J7IKLUB**L5L[?.QN;]GS:;>""2:>`)>6+L0Z-T)*BH=D#@/%-&>A"
+MG,DJE54WD#C7DKMOW[!K%@UQ%;VUR7T_4HU#1R)U"AS1HUE*$I/;RBC`L,KP
+MNK-?5I[YV^2QT\]69*XDJ$DJS,S6O56HTB2X'ZB8IJ.B>OVB?JK1X8HB('0B
+MDNF;Q(!1`!")6':MQ99:D+^5=1N80U1!+.OH_@^KBCE(]S2FO@:XG.I][7-F
+MHZ0VF0MI-I<%,IN8;9_F.HH6'JS2P*WO6%:'J*'!@^S'?=[=MQO/-=P<'-2F
+M&4RJR>,,EY)D95')$M)2+X'#^(CFLHV<25NI'!99PE)O%4/*K"#=LH[1$4V*
+MY=R^D\7Z?K5H^S[J*/<IHMU;6RH;9%5:*[%2%AGZ!3$@;,/C<1MUE;;L]UWF
+M?5=NWT6_K*:79X!>SO+MW%V[NU6C0."\]MU9EFD9<C?5QM*ARP"![Q&T7+6-
+M]T>1LX-:G/SV(<KNF=O9W:+C'4A$5V8-%,65AKEG=LTU4X-XWDF:CAJ9STDG
+M+-8G2.=1)P5)C.W#D3;VM[$T7:SZA##N/3U,)@9@KR)F9HY(@:9P5(5LM2KJ
+M<P`9"RF=W/$^ZMN\F[AWK%I4\^TM499UN41GCBDR*LL,S*"(V#J60OE5XV&4
+MLRR!20]WAO=)K8CL^IU)0M$M(W&SXTB5*K5DI5^]M0H8@F'[.-/!Q)55YP47
+MC8JR2(I*\JB8'*',4!"E>W9],M>6.1M2U1X(X;:"Y?U92BK%6\12V=Z!*@E2
+M:CH:$T.&([LH]8O.#^)-(T9+F6XO+FS0P0AV:>EA(RIZ<=3)1@&"Y6H0"!48
+MHOM]]E*Q2,Q!Y>WD1186OQR[:4@,%**HN):PKI"DX:.,DK-E%F\5!%'@)X=,
+MYGCHP"1V+=,IT%Y5R_W.V<-M=;=XVN/5O'!62^H0D8-01;`T+R>R8C(OC'G)
+M#I".!.S74+B[L=V\O6HAL(V#Q::2#)*10J;P@D)%[;<$R.?AE,:@H[0K5JV8
+MMFS)DV09LV:"+5HT:HIMVS5LW3*D@V;()%(D@@@D0"D(4`*4H````!I%))))
+M9'EE<M*Q)))J23U))/4DGJ2?'&F,44<$<<,,:I"BA550`%`%``!T``Z`#H!C
+M_];><Z-K=L([C5OG*_'^7<XLS<KD.FL52J-64U0K#)#9X6)%<B9`.QE:=->F
+MNCHARD.*Q"\#$$`U?VJ^G<M\,:=:WDU4O]+%O,PH62>-?2=Z?UDF3U%!\1E)
+MZ'&'6]X]6X*[A=6OK"WRR:7K1N[=355DM97]:..M/HO;R>BY7P.<#J*!VW"N
+M8J)G[%U-R]C:5++U"[0Z$K'*CTRO&2IN*4A#2S=-14&4U"/TU&KQ#F-TG"1B
+M@(@`".7VY]MZKM'7M2V[K=OZ>HVLA1AY,/%70FF9'6C(WFI!Z>&-G]F[NT/?
+MFV='W9MRZ$NDWL(=#TS*?!HW`)RR1L"DBU.5U(J?'%ENFK9\V79O6R#QHY2.
+M@Y:ND4W#9PBH42J(KH*E.DJDH4>!BF`0$/AUXD<DD3K)$Y6134$&A!]H(Z@X
+MD<L4<T;PS1J\3"A5@""#X@@]"#[#CQLX2&CHI.!CXB,80:+4[)&&9L&K6*29
+M*%,51HG'()$9D:G*<P"F!`(("/$/'7)+=7,UPUW-<.]T6S%V8ERWM+$UK[ZU
+MQPPV5G;VJV-O:1)9!<HC555`I\5"`!0IJ>E*8\S*LUN-<$=QU?@X]VF!RINF
+M42P:N"%4*)#@19!NFH4#D$0'@/B`\-?N6^O9T,<UY*\9\F=B/YB:8XX=-TZV
+MD$MO801RCP9453U\>H`.,B]8,9)N=I(LFD@T4$ACM7K=%TW.9,P'()T5R*)F
+M$AP`0XAX"''7#%++`XDAE9)!YJ2#_..N.Q-!!<QF*XA22(^*L`P-/#H:C'DC
+MH&#B#J*1,-$Q:BQ0(LI'1S-D=4A1YBD4,V12,<H&\0`>(<=<DUW=7`5;BYDD
+M`\,S%J?@J3CBM[&RM"S6MG%$Q%"415K^&@%<9%=!%RBLV<HI.&[A)1!=!=,B
+MJ*Z*I!351624`Q%$E"&$IBF`0$!X#KA5F1E=&(<&H(Z$$>!!\B,=AT21'CD0
+M-&P(((J"#T((/0@CQ&,9'UZ`B5C.8J#AXQP=(R!UX^,9,ECHF.10R)E6R"9S
+M)&.F4PE$>`B4!_0&N>:\N[A0EQ=2.@-:,S,*^VA)Z]<=:WT^PM',EK90Q2$4
+MJB*IIT-*@`TJ!T]PQ[7S!C*,W,=)LFDC'O43MWC%\W1=LW;=4.51!RU<$407
+M14*/`Q3%$HA\(:XHI98)$F@E9)E-0RD@@CP((Z@^\8YIX(+J&2WN84DMW!#*
+MP#*P/B"IJ"#Y@BF*PBL!8*@98D]!X5Q+#3B:PN$YF*QQ3HZ63<"J5<5R2+.&
+M1>%6%<@'Y@/S<X`/'CKW;C=VZ[NW-I=;GU&6U(H4>YF9*4I3*7(I3I2GATQ&
+MK78FR+&Z6^LMFZ5#>@U$B6ENC@UK4.L8:M>M:UKUQ;6H]B58TV_9$H>*ZO(7
+M7)-QK=%J444#/[#:IAC"12!C%.9)N#M^LBFL\<B02HH$YEEC^RF4QA`->GI&
+MC:MK]_#IFB:;/=ZA)]&.)&=S[310:*/-C0*.I(&/'UW<&A[7TRXUG<>KV]CI
+M40^*6>18T'L&9B`6/@JBK,>B@GIBN]OVX3%NZ*BFRCB5Z^FZ:WL\_68R<E(9
+MQ#*2+N".FU?2$8RD2IRB$<YZ_*F9PDV7.7CS)%#AQ]C=^S]>V)JHT'<,21:D
+M8(Y617#Y1)4JK,OPEA3KE+*/)CB/["W]MCDS0SN;:DSS:.MS+"DCQF,NT1"L
+MZ*]'"&M`65&(K51B]M13$XQ-&#'_UV1>\3V_YK<W2(G..(H=26S/BN&<1LE6
+MF*!3R60L?$<+R9HN-+S%.ZL=5>.7+I@W*`J/$W+A`@'6%N06?[;^7K78VJ7&
+MUMQ7(CVS?RAED8_#;W%`N9O9'*H59&/1"J,:+G.$R[N>!KWDG1;7>NT[0R[P
+MTN$H\*BKW5K4OD3^M+`Q=XD'60/(BU<QJ5Z-C'<%S!L6N#]*&;#;\83\@F>^
+M8HFWCA@U<O&_*V4FZZ]%)R:K6]!!($3.`061<I$*FY15Z:!D7#Y4X?VYRKIT
+M37,GRVNPI]1=H`Q`/7)(M1ZL))J%S`J261ES,&0+A+GO=O".KSK9Q_-[:GD!
+MN;&1BJEAT,D34/HS@#*6RLKJ`LB-E0HW)MA[BVU7=:QCD*'D6.K]Z=I)`ZQ?
+M?%VM8O#9X<I14:1S-XX\A:BIF,'QT2X>I@`ASB0W$@9X[ZX9W]L"69M6T5YM
+M*4FEU`#+`5]K,!FBK[)50^RHZXU=XT[@^+^4H+=-#W#';ZVX&:RN2L-R&\U1
+M6.6>G]:!I![<IJ!W-JJ\7;B:,&)HP8FC!B:,&)HP8QLO,P]?CG,O/2L;"1+)
+M/JO)27?-8V.:)!X"HY>O%46R"8#^DY@#7/;VUS>3);VEN\MPQH%12S$^P*H)
+M/\@QU[N\M+"WDN[ZZCAM4%6>1E1%'M+,0`/PG`^LS=UO8QA5-VC(9IB\@SK4
+M52%K>(VY\@O7"J/$%42346<E+:+$/[(E=2K<>;P#X#<+?VUP!RIN<QM#MF2S
+MM&I]9=GY=0#X'(WUQ']V)OZ1B@]X=TG"6S5E2XWC%?WRU^IL0;IB1XCU$_Z=
+M2/"CSKU_`:!MS_\`F`,CSZ3V%VW8GA\?-%.LBC=LC.4[=:>D8P"B\CZO'^4J
+M\(^(!>!BNEYM`0$?9X\!TR>T.T31;-HKK>NX)+R04)@MAZ,5?,-*U977WJL#
+M>_"A;\[\MQ7ZS6?'>U8;"$U`N;LB>:GDR0IEAC8>8=KE?=YX!YF3/^:=P=B-
+M:LT9*M>1)D#*F:GGY(ZD=%%7$#*MX&";%;05>9G,'$4&+9NCQ\>732[;VAMG
+M9]D+#;.B6]G;=*^FOQ/3P,DAK)(?[3LQ]^$JW?OS>6_M0.J;QW'=:A>5.7U7
+M)1*^(BB%(HE/]6-$7W8;_P"R;"3,)L/J9)J(DX@\E?+[+QQ)1@Z8&?Q+Z0:B
+MRE&17:20NHYX"9NDN3F24Y1Y3#PUG/W/W5M=<KZ@;:XCD"6D"-E8-E=5.96H
+M31AYJ>H\QC6KLRLKRRX.TH7EI+$9+ZZD3.K+F1G&5US`9D:ARL*@TZ'!;=+S
+MAK,31@Q__]!_C1@P&G?MV?\`%^Z)Y-Y1Q"]C<19QD!6?2BAFIPQ]D*24,JLJ
+MYM4?'HJ/(.>?+G`599DFJ90>8SAJY4-U"LKQ+W&Z[L2.UT+<43ZCM9**O7_J
+M+=>@`B9C1XU'A$Y%.@21%&4I_P`Z=I.V>39KW<VTYH])WM)5G.4_*W3FI)G1
+M06CE8_2GC#$]3)%(QS!67<)LXW);79-PRS-BNR5N,3="V9W)LU-,T.6,8Q2H
+M#&7&*!U!*JN"J%,#=19)VGS@"B1#\2@^>S^2=E;[@27;6OP3SE:F$G).GMS0
+MM1P!U^(`H:?"Q'7&8N_N(>1>,KF2'>&U[BVM@U%N`OJ6TGLR7"9HR34'(6$@
+MJ`R*>F-@Q7OWWDX62;M,=[BLE1L:S*0C.$FYDEWKK)-/@!$V=;O+>R0+1+@`
+M`)4VY2B'P@.NIK_$O&NYF>36=FV+SMXNB>A(U?,R0&.0GWECCO[7YUY?V:D<
+M6W^0=2CMD`"QR2?,Q*!Y+#<B:)1[@@&.W*MWV-\M?(0LL&&KR8O-S*6G'[YH
+M=3F`X!SA2K13TPY!,`ARE+XE#CQ#B`U=?]J7%=X2;?[2M1[(KA33_CQ38NC3
+M.]_FRP`%T-'O2/.:U9:__CS6XZ>X#PZ^>+9)^8,W,@0@*88P4=0"E!0Q&^0$
+MR&.`!S&(F:Z*F(43>(`)C"`>'$?AU'SV@;'J<NY=6I^&W_Y(_P##$J7OWY(H
+M,VSM#+4ZT%T/Z/F#3^<_AQ]-^8,W,<H\N%\%@;@/*)D;^8H&X>`B4+D43``_
+MHXAQ_7KX.S_8_GN;5:?AM_\`DX#W[\D4--G:)7\%U_\`8Q7,[WZ-[4NF)(^!
+MP-5S"F0@+05$M+A0IBK`H94`LV0+$CU%"!TS<2B7D'B``;VM>S:=IG%]NP,U
+MWJTXKX23Q`>%*?56\9Z>/C6OB:=,1Z^[Y^9[M<L%CH5L:>,5M,3XUK]==2BI
+M\/"E/``]<<SW;NP]P"]IG;R&XB?@F9N7D;4FO4NDJ(\$R$-R2E9KD;.&ZABB
+M<>=T?@8P\O`O``G&E]OW$.E,'AV;#+(/.>2:<'_9ED9/=T4>^IZXKC6NZ?GG
+M7%:.?D">"$^5M%;VQ'3R>&)).OCU<]3TH.F.([ODS)&3'_JN1\@W?($H!S'"
+M2N]KGK6_`YP`IS^<GG[]QSG```1YN(@&K1TO0]%T.+Y?1='M;.#^K!%'$O\`
+M-&JC^C%+:UN3<6Y)_FMQ:_>W]S6N>YGEG:O]Z5F/].,]C+!>9\T/_3<2XKR!
+MD9T58B"XTZJ34ZU9'.(<#23]@S681:(<>)E'"J290\1,`:ZFN;JVSMF+UMPZ
+M_9V4=*CUI4C+?W58AF/N4$GR&._MK9&\=XS_`"^U-KW^HRUH?EX))54G^NRJ
+M50>TN5`\S@LN".Q+NKR(+&3R]-T[!%?7%!1PSD'B=YO0-EA`XG0KU9=^[R2@
+M(_M$=3+=9,Y@*9+B!P*OFZ^ZW8.C>K!MRUN=6O!4`J#!!4>V24>H>OFL+*1U
+M#>%6HV/V/\H[@,%SNV]L]#L&H2K,+FYH?9%"WI`T\GN$8&@*UK0Z>VCM';/M
+MN2D?.KU!;,=^9"BN2X97!G.MV3U/E.*\%3DFS>IQ@)."@HW46;.W[<0#E="(
+M"(JIO?N'Y'WH)K1-1&FZ0U1Z-I6,LI\I)B3*U1T8!DC;SCP[O'':CQ)QXUO?
+M/I)U?74H?F+[+*%8=:Q6X`@2AZJ6225.E)?/!/2E*4H%*`%*4`*4I0`"E*`<
+M```#P``#5%DDDDGKAE0```!TQ]T8^XFC!C__T7^-&#$T8,8Z7])]+D/7O3O1
+M?)N/5?5_+>E^G](WFO4/.?)/)]'CU.I['+QX^&N:V^8^8A^4S_-9ADR5SYJ]
+M,N7K6OA3K7PQU[OY7Y:X^>]/Y/(<_J4R9:?%GS?#EIXUZ4\<`/W9?V+/.2_O
+M_P#1G[Z=57K?TW^\OJ?J/55\WU?HF_\`GOJ?5Y^OZG[74_;^,X:;;C[^*OT[
+M?[(^>^S*"GVEZ67+04I\W_U&6E,OI>7ATPBO*G\$?K7?V]]F_;%37[(];/GJ
+M<U?D?^ESUKF];K7Q^*F`29A_MI^9>?0E_6=S>UTO?3Z'/0^KTWW#R/E/]=\C
+MU?*\OF?C^7J\?'DTUNW/^]V2/]Z/W9IY^C\YGI\/TJ_5YJ9OH_#7+3SPC^[O
+MX<?4F_<S]\:^7S'V?Z=:-]'+];EKDIG^*F:OECB.9]&]2<^[_J?I'Q/E/6?*
+M^I?Y"7F/,^2^2_O7/R<O_3Y>/CQU:-M\SZ*?.9/F.M<E<OB:4S=?"E:^=<4O
+M>?)_,2?(>K\ITR^IES^`K7+\/TJTIY4\\8S7/CJXM^C?0%U&GTE_3!TO+%\]
+M[C>Y?4\YYE#F\IZ_[/EO*=3AS^WU.7_#QU'-5_>VDGV)]G9LWP^OZWT:'Q]/
+MSK3PZ4KYXEVB?N)FB_>3[7RY?B^6^7KFJ/H^KY9:^/6M/*N"*89_LL=5K])'
+M]:/FN8/.^_7N9[L_YP<OE_HC_P"Y>AT>'/S?&<>;E_PZIK<O\3>63[%_=G)^
+M+Z'K>KX>?S?U5:^'EX5\\,%L_P#@WS1?O%^^/JU^+YGY?T?'R^0^NI3QKU\:
+M>6#4;<?['759_1+_`$U^J=7Y%],/JWO!YOE#]Q_J'_U/S7']CR_CQX\FEDWI
+M_%-ED_>'[;]"GQ?)Y/3I_:^S_AI[<W\N'(X\_@IS0_NI^[GS-?A^?S^KF_L_
+M:OQYO9E_V<&8K_H'HL;[J^C^[OE2>D>[_DO1?)>/3]-].^0^5^'EZ7L?JTM5
+MY\W\S-\_ZGSF;X_4S9Z_VLWQ5_#UPX-A\A\G;_9?H_9^4>GZ67T\OEDR?#E]
+5F7IC,:ZV.WB:,&)HP8FC!B:,&/_9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

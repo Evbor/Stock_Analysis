@@ -128,13 +128,16 @@ requirements_jupyter.txt
 api_keys.json
 research/model_v1/glove/glove.840B.300d.txt
 research/model_v1/glove.840B.300d.zip
+research/model_v1/logs/
 data/doc_dfs/
-data/raw_INTC.csv
 data/documents/doc_1_test/
 data/documents/INTC/
 data/documents/JPM/*.txt
 data/documents/BAC/*.txt
 data/documents/C/*.txt
 data/documents/WFC/*.txt
+data/dataset.pickle
+data/train_dataset.pickle
+data/test_dataset.pickle
 tf1/
 

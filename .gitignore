@@ -140,4 +140,5 @@ data/dataset.pickle
 data/train_dataset.pickle
 data/test_dataset.pickle
 tf1/
+*.odt
 

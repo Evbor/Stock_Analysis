@@ -1,0 +1,1 @@
+from stockanalysis import models

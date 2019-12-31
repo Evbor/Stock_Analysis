@@ -10,9 +10,14 @@ setup(
     ],
     url="https://github.com/Evbor/FinTech",
     install_requires=[
+        "click>=7.0"
     ],
     include_package_data=True,
     author="Evbor",
     author_email="",
-    packages=["stockanalysis"]
+    packages=["stockanalysis"],
+    entry_points='''
+        [console_scripts]
+        run_pipeline=stockanalysis.command_line:run_pipeline
+    '''
 )

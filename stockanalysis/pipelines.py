@@ -1,5 +1,4 @@
 import os
-import json
 import pandas as pd
 import tensorflow as tf
 from stockanalysis.train import train
@@ -7,7 +6,8 @@ from stockanalysis.models import model_0
 from stockanalysis.preprocess import preprocess
 
 
-def pipeline(path_to_data, tickers, df_filename='raw.csv', seed=None):
+def pipeline(path_to_data, tickers, df_filename='raw.csv',
+             gpu_memory=None, seed=None):
     '''
     ML pipeline that trains a model, and saves it.
     '''
@@ -41,8 +41,8 @@ def pipeline(path_to_data, tickers, df_filename='raw.csv', seed=None):
     metrics = []
     run_number = 1
 
-    model = train(model_0, hyperparameters, metrics, run_number, X, y,
-                  gpu_memory=None, seed=None)
+    model = train(model_0, hyperparameters, metrics,
+                  run_number, X, y, gpu_memory=gpu_memory, seed=seed)
 
     model.save(os.path.join('models', 'model_0', '2'))
-    return model_history
+    return None

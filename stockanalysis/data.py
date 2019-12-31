@@ -77,3 +77,101 @@ def fetch_stock_data(ticker, start_date, end_date=None, source='alphavantage'):
         df = df.loc[df[date_col] <= end_date]
 
     return df
+
+def generate_url_df(cik, start_date, end_date=None, form_type='8-k'):
+    '''
+    Returns a DataFrame  where each row consists of a forms filing date, and an url to the raw text version
+    of the form.
+
+    :param cik: string, the SEC CIK number for the specific company or stock ticker symbol
+    :param start_date: string, date to start collecting data after, format: YYYY-MM-DD
+    :param end_date: string, date to end collecting data at, format: YYYY-MM-DD
+    :param form_type: string '8-k', '10-k', ..., the type of SEC form to search for
+
+    ---> DataFrame, of filing dates and urls to raw text versions of the specified form
+    '''
+
+    edgar_url = 'https://www.sec.gov/cgi-bin/browse-edgar'
+
+    edgar_params = {'action': 'getcompany', 'CIK': cik, 'type': form_type,
+                    'owner': 'exclude', 'count': '100', 'output': 'atom', 'start': ''}
+
+    edgar_response = requests.get(edgar_url, params=edgar_params)
+
+    soup = BeautifulSoup(edgar_response.text, 'lxml')
+
+    all_docs = []
+    # While the link to the next page existing is true
+    while True:
+        # Find all document entries on the page
+        entries = soup.find_all('entry')
+        # For each entry
+        for entry in entries:
+            # scrape the entry's filing date
+            filing_date = entry.find('filing-date').text
+            # Add entry url to list if its filing date meets certain requirements, CAN REFACTOR this section
+            if (start_date == None) and (end_date == None):
+                doc_link = re.sub('-index.htm.*', '.txt', entry.find('link')['href'])
+                doc_entry = (filing_date, doc_link)
+                all_docs.append(doc_entry)
+            elif (start_date == None) and (end_date != None):
+                if date.fromisoformat(filing_date) <= date.fromisoformat(end_date):
+                    doc_link = re.sub('-index.htm.*', '.txt', entry.find('link')['href'])
+                    doc_entry = (filing_date, doc_link)
+                    all_docs.append(doc_entry)
+            elif (start_date != None) and (end_date == None):
+                if date.fromisoformat(filing_date) >= date.fromisoformat(start_date):
+                    doc_link = re.sub('-index.htm.*', '.txt', entry.find('link')['href'])
+                    doc_entry = (filing_date, doc_link)
+                    all_docs.append(doc_entry)
+            else:
+                if date.fromisoformat(start_date) <= date.fromisoformat(filing_date) <= date.fromisoformat(end_date):
+                    doc_link = re.sub('-index.htm.*', '.txt', entry.find('link')['href'])
+                    doc_entry = (filing_date, doc_link)
+                    all_docs.append(doc_entry)
+        # Break loop after scraping entries on the current page, but before requesting on the link to the next page which is potentially none existant
+        if soup.find_all('link', {'rel': 'next'}) == []:
+            break
+        # Find link to the next page, request next page, and update soup object to consist of the next page
+        nxt_pg_link = soup.find_all('link', {'rel': 'next'})[0]['href']
+        nxt_pg = requests.get(nxt_pg_link)
+        soup = BeautifulSoup(nxt_pg.text, 'lxml')
+    # Creating DataFrame
+    doc_df = pd.DataFrame(all_docs, columns=['filing_date', 'doc_loc'])
+    doc_df['filing_date'] = pd.to_datetime(doc_df['filing_date'])
+
+    return doc_df
+
+
+def save_doc(url, endpoint):
+    '''
+    Downloads and saves the text file stored at :param url:, and saves it as its downloaded name in directory
+    :param endpoint:.
+
+    :param url: String, the url that points to the SEC text file
+    :parame endpoint: String, path to location to save SEC filing
+
+    ---> String, path to saved document
+    '''
+
+    if not os.path.isdir(endpoint):
+        os.mkdir(endpoint)
+    try:
+        r = requests.get(url)
+    except Exception as e:
+        raise Exception('error with url: {}'.format(url)) from e
+
+    fname = url.split('/')[-1]
+    with open(os.path.join(endpoint, fname), 'wb') as f:
+        f.write(r.content)
+    return os.path.join(endpoint, fname)
+
+
+
+# Merging document DataFrames with pricing DataFrame
+
+# Merging doc_dfs ---> docs_df: a DataFrame containing all doc_dfs[t]
+docs_df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='filing_date'), doc_dfs.values())
+docs_df = docs_df.sort_values(by=['filing_date'], ascending=False)
+# Merging docs_df with price_df
+df = price_df.merge(docs_df, how='outer', left_on='timestamp', right_on='filing_date')

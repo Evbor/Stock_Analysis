@@ -2,8 +2,11 @@ import os
 import pickle
 import tensorflow as tf
 
+#######################
+## Model Definitions ##
+#######################
 
-#### Model Definitions  ####
+# Model 0 Definition
 
 def embedding_matrix(vocab, init):
     '''
@@ -16,7 +19,7 @@ def embedding_matrix(vocab, init):
     '''
 
     if init == 'glove':
-        glove_dir = 'glove'
+        glove_dir = 'research/model_v1/glove'
 
         try:
             with open(os.path.join(glove_dir, 'current_embedding.pickle'), 'rb') as f:
@@ -116,20 +119,8 @@ def model_0(vocab, doc_embedding_size=100, lstm_layer_units=32,
 
     return model
 
-#### End Model Definitions ####
+# End Model 0 Definition
 
-def build_compiled_model(build_model, hparams, metrics, run_number):
-    model_name = build_model.__name__
-    hparam_version = hparams['version']
-    loss = hparams['loss']
-    optimizer = hparams['optimizer']
-    model_parameters = hparams['model_parameters']
-    model = build_model(**model_parameters)
-    path_to_ckpt = os.path.join('logs', 'models', model_name, '_'.join(['version', str(hparam_version)]),
-                               'runs', str(run_number), 'checkpoints')
-    if os.path.exists(path_to_ckpt):
-        latest = tf.train.latest_checkpoint(path_to_ckpt)
-        model.load_weights(latest)
-        print('Restored model from: {}'.format(latest))
-    model.compile(loss=loss, optimizer=optimizer, metrics=metrics)
-    return model
+###########################
+## End Model Definitions ##
+###########################

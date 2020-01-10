@@ -64,7 +64,7 @@ def normalize_document(doc, tags_strip=True, accent_char_strip=True, lower_case=
                        no_newlines=True, special_char_strip=True, space_nums=True,
                        lemmatize_words=True, remove_stop_words=True, strip_extra_spaces=True,
                        remove_large_words=False, debug=False):
-    '''
+    """
     Preprocesses the document :param doc: and returns the normalized document.
 
     :param doc: string, document to normalize
@@ -81,7 +81,8 @@ def normalize_document(doc, tags_strip=True, accent_char_strip=True, lower_case=
                                are removed from the text. Set to False if there is no cutoff
 
     ---> string, normalized document
-    '''
+    """
+    
     if debug:
         print('raw length of doc: {}'.format(len(doc)))
 

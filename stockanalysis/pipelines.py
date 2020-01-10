@@ -8,9 +8,9 @@ from stockanalysis.preprocess import preprocess
 
 def pipeline(path_to_data, tickers, df_filename='raw.csv',
              gpu_memory=None, seed=None):
-    '''
+    """
     ML pipeline that trains a model, and saves it.
-    '''
+    """
 
     # Accessing data storage medium
     df = pd.read_csv(os.path.join(path_to_data, df_filename),

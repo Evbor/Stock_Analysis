@@ -9,14 +9,14 @@ import tensorflow as tf
 # Model 0 Definition
 
 def embedding_matrix(vocab, init):
-    '''
+    """
     Constructs the embedding matrix for specific init type for a pre initialized word embedding layer.
 
     :param vocab: dict, a mapping between keys of words, and values of unique integer identifiers for each word
     :param init: string, initialization type currently we only support glove initialization
 
     ---> numpy array of size (vocab length, embedding dimension) mapping each word encoding to a vector
-    '''
+    """
 
     if init == 'glove':
         glove_dir = 'research/model_v1/glove'
@@ -57,7 +57,7 @@ def Word_Embedding(vocab, init,
                    activity_regularizer=None, embeddings_constraint=None,
                    mask_zero=False, input_length=None, **kwargs):
 
-    '''
+    """
     Creates a keras embedding layer specifically designed to embed the words specified in :param vocab:
 
     :param vocab: dict, representing the mapping between the words in corpus (keys) and their unique integer
@@ -68,7 +68,7 @@ def Word_Embedding(vocab, init,
                  initializing the embedding layer with
 
     ---> tf.keras.layers.Embedding
-    '''
+    """
 
     if isinstance(init, str):
         current_embedding_matrix = embedding_matrix(vocab, init)

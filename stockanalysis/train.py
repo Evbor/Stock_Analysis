@@ -2,7 +2,7 @@ import os
 import tensorflow as tf
 
 def config_hardware(gpu_memory, seed=None):
-    '''
+    """
     Configure GPU hardware if :param gpu_memory: is not None, else use CPU.
 
     :param gpu_memory: int or None, Number of bytes to allocate on the local
@@ -10,7 +10,7 @@ def config_hardware(gpu_memory, seed=None):
                        CPU for TensorFlow processes.
 
     ---> None
-    '''
+    """
 
     if gpu_memory == None:
         os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
@@ -37,9 +37,9 @@ def config_hardware(gpu_memory, seed=None):
     return None
 
 def build_compiled_model(build_model, hparams, metrics, run_number):
-    '''
+    """
     Builds compiled model from build model function.
-    '''
+    """
     model_name = build_model.__name__
     hparam_version = hparams['version']
     loss = hparams['loss']
@@ -60,9 +60,9 @@ def build_compiled_model(build_model, hparams, metrics, run_number):
 
 
 def train(build_model, hparams, metrics, run_number, X, y, gpu_memory, seed):
-    '''
+    """
     Builds and trains model defined by :build_model:
-    '''
+    """
 
     config_hardware(gpu_memory, seed)
 

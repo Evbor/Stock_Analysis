@@ -1,7 +1,10 @@
 """
 TODO:
 
-1.) Productionize data scraping application
+2.) Implement workflow diagram using cron and a python script and config file
+3.) Implement the functions used in script
+4.) implement dummy ML pipeline to test out script
+5.) alter current pipeline to fit into workflow
 """
 
 import os
@@ -48,12 +51,12 @@ def get_api_key(source):
 ## Functions for fetching data ##
 #################################
 
-def fetch_stock_data(ticker, start_date, end_date=None, source='alphavantage'):
+def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
     """
     Returns end of day stock price DataFrame from various sources.
 
     :param ticker: string, stock ticker
-    :param start_date: string, date to start collecting data after,
+    :param start_date: string, date to start collecting data at,
                        format: YYYY-MM-DD
     :param end_date: string, date to end collecting data at,
                      format: YYYY-MM-DD
@@ -94,7 +97,7 @@ def fetch_stock_data(ticker, start_date, end_date=None, source='alphavantage'):
 
     # Slicing DataFrame
     if start_date != None:
-        df = df.loc[df[date_col] > start_date]
+        df = df.loc[df[date_col] >= start_date] # changed to = sign need to test
     if end_date != None:
         df = df.loc[df[date_col] <= end_date]
 
@@ -104,7 +107,7 @@ def fetch_stock_data(ticker, start_date, end_date=None, source='alphavantage'):
 
     return df
 
-def fetch_url_df(ticker, start_date, end_date=None, form_type='8-k'):
+def fetch_url_df(ticker, start_date, end_date, form_type='8-k'):
     """
     Returns a DataFrame  where each row consists of a forms filing date,
     and an url to the raw text version of the form.
@@ -233,8 +236,39 @@ def save_docs(json_list, endpoint):
 
 # END Functions for saving documents to disk
 
-def fetch_data():
-    return None
+def fetch_ticker_data(path_to_data, ticker, start_date, end_date, form_types):
+    """
+    Fetches all the data necessary for a specific ticker.
+
+    :param ticker: string, stock ticker to fetch data for
+    :param start_date: string, date to start collecting data at,
+                       format: YYYY-MM-DD
+    :param end_date: string, date to end collecting data at,
+                     format: YYYY-MM-DD
+    :form_types: list, of strings, of SEC form types to scrape for :param ticker:
+
+    ---> pandas.DataFrame, containing necessary data
+    """
+    price_df = fetch_stock_data(ticker, start_date, end_date)
+    doc_dfs = map(lambda form_type: fetch_url_df(ticker, start_date, end_date, form_type), form_types)
+    doc_df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='filing_date'), doc_dfs)
+    df = pd.merge(price_df, doc_df, how='left', left_on='timestamp', right_on='filing_date')
+    df = df.drop(columns=['filing_date'])
+    # Filling NA values and downloading documents
+    form_cols = ['{}_{}'.format(form_type, ticker) for form_type in form_types]
+    # Filling NA values
+    df[form_cols] = df[form_cols].fillna(value=json.dumps([]))
+    # Scraping documents to path_to_data/documents/ticker
+    for col in form_cols:
+        df[col] = df[col].map(lambda json_list: save_docs(json_list, os.path.join(path_to_data, 'documents', ticker)))
+    return df
+
+def fetch_data(path_to_data, tickers, form_types, start_date=None, end_date=None):
+    data_dfs = map(lambda t: fetch_ticker_data(path_to_data, t, start_date, end_date, form_types), tickers)
+    df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='timestamp'), data_dfs)
+    df.to_csv(os.path.join(path_to_data, 'raw.csv'), index=False)
+    return df
+
 
 #####################################
 ## END Functions for fetching data ##

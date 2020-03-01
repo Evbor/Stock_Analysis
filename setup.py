@@ -19,5 +19,6 @@ setup(
     entry_points='''
         [console_scripts]
         run_pipeline=stockanalysis.command_line:run_pipeline
+        pull_data=stockanalysis.command_line:pull_data
     '''
 )

@@ -249,9 +249,10 @@ def fetch_ticker_data(path_to_data, ticker, start_date, end_date, form_types):
 
     ---> pandas.DataFrame, containing necessary data
     """
+
     price_df = fetch_stock_data(ticker, start_date, end_date)
     doc_dfs = map(lambda form_type: fetch_url_df(ticker, start_date, end_date, form_type), form_types)
-    doc_df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='filing_date'), doc_dfs)
+    doc_df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='filing_date'), doc_dfs, pd.DataFrame(columns=['filing_date']))
     df = pd.merge(price_df, doc_df, how='left', left_on='timestamp', right_on='filing_date')
     df = df.drop(columns=['filing_date'])
     # Filling NA values and downloading documents

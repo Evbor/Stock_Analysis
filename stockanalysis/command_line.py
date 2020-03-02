@@ -2,25 +2,28 @@ import click
 from stockanalysis import pipelines
 from stockanalysis.data import fetch_data
 
-## complete command line application of fetchdata look into click arguements 
 
+# TODOS for pull_data:
+# 1) for click option to be of type choice where the choices are valid SEC forms
+# 2) make help readme better.
+# 3) need to inform user about api keys and how this works with it etc...
 @click.command()
-@click.option('--endpoint',
-              type=click.Path(exists=True),
-              prompt='Path to file to store data in.',
-              help='Path to file to store data in.')
-@click.option('--tickers',
+@click.argument('path', type=click.Path(exists=True), nargs=1)
+@click.argument('tickers', type=str, nargs=-1)
+@click.option('--form_type',
+              '-f',
+              'form_types',
               type=str,
-              prompt='Stock tickers to pull data for.',
-              help='Stock tickers to pull data for.',
+              help='SEC form type to download for the given stock tickers.',
               multiple=True)
-@click.option('--form_types',
-              type=str,
-              prompt='SEC form types to pull for the given stock tickers.',
-              help='SEC form types to pull for the given stock tickers.',
-              multiple=True)
-def pull_data(endpoint, tickers, form_types):
-    fetch_data(endpoint, tickers, form_types)
+def pull_data(path, tickers, form_types):
+    """
+    Pulls end of day stock data and optionally SEC forms for the
+    given stock [TICKERS] and stores this data in the file pointed to by PATH.
+    For more information about the structure of how this data is stored in PATH,
+    see: (github readme link)
+    """
+    fetch_data(path, tickers, form_types)
 
 
 @click.command()

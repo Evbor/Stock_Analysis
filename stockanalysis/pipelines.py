@@ -6,11 +6,14 @@ from stockanalysis.models import model_0
 from stockanalysis.preprocess import preprocess
 
 
-def pipeline(path_to_data, tickers, df_filename='raw.csv',
-             gpu_memory=None, seed=None):
+def pipeline(path_to_data, gpu_memory=None, seed=None):
     """
     ML pipeline that trains a model, and saves it.
     """
+
+    # Previous Arguments
+    tickers = ['JPM', 'BAC', 'C', 'WFC']
+    df_filename = 'raw.csv'
 
     # Accessing data storage medium
     df = pd.read_csv(os.path.join(path_to_data, df_filename),
@@ -46,3 +49,6 @@ def pipeline(path_to_data, tickers, df_filename='raw.csv',
 
     model.save(os.path.join('models', 'model_0', '2'))
     return None
+
+def custom_pipeline(path_to_data, gpu_memory):
+    print('Custom pipeline is not implemented')

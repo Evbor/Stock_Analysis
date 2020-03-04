@@ -20,32 +20,52 @@ def pull_data(path, tickers, form_types):
     """
     Pulls end of day stock data and optionally SEC forms for the
     given stock [TICKERS] and stores this data in the file pointed to by PATH.
-    For more information about the structure of how this data is stored in PATH,
+    For more information about the  structure of how this data is stored in PATH,
     see: (github readme link)
     """
     fetch_data(path, tickers, form_types)
 
+# TODOS for run_pipeline:
+# 1) currently breaks in preprocessing, fix it.
+# 2) Determine whether this tool implements enough customizability.
 
 @click.command()
-@click.option('--filename',
-              type=click.Path(exists=True),
-              prompt='Path to data file',
-              help='Path to data file')
-@click.option('--tickers',
-              '-t',
-              type=str,
-              prompt='List of stock tickers to train model on must be a combination of: WFC, JPM, C, or BAC',
-              help='List of stock tickers to train model on must be a combination of: WFC, JPM, C, or BAC',
-              multiple=True)
-@click.option('--gpu_memory',
-              type=int,
-              default=0,
-              prompt='GPU memory to allocate for training set to 0 to not use GPU',
-              help='GPU memory to allocate for training set to 0 to not use GPU')
-def run_pipeline(filename, tickers, gpu_memory):
+@click.argument('path', type=click.Path(exists=True), nargs=1)
+@click.option('--custom', is_flag=True,
+              help='If set, implements the custom pipeline defined in the pipelines module')
+@click.option('--gpu_memory', type=int,
+              help='GPU memory to allocate for training model')
+def run_pipeline(path, custom, gpu_memory):
+    """
+    Runs pipeline that trains a model on the data stored in [PATH]. If the
+    custom option is not set, then the model trained is the default model
+    defined in the pipelines module.
+    """
+    if custom:
+        click.echo('custom pipeline was triggered')
+        pipelines.custom_pipeline(path, gpu_memory)
+    else:
+        click.echo('default pipeline was triggered')
+        pipelines.pipeline(path, gpu_memory)
+
+
+
+
+# current implementation of run_pipeline does not allow custom pipelines to
+#  have custom parameters, custom pipelines must implement the same interface
+#  as the default pipeline. This lowers customizablitiy, if this is an issue.
+#  below might be a potential solution.
+
+'''@click.group(invoke_without_command=True)
+@click.argument('path', type=click.Path(exists=True), nargs=1)
+@option('--gpu_memory', type=int, help='blahblahblah')
+@click.pass_context
+def run_pipe(ctx, path, gpu_memory):
     if gpu_memory == 0:
         gpu_memory = None
-    pipelines.pipeline(filename, tickers, gpu_memory=gpu_memory)
-
-if __name__ == '__main__':
-    pull_data()
+    ctx.ensure_object(dict)
+    ctx.obj['PATH'] = path
+    ctx.obj['GPU_MEMORY'] = gpu_memory
+    if ctx.invoked_subcommand is None:
+        pass # Run default pipeline with
+        '''

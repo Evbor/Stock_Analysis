@@ -12,7 +12,7 @@ def config_hardware(gpu_memory, seed=None):
     ---> None
     """
 
-    if gpu_memory == None:
+    if (gpu_memory == None) or (gpu_memory == 0):
         os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
     gpus = tf.config.experimental.list_physical_devices('GPU')

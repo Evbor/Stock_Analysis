@@ -1,22 +1,63 @@
 import os
+import json
 import pandas as pd
 import tensorflow as tf
 from stockanalysis.train import train
 from stockanalysis.models import model_0
 from stockanalysis.preprocess import preprocess
 
+### TODO:
+# 1) Figure out where the default pipeline is breaking/fix it.
+# 2) Write better docstrings
+# 3) determine the pros and cons of configuring the GPU outside of the pipeline
+#    if the cons aren't bad implement configuring the GPU in where it is commented.
 
-def pipeline(path_to_data, gpu_memory=None, seed=None):
+
+def run_pipelines(path_to_data, gpu_memory, custom, **kwargs):
     """
-    ML pipeline that trains a model, and saves it.
+    Configures and runs ML pipelines.
+    """
+    
+    if custom:
+        if verify_custom(path_to_data, **kwargs):
+            # Config GPU
+            custom_pipeline(path_to_data, **kwargs)
+        else:
+            print('Current custom pipeline configuration cannot handle the data stored in: {}'.format(path_to_data))
+    else:
+        if verify(path_to_data, **kwargs):
+            # Config GPU
+            pipeline(path_to_data, gpu_memory, **kwargs)
+        else:
+            print('Current pipeline configuration cannot handle the data stored in: {}'.format(path_to_data))
+
+def verify(path_to_data, **kwargs):
+    """
+    Verifies if the data stored in the location :param path_to_data: can be
+    consumed by the default pipeline.
+
+    :param path_to_data: string, path to the data file
+    :params **kwargs: configurable parameters used to configure the default
+                      pipeline.
+
+    ---> bool, True if the data can be used, False otherwise
     """
 
-    # Previous Arguments
-    tickers = ['JPM', 'BAC', 'C', 'WFC']
-    df_filename = 'raw.csv'
+    legal_tickers = {'WFC', 'JPM', 'BAC', 'C'}
+    required_text_data = '8-k'
+
+    with open(os.path.join(path_to_data, 'meta.json')) as f:
+        meta_data = json.load(f)
+
+    return all((t in legal_tickers) and (t in meta_data['tickers']) for t in kwargs['tickers']) and (required_text_data in meta_data['form_types'])
+
+def pipeline(path_to_data, gpu_memory, tickers, seed=None):
+    """
+    Docstring
+    """
 
     # Accessing data storage medium
-    df = pd.read_csv(os.path.join(path_to_data, df_filename),
+    df = pd.read_csv(os.path.join(path_to_data, 'raw.csv'),
                      parse_dates=['timestamp'])
     # Preprocessing Data
     preprocess_params = {'log_adj_ret_name': 'log_adj_daily_returns',
@@ -48,7 +89,15 @@ def pipeline(path_to_data, gpu_memory=None, seed=None):
                   run_number, X, y, gpu_memory=gpu_memory, seed=seed)
 
     model.save(os.path.join('models', 'model_0', '2'))
-    return None
 
-def custom_pipeline(path_to_data, gpu_memory):
+def verify_custom(path_to_data, **kwargs):
+    """
+    Custom pipeline data verification function to implement.
+    """
+    return True
+
+def custom_pipeline(path_to_data, **kwargs):
+    """
+    Custom pipeline to implement.
+    """
     print('Custom pipeline is not implemented')

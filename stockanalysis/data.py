@@ -265,6 +265,8 @@ def fetch_ticker_data(path_to_data, ticker, start_date, end_date, form_types):
     return df
 
 def fetch_data(path_to_data, tickers, form_types, start_date=None, end_date=None):
+    if not os.path.isdir(path_to_data):
+        os.makedirs(path_to_data)
     data_dfs = map(lambda t: fetch_ticker_data(path_to_data, t, start_date, end_date, form_types), tickers)
     df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='timestamp'), data_dfs)
     df.to_csv(os.path.join(path_to_data, 'raw.csv'), index=False)

@@ -5,21 +5,34 @@ from stockanalysis import pipelines
 from stockanalysis.data import fetch_data
 
 ### TODO:
-# 1) Complete pr
-# 2) Complete TODO for pull_data then the rest
+# 1) Complete TODO for pull_data then the rest
 
+@click.group()
+def stockanalysis():
+    """
+    dieiewowpodkd
+    """
+    pass
+
+@stockanalysis.command()
+@click.option('--quandl', '-q', 'quandl', help='API key for Quandl\'s services')
+@click.option('--alpha', '-a', 'alphavantage', help='API key for Alphavantage\'s services')
+def config(quandl, alphavantage):
+    """
+    Configures API keys for stockanalysis tools.
+    """
+    keys = {'alphavantage': alphavantage, 'quandl': quandl}
+    with open('api_keys.json', 'w') as f:
+        json.dump(keys, f)
 
 ### TODO for pull_data:
-# 1) for click option to be of type choice where the choices are valid SEC forms
+# 1) need to inform user about api keys and how this works with it etc...
 # 2) make help readme better.
-# 3) need to inform user about api keys and how this works with it etc...
-@click.command()
+@stockanalysis.command()
 @click.argument('path', type=click.Path(), nargs=1)
 @click.argument('tickers', type=str, nargs=-1)
-@click.option('--form_type',
-              '-f',
-              'form_types',
-              type=str,
+@click.option('--form_type', '-f', 'form_types',
+              type=click.Choice(['8-k', '10-k', '10'], case_sensitive=True),
               help='SEC form type to download for the given stock tickers.',
               multiple=True)
 def pull_data(path, tickers, form_types):
@@ -34,12 +47,12 @@ def pull_data(path, tickers, form_types):
 
 ### TODO for run_pipeline:
 # 1) Determine whether this tool implements enough customizability.
-@click.command()
+@stockanalysis.command()
 @click.argument('path', type=click.Path(exists=True, file_okay=False, writable=True), nargs=1)
 @click.option('--custom', type=click.File('r'), nargs=1,
               help='Path to the json config file defining the parameters used in the implementation of the custom pipeline defined in the pipelines module.')
-@click.option('--gpu_memory', type=int,
-              help='GPU memory to allocate for training model')
+@click.option('--gpu_memory', '-g', 'gpu_memory', type=int,
+              help='GPU memory to allocate for training the model.')
 def run_pipeline(path, custom, gpu_memory):
     """
     Runs pipeline that trains a model on the data stored in [PATH]. If the
@@ -58,19 +71,26 @@ def run_pipeline(path, custom, gpu_memory):
         params = json.loads(default_config_file)
     pipelines.run_pipelines(path, gpu_memory, custom_flag, **params)
 
-@click.command()
-# prompt for overwrite
+### TODO for pr:
+# 1) Write better documentation and come up with a better name
+
+@stockanalysis.command()
 @click.argument('path', type=click.Path(), nargs=1)
 @click.option('--custom', type=click.File('r'), nargs=1,
               help='Path to the config file defining the custom parameters used in the implementation of the custom pipeline defined in the pipelines module.')
-@click.option('--gpu_memory', type=int,
-              help='GPU memory to allocate for training model')
+@click.option('--gpu_memory', '-g', 'gpu_memory', type=int,
+              help='GPU memory to allocate for training the model.')
 @click.option('--ticker', '-t', 'tickers', type=str,
-              default=['INTC'], help='bullshit', multiple=True)
-@click.option('--form_type', '-f', 'form_types', type=str, default=['10-k'],
+              default=['INTC'], help='Stock tickers to train model on.', multiple=True)
+@click.option('--form_type', '-f', 'form_types',
+              type=click.Choice(['8-k', '10-k', '10'], case_sensitive=True),
+              default=['10-k'],
               help='SEC form type to download for the given stock tickers.',
               multiple=True)
 def pr(path, custom, gpu_memory, tickers, form_types):
+    """
+    adsfadsfadsfads
+    """
     fetch_data(path, tickers, form_types)
     if custom:
         click.echo('custom pipeline is triggered')
@@ -80,34 +100,4 @@ def pr(path, custom, gpu_memory, tickers, form_types):
         click.echo('default pipeline is triggered')
         default_config_file = pkgutil.get_data(__name__, 'default_config.json')
         params = json.loads(default_config_file)
-        pipelines.pipeline(path, gpu_memory, **params)
-
-
-
-
-# Current implementation does not perform data checks on the data lying in paths
-# to see if can be reused again, it will just overwrite
-
-
-
-
-# current implementation of run_pipeline does not allow custom pipelines to
-#  have custom parameters, custom pipelines must implement the same interface
-#  as the default pipeline. This lowers customizablitiy, if this is an issue.
-#  below might be a potential solution.
-
-'''@click.group(invoke_without_command=True)
-@click.argument('path', type=click.Path(sterisk form of **kwargs is used to pass a keyworded, variable-length argument dictionary to a function. Again, the two asterisks (**) are the important element here, as the word kwargs is conventionally used, though not enforced by the language.
-
-Like *args, **kwargs can take however many arguments you would like to supply to it. However, **kwargs differs from *args in that you will need toexists=True), nargs=1)
-@option('--gpu_memory', type=int, help='blahblahblah')
-@click.pass_context
-def run_pipe(ctx, path, gpu_memory):
-    if gpu_memory == 0:
-        gpu_memory = None
-    ctx.ensure_object(dict)
-    ctx.obj['PATH'] = path
-    ctx.obj['GPU_MEMORY'] = gpu_memory
-    if ctx.invoked_subcommand is None:
-        pass # Run default pipeline with
-        '''
+    pipelines.run_pipelines(path, gpu_memory, **params)

@@ -256,6 +256,16 @@ def fetch_ticker_data(path_to_data, ticker, source, form_types, start_date, end_
 
 def save_df(path_to_data, df, name='raw.csv'):
     """
+    Writes pandas.DataFrame :param df: along with its meta data stored in
+    pandas.DataFrame.attrs to the directory pointed to by :param path_to_data:.
+    The meta data is stored as the JSON file meta.json.
+
+    :param path_to_data: string, path to directory to save the pandas.DataFrame
+                         to
+    :param df: pandas.DataFrame, pandas.DataFrame to save
+    :param name: string, name csv file to write pandas.DataFrame to
+
+    ---> None
     """
 
     df.to_csv(os.path.join(path_to_data, name), index=False)
@@ -269,6 +279,16 @@ def save_df(path_to_data, df, name='raw.csv'):
 
 def load_df(path_to_data, name='raw.csv'):
     """
+    Loads a pandas.DataFrame stored in the directory pointed to by
+    :param path_to_data: along with its corresponding meta data stored in the
+    same directory in file meta.json.
+
+    :param path_to_data: string, path to directory where the pandas.DataFrame to
+                         be loaded is stored
+    :param name: string, name of the csv file to load the pandas.DataFrame from
+
+    ---> pandas.DataFrame, where pandas.DataFrame.attrs is loaded with the meta
+         data stored in the JSON file meta.json
     """
 
     df = pd.read_csv(os.path.join(path_to_data, name), parse_dates=['timestamp'])
@@ -280,6 +300,16 @@ def load_df(path_to_data, name='raw.csv'):
 
 def fetch_data(path_to_data, tickers, source, form_types, start_date=None, end_date=None):
     """
+    Docstring
+
+    :param path_to_data: string,
+    :param tickers: list of strings,
+    :param source: string,
+    :param form_types: string,
+    :param start_date: string,
+    :param end_date: string,
+
+    ---> pandas.DataFrame, 
     """
 
     if not os.path.isdir(path_to_data):

@@ -1,1 +1,1 @@
-{"tickers": ["WFC", "JPM", "BAC", "C"], "form_types": ["8-k"]}
+{"tickers": ["WFC", "JPM", "BAC", "C"], "form_types": ["8-k"], "source": "alphavantage", "path_to_data": "data"}

@@ -1,12 +1,3 @@
-"""
-TODO:
-
-2.) Implement workflow diagram using cron and a python script and config file
-3.) Implement the functions used in script
-4.) implement dummy ML pipeline to test out script
-5.) alter current pipeline to fit into workflow
-"""
-
 import os
 import io
 import re
@@ -24,20 +15,16 @@ from bs4 import BeautifulSoup
 ## Functions and Variables for Accessing API keys ##
 ####################################################
 
-home_dir = os.getcwd()
-
 def get_api_key(source):
     """
-    STILL NEEDS WORK, want to keep same API, but don't know how to link to area where user api keys are stored.
-
     Returns api key for the specific source, :param source:.
 
-    :param source: string, name of api source
+    :param source: string, name of api source either 'quandl' or 'alphavantage'
 
     ---> String, api key for the the specific source :param source:
     """
 
-    path_to_keys = os.path.join(home_dir, 'api_keys.json')
+    path_to_keys = os.path.expanduser('~/.stockanalysis_keys.json')
     with open(path_to_keys, 'r') as f:
         api_keys = json.load(f)
 
@@ -75,7 +62,8 @@ def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
                                       'symbol': ticker, 'datatype': 'csv',
                                       'apikey': get_api_key(source),
                                       'outputsize': 'full'},
-                     'quandl': {'api_key': get_api_key(source)}}
+                     'quandl': {'api_key': get_api_key(source),
+                                'download_type': 'full'}}
 
     # Setting endpoints
     url = source_urls[source]
@@ -92,7 +80,7 @@ def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
     if source == 'alphavantage':
         date_col = 'timestamp'
     elif source == 'quandl':
-        date_col = 'date'
+        date_col = 'Date'
     df = pd.read_csv(io.StringIO(response.text), parse_dates=[date_col])
 
     # Slicing DataFrame
@@ -102,7 +90,7 @@ def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
         df = df.loc[df[date_col] <= end_date]
 
     # Renaming Columns
-    df.columns = [name if df[name].dtype == 'datetime64[ns]'
+    df.columns = ['timestamp' if df[name].dtype == 'datetime64[ns]'
                   else '_'.join([name, ticker]) for name in df.columns]
 
     return df
@@ -236,7 +224,7 @@ def save_docs(json_list, endpoint):
 
 # END Functions for saving documents to disk
 
-def fetch_ticker_data(path_to_data, ticker, start_date, end_date, form_types):
+def fetch_ticker_data(path_to_data, ticker, source, form_types, start_date, end_date):
     """
     Fetches all the data necessary for a specific ticker.
 
@@ -246,11 +234,13 @@ def fetch_ticker_data(path_to_data, ticker, start_date, end_date, form_types):
     :param end_date: string, date to end collecting data at,
                      format: YYYY-MM-DD
     :form_types: list, of strings, of SEC form types to scrape for :param ticker:
+    :source: string, either 'alphavantage' or 'quandl', specifying the source
+             to use when obtaining the end of day stock ticker data
 
     ---> pandas.DataFrame, containing necessary data
     """
 
-    price_df = fetch_stock_data(ticker, start_date, end_date)
+    price_df = fetch_stock_data(ticker, start_date, end_date, source)
     doc_dfs = map(lambda form_type: fetch_url_df(ticker, start_date, end_date, form_type), form_types)
     doc_df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='filing_date'), doc_dfs, pd.DataFrame(columns=['filing_date']))
     df = pd.merge(price_df, doc_df, how='left', left_on='timestamp', right_on='filing_date')
@@ -264,12 +254,40 @@ def fetch_ticker_data(path_to_data, ticker, start_date, end_date, form_types):
         df[col] = df[col].map(lambda json_list: save_docs(json_list, os.path.join(path_to_data, 'documents', ticker)))
     return df
 
-def fetch_data(path_to_data, tickers, form_types, start_date=None, end_date=None):
+def save_df(path_to_data, df, name='raw.csv'):
+    """
+    """
+
+    df.to_csv(os.path.join(path_to_data, name), index=False)
+    with open(os.path.join(path_to_data, 'meta.json'), 'w') as f:
+        meta_data = df.attrs
+        try:
+            del meta_data['path_to_data']
+        except KeyError:
+            pass
+        json.dump(meta_data, f)
+
+def load_df(path_to_data, name='raw.csv'):
+    """
+    """
+
+    df = pd.read_csv(os.path.join(path_to_data, name), parse_dates=['timestamp'])
+    with open(os.path.join(path_to_data, 'meta.json'), 'r') as f:
+        meta_data = json.load(f)
+        meta_data['path_to_data'] = path_to_data
+        df.attrs = meta_data
+    return df
+
+def fetch_data(path_to_data, tickers, source, form_types, start_date=None, end_date=None):
+    """
+    """
+
     if not os.path.isdir(path_to_data):
         os.makedirs(path_to_data)
-    data_dfs = map(lambda t: fetch_ticker_data(path_to_data, t, start_date, end_date, form_types), tickers)
+    data_dfs = map(lambda t: fetch_ticker_data(path_to_data, t, source, form_types, start_date, end_date), tickers)
     df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='timestamp'), data_dfs)
-    df.to_csv(os.path.join(path_to_data, 'raw.csv'), index=False)
+    df.attrs = {'tickers': tickers, 'source': source, 'form_types': form_types}
+    save_df(path_to_data, df)
     return df
 
 

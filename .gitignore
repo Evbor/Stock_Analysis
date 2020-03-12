@@ -125,20 +125,19 @@ dmypy.json
 
 # Custom
 requirements_jupyter.txt
-api_keys.json
 research/model_v1/glove/glove.840B.300d.txt
 research/model_v1/glove.840B.300d.zip
 research/model_v1/logs/
+research/model_v1/api_keys.json
 data/doc_dfs/
 data/documents/doc_1_test/
-data/documents/INTC/
-data/documents/JPM/*.txt
-data/documents/BAC/*.txt
-data/documents/C/*.txt
-data/documents/WFC/*.txt
+data/*.json
+data/documents/INTC/*
+data/documents/JPM/*
+data/documents/BAC/*
+data/documents/C/*
+data/documents/WFC/*
 data/dataset.pickle
 data/train_dataset.pickle
 data/test_dataset.pickle
-tf1/
 *.odt
-

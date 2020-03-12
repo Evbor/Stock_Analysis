@@ -100,9 +100,9 @@ def model_0(vocab, doc_embedding_size=100, lstm_layer_units=32,
         output_bias_init = tf.keras.initializers.Constant(output_bias_init)
 
     inputs = {'log_adj_daily_returns': tf.keras.Input(shape=(5,), name='log_adj_daily_returns', dtype=tf.float32),
-              'docs': tf.keras.Input(shape=(None,), name='docs', dtype=tf.int64)}
+              '8-k': tf.keras.Input(shape=(None,), name='8-k', dtype=tf.int64)}
 
-    doc_embeddings = document_embedder_model(vocab, doc_embedding_size)(inputs['docs'])
+    doc_embeddings = document_embedder_model(vocab, doc_embedding_size)(inputs['8-k'])
 
     reshape_doc_embeddings = tf.keras.layers.Lambda(lambda x: tf.keras.backend.stack([x for i in range(5)], axis=1))(doc_embeddings)
     reshape_price_features = tf.keras.layers.Lambda(lambda x: tf.keras.backend.expand_dims(x, axis=-1))(inputs['log_adj_daily_returns'])

@@ -1,10 +1,3 @@
-"""
-TODO:
-
-1.) Decide and implement how preprocessing pipeline for model 1 will act when
-    multiple text features are used.
-"""
-
 import os
 import json
 import pickle
@@ -17,8 +10,7 @@ from stockanalysis.text_normalization_methods import normalize_document
 ## Functions for preprocessing pipeline for model 1 ##
 ######################################################
 
-def normalize_text_features(df, fname, cut_off, tickers,
-                            norm_docs_fname='normalized'):
+def normalize_text_features(df, fname, cut_off, tickers, norm_docs_fname):
     """
     Normalizes all documents linked to in df
 
@@ -88,14 +80,16 @@ def normalize_text_features(df, fname, cut_off, tickers,
 
     return df_n
 
-def calculate_log_returns(df, tickers, name='log_adj_daily_returns'):
+def calculate_log_returns(df, tickers, fname, oname):
     """
     Calculates the log adjusted returns feature from the adjusted closing
     price feature for each stock ticker in tickers.
 
     :param df: pandas.DataFrame
-    :param tickers: stock tickers to calculate log adjusted returns for
-    :param name: string, column name for the calculated feature
+    :param tickers: list of strings, stock tickers to calculate log adjusted
+                    returns for
+    :param fname: string, name of feature to calculate log adjusted returns of
+    :param oname: string, column name for the calculated output feature
 
     ---> pandas.DataFrame, with log adjusted returns calculated
     """
@@ -103,10 +97,10 @@ def calculate_log_returns(df, tickers, name='log_adj_daily_returns'):
     df = df.copy(deep=True)
 
     for t in tickers:
-        df['_'.join(['log_adj_close', t])] = np.log(df['_'.join(['adjusted_close', t])])
-        df['_'.join([name, t])] = df['_'.join(['log_adj_close', t])] - df['_'.join(['log_adj_close', t])].shift(-1)
+        df['_'.join(['log_adj_fname', t])] = np.log(df['_'.join([fname, t])])
+        df['_'.join([oname, t])] = df['_'.join(['log_adj_fname', t])] - df['_'.join(['log_adj_fname', t])].shift(-1)
 
-    df = df.dropna(subset=['_'.join([name, tickers[0]])])
+    df = df.dropna(subset=['_'.join([oname, tickers[0]])])
 
     return df
 
@@ -197,8 +191,7 @@ def build_vocabulary(df, fname, tickers, path_to_vocab):
 
     return vocab
 
-def encode_text_features(df, fname, tickers, vocab,
-                         encode_docs_fname='encoded'):
+def encode_text_features(df, fname, tickers, vocab, encode_docs_fname):
     """
     Encodes all the text documents according to :param vocab: mapping
 
@@ -403,7 +396,7 @@ def shuffle_dataset(dataset, seed):
 
 # Preprocessing Function
 
-def preprocess(df, params, tickers, seed=None):
+def preprocess(df, tickers, cut_off, window_size, seed, **kwargs):
     """
     Preprocesses data. This includes normalizing documents of the given stock
     tickers. Generating a vocabulary json object representing the mapping
@@ -419,7 +412,8 @@ def preprocess(df, params, tickers, seed=None):
     to the same length with 0 characters (since our vocabulary starts at 1)
     and the dataset is shuffled.
 
-    :param df: pandas.DataFrame used to house gathered data
+    :param df: pandas.DataFrame used to house gathered data loaded with the
+               datasets meta data
     :param params: dict, containing the parameters used for preprocessing.
                    keys: 'cut_off': (the cut off in normalize_document),
                          'window_size': (the size of the interval of previous
@@ -440,35 +434,24 @@ def preprocess(df, params, tickers, seed=None):
          is the dict mapping integers to the words they represent.
     """
 
-    # Preprocessing Parameters
-    log_adj_ret_name = params['log_adj_ret_name']
-    feature_names = params['feature_names']
-    label_feature_names = params['label_feature_names']
-    text_feature_names = params['text_feature_names']
-    cut_off = params['cut_off']
-    window_size = params['window_size']
-    norm_docs_fname = params['norm_docs_fname']
-    path_to_vocab = params['path_to_vocab']
-    encode_docs_fname = params['encode_docs_fname']
+    norm_fname = kwargs.get('norm_filename', 'norm')
+    encode_fname = kwargs.get('encode_filename', 'encode')
 
-    df = normalize_text_features(df, text_feature_names, cut_off, tickers,
-                                 norm_docs_fname)
-    vocab = build_vocabulary(df, text_feature_names, tickers,
-                             path_to_vocab)
-    df = encode_text_features(df, text_feature_names, tickers, vocab,
-                              encode_docs_fname)
-    df = calculate_log_returns(df, tickers, name=log_adj_ret_name)
-    datasets = map(lambda t: extract_window_dataset(df, feature_names,
+    df = normalize_text_features(df, '8-k', cut_off, tickers, norm_fname)
+    vocab_filename = 'vocab_8k_{}_{}.json'.format(norm_fname,'_'.join(tickers))
+    path_to_vocab = os.path.join(df.attrs['path_to_data'], vocab_filename)
+    vocab = build_vocabulary(df, '8-k', tickers, path_to_vocab)
+    df = encode_text_features(df, '8-k', tickers, vocab, encode_fname)
+    df = calculate_log_returns(df, tickers, 'adjusted_close', 'log_adj_daily_returns')
+    datasets = map(lambda t: extract_window_dataset(df, ['log_adj_daily_returns', '8-k'],
                                                     ticker=t,
                                                     n_trail=window_size-1),
                    tickers)
-    datasets = map(lambda ds: extract_labels(ds, label_feature_names), datasets)
-    datasets = map(lambda ds: reshape_docs_feature(ds, text_feature_names,
-                                                   seed), datasets)
-    datasets = map(lambda ds: filter_dataset(ds, text_feature_names), datasets)
-    dataset = reduce(lambda ds1, ds2: add_datasets(ds1, ds2, text_feature_names),
-                     datasets)
-    dataset = pad_dataset(dataset, text_feature_names)
+    datasets = map(lambda ds: extract_labels(ds, ['log_adj_daily_returns']), datasets)
+    datasets = map(lambda ds: reshape_docs_feature(ds, '8-k', seed), datasets)
+    datasets = map(lambda ds: filter_dataset(ds, '8-k'), datasets)
+    dataset = reduce(lambda ds1, ds2: add_datasets(ds1, ds2, '8-k'), datasets)
+    dataset = pad_dataset(dataset, '8-k')
     dataset = shuffle_dataset(dataset, seed)
 
     return dataset, vocab

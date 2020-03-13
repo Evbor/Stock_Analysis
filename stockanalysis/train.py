@@ -39,6 +39,16 @@ def config_hardware(gpu_memory, seed=None):
 def build_compiled_model(build_model, hparams, metrics, run_number):
     """
     Builds compiled model from build model function.
+
+    :param build_model: function, the function that returns a uncompiled model
+    :param hparams: dict, key word indexed hyperparamters for constructing the
+                    model defined by :param build_model:
+    :param metrics: tensorflow.metrics, to compile the model with
+    :param run_number: int, run number uniquely identifying the returned
+                       compiled model, used loading a model from a saved checkpoint
+
+    ---> tensorflow.keras.Model, that is compiled and ready to fit on a dataset
+         or predict
     """
     model_name = build_model.__name__
     hparam_version = hparams['version']
@@ -62,6 +72,22 @@ def build_compiled_model(build_model, hparams, metrics, run_number):
 def train(build_model, hparams, metrics, run_number, X, y, gpu_memory, seed):
     """
     Builds and trains model defined by :build_model:
+
+    :param build_model: function, the function that returns a uncompiled model
+    :param hparams: dict, key word indexed hyperparamters for constructing the
+                    model defined by :param build_model:
+    :param metrics: tensorflow.metrics, to compile the model with
+    :param run_number: int, run number uniquely identifying the returned
+                       compiled model, used when loading a model from a
+                       saved checkpoint
+    :param X and y: dataset, where X are the features, and y are the labels to
+                    train models on
+    :param gpu_memory: int >= 0 or None, amount of GPU memory to allocate for
+                       training models
+    :param seed: int, random seed to define for training models
+
+    ---> tensorflow.keras.Model, tensorflow.keras.History, a tuple of the trained
+         model, along with its training history
     """
 
     config_hardware(gpu_memory, seed)

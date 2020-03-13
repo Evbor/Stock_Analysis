@@ -5,10 +5,12 @@ import en_core_web_sm
 
 from bs4 import BeautifulSoup
 
+###############################################################
+## Functions and parameters for text preprocessing processes ##
+###############################################################
+
 # Instantiating Spacy NLP object with the parser and named entity recognition components
 nlp = en_core_web_sm.load(disable=['parser', 'ner'])
-
-# Defining Functions and Classes
 
 def extract_8k(doc):
     eight_k = re.findall('<DOCUMENT>\n<TYPE>8-K.*?<SEQUENCE>1(.*?)</DOCUMENT>', doc, re.DOTALL | re.IGNORECASE)
@@ -60,6 +62,15 @@ def strip_stop_words(doc):
 def strip_large_words(doc, cut_off=20):
     return ' '.join([word for word in doc.split() if len(word) <= cut_off])
 
+###################################################################
+## END Functions and parameters for text preprocessing processes ##
+###################################################################
+
+
+##############################################
+## Functions for normalizing text documents ##
+##############################################
+
 def normalize_document(doc, tags_strip=True, accent_char_strip=True, lower_case=True,
                        no_newlines=True, special_char_strip=True, space_nums=True,
                        lemmatize_words=True, remove_stop_words=True, strip_extra_spaces=True,
@@ -82,7 +93,7 @@ def normalize_document(doc, tags_strip=True, accent_char_strip=True, lower_case=
 
     ---> string, normalized document
     """
-    
+
     if debug:
         print('raw length of doc: {}'.format(len(doc)))
 
@@ -147,3 +158,7 @@ def normalize_document(doc, tags_strip=True, accent_char_strip=True, lower_case=
         print('removed extra space length: {}'.format(len(doc)))
 
     return doc
+
+##################################################
+## END Functions for normalizing text documents ##
+##################################################

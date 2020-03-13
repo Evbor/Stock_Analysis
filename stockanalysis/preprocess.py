@@ -6,9 +6,9 @@ import pandas as pd
 from functools import reduce
 from stockanalysis.text_normalization_methods import normalize_document
 
-######################################################
-## Functions for preprocessing pipeline for model 1 ##
-######################################################
+###########################################################
+## Functions for preprocessing dataset pandas.DataFrames ##
+###########################################################
 
 def normalize_text_features(df, fname, cut_off, tickers, norm_docs_fname):
     """
@@ -295,7 +295,14 @@ def window_df(df, columns, n_trail=1, n_lead=1):
 
     return agg
 
-# Functions for preprocessing datasets
+###############################################################
+## END Functions for preprocessing dataset pandas.DataFrames ##
+###############################################################
+
+
+##########################################
+## Functions for preprocessing datasets ##
+##########################################
 
 def extract_features(feature_names, ticker, df):
     cols = map(lambda fname: '_'.join([fname, ticker]), feature_names)
@@ -392,45 +399,44 @@ def shuffle_dataset(dataset, seed):
     labels_shuffled = {lname: label[shuffled_indices] for lname, label in labels.items()}
     return features_shuffled, labels_shuffled
 
-# END Functions for preprocessing datasets
+##############################################
+## END Functions for preprocessing datasets ##
+##############################################
 
-# Preprocessing Function
 
+#############################
+## Preprocessing functions ##
+#############################
+
+# Preprocessing function used for default models
 def preprocess(df, tickers, cut_off, window_size, seed, **kwargs):
     """
     Preprocesses data. This includes normalizing documents of the given stock
     tickers. Generating a vocabulary json object representing the mapping
     between unique words and their integer encodings for the corpus of
     documents normalized. Encoding the normalized documents according to said
-    vocabulary. Calculatating the adjusted logarithmic returns for each given
+    vocabulary. Calculating the adjusted logarithmic returns for each given
     stock ticker.The data is segmented by stock tickker, then windowed into
-    the frame of 6 day intervals. The 6th day is then extracted as the target
-    variable for the preceding 5 day interval. A single document within each
-    interval is uniformly selected to be the text feature for the specific 5
-    day interval. The data for each stock ticker is then merged back togther
-    to form a single dataset. The text features this dataset are then padded
-    to the same length with 0 characters (since our vocabulary starts at 1)
+    the frame of :param window_size: + 1 day intervals. The last day is extracted
+    as the target variable for the preceding :param window_size: day interval.
+    A single document within each interval is uniformly selected to be the text
+    feature for the specific :param window_size: day interval. The data for each
+    stock ticker is then merged back togther to form a single dataset. The text
+    features of this dataset are then padded to the same length with 0 characters
     and the dataset is shuffled.
 
     :param df: pandas.DataFrame used to house gathered data loaded with the
                datasets meta data
-    :param params: dict, containing the parameters used for preprocessing.
-                   keys: 'cut_off': (the cut off in normalize_document),
-                         'window_size': (the size of the interval of previous
-                                        features used to predict the current
-                                        value),
-                         'norm_docs_fname': (the name of the file to store
-                                             normalized documents in),
-                         'encode_docs_fname': (the name of the file to store
-                                               encoded documents in),
-                         'path_to_vocab': (path to the vocabulary json file)
-    :param tickers: list of strings, where each string is a stock ticker
-    :param seed: int, random seed
+    :param tickers: list of strings of stock tickers to preprocess data for
+    :param cut_off: int, the cut off word length used in our text normalization
+                    process
+    :param window_size: int > 0, lag size in days for features to use
+    :param seed: int, random seed to use for the preprocesing process
 
     ---> ((features, labels), vocab), where features is a dict with keys for each
          feature, and values with length equal to the sample size of the
          dataset. Similarly labels is a dict with keys for each target label
-         and values with lenght equal to the sample size of the dataset. Vocab
+         and values with length equal to the sample size of the dataset. Vocab
          is the dict mapping integers to the words they represent.
     """
 
@@ -456,6 +462,6 @@ def preprocess(df, tickers, cut_off, window_size, seed, **kwargs):
 
     return dataset, vocab
 
-##########################################################
-## END Functions for preprocessing pipeline for model 1 ##
-##########################################################
+#################################
+## END Preprocessing functions ##
+#################################

@@ -6,7 +6,7 @@ import tensorflow as tf
 ## Model Definitions ##
 #######################
 
-# Model 0 Definition
+# Default Model Definitions
 
 def embedding_matrix(vocab, init):
     """
@@ -119,8 +119,8 @@ def model_0(vocab, doc_embedding_size=100, lstm_layer_units=32,
 
     return model
 
-# End Model 0 Definition
+# END Default Model Definitions
 
 ###########################
-## End Model Definitions ##
+## END Model Definitions ##
 ###########################

@@ -11,9 +11,10 @@ from datetime import date
 from functools import reduce
 from bs4 import BeautifulSoup
 
-####################################################
-## Functions and Variables for Accessing API keys ##
-####################################################
+
+######################
+## Helper functions ##
+######################
 
 def get_api_key(source):
     """
@@ -30,13 +31,96 @@ def get_api_key(source):
 
     return api_keys[source]
 
-########################################################
-## END Functions and Variables for Accessing API keys ##
-########################################################
+def save_df(path_to_data, df, name='raw.csv'):
+    """
+    Writes pandas.DataFrame :param df: along with its meta data stored in
+    pandas.DataFrame.attrs to the directory pointed to by :param path_to_data:.
+    The meta data is stored as the JSON file meta.json.
 
-#################################
-## Functions for fetching data ##
-#################################
+    :param path_to_data: string, path to directory to save the pandas.DataFrame
+                         to
+    :param df: pandas.DataFrame, pandas.DataFrame to save
+    :param name: string, name csv file to write pandas.DataFrame to
+
+    ---> None
+    """
+
+    df.to_csv(os.path.join(path_to_data, name), index=False)
+    with open(os.path.join(path_to_data, 'meta.json'), 'w') as f:
+        meta_data = df.attrs
+        try:
+            del meta_data['path_to_data']
+        except KeyError:
+            pass
+        json.dump(meta_data, f)
+
+def load_df(path_to_data, name='raw.csv'):
+    """
+    Loads a pandas.DataFrame stored in the directory pointed to by
+    :param path_to_data: along with its corresponding meta data stored in the
+    same directory in file meta.json.
+
+    :param path_to_data: string, path to directory where the pandas.DataFrame to
+                         be loaded is stored
+    :param name: string, name of the csv file to load the pandas.DataFrame from
+
+    ---> pandas.DataFrame, where pandas.DataFrame.attrs is loaded with the meta
+         data stored in the JSON file meta.json
+    """
+
+    df = pd.read_csv(os.path.join(path_to_data, name), parse_dates=['timestamp'])
+    with open(os.path.join(path_to_data, 'meta.json'), 'r') as f:
+        meta_data = json.load(f)
+        meta_data['path_to_data'] = path_to_data
+        df.attrs = meta_data
+    return df
+
+def save_doc(url, endpoint):
+    """
+    Downloads and saves the text file stored at :param url:, and saves it as
+    its downloaded name in directory :param endpoint:.
+
+    :param url: string, the url that points to the SEC text file
+    :parame endpoint: string, path to location to save SEC filing
+
+    ---> String, path to saved document
+    """
+
+    if not os.path.isdir(endpoint):
+        os.makedirs(endpoint)
+    try:
+        r = requests.get(url)
+    except Exception as e:
+        raise Exception('error with url: {}'.format(url)) from e
+
+    fname = url.split('/')[-1]
+    with open(os.path.join(endpoint, fname), 'wb') as f:
+        f.write(r.content)
+    return os.path.join(endpoint, fname)
+
+def save_docs(json_list, endpoint):
+    """
+    Downloads and saves each link in the :param json_list: at :param endpoint as
+    a text file with the same name.
+
+    :param json_list: string, json formated string of a list of urls
+    :param endpoint: string, path to location to save SEC filings
+
+    ---> String, json formated string of a list of paths to saved filings
+    """
+
+    urls = json.loads(json_list)
+    paths = map(lambda url: save_doc(url, endpoint), urls)
+    return json.dumps(list(paths))
+
+##########################
+## END Helper functions ##
+##########################
+
+
+##########################################
+## Functions for pulling stock datasets ##
+##########################################
 
 def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
     """
@@ -182,48 +266,6 @@ def fetch_url_df(ticker, start_date, end_date, form_type='8-k'):
 
     return doc_df
 
-# Functions for saving documents to disk
-
-def save_doc(url, endpoint):
-    """
-    Downloads and saves the text file stored at :param url:, and saves it as
-    its downloaded name in directory :param endpoint:.
-
-    :param url: string, the url that points to the SEC text file
-    :parame endpoint: string, path to location to save SEC filing
-
-    ---> String, path to saved document
-    """
-
-    if not os.path.isdir(endpoint):
-        os.makedirs(endpoint)
-    try:
-        r = requests.get(url)
-    except Exception as e:
-        raise Exception('error with url: {}'.format(url)) from e
-
-    fname = url.split('/')[-1]
-    with open(os.path.join(endpoint, fname), 'wb') as f:
-        f.write(r.content)
-    return os.path.join(endpoint, fname)
-
-def save_docs(json_list, endpoint):
-    """
-    Downloads and saves each link in the :param json_list: at :param endpoint as
-    a text file with the same name.
-
-    :param json_list: string, json formated string of a list of urls
-    :param endpoint: string, path to location to save SEC filings
-
-    ---> String, json formated string of a list of paths to saved filings
-    """
-
-    urls = json.loads(json_list)
-    paths = map(lambda url: save_doc(url, endpoint), urls)
-    return json.dumps(list(paths))
-
-# END Functions for saving documents to disk
-
 def fetch_ticker_data(path_to_data, ticker, source, form_types, start_date, end_date):
     """
     Fetches all the data necessary for a specific ticker.
@@ -254,62 +296,28 @@ def fetch_ticker_data(path_to_data, ticker, source, form_types, start_date, end_
         df[col] = df[col].map(lambda json_list: save_docs(json_list, os.path.join(path_to_data, 'documents', ticker)))
     return df
 
-def save_df(path_to_data, df, name='raw.csv'):
-    """
-    Writes pandas.DataFrame :param df: along with its meta data stored in
-    pandas.DataFrame.attrs to the directory pointed to by :param path_to_data:.
-    The meta data is stored as the JSON file meta.json.
-
-    :param path_to_data: string, path to directory to save the pandas.DataFrame
-                         to
-    :param df: pandas.DataFrame, pandas.DataFrame to save
-    :param name: string, name csv file to write pandas.DataFrame to
-
-    ---> None
-    """
-
-    df.to_csv(os.path.join(path_to_data, name), index=False)
-    with open(os.path.join(path_to_data, 'meta.json'), 'w') as f:
-        meta_data = df.attrs
-        try:
-            del meta_data['path_to_data']
-        except KeyError:
-            pass
-        json.dump(meta_data, f)
-
-def load_df(path_to_data, name='raw.csv'):
-    """
-    Loads a pandas.DataFrame stored in the directory pointed to by
-    :param path_to_data: along with its corresponding meta data stored in the
-    same directory in file meta.json.
-
-    :param path_to_data: string, path to directory where the pandas.DataFrame to
-                         be loaded is stored
-    :param name: string, name of the csv file to load the pandas.DataFrame from
-
-    ---> pandas.DataFrame, where pandas.DataFrame.attrs is loaded with the meta
-         data stored in the JSON file meta.json
-    """
-
-    df = pd.read_csv(os.path.join(path_to_data, name), parse_dates=['timestamp'])
-    with open(os.path.join(path_to_data, 'meta.json'), 'r') as f:
-        meta_data = json.load(f)
-        meta_data['path_to_data'] = path_to_data
-        df.attrs = meta_data
-    return df
-
 def fetch_data(path_to_data, tickers, source, form_types, start_date=None, end_date=None):
     """
-    Docstring
+    Fetchs data for the data for the list of stock tickers provided in :param tickers:
+    and downloads the SEC forms for each ticker listed in :param form_types:.
+    The end of day stock ticker data is sourced from the service specified in
+    :param source:, and you can specify the start date and end date for your
+    dataset by specifying :param start_date: and :param end_date: The dataset
+    is stored in the directory pointed to by :param path_to_data:, and the
+    dataset is returned as a pandas.DataFrame
 
-    :param path_to_data: string,
-    :param tickers: list of strings,
-    :param source: string,
-    :param form_types: string,
-    :param start_date: string,
-    :param end_date: string,
+    :param path_to_data: string, path to directory to store downloaded data in
+    :param tickers: list of strings, of the stock tickers to download data for
+    :param source: string, either 'alphavantage' or 'quandl' specifies the
+                   source for the end of day stock data to download
+    :param form_types: list of strings, of SEC form types to download for the
+                       given stock tickers
+    :param start_date: string, date to start collecting data at,
+                       format: YYYY-MM-DD
+    :param end_date: string, date to end collecting data at,
+                     format: YYYY-MM-DD
 
-    ---> pandas.DataFrame, 
+    ---> pandas.DataFrame, representing the dataset downloaded
     """
 
     if not os.path.isdir(path_to_data):
@@ -320,7 +328,6 @@ def fetch_data(path_to_data, tickers, source, form_types, start_date=None, end_d
     save_df(path_to_data, df)
     return df
 
-
-#####################################
-## END Functions for fetching data ##
-#####################################
+##############################################
+## END Functions for pulling stock datasets ##
+##############################################

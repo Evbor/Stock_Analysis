@@ -6,6 +6,7 @@ import pandas as pd
 from functools import reduce
 from stockanalysis.text_normalization_methods import normalize_document
 
+
 ###########################################################
 ## Functions for preprocessing dataset pandas.DataFrames ##
 ###########################################################
@@ -238,7 +239,7 @@ def encode_text_features(df, fname, tickers, vocab, encode_docs_fname):
                 text = tfile.read()
 
             # Encoding document
-            encoded_document = [vocab[word] for word in text.split()]
+            encoded_document = [vocab.get(word, 0) for word in text.split()]
 
             # Saving encoded document
             doc_name = '.'.join([os.path.splitext(doc_name)[0], 'pickle'])
@@ -409,29 +410,35 @@ def shuffle_dataset(dataset, seed):
 #############################
 
 # Preprocessing function used for default models
-def preprocess(df, tickers, cut_off, window_size, seed, **kwargs):
+def preprocess(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
     """
     Preprocesses data. This includes normalizing documents of the given stock
-    tickers. Generating a vocabulary json object representing the mapping
-    between unique words and their integer encodings for the corpus of
-    documents normalized. Encoding the normalized documents according to said
-    vocabulary. Calculating the adjusted logarithmic returns for each given
-    stock ticker.The data is segmented by stock tickker, then windowed into
-    the frame of :param window_size: + 1 day intervals. The last day is extracted
-    as the target variable for the preceding :param window_size: day interval.
-    A single document within each interval is uniformly selected to be the text
-    feature for the specific :param window_size: day interval. The data for each
-    stock ticker is then merged back togther to form a single dataset. The text
-    features of this dataset are then padded to the same length with 0 characters
-    and the dataset is shuffled.
+    tickers. If :param vocab: is None, then generating a vocabulary json object
+    representing the mapping between unique words and their integer encodings
+    for the corpus of documents normalized. Encoding the normalized documents
+    according to said vocabulary, or the vocabulary passed to :param vocab:.
+    Calculating the adjusted logarithmic returns for each given stock ticker.
+    The data is segmented by stock tickker, then windowed into the frame of
+    :param window_size: + 1 day intervals. The last day is extracted as the
+    target variable for the preceding :param window_size: day interval. A single
+    document within each interval is uniformly selected to be the text feature
+    for the specific :param window_size: day interval. The data for each stock
+    ticker is then merged back togther to form a single dataset. The text
+    features of this dataset are then padded to the same length with 0
+    characters and the dataset is shuffled.
 
     :param df: pandas.DataFrame used to house gathered data loaded with the
                datasets meta data
     :param tickers: list of strings of stock tickers to preprocess data for
     :param cut_off: int, the cut off word length used in our text normalization
                     process
+    :param vocab: dict, vocabulary to encode documents with
     :param window_size: int > 0, lag size in days for features to use
     :param seed: int, random seed to use for the preprocesing process
+    :params kwargs: norm_dirname, name of directory to save normalized text
+                    files to.
+                    encode_dirname, name of directory to save vocab encoded text
+                    files to.
 
     ---> ((features, labels), vocab), where features is a dict with keys for each
          feature, and values with length equal to the sample size of the
@@ -440,13 +447,16 @@ def preprocess(df, tickers, cut_off, window_size, seed, **kwargs):
          is the dict mapping integers to the words they represent.
     """
 
-    norm_fname = kwargs.get('norm_filename', 'norm')
-    encode_fname = kwargs.get('encode_filename', 'encode')
+    norm_fname = kwargs.get('norm_dirname', 'norm')
+    encode_fname = kwargs.get('encode_dirname', 'encode')
 
     df = normalize_text_features(df, '8-k', cut_off, tickers, norm_fname)
-    vocab_filename = 'vocab_8k_{}_{}.json'.format(norm_fname,'_'.join(tickers))
-    path_to_vocab = os.path.join(df.attrs['path_to_data'], vocab_filename)
-    vocab = build_vocabulary(df, '8-k', tickers, path_to_vocab)
+
+    if vocab == None:
+        vocab_filename = 'vocab_8k_{}_{}.json'.format(norm_fname,'_'.join(tickers))
+        path_to_vocab = os.path.join(df.attrs['path_to_data'], vocab_filename)
+        vocab = build_vocabulary(df, '8-k', tickers, path_to_vocab)
+
     df = encode_text_features(df, '8-k', tickers, vocab, encode_fname)
     df = calculate_log_returns(df, tickers, 'adjusted_close', 'log_adj_daily_returns')
     datasets = map(lambda t: extract_window_dataset(df, ['log_adj_daily_returns', '8-k'],
@@ -462,6 +472,102 @@ def preprocess(df, tickers, cut_off, window_size, seed, **kwargs):
 
     return dataset, vocab
 
+# If new model performs better refactor preprocess2 to become more efficient
+#  1) make the extract window dataset step have the correctly labeled feature names
+
+def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
+    """
+    Preprocesses data. This includes normalizing documents of the given stock
+    tickers. If :param vocab: is None, then generating a vocabulary json object
+    representing the mapping between unique words and their integer encodings
+    for the corpus of documents normalized. Encoding the normalized documents
+    according to said vocabulary, or the vocabulary passed to :param vocab:.
+    Calculating the adjusted logarithmic returns for each given stock ticker.
+    The data is segmented by stock tickker, then windowed into the frame of
+    :param window_size: + 1 day intervals. The last day is extracted as the
+    target variable for the preceding :param window_size: day interval. A single
+    document within each interval is uniformly selected to be the text feature
+    for the specific :param window_size: day interval. The data for each stock
+    ticker is then merged back togther to form a single dataset. The text
+    features of this dataset are then padded to the same length with 0
+    characters and the dataset is shuffled.
+
+    :param df: pandas.DataFrame used to house gathered data loaded with the
+               datasets meta data
+    :param tickers: list of strings of stock tickers to preprocess data for
+    :param cut_off: int, the cut off word length used in our text normalization
+                    process
+    :param vocab: dict, vocabulary to encode documents with
+    :param window_size: int > 0, lag size in days for features to use
+    :param seed: int, random seed to use for the preprocesing process
+    :params kwargs: norm_dirname, name of directory to save normalized text
+                    files to.
+                    encode_dirname, name of directory to save vocab encoded text
+                    files to.
+
+    ---> ((features, labels), vocab), where features is a dict with keys for each
+         feature, and values with length equal to the sample size of the
+         dataset. Similarly labels is a dict with keys for each target label
+         and values with length equal to the sample size of the dataset. Vocab
+         is the dict mapping integers to the words they represent.
+    """
+
+    norm_fname = kwargs.get('norm_dirname', 'norm')
+    encode_fname = kwargs.get('encode_dirname', 'encode')
+
+    df = normalize_text_features(df, '8-k', cut_off, tickers, norm_fname)
+
+    if vocab == None:
+        vocab_filename = 'vocab_8k_{}_{}.json'.format(norm_fname,'_'.join(tickers))
+        path_to_vocab = os.path.join(df.attrs['path_to_data'], vocab_filename)
+        vocab = build_vocabulary(df, '8-k', tickers, path_to_vocab)
+
+    df = encode_text_features(df, '8-k', tickers, vocab, encode_fname)
+    #df = calculate_log_returns(df, tickers, 'adjusted_close', 'log_adj_daily_returns')
+
+    datasets = map(lambda t: (t, extract_window_dataset(df, ['adjusted_close', '8-k'], ticker=t, n_trail=window_size-1)), tickers)
+    datasets = map(lambda el: (el[0], extract_labels(el[1], ['adjusted_close'])), datasets)
+    datasets = map(lambda el: (el[0], reshape_docs_feature(el[1], '8-k', seed)), datasets)
+    # Relabeling Datasets
+    def relabel_dict(d, tag):
+        new_d = dict(map(lambda a: ('_'.join([a[0], tag]), a[1]), d.items()))
+        return new_d
+    datasets = map(lambda el: (relabel_dict(el[1][0], el[0]), relabel_dict(el[1][1], el[0])), datasets)
+    # Merging Datasets
+    def merge_ds(ds1, ds2):
+        features = ds1[0]
+        labels = ds1[1]
+        features2 = ds2[0]
+        labels2 = ds2[1]
+        features.update(features2)
+        labels.update(labels2)
+        return (features, labels)
+    dataset = reduce(merge_ds, datasets)
+
+    '''
+    # Filter Dataset getting rid of samples with no 8-ks
+    def filter_ds(ds, fname, tickers):
+        features = ds[0]
+        labels = ds[1]
+        mask = []
+        for i in range(len(features['_'.join([fname, tickers[0]])])):
+            mask.append(any([(features['_'.join([fname, t])][i].shape[0] != 0) for t in tickers]))
+        features_filtered = {key: (value[mask, :] if key not in ['_'.join([fname, t]) for t in tickers]
+                                                  else [value[i] for i in range(len(mask)) if mask[i]])
+                             for key, value in features.items()}
+        labels_filtered = {key: value[mask] for key, value in labels.items()}
+        return features_filtered, labels_filtered
+    dataset = filter_ds(dataset, '8-k', tickers)
+    # Choosing only one 8-k feature from all 8-ks randomly
+    # See jupyter notebook for unmodularized code
+    '''
+
+    # Padding all document features
+    for t in tickers:
+        dataset = pad_dataset(dataset, '_'.join(['8-k', t]))
+    dataset = shuffle_dataset(dataset, seed)
+
+    return dataset, vocab
 #################################
 ## END Preprocessing functions ##
 #################################

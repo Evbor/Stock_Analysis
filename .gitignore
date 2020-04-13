@@ -137,7 +137,5 @@ data/documents/JPM/*
 data/documents/BAC/*
 data/documents/C/*
 data/documents/WFC/*
-data/dataset.pickle
-data/train_dataset.pickle
-data/test_dataset.pickle
+data/*.pickle
 *.odt

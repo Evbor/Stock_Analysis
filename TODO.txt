@@ -1,0 +1,12 @@
+1) refactor notebook with respect to package
+   a) Rework preprocess function and maybe preprocessing module. In order to 
+      CV we have to do time series splits as opposed to regular k-folds.
+      The preprocess function doesn't work when we have split the data df into
+      two data sets, because it does all the text preprocessing and encoding 
+      seperately. So the training set, and testing set will be encoded
+      according to different vocabularies which is a problem. The encoding 
+      scheme is time independent because ideally it would be the entire
+      dictionary. Need to be able to split up the preprocessing from the 
+      data windowing, filtering, etc.
+2) fix gpu + rerun analysis
+3) write README.md

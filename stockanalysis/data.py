@@ -25,7 +25,7 @@ def get_api_key(source):
     ---> String, api key for the the specific source :param source:
     """
 
-    path_to_keys = os.path.expanduser('~/.stockanalysis_keys.json')
+    path_to_keys = os.path.expanduser(os.path.join('~', '.stockanalysis', 'stockanalysis_keys.json'))
     with open(path_to_keys, 'r') as f:
         api_keys = json.load(f)
 

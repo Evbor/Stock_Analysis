@@ -8,21 +8,22 @@ import tensorflow as tf
 
 # Default Model Definitions
 
-def embedding_matrix(vocab, init):
-    """
-    Constructs the embedding matrix for specific init type for a pre initialized word embedding layer.
+def embedding_matrix(vocab, init, emb_name):
+    '''
+    Constructs the embedding matrix for specific init type for a pre-initialized word embedding layer.
 
     :param vocab: dict, a mapping between keys of words, and values of unique integer identifiers for each word
     :param init: string, initialization type currently we only support glove initialization
 
     ---> numpy array of size (vocab length, embedding dimension) mapping each word encoding to a vector
-    """
+    '''
 
     if init == 'glove':
-        glove_dir = 'research/model_v1/glove'
+        glove_dir = os.path.join('~', '.stockanalysis', 'model_resources', 'glove')
+        glove_dir = os.path.expanduser(glove_dir)
 
         try:
-            with open(os.path.join(glove_dir, 'current_embedding.pickle'), 'rb') as f:
+            with open(os.path.join(glove_dir, '{}.pickle'.format(emb_name)), 'rb') as f:
                 embedding_m = pickle.load(f)
 
         except FileNotFoundError:
@@ -44,7 +45,7 @@ def embedding_matrix(vocab, init):
                 if embedding_vector is not None:
                     embedding_m[i] = embedding_vector
             # Saving embedding matrix
-            with open(os.path.join(glove_dir, 'current_embedding.pickle'), 'wb') as f:
+            with open(os.path.join(glove_dir, '{}.pickle'.format(emb_name)), 'wb') as f:
                 pickle.dump(embedding_m, f)
 
     else:
@@ -52,12 +53,12 @@ def embedding_matrix(vocab, init):
 
     return embedding_m
 
-def Word_Embedding(vocab, init,
+def Word_Embedding(vocab, init, emb_name,
                    embeddings_initializer='uniform', embeddings_regularizer=None,
                    activity_regularizer=None, embeddings_constraint=None,
                    mask_zero=False, input_length=None, **kwargs):
 
-    """
+    '''
     Creates a keras embedding layer specifically designed to embed the words specified in :param vocab:
 
     :param vocab: dict, representing the mapping between the words in corpus (keys) and their unique integer
@@ -68,10 +69,10 @@ def Word_Embedding(vocab, init,
                  initializing the embedding layer with
 
     ---> tf.keras.layers.Embedding
-    """
+    '''
 
     if isinstance(init, str):
-        current_embedding_matrix = embedding_matrix(vocab, init)
+        current_embedding_matrix = embedding_matrix(vocab, init, emb_name)
         emb_layer = tf.keras.layers.Embedding(current_embedding_matrix.shape[0], current_embedding_matrix.shape[1],
                                               weights=[current_embedding_matrix], mask_zero=mask_zero,
                                               input_length=None, **kwargs)
@@ -86,33 +87,45 @@ def Word_Embedding(vocab, init,
 
     return emb_layer
 
-def document_embedder_model(vocab, doc_embedding_size=100):
+def document_embedder_model(vocab, emb_name, doc_embedding_size):
     input_doc = tf.keras.Input(shape=(None,), name='doc')
-    word_embedding = Word_Embedding(vocab, init='glove', mask_zero=True, trainable=False)(input_doc)
+    word_embedding = Word_Embedding(vocab, init='glove', emb_name=emb_name, mask_zero=False, trainable=False)(input_doc)
     document_embedding = tf.keras.layers.LSTM(doc_embedding_size)(word_embedding)
     model = tf.keras.Model(input_doc, document_embedding, name='document_embedder')
     return model
 
-def model_0(vocab, doc_embedding_size=100, lstm_layer_units=32,
+def model_0(vocab, lstm_layer_units=32, doc_embedding_size=100, emb_name='current_embedding',
             output_kernel_init=None, output_bias_init=None):
 
     if output_bias_init is not None:
         output_bias_init = tf.keras.initializers.Constant(output_bias_init)
 
-    inputs = {'log_adj_daily_returns': tf.keras.Input(shape=(5,), name='log_adj_daily_returns', dtype=tf.float32),
-              '8-k': tf.keras.Input(shape=(None,), name='8-k', dtype=tf.int64)}
+    inputs = {
+              'adjusted_close_WFC': tf.keras.Input(shape=(5,), name='adjusted_close_WFC', dtype=tf.float32),
+              '8-k_WFC': tf.keras.Input(shape=(None,), name='8-k_WFC', dtype=tf.int64),
+              'adjusted_close_JPM': tf.keras.Input(shape=(5,), name='adjusted_close_JPM', dtype=tf.float32),
+              '8-k_JPM': tf.keras.Input(shape=(None,), name='8-k_JPM', dtype=tf.int64),
+              'adjusted_close_BAC': tf.keras.Input(shape=(5,), name='adjusted_close_BAC', dtype=tf.float32),
+              '8-k_BAC': tf.keras.Input(shape=(None,), name='8-k_BAC', dtype=tf.int64),
+              'adjusted_close_C': tf.keras.Input(shape=(5,), name='adjusted_close_C', dtype=tf.float32),
+              '8-k_C': tf.keras.Input(shape=(None,), name='8-k_C', dtype=tf.int64),
+             }
 
-    doc_embeddings = document_embedder_model(vocab, doc_embedding_size)(inputs['8-k'])
+    doc_embedder = document_embedder_model(vocab, emb_name, doc_embedding_size)
+    document_embeddings = [doc_embedder(inputs[fname]) for fname in inputs.keys() if '8-k' in fname]
 
-    reshape_doc_embeddings = tf.keras.layers.Lambda(lambda x: tf.keras.backend.stack([x for i in range(5)], axis=1))(doc_embeddings)
-    reshape_price_features = tf.keras.layers.Lambda(lambda x: tf.keras.backend.expand_dims(x, axis=-1))(inputs['log_adj_daily_returns'])
-    time_series_input = tf.keras.layers.Concatenate()([reshape_doc_embeddings, reshape_price_features])
+    reshape_doc_embedding = tf.keras.layers.Lambda(lambda x: tf.keras.backend.stack([x for i in range(5)], axis=1))
+    reshaped_doc_embeddings = [reshape_doc_embedding(doc_embedding) for doc_embedding in document_embeddings]
+
+    reshape_price_feature = tf.keras.layers.Lambda(lambda x: tf.keras.backend.expand_dims(x, axis=-1))
+    reshaped_price_features = [reshape_price_feature(inputs[fname]) for fname in inputs.keys() if '8-k' not in fname]
+    time_series_input = tf.keras.layers.Concatenate()(reshaped_doc_embeddings + reshaped_price_features)
 
     time_series_lstm = tf.keras.layers.LSTM(lstm_layer_units)(time_series_input)
 
     output_layer = tf.keras.layers.Dense(units=1, kernel_initializer=output_kernel_init,
-                                         bias_initializer=output_bias_init, name='log_adj_daily_returns_target')
-    outputs = {'log_adj_daily_returns_target': output_layer(time_series_lstm)}
+                                         bias_initializer=output_bias_init, name='adjusted_close_target_WFC')
+    outputs = {'adjusted_close_target_WFC': output_layer(time_series_lstm)}
 
 
     model = tf.keras.Model(inputs, outputs, name='model_0')

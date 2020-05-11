@@ -30,7 +30,7 @@ def config(quandl, alphavantage):
 
     keys = {'alphavantage': alphavantage, 'quandl': quandl}
 
-    api_keys_file = os.path.expanduser('~/.stockanalysis_keys.json')
+    api_keys_file = os.path.expanduser(os.path.join('~', '.stockanalysis', 'stockanalysis_keys.json'))
     with open(api_keys_file, 'w') as f:
         json.dump(keys, f)
 

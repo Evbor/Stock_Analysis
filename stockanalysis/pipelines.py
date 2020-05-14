@@ -100,27 +100,51 @@ def pipeline(path_to_data, model_name, model_version, gpu_memory, tickers, seed)
     df = load_df(path_to_data)
 
     # Preprocessing Data
-    preprocess_params = {'tickers': tickers, 'cut_off': 18,
-                         'window_size': 5, 'seed': seed}
+    preprocess_params = {
+                         'tickers': tickers,
+                         'cut_off': 18,
+                         'window_size': 5,
+                         'seed': seed,
+                         'norm_dirname': 'norm_full'
+                         'encode_dirname': 'encode_full'
+                         }
 
-    (X, y), vocab = preprocess(df, **preprocess_params)
+    (X, y), vocab = preprocess2(df, **preprocess_params)
 
-    # Building model
-    LOSS = tf.keras.losses.MeanSquaredError()
-    OPTIMIZER = tf.keras.optimizers.Adam()
-    model_params = {'lstm_layer_units': 256, 'vocab': vocab,
-                    'doc_embedding_size': 200, 'output_bias_init': 0}
-    training_params = {'batch_size': 4, 'epochs': 2}
+    # Setting Model's Hyperparameters
+    output_bias_init = {key: y[key].mean() for key in y}
+    model_params = {
+                    'output_bias_init': output_bias_init,
+                    'vocab': vocab,
+                    'doc_embedding_size': 100,
+                    'lstm_layer_units': 32
+                    }
+    training_params = {
+                       'batch_size': 6,
+                       'epochs': 10,
+                       'callbacks': []
+                       }
+    loss = tf.keras.losses.MeanSquaredError
+    optimizer = tf.keras.optimizers.Adam
+    optimizer_params = {}
+
     model_version = 'final'
-    hyperparameters = {'model_parameters': model_params,
+    hyperparameters = {
+                       'model_parameters': model_params,
                        'training_parameters': training_params,
-                       'loss': LOSS, 'optimizer': OPTIMIZER,
-                       'version': model_version}
+                       'loss': loss,
+                       'optimizer': optimizer,
+                       'optimizer_parameters': optimizer_params,
+                       'version': model_version
+                       }
     metrics = []
-    run_number = 1
+    run_number = 0
 
-    model = train(model_0, hyperparameters, metrics,
-                  run_number, X, y, gpu_memory=gpu_memory, seed=seed)
+    # Configuring Virtual GPU and hardware
+    config_hardware(gpu_memory, seed)
+
+    # Building and Training Model
+    model = train(model_0, hyperparameters, metrics, run_number, X, y)
 
     model.save(os.path.join('models', model_name, str(model_version)))
 

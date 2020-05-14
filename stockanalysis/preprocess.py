@@ -6,6 +6,12 @@ import pandas as pd
 from functools import reduce
 from stockanalysis.text_normalization_methods import normalize_document
 
+# TODO:
+## 1) Get preprocess2 to return only WFC as labels
+## 2) Refactor preprocess2
+## 3) depricate preprocess and replace with preprocess2
+
+
 
 ###########################################################
 ## Functions for preprocessing dataset pandas.DataFrames ##
@@ -472,9 +478,6 @@ def preprocess(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
 
     return dataset, vocab
 
-# If new model performs better refactor preprocess2 to become more efficient
-#  1) make the extract window dataset step have the correctly labeled feature names
-
 def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
     """
     Preprocesses data. This includes normalizing documents of the given stock
@@ -523,7 +526,6 @@ def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
         vocab = build_vocabulary(df, '8-k', tickers, path_to_vocab)
 
     df = encode_text_features(df, '8-k', tickers, vocab, encode_fname)
-    #df = calculate_log_returns(df, tickers, 'adjusted_close', 'log_adj_daily_returns')
 
     datasets = map(lambda t: (t, extract_window_dataset(df, ['adjusted_close', '8-k'], ticker=t, n_trail=window_size-1)), tickers)
     datasets = map(lambda el: (el[0], extract_labels(el[1], ['adjusted_close'])), datasets)

@@ -1,4 +1,7 @@
 import os
+import re
+import copy
+import pickle
 import tensorflow as tf
 
 def config_hardware(gpu_memory, seed=None):
@@ -36,6 +39,18 @@ def config_hardware(gpu_memory, seed=None):
 
     return None
 
+def write_hparams(model_name, hparams, verbose=True):
+    version_number = hparams['version']
+    path = os.path.join('logs', 'models', model_name, '_'.join(['version', str(version_number)]))
+    if not os.path.exists(path):
+        os.makedirs(path)
+    with open(os.path.join(path, 'hparams.pickle'), 'wb') as f:
+        pickle.dump(hparams, f)
+    if verbose:
+        return print('Saved hyperparameters to file: {}'.format(path))
+    else:
+        return None
+
 def build_compiled_model(build_model, hparams, metrics, run_number):
     """
     Builds compiled model from build model function.
@@ -45,31 +60,36 @@ def build_compiled_model(build_model, hparams, metrics, run_number):
                     model defined by :param build_model:
     :param metrics: tensorflow.metrics, to compile the model with
     :param run_number: int, run number uniquely identifying the returned
-                       compiled model, used loading a model from a saved checkpoint
+                       compiled model, used loading a model from a saved
+                       checkpoint
 
     ---> tensorflow.keras.Model, that is compiled and ready to fit on a dataset
          or predict
     """
     model_name = build_model.__name__
     hparam_version = hparams['version']
-    loss = hparams['loss']
-    optimizer = hparams['optimizer']
+    loss = hparams['loss']()
+    optimizer = hparams['optimizer'](**hparams['optimizer_parameters'])
     model_parameters = hparams['model_parameters']
     model = build_model(**model_parameters)
-    path_to_ckpt = os.path.join('logs', 'models', model_name, '_'.join(['version', str(hparam_version)]),
-                               'runs', str(run_number), 'checkpoints')
-    if os.path.exists(path_to_ckpt):
-        latest = tf.train.latest_checkpoint(path_to_ckpt)
-        model.load_weights(latest)
-        print('Restored model from: {}'.format(latest))
+
+    ckpt_dir = os.path.join('logs', 'models', model_name,
+                            '_'.join(['version', str(hparam_version)]),
+                            'runs', str(run_number), 'checkpoints')
+    latest_ckpt = tf.train.latest_checkpoint(ckpt_dir)
+    if latest_ckpt:
+        initial_epoch = re.findall(r'cp-(\d+)\.ckpt', latest_ckpt)[0]
+        initial_epoch = int(initial_epoch) - 1
+        model.load_weights(latest_ckpt)
+        print('Restored model from: {}'.format(latest_ckpt))
+    else:
+        initial_epoch = 0
 
     model.compile(loss=loss, optimizer=optimizer, metrics=metrics)
 
-    return model
+    return model, initial_epoch
 
-
-
-def train(build_model, hparams, metrics, run_number, X, y, gpu_memory, seed):
+def train(build_model, hparams, metrics, run_number, X=None, y=None, validation_data=None, write_hyperparameters=False, checkpoint=False, log=False):
     """
     Builds and trains model defined by :build_model:
 
@@ -81,19 +101,65 @@ def train(build_model, hparams, metrics, run_number, X, y, gpu_memory, seed):
                        compiled model, used when loading a model from a
                        saved checkpoint
     :param X and y: dataset, where X are the features, and y are the labels to
-                    train models on
-    :param gpu_memory: int >= 0 or None, amount of GPU memory to allocate for
-                       training models
-    :param seed: int, random seed to define for training models
+                    train models on. See TensorFlow 2 Keras Model.fit
+                    documentation for compatibable object types
+    :param validation_data: dataset, to validated model on. See Tensorflow 2
+                            Keras Model.fit documentation for compatible object
+                            types
+    :param write_hyperparameters: bool, set to True to write
+                                  :param hyperparameters: to disk at
+                                  /logs/models/[MODEL NAME]/
+                                  version_[VERSION NUMBER]/:param run_number:/
+                                  hparams.pickle. Where [MODEL NAME] is the
+                                  name attribute of :param build_model: and
+                                  [VERSION NUMBER] is the version attribute of
+                                  the hyperparameters object.
+    :param checkpoint: bool, set to True to checkpoint the model during training
+                       at /logs/models/[MODEL NAME]/version_[VERSION NUMBER]/
+                       :param run_number:/checkpoints/
+    :param log: bool, set to True to log metrics and losses in a csv file
+                during training at /logs/models/[MODEL NAME]/
+                version_[VERSION NUMBER]/:param run_number:/history.log
 
     ---> tensorflow.keras.Model, tensorflow.keras.History, a tuple of the trained
          model, along with its training history
     """
 
-    config_hardware(gpu_memory, seed)
+    # Building Model
+    model, initial_epoch = build_compiled_model(build_model, hparams, metrics, run_number)
 
-    training_parameters = hparams['training_parameters']
-    model = build_compiled_model(build_model, hparams, metrics, run_number)
-    model_history = model.fit(X, y, **training_parameters)
+    # Unpacking model training parameters
+    ## Must deep copy the training parameters dictionary because otherwise var training_parameters is just pointer to
+    ## the 'training_parameters' location of the hyperparameters object. This makes hyperparameters mutable,
+    ## causing the hyperparameters to be locked during training because we add the mutable checkpointing callbacks
+    ## this makes hyperparameters unpickleable on further reruns in in the same session.
+    training_parameters = copy.deepcopy(hparams['training_parameters'])
+
+    assert initial_epoch != training_parameters['epochs'] - 1
+
+    # Setting up checkpointing callbacks
+    if checkpoint:
+        path_to_run = os.path.join('logs', 'models', build_model.__name__, '_'.join(['version', str(hparams['version'])]), 'runs', str(run_number))
+        path_to_ckpts = os.path.join(path_to_run, 'checkpoints')
+        if not os.path.exists(path_to_ckpts):
+            os.makedirs(path_to_ckpts)
+        cp_callback = tf.keras.callbacks.ModelCheckpoint(filepath=os.path.join(path_to_ckpts, 'cp-{epoch}.ckpt'), verbose=1, save_weights_only=True)
+        if 'callbacks' not in training_parameters:
+            training_parameters['callbacks'] = []
+        training_parameters['callbacks'].append(cp_callback)
+    if log:
+        path_to_run = os.path.join('logs', 'models', build_model.__name__, '_'.join(['version', str(hparams['version'])]), 'runs', str(run_number))
+        csv_logger = tf.keras.callbacks.CSVLogger(filename=os.path.join(path_to_run, 'history.log'), append=True)
+        if 'callbacks' not in training_parameters:
+            training_parameters['callbacks'] = []
+        training_parameters['callbacks'].append(csv_logger)
+
+    # Writing Hyperparameters
+    if write_hyperparameters:
+        # Saving Model's Hyperparameters
+        write_hparams(build_model.__name__, hparams)
+
+    # Training Model
+    model_history = model.fit(X, y, **training_parameters, initial_epoch=initial_epoch, validation_data=validation_data)
 
     return model, model_history

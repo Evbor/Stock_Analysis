@@ -1,2 +1,0 @@
-3) Fix GloVe vector downloads issue (should I put a check in config?, how to deal with having to install everytime building a docker image?, how to have it downloaded when using pip install?)
-4) write README.md, and documentationls

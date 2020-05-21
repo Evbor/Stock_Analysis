@@ -2,8 +2,8 @@ import pkgutil
 import os
 import json
 import click
-from stockanalysis import pipelines
-from stockanalysis.data import fetch_data
+
+from stockanalysis.data import fetch_data, download_file, unzip_file
 
 @click.group()
 def stockanalysis():
@@ -14,25 +14,75 @@ def stockanalysis():
 
 @stockanalysis.command()
 @click.option('--quandl', '-q', 'quandl', type=str,
-              prompt='Enter your API key for Quandl\'s data services' ,
               help='API key for Quandl\'s services')
 @click.option('--alpha', '-a', 'alphavantage', type=str,
-              prompt='Enter your API key for Alphavantage\'s data services',
               help='API key for Alphavantage\'s services')
-def config(quandl, alphavantage):
+@click.option('--glove', '-g', 'glove', type=click.Path(file_okay=False, writable=True),
+              help='path to directory storing pre-trained GloVe vectors file. If the value passed is "default" then the default path is used.')
+def config(quandl, alphavantage, glove):
     """
-    Configures API keys for stockanalysis tools.
+    Configures stockanalysis tools.
 
+    Can be used to configure the API keys for data scraping, as well as the
+    directory storing the pre-trained GloVe vectors file: glove840B.300d.txt.
+    For more information on GloVe see: nlp.stanford.edu/projects/glove/.
     API keys required by this tool are Quandl's and/or Alphavantage's. Either
     Quandl's or Alphavantage's services are used in order to access data to
     train models on.
     """
 
-    keys = {'alphavantage': alphavantage, 'quandl': quandl}
+    # Loading config file if it exists
+    config_dir = os.path.join('~', '.stockanalysis')
 
-    api_keys_file = os.path.expanduser(os.path.join('~', '.stockanalysis', 'stockanalysis_keys.json'))
-    with open(api_keys_file, 'w') as f:
-        json.dump(keys, f)
+    try:
+        with open(os.path.expanduser(os.path.join(config_dir, 'config.json')), 'r') as f:
+            configuration = json.load(f)
+    except FileNotFoundError:
+        if not os.path.isdir(os.path.expanduser(config_dir)):
+            os.makedirs(config_dir)
+        configuration = {}
+
+    api_keys = configuration.get('API_Keys', {})
+    model_resources = configuration.get('Model_Resources', {})
+
+    # Modifying keys
+    if quandl:
+        api_keys['quandl'] = quandl
+    if alphavantage:
+        api_keys['alphavantage'] = alphavantage
+
+    # Modifying GloVe path if it exists else
+    if not glove:
+        glove = model_resources.get('glove',
+                                    os.path.join(config_dir,
+                                                 'model_resources', 'glove'))
+    elif glove == 'default':
+        glove = os.path.join(config_dir, 'model_resources', 'glove')
+
+    model_resources['glove'] = glove
+
+    # Writing Configuration File
+    new_configuration = {
+                         'API_Keys': api_keys,
+                         'Model_Resources': model_resources
+                         }
+
+    with open(os.path.expanduser(os.path.join(config_dir, 'config.json')), 'w') as f:
+        json.dump(new_configuration, f)
+
+    # Testing if GloVe files exist and downloading it if it doesn't
+    if not os.path.isfile(os.path.expanduser(os.path.join(glove, 'glove.840B.300d.txt'))):
+        if click.confirm('Pre-trained GloVe vectors file not found. This file is required by some of the modeling process and is about 3 GB in size. Do you want to download the file now?'):
+            if not os.path.isdir(os.path.expanduser(glove)):
+                os.makedirs(glove)
+            click.echo('Installing {} to location {}'.format('glove840B.300d.txt', glove))
+            url = 'http://nlp.stanford.edu/data/'
+            zipfile = 'glove.840B.300d.zip'
+            click.echo('Downloading {}'.format(zipfile))
+            zipfile_path = download_file(url + zipfile, os.path.join(glove, zipfile))
+            click.echo('Unzipping file')
+            unzip_file(zipfile_path)
+            os.remove(zipfile_path)
 
 @stockanalysis.command()
 @click.argument('path', type=click.Path(), nargs=1)
@@ -76,6 +126,8 @@ def run_pipeline(path, modelname, modelversion, custom, gpu_memory):
     in the file given as its argument. For more information on implementing
     custom pipelines see: (link)
     """
+
+    from stockanalysis import pipelines
 
     if custom:
         click.echo('custom pipeline was triggered')
@@ -123,6 +175,8 @@ def create_models(path, modelname, modelversion, custom, gpu_memory, tickers, so
     dataset, then the default dataset required by the default machine learning
     pipeline is pulled.
     """
+
+    from stockanalysis import pipelines
 
     fetch_data(path, tickers, source, form_types)
 

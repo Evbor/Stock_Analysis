@@ -6,12 +6,12 @@ import pandas as pd
 from functools import reduce
 from stockanalysis.text_normalization_methods import normalize_document
 
-# TODO:
-## 1) Get preprocess2 to return only WFC as labels
-## 2) Refactor preprocess2
-## 3) depricate preprocess and replace with preprocess2
-
-
+## TODO:
+# 1) Refactor new preprocessing function
+#    a) Must be able to work if I abort process and it is in the middle of
+#       appending to the vocab file, it seems instead of creating a new vocab
+#       file it just keeps appending to the old existing ones...
+#    b) Make more efficient
 
 ###########################################################
 ## Functions for preprocessing dataset pandas.DataFrames ##
@@ -416,7 +416,7 @@ def shuffle_dataset(dataset, seed):
 #############################
 
 # Preprocessing function used for default models
-def preprocess(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
+def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
     """
     Preprocesses data. This includes normalizing documents of the given stock
     tickers. If :param vocab: is None, then generating a vocabulary json object
@@ -478,7 +478,7 @@ def preprocess(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
 
     return dataset, vocab
 
-def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
+def preprocess(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
     """
     Preprocesses data. This includes normalizing documents of the given stock
     tickers. If :param vocab: is None, then generating a vocabulary json object
@@ -497,7 +497,7 @@ def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
 
     :param df: pandas.DataFrame used to house gathered data loaded with the
                datasets meta data
-    :param tickers: list of strings of stock tickers to preprocess data for
+    :param tickers: list, of strings of stock tickers to preprocess data for
     :param cut_off: int, the cut off word length used in our text normalization
                     process
     :param vocab: dict, vocabulary to encode documents with
@@ -530,11 +530,13 @@ def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
     datasets = map(lambda t: (t, extract_window_dataset(df, ['adjusted_close', '8-k'], ticker=t, n_trail=window_size-1)), tickers)
     datasets = map(lambda el: (el[0], extract_labels(el[1], ['adjusted_close'])), datasets)
     datasets = map(lambda el: (el[0], reshape_docs_feature(el[1], '8-k', seed)), datasets)
+
     # Relabeling Datasets
     def relabel_dict(d, tag):
         new_d = dict(map(lambda a: ('_'.join([a[0], tag]), a[1]), d.items()))
         return new_d
     datasets = map(lambda el: (relabel_dict(el[1][0], el[0]), relabel_dict(el[1][1], el[0])), datasets)
+
     # Merging Datasets
     def merge_ds(ds1, ds2):
         features = ds1[0]
@@ -545,24 +547,6 @@ def preprocess2(df, tickers, cut_off, vocab, window_size, seed, **kwargs):
         labels.update(labels2)
         return (features, labels)
     dataset = reduce(merge_ds, datasets)
-
-    '''
-    # Filter Dataset getting rid of samples with no 8-ks
-    def filter_ds(ds, fname, tickers):
-        features = ds[0]
-        labels = ds[1]
-        mask = []
-        for i in range(len(features['_'.join([fname, tickers[0]])])):
-            mask.append(any([(features['_'.join([fname, t])][i].shape[0] != 0) for t in tickers]))
-        features_filtered = {key: (value[mask, :] if key not in ['_'.join([fname, t]) for t in tickers]
-                                                  else [value[i] for i in range(len(mask)) if mask[i]])
-                             for key, value in features.items()}
-        labels_filtered = {key: value[mask] for key, value in labels.items()}
-        return features_filtered, labels_filtered
-    dataset = filter_ds(dataset, '8-k', tickers)
-    # Choosing only one 8-k feature from all 8-ks randomly
-    # See jupyter notebook for unmodularized code
-    '''
 
     # Padding all document features
     for t in tickers:

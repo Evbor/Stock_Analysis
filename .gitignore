@@ -124,12 +124,9 @@ dmypy.json
 .pyre/
 
 # Custom
+random_code.py
 requirements_jupyter.txt
-research/model_v1/glove/glove.840B.300d.txt
-research/model_v1/glove.840B.300d.zip
-research/model_v1/logs/
-research/model_v1/api_keys.json
-data/doc_dfs/
+research/*
 data/documents/doc_1_test/
 data/*.json
 data/documents/INTC/*

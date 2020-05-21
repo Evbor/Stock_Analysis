@@ -3,18 +3,57 @@ import io
 import re
 import lxml
 import json
+import zipfile
 import requests
 import numpy as np
 import pandas as pd
 
 from datetime import date
 from functools import reduce
+from click import progressbar
 from bs4 import BeautifulSoup
 
 
 ######################
 ## Helper functions ##
 ######################
+
+def download_file(url, local_file, chunk_size=512*1024):
+    """
+    Downloads a file from :param url: and saves file as :param local_file:.
+
+    :param url: string, url to file to download
+    :param local_file: string, path to store the downloaded file.
+    :param chunk_size: int, number of bytes, a chunk of the downloading file
+                       should take up.
+
+    ---> string, file path to the downloaded file
+    """
+
+    with requests.get(url, stream=True) as r:
+        r.raise_for_status()
+        with open(local_file, 'wb') as f:
+            with progressbar(length=int(r.headers['Content-Length']),
+                             label='Downloading') as bar:
+                for chunk in r.iter_content(chunk_size=chunk_size):
+                    if chunk:
+                        f.write(chunk)
+                        bar.update(chunk_size)
+    return local_file
+
+def unzip_file(zip_file):
+    """
+    Extracts zip file located at :param zip_file: to the same directory.
+
+    :param zip_file: string, path to file to unzip.
+
+    ---> string, path to directory where the unzip contents is stored.
+    """
+
+    dir, file = os.path.split(zip_file)
+    with zipfile.ZipFile(zip_file, 'r') as zip_ref:
+        zip_ref.extractall(dir)
+    return dir
 
 def get_api_key(source):
     """
@@ -25,9 +64,10 @@ def get_api_key(source):
     ---> String, api key for the the specific source :param source:
     """
 
-    path_to_keys = os.path.expanduser(os.path.join('~', '.stockanalysis', 'stockanalysis_keys.json'))
-    with open(path_to_keys, 'r') as f:
-        api_keys = json.load(f)
+    config_path = os.path.expanduser(os.path.join('~', '.stockanalysis', 'config.json'))
+    with open(config_path, 'r') as f:
+        configuration = json.load(f)
+    api_keys = configuration['API_Keys']
 
     return api_keys[source]
 

@@ -1,4 +1,2 @@
-1) Refactor Train function of stockanalysis package
-2) Refactor all notebooks to include tools from stockanalysis package
 3) Fix GloVe vector downloads issue (should I put a check in config?, how to deal with having to install everytime building a docker image?, how to have it downloaded when using pip install?)
-4) write README.md, and documentation
+4) write README.md, and documentationls

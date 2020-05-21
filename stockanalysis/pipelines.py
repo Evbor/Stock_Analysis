@@ -2,8 +2,8 @@ import os
 import json
 import tensorflow as tf
 from stockanalysis.data import load_df
-from stockanalysis.train import train
-from stockanalysis.models import model_0
+from stockanalysis.train import train, config_hardware
+from stockanalysis.models import baseline_model
 from stockanalysis.preprocess import preprocess
 
 ########################################
@@ -104,20 +104,22 @@ def pipeline(path_to_data, model_name, model_version, gpu_memory, tickers, seed)
                          'tickers': tickers,
                          'cut_off': 18,
                          'window_size': 5,
+                         'vocab': None,
                          'seed': seed,
-                         'norm_dirname': 'norm_full'
+                         'norm_dirname': 'norm_full',
                          'encode_dirname': 'encode_full'
                          }
 
-    (X, y), vocab = preprocess2(df, **preprocess_params)
+    print('Preprocessing Data')
+    (X, y), vocab = preprocess(df, **preprocess_params)
 
     # Setting Model's Hyperparameters
     output_bias_init = {key: y[key].mean() for key in y}
     model_params = {
                     'output_bias_init': output_bias_init,
-                    'vocab': vocab,
-                    'doc_embedding_size': 100,
-                    'lstm_layer_units': 32
+                    #'vocab': vocab,
+                    #'doc_embedding_size': 100,
+                    #'lstm_layer_units': 32
                     }
     training_params = {
                        'batch_size': 6,
@@ -144,8 +146,9 @@ def pipeline(path_to_data, model_name, model_version, gpu_memory, tickers, seed)
     config_hardware(gpu_memory, seed)
 
     # Building and Training Model
-    model = train(model_0, hyperparameters, metrics, run_number, X, y)
+    model, model_history = train(baseline_model, hyperparameters, metrics, run_number, X, y)
 
+    # Saving Trained Model
     model.save(os.path.join('models', model_name, str(model_version)))
 
 ############################################

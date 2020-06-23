@@ -6,9 +6,12 @@ with open('README.md', 'r') as f:
 setuptools.setup(
     name='stockanalysis',
     version='0.1.0',
-    author='dfadf',
-    author_email='adsfad',
-    description='blaah ',
+    author='Evbor',
+    author_email='',
+    description=('A package for analyzing stock price time-series. '
+                 'Contains a CLI tool for downloading End of Day US stock data '
+                 'and SEC filings. As well as a pre-configured ML pipeline '
+                 'to train and validate ML models of stock price time-series.'),
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/Evbor/Stock_Analysis',

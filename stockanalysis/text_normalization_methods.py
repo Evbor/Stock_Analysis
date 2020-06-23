@@ -1,7 +1,15 @@
 import re
 import lxml
 import unicodedata
-import en_core_web_sm
+try:
+    import en_core_web_sm
+except ModuleNotFoundError:
+    import sys
+    from spacy.cli import download
+    print('Downloading language model for spaCy parser and ner tagger \n (don\'t worry, this will only happen once)',
+           file=sys.stderr)
+    download('en_core_web_sm')
+    import en_core_web_sm
 
 from bs4 import BeautifulSoup
 

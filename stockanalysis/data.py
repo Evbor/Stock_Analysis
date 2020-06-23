@@ -13,10 +13,12 @@ from functools import reduce
 from click import progressbar
 from bs4 import BeautifulSoup
 
-
 ######################
 ## Helper functions ##
 ######################
+
+def get_feature_names(df):
+    return set(df.columns)
 
 def download_file(url, local_file, chunk_size=512*1024):
     """
@@ -71,7 +73,7 @@ def get_api_key(source):
 
     return api_keys[source]
 
-def save_df(path_to_data, df, name='raw.csv'):
+def write_data(path_to_data, df, name='raw.csv'):
     """
     Writes pandas.DataFrame :param df: along with its meta data stored in
     pandas.DataFrame.attrs to the directory pointed to by :param path_to_data:.
@@ -86,15 +88,8 @@ def save_df(path_to_data, df, name='raw.csv'):
     """
 
     df.to_csv(os.path.join(path_to_data, name), index=False)
-    with open(os.path.join(path_to_data, 'meta.json'), 'w') as f:
-        meta_data = df.attrs
-        try:
-            del meta_data['path_to_data']
-        except KeyError:
-            pass
-        json.dump(meta_data, f)
 
-def load_df(path_to_data, name='raw.csv'):
+def load_data(path_to_data, name='raw.csv'):
     """
     Loads a pandas.DataFrame stored in the directory pointed to by
     :param path_to_data: along with its corresponding meta data stored in the
@@ -109,10 +104,7 @@ def load_df(path_to_data, name='raw.csv'):
     """
 
     df = pd.read_csv(os.path.join(path_to_data, name), parse_dates=['timestamp'])
-    with open(os.path.join(path_to_data, 'meta.json'), 'r') as f:
-        meta_data = json.load(f)
-        meta_data['path_to_data'] = path_to_data
-        df.attrs = meta_data
+
     return df
 
 def save_doc(url, endpoint):
@@ -130,6 +122,7 @@ def save_doc(url, endpoint):
         os.makedirs(endpoint)
     try:
         r = requests.get(url)
+        r.raise_for_status()
     except Exception as e:
         raise Exception('error with url: {}'.format(url)) from e
 
@@ -161,6 +154,7 @@ def save_docs(json_list, endpoint):
 ##########################################
 ## Functions for pulling stock datasets ##
 ##########################################
+
 
 def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
     """
@@ -197,8 +191,9 @@ def fetch_stock_data(ticker, start_date, end_date, source='alphavantage'):
     # Settings API parameters
     params = source_params[source]
 
-    # Requesting API
+    # Requesting API check if I downloaded fully
     response = requests.get(url, params=params)
+    response.raise_for_status()
 
     # Creating DataFrame
     if source == 'alphavantage':
@@ -336,7 +331,8 @@ def fetch_ticker_data(path_to_data, ticker, source, form_types, start_date, end_
         df[col] = df[col].map(lambda json_list: save_docs(json_list, os.path.join(path_to_data, 'documents', ticker)))
     return df
 
-def fetch_data(path_to_data, tickers, source, form_types, start_date=None, end_date=None):
+def fetch_data(path_to_data, tickers, source, form_types, start_date=None,
+               end_date=None):
     """
     Fetchs data for the data for the list of stock tickers provided in :param tickers:
     and downloads the SEC forms for each ticker listed in :param form_types:.
@@ -364,8 +360,7 @@ def fetch_data(path_to_data, tickers, source, form_types, start_date=None, end_d
         os.makedirs(path_to_data)
     data_dfs = map(lambda t: fetch_ticker_data(path_to_data, t, source, form_types, start_date, end_date), tickers)
     df = reduce(lambda x, y: pd.merge(x, y, how='outer', on='timestamp'), data_dfs)
-    df.attrs = {'tickers': tickers, 'source': source, 'form_types': form_types}
-    save_df(path_to_data, df)
+    write_data(path_to_data, df)
     return df
 
 ##############################################

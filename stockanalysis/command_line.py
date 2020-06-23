@@ -1,14 +1,13 @@
 import pkgutil
+import click
 import os
 import json
-import click
-
-from stockanalysis.data import fetch_data, download_file, unzip_file
+import pickle
 
 @click.group()
 def stockanalysis():
     """
-    A package of tools for building statistical models of stock prices.
+    A package of tools for building machine learning models of stock prices.
     """
     pass
 
@@ -30,6 +29,8 @@ def config(quandl, alphavantage, glove):
     Quandl's or Alphavantage's services are used in order to access data to
     train models on.
     """
+
+    from stockanalysis.data import download_file, unzip_file
 
     # Loading config file if it exists
     config_dir = os.path.join('~', '.stockanalysis')
@@ -97,96 +98,38 @@ def config(quandl, alphavantage, glove):
               multiple=True)
 def pull_data(path, tickers, source, form_types):
     """
-    Pulls data for training statistical models on.
+    Pulls data for training models on.
 
     Pulls end of day stock data and optionally SEC forms, for the
     given stock [TICKERS] and stores this data in the file pointed to by PATH.
     For more information about the data storage structure see: (link)
     """
 
+    from stockanalysis.data import fetch_data
+
     fetch_data(path, tickers, source, form_types)
 
 @stockanalysis.command()
-@click.argument('path', type=click.Path(exists=True, file_okay=False, writable=True), nargs=1)
-@click.argument('modelname', type=str, nargs=1)
-@click.argument('modelversion', type=click.IntRange(min=0, max=None, clamp=False), nargs=1)
-@click.option('--custom', type=click.File('r'), nargs=1,
-              help='A json file defining parameter values for the custom pipeline\'s parameters')
-@click.option('--gpu_memory', '-g', 'gpu_memory', type=int,
+@click.argument('path_to_data', type=click.Path(), nargs=1)
+@click.argument('path_to_metadata', type=click.Path(), nargs=1)
+@click.argument('path_to_models', type=click.Path(), nargs=1)
+@click.option('--gpu_memory', '-g', 'gpu_memory', type=int, default=0,
               help='GPU memory to allocate for training the model')
-def run_pipeline(path, modelname, modelversion, custom, gpu_memory):
+def pipeline(path_to_data, path_to_metadata, path_to_models, gpu_memory):
     """
-    Runs ML pipelines to build statistical models.
+    Runs ML pipeline to build machine learning models.
 
-    Runs a machine learning pipeline that trains a model on the dataset pointed
-    to by [PATH]. The trained model is saved in a directory called models with
-    [MODELNAME] and [MODELVERSION] number. If the custom option is not set
-    then the default machine learning pipeline is run with its default
-    configuration. Else the custom pipeline is run with its configuration defined
-    in the file given as its argument. For more information on implementing
-    custom pipelines see: (link)
-    """
-
-    from stockanalysis import pipelines
-
-    if custom:
-        click.echo('custom pipeline was triggered')
-        custom_flag = True
-        params = json.load(custom)
-    else:
-        click.echo('default pipeline was triggered')
-        custom_flag = False
-        default_config_file = pkgutil.get_data(__name__, 'default_config.json')
-        params = json.loads(default_config_file)
-    pipelines.run_pipelines(path, modelname, modelversion, gpu_memory, custom_flag, **params)
-
-@stockanalysis.command()
-@click.argument('path', type=click.Path(), nargs=1)
-@click.argument('modelname', type=str, nargs=1)
-@click.argument('modelversion', type=click.IntRange(min=0, max=None, clamp=False), nargs=1)
-@click.option('--custom', type=click.File('r'), nargs=1,
-              help='A json file defining parameter values for the custom pipeline\'s parameters')
-@click.option('--gpu_memory', '-g', 'gpu_memory', type=int,
-              help='GPU memory to allocate for training the model.')
-@click.option('--ticker', '-t', 'tickers', type=str,
-              default=['WFC', 'JPM', 'BAC', 'C'],
-              help='Stock tickers to train model on.', multiple=True)
-@click.option('--source', '-s', 'source',
-              type=click.Choice(['quandl', 'alphavantage'], case_sensitive=True),
-              default='alphavantage',
-              help='Service used to source end of day stock ticker data')
-@click.option('--form_type', '-f', 'form_types',
-              type=click.Choice(['8-k', '10-k', '10'], case_sensitive=True),
-              default=['8-k'],
-              help='SEC form type to download for the given stock tickers',
-              multiple=True)
-def create_models(path, modelname, modelversion, custom, gpu_memory, tickers, source, form_types):
-    """
-    Creates models by pulling data and running a ML pipeline.
-
-    Creates a statistical model by pulling the necessary data into a directory
-    pointed to by [PATH]. Then running a machine learning pipeline which saves
-    the trained model in a directory called models with [MODELNAME] and
-    [MODELVERSION] number. If the custom option is not set then the default
-    machine learning pipeline is run with its default configuration. Else the
-    custom pipeline is run with its configuration defined in the file given as
-    its argument. The dataset pulled is specified by providing the ticker,
-    source, and form_type options. If no options are provided to specify the
-    dataset, then the default dataset required by the default machine learning
-    pipeline is pulled.
+    Runs a machine learning pipeline that trains a model. The data consumed by
+    models will be stored in the directory pointed to by [PATH_TO_DATA]. While
+    meta-data produced by the pipeline will be stored in the directory pointed
+    to by [PATH_TO_METADATA]. Models produced by the pipeline will be stored in
+    the directory pointed to by [PATH_TO_MODELS]. The model deployed by the
+    pipeline exists at path: [PATH_TO_MODELS]/deployed_model. For more
+    information regarding the current deployed pipeline see: (link)
     """
 
-    from stockanalysis import pipelines
+    import stockanalysis.pipelines as p
 
-    fetch_data(path, tickers, source, form_types)
-
-    if custom:
-        click.echo('custom pipeline was triggered')
-        custom_flag = True
-        params = json.load(custom)
-    else:
-        click.echo('default pipeline was triggered')
-        custom_flag = False
-        default_config_file = pkgutil.get_data(__name__, 'default_config.json')
-        params = json.loads(default_config_file)
-    pipelines.run_pipelines(path, modelname, modelversion, gpu_memory, custom_flag, **params)
+    default_config_file = pkgutil.get_data(__name__, 'default_config.pickle')
+    config = pickle.loads(default_config_file)
+    p.pipeline(path_to_metadata, path_to_data, path_to_models, gpu_memory, config)

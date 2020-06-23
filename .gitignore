@@ -124,15 +124,10 @@ dmypy.json
 .pyre/
 
 # Custom
-random_code.py
-requirements_jupyter.txt
-data/documents/doc_1_test/
+stockanalysis_private/*
 research/*
-data/*.json
-data/documents/INTC/*
-data/documents/JPM/*
-data/documents/BAC/*
-data/documents/C/*
-data/documents/WFC/*
-data/*.pickle
+data/*
+TODO.txt
 *.odt
+*.pdf
+random_code.py

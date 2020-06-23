@@ -1,27 +1,38 @@
-from distutils.core import setup
+import setuptools
 
-setup(
-    name="stockanalysis",
-    version="0.1",
-    description="Stock Analysis Tool",
-    long_description="predicts daily stock returns from previous week's stock returns and 8-k form",
+with open('README.md', 'r') as f:
+    long_description = f.read()
+
+setuptools.setup(
+    name='stockanalysis',
+    version='0.1.0',
+    author='dfadf',
+    author_email='adsfad',
+    description='blaah ',
+    long_description=long_description,
+    long_description_content_type='text/markdown',
+    url='https://github.com/Evbor/Stock_Analysis',
+    packages=['stockanalysis'],
     classifiers=[
-        "Programming Language :: Python :: 3",
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: POSIX :: Linux',
     ],
-    url="https://github.com/Evbor/FinTech",
     install_requires=[
-        "click>=7.0"
+        'tensorflow>=2.2.0',
+        'pandas>=1.0.4',
+        'requests>=2.23.0',
+        'lxml>=4.5.1',
+        'beautifulsoup4 >= 4.9.1',
+        'click>=7.1.2',
+        'spacy>=2.2.4,<3.0.0'
     ],
-    include_package_data=True,
-    author="Evbor",
-    author_email="",
-    packages=["stockanalysis"],
+    python_requires='>=3',
+    package_data={
+        'stockanalysis': ['default_config.pickle']
+    },
     entry_points='''
         [console_scripts]
         stockanalysis=stockanalysis.command_line:stockanalysis
     '''
 )
-
-#        run_pipeline=stockanalysis.command_line:run_pipeline
-#        pull_data=stockanalysis.command_line:pull_data
-#        pr=stockanalysis.command_line:pr

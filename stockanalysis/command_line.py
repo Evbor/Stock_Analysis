@@ -115,7 +115,7 @@ def pull_data(path, tickers, source, form_types):
 @click.argument('path_to_models', type=click.Path(), nargs=1)
 @click.option('--gpu_memory', '-g', 'gpu_memory', type=int, default=0,
               help='GPU memory to allocate for training the model')
-def pipeline(path_to_data, path_to_metadata, path_to_models, gpu_memory):
+def run_pipeline(path_to_data, path_to_metadata, path_to_models, gpu_memory):
     """
     Runs ML pipeline to build machine learning models.
 
@@ -128,8 +128,20 @@ def pipeline(path_to_data, path_to_metadata, path_to_models, gpu_memory):
     information regarding the current deployed pipeline see: (link)
     """
 
-    import stockanalysis.pipelines as p
+    import time
+    import schedule
+    from stockanalysis.pipelines import pipeline
 
     default_config_file = pkgutil.get_data(__name__, 'default_config.pickle')
     config = pickle.loads(default_config_file)
-    p.pipeline(path_to_metadata, path_to_data, path_to_models, gpu_memory, config)
+
+    def job():
+        print('running pipeline')
+        pipeline(path_to_metadata, path_to_data, path_to_models,
+                 gpu_memory, config)
+
+    schedule.every().minute.do(job)
+
+    while True:
+        schedule.run_pending()
+        time.sleep(1)

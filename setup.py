@@ -28,6 +28,7 @@ setuptools.setup(
         'lxml>=4.5.1',
         'beautifulsoup4 >= 4.9.1',
         'click>=7.1.2',
+        'schedule>=0.6.0',
         'spacy>=2.2.4,<3.0.0'
     ],
     python_requires='>=3',

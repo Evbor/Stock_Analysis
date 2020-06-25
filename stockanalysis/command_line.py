@@ -135,13 +135,11 @@ def run_pipeline(path_to_data, path_to_metadata, path_to_models, gpu_memory):
     default_config_file = pkgutil.get_data(__name__, 'default_config.pickle')
     config = pickle.loads(default_config_file)
 
-    def job():
-        print('running pipeline')
-        pipeline(path_to_metadata, path_to_data, path_to_models,
-                 gpu_memory, config)
-
-    schedule.every().minute.do(job)
-
+    schedule.every().saturday.do(pipeline,
+                                 path_to_metadata=path_to_metadata,
+                                 path_to_data=path_to_data,
+                                 path_to_models=path_to_models,
+                                 gpu_memory=gpu_memory, config=config).run()
     while True:
         schedule.run_pending()
         time.sleep(1)

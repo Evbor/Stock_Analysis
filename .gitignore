@@ -129,6 +129,7 @@ research/*
 data/*
 TODO.txt
 Dockerfile
+.dockerignore
 *.odt
 *.pdf
 random_code.py

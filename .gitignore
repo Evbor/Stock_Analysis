@@ -130,6 +130,7 @@ data/*
 TODO.txt
 Dockerfile
 .dockerignore
+docker-compose.yml
 *.odt
 *.pdf
 random_code.py

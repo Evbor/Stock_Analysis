@@ -48,12 +48,14 @@ class MetaDataStore:
             with open(os.path.join(self.path, 'config.pickle'), 'wb') as f:
                 pickle.dump(pipeline_config, f)
             # Cleaning up already existing paths to data and models
-            if os.path.isdir(path_to_data):
+            if os.path.isdir(path_to_data) and (len(os.listdir(path_to_data)) > 0):
                 shutil.rmtree(path_to_data)
-            if os.path.isdir(path_to_models):
+            if os.path.isdir(path_to_models) and (len(os.listdir(path_to_models)) > 0):
                 shutil.rmtree(path_to_models)
-            os.makedirs(path_to_data)
-            os.makedirs(path_to_models)
+            if not os.path.isdir(path_to_data):
+                os.makedirs(path_to_data)
+            if not os.path.isdir(path_to_models):
+                os.makedirs(path_to_models)
         run_meta_file = os.path.join(self.path, self.run_meta_fname.format(0))
         if not os.path.isfile(run_meta_file):
             with open(run_meta_file, 'w') as f:

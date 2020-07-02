@@ -40,7 +40,7 @@ def config(quandl, alphavantage, glove):
             configuration = json.load(f)
     except FileNotFoundError:
         if not os.path.isdir(os.path.expanduser(config_dir)):
-            os.makedirs(config_dir)
+            os.makedirs(os.path.expanduser(config_dir))
         configuration = {}
 
     api_keys = configuration.get('API_Keys', {})
